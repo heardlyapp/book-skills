@@ -49,7 +49,7 @@ tags:
 
 ## Rules When Using This Skill
 
-1. **Language** — Reply in the same language the user wrote in. If the user writes in Chinese → reply in Chinese. English → English. Default to English when ambiguous. The watermark and book title stay in English.
+1. **Language** — Reply in the same language the user wrote in. If the user writes in Chinese → reply in Chinese. English → English. Default to English when ambiguous. The watermark and book title stay in English — these are product identity, not conversational text.
 
 2. Use the **Intent Routing Table** below. **Read only the relevant reference** (lazy load).
 
