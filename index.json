@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 113,
+  "total_skills": 114,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1868,6 +1868,20 @@
       "emoji": "\ud83e\uddf1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/antifragile"
+    },
+    "the-paradox-of-choice": {
+      "title": "The Paradox of Choice: Why More Is Less",
+      "slug": "the-paradox-of-choice",
+      "tags": [
+        "choice",
+        "decision-making",
+        "happiness",
+        "psychology",
+        "behavioral-economics"
+      ],
+      "emoji": "\ud83d\udecd\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-paradox-of-choice"
     }
   }
 }

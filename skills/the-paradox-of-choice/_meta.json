@@ -1,0 +1,13 @@
+{
+  "name": "the-paradox-of-choice",
+  "version": "1.0.0",
+  "description": "Barry Schwartz's The Paradox of Choice — an executable toolkit for understanding why more choice leads to less happiness, and how to become a satisficer instead of a maximizer.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-paradox-of-choice",
+  "tags": ["choice", "decision-making", "happiness", "psychology", "behavioral-economics"],
+  "openclaw": {
+    "emoji": "🛍️",
+    "category": "self-improvement"
+  }
+}
