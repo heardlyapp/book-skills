@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 100,
+  "total_skills": 101,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1682,6 +1682,21 @@
       "emoji": "\ud83e\uddd8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/zen-mind-beginners-mind"
+    },
+    "angela-duckworth-grit": {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "slug": "angela-duckworth-grit",
+      "tags": [
+        "grit",
+        "perseverance",
+        "passion",
+        "success",
+        "psychology",
+        "motivation"
+      ],
+      "emoji": "\ud83c\udfd4\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/angela-duckworth-grit"
     }
   }
 }
