@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 109,
+  "total_skills": 110,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1812,6 +1812,20 @@
       "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/predictably-irrational"
+    },
+    "21-lessons-for-the-21st-century": {
+      "title": "21 Lessons for the 21st Century",
+      "slug": "21-lessons-for-the-21st-century",
+      "tags": [
+        "harari",
+        "future",
+        "technology",
+        "society",
+        "philosophy"
+      ],
+      "emoji": "\ud83c\udf0d",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/21-lessons-for-the-21st-century"
     }
   }
 }
