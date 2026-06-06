@@ -1,0 +1,19 @@
+{
+  "name": "the-soul-of-america",
+  "version": "1.0.0",
+  "description": "Jon Meacham The Soul of America \u2014 an executable toolkit for understanding how America has faced crises and found hope through its better angels.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-soul-of-america",
+  "tags": [
+    "american-history",
+    "leadership",
+    "hope",
+    "democracy",
+    "politics"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\uddfa\ud83c\uddf8",
+    "category": "education"
+  }
+}

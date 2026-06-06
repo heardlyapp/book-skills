@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 129,
+  "total_skills": 130,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -2084,6 +2084,20 @@
       "emoji": "\ud83d\udd04",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/hit-refresh"
+    },
+    "the-soul-of-america": {
+      "title": "The Soul of America",
+      "slug": "the-soul-of-america",
+      "tags": [
+        "american-history",
+        "leadership",
+        "hope",
+        "democracy",
+        "politics"
+      ],
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-soul-of-america"
     }
   }
 }
