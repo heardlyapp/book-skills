@@ -1,0 +1,19 @@
+{
+ "name": "absolute-tao",
+ "version": "1.0.0",
+ "description": "Osho's 'Absolute Tao: Subtle is the way to love, happiness and truth' — a commentary on Lao Tzu's Tao Te Ching showing how to find peace, freedom, and joy through effortless living, witnessing, and naturalness.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/absolute-tao",
+ "useCase": "Let go of anxiety, overthinking, and attachment by applying Osho's Taoist wisdom on wu wei, witnessing, and the art of being ordinary.",
+ "knownRisks": [
+  "Osho is a deliberately provocative teacher — his critiques of organized religion and traditional morality may offend some readers",
+  "The 'wu wei' (non-doing) approach can be misinterpreted as laziness or passivity by those focused on achievement culture",
+  "Taoist philosophy resists systematic categorization — applying individual principles without the whole context can lead to misunderstanding"
+ ],
+ "tags": ["taoism", "osho", "lao-tzu", "philosophy", "spirituality", "meditation", "mindfulness", "wu-wei", "non-doing", "self-realization"],
+ "openclaw": {
+  "emoji": "☯️",
+  "category": "spirituality"
+ }
+}

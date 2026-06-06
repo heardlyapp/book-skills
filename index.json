@@ -90,6 +90,26 @@
       "summary": "Christopher Alexander's 'A Pattern Language: Towns, Buildings, Construction' \u2014 a toolkit for designing spaces that feel alive, using 253 interconnected patterns for towns, buildings, rooms, and construction details."
     },
     {
+      "slug": "absolute-tao",
+      "title": "Osho's 'Absolute Tao: Subtle is the way to love, happiness a",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "taoism",
+        "osho",
+        "lao-tzu",
+        "philosophy",
+        "spirituality",
+        "meditation",
+        "mindfulness",
+        "wu-wei",
+        "non-doing",
+        "self-realization"
+      ],
+      "score": 9.8,
+      "summary": "Osho's 'Absolute Tao: Subtle is the way to love, happiness and truth' \u2014 a commentary on Lao Tzu's Tao Te Ching showing how to find peace, freedom, and joy through effortless living, witnessing, and naturalness."
+    },
+    {
       "slug": "addicted-to-the-monkey-mind",
       "title": "J.F. Benoist's Addicted to the Monkey Mind \u2014 recognize the p",
       "author": "heardlyapp",
