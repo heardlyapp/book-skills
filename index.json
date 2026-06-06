@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 101,
+  "total_skills": 102,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1697,6 +1697,21 @@
       "emoji": "\ud83c\udfd4\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/angela-duckworth-grit"
+    },
+    "deep-work": {
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "slug": "deep-work",
+      "tags": [
+        "productivity",
+        "focus",
+        "deep-work",
+        "cal-newport",
+        "distraction",
+        "concentration"
+      ],
+      "emoji": "\ud83c\udfaf",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/deep-work"
     }
   }
 }

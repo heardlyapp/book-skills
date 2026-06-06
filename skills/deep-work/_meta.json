@@ -1,0 +1,15 @@
+{
+  "name": "deep-work",
+  "description": "Gold-standard skill for Cal Newport's *Deep Work: Rules for Focused Success in a Distracted World*. Master the ability to focus deeply, eliminate distractions, and produce valuable output in a distracted world.",
+  "publisher": "heardlyapp",
+  "homepage": "https://clawhub.ai/heardlyapp/deep-work",
+  "version": "1.0.0",
+  "license": "MIT",
+  "tags": ["deep-work", "cal-newport", "focus", "productivity", "concentration", "distraction", "knowledge-work", "time-management", "habits", "deliberate-practice"],
+  "openclaw": "🔮",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heardlyapp/deep-work"
+  },
+  "categories": ["productivity", "self-improvement", "career"]
+}
