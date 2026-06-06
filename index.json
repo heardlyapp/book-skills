@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 106,
+  "total_skills": 107,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1769,6 +1769,21 @@
       "emoji": "\ud83e\udd1d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/why-are-all-the-black-kids-sitting-together-in-the-cafeteria"
+    },
+    "caste": {
+      "title": "Caste: The Origins of Our Discontents",
+      "slug": "caste",
+      "tags": [
+        "caste",
+        "inequality",
+        "social-justice",
+        "isabel-wilkerson",
+        "history",
+        "hierarchy"
+      ],
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/caste"
     }
   }
 }
