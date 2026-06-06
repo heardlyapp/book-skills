@@ -1,7 +1,7 @@
 {
   "name": "endurance",
-  "version": "1.0.0",
-  "description": "Alfred Lansing's Endurance — an executable toolkit for leadership under extreme adversity, drawn from the harrowing true story of Ernest Shackleton's 1914 Antarctic expedition and the survival of his entire crew against impossible odds.\n\nCovers 5 use cases:\n① Leadership in Crisis — how Shackleton kept his crew alive, united, and hopeful through nearly two years of hardship\n② Building Unbreakable Team Spirit — create a culture of mutual support and shared purpose\n③ Decision-Making Under Uncertainty — make critical decisions with incomplete information\n④ Maintaining Hope in Desperate Circumstances — sustain optimism when the situation seems hopeless\n⑤ Adaptability & Resourcefulness — pivot strategies when plans fail.\n\nTrigger when users say: \"Shackleton\" \"Endurance expedition\" \"Leadership under pressure\" \"Crisis leadership\" \"Team survival\" \"Never give up\" \"Extreme adversity\" \"Leadership lessons\" \"Survival mindset\"\nor mention: Ernest Shackleton / Endurance / Antarctica / survival / crisis leadership / polar exploration.\n\nRelated skills: cant-hurt-me, leadership-in-turbulent-times, the-slight-edge, winning, the-servant.",
+  "version": "1.0.1",
+  "description": "Alfred Lansing's Endurance: Shackleton's Incredible Voyage — an executable toolkit for leadership under extreme adversity, drawn from the true story of Ernest Shackleton's 1914 Antarctic expedition and the survival of all 28 crew members against impossible odds. Covers crisis leadership, team cohesion under pressure, decision-making with no good options, maintaining hope in desperate circumstances, and adaptability when plans fail.\n\nRelated skills: grit, leadership-in-turbulent-times, cant-hurt-me, the-outsiders, the-war-of-art.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/endurance",

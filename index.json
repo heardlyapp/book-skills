@@ -340,20 +340,16 @@
       "clawhub_url": "https://clawhub.ai/heardlyapp/eat-to-live"
     },
     "endurance": {
-      "title": "Endurance",
+      "title": "Endurance: Shackleton Incredible Voyage",
       "slug": "endurance",
       "tags": [
         "leadership",
         "survival",
-        "crisis",
-        "shackleton",
-        "antarctica",
-        "adventure",
-        "teamwork",
-        "resilience",
-        "history"
+        "antarctic",
+        "expedition",
+        "adversity"
       ],
-      "emoji": "\u2744\ufe0f",
+      "emoji": "\ud83e\uddca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/endurance"
     },
