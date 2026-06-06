@@ -1,0 +1,17 @@
+{
+  "name": "everyone-communicates-few-connect",
+  "version": "1.0.0",
+  "description": "John C. Maxwell's Everyone Communicates, Few Connect — apply the 5 principles and 5 practices of connecting to move from merely sending information to genuinely connecting with people",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/everyone-communicates-few-connect",
+  "useCase": "Helps leaders, speakers, and anyone who communicates shift from information delivery to genuine connection — finding common ground, simplifying messages, adding energy, and building lasting relationships.",
+  "knownRisks": [
+    "Connection is context-dependent — techniques that work in one setting may not work in another"
+  ],
+  "tags": ["communication", "leadership", "connection", "rapport", "public-speaking", "influence", "relationships"],
+  "openclaw": {
+    "emoji": "🔗",
+    "category": "business"
+  }
+}

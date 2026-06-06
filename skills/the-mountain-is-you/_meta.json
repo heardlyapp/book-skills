@@ -1,0 +1,18 @@
+{
+  "name": "the-mountain-is-you",
+  "version": "1.0.0",
+  "description": "Brianna Wiest's The Mountain Is You — transform self-sabotage into self-mastery by uncovering the unconscious needs behind self-defeating behaviors",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-mountain-is-you",
+  "useCase": "Helps users identify why they self-sabotage, interpret negative emotions as guidance, build emotional intelligence, release past trauma, design their future self, and achieve self-mastery through microshifts rather than breakthroughs.",
+  "knownRisks": [
+    "Deep psychological excavation can surface uncomfortable emotions — users should go at their own pace",
+    "The book's framework emphasizes internal causes; users in genuinely abusive or oppressive situations may also need external support"
+  ],
+  "tags": ["self-sabotage", "emotional-intelligence", "personal-development", "self-mastery", "psychology", "transformation", "limiting-beliefs"],
+  "openclaw": {
+    "emoji": "🏔️",
+    "category": "self-improvement"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "the-power-of-now",
+  "version": "1.0.0",
+  "description": "Eckhart Tolle's The Power of Now — break free from mind identification and live in the present moment",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-power-of-now",
+  "useCase": "Helps users stop overthinking, dissolve emotional pain, find inner peace, improve relationships, and accept life as it is through presence and surrender.",
+  "knownRisks": [
+    "Spiritual concepts may feel abstract without consistent practice",
+    "Tolle's teachings are experiential — they require practice, not intellectual understanding alone"
+  ],
+  "tags": ["mindfulness", "spirituality", "presence", "meditation", "ego", "consciousness", "healing", "inner-peace"],
+  "openclaw": {
+    "emoji": "🧘",
+    "category": "spirituality"
+  }
+}

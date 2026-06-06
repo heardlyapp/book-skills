@@ -1,0 +1,18 @@
+{
+  "name": "be-here-now",
+  "version": "1.0.0",
+  "description": "Ram Dass's Be Here Now — a spiritual classic on presence, meditation, love, and service that guides you from ego-driven seeking to conscious awareness in the here and now",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/be-here-now",
+  "useCase": "Helps users cultivate presence through meditation, explore spiritual identity, shift from fear to love, and integrate practice into daily life through service and awareness — based on Ram Dass's transformative journey and practical Cookbook for a Sacred Life.",
+  "knownRisks": [
+    "The book's spiritual framework draws from Hindu and Buddhist traditions — users should engage respectfully with teachings from traditions that may not be their own",
+    "Spiritual practice can surface difficult emotions; users are encouraged to go at their own pace"
+  ],
+  "tags": ["spirituality", "meditation", "presence", "consciousness", "yoga", "love", "self-discovery", "mindfulness", "ram-dass"],
+  "openclaw": {
+    "emoji": "🕉️",
+    "category": "self-improvement"
+  }
+}

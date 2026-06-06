@@ -1,0 +1,17 @@
+{
+  "name": "change-your-questions-change-your-life",
+  "version": "1.0.0",
+  "description": "Marilee Adams's Change Your Questions, Change Your Life — apply the Choice Map and Question Thinking framework to shift from Judger to Learner mindset by changing the questions you ask yourself",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/change-your-questions-change-your-life",
+  "useCase": "Helps leaders, coaches, and individuals transform how they think by recognizing when they're in Judger mindset and using switching questions to shift to Learner mindset — improving communication, decision-making, and relationships.",
+  "knownRisks": [
+    "Question Thinking is a skill that requires consistent practice — knowing the framework isn't enough"
+  ],
+  "tags": ["mindset", "questions", "leadership", "coaching", "self-awareness", "communication", "transformation"],
+  "openclaw": {
+    "emoji": "❓",
+    "category": "self-improvement"
+  }
+}

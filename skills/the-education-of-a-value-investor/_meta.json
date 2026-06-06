@@ -1,0 +1,17 @@
+{
+  "name": "the-education-of-a-value-investor",
+  "version": "1.0.0",
+  "description": "Guy Spier's The Education of a Value Investor — apply value investing principles to both money and life: think independently, stay within your circle of competence, avoid biases, and cultivate long-term temperament",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-education-of-a-value-investor",
+  "useCase": "Helps anyone become a better investor by adopting the principles of value investing — margin of safety, circle of competence, long-term thinking, and the temperament to ignore short-term noise.",
+  "knownRisks": [
+    "Value investing requires patience and conviction — it's not suited for short-term traders"
+  ],
+  "tags": ["investing", "value-investing", "buffett", "graham", "psychology", "finance", "long-term", "stocks"],
+  "openclaw": {
+    "emoji": "📚",
+    "category": "business"
+  }
+}

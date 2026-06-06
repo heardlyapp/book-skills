@@ -1,0 +1,17 @@
+{
+  "name": "old-school-grit",
+  "version": "1.0.0",
+  "description": "Darrin Donnelly's Old School Grit — build perseverance, discipline, mental toughness, and a positive success mindset using nine timeless rules that never change",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/old-school-grit",
+  "useCase": "Helps anyone develop real grit through timeless principles: hard work, never quitting, discipline, positive attitude, responsibility, continuous learning, helping others, honesty, and faith.",
+  "knownRisks": [
+    "Grit principles require consistent practice — knowing them isn't the same as living them"
+  ],
+  "tags": ["grit", "perseverance", "discipline", "mental-toughness", "success", "motivation", "work-ethic", "resilience"],
+  "openclaw": {
+    "emoji": "💪",
+    "category": "self-improvement"
+  }
+}

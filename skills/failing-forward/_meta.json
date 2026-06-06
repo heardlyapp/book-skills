@@ -1,0 +1,17 @@
+{
+  "name": "failing-forward",
+  "version": "1.0.0",
+  "description": "John C. Maxwell's Failing Forward — transform your relationship with failure into a stepping stone for success by learning to treat mistakes as feedback, not final judgments",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/failing-forward",
+  "useCase": "Helps anyone who struggles with fear of failure, resilience, or persistence reframe setbacks as learning opportunities, take more risks, and keep moving forward through the Try-Learn-Adjust cycle.",
+  "knownRisks": [
+    "Reframing failure is not a substitute for genuine skill-building or addressing systemic barriers"
+  ],
+  "tags": ["failure", "resilience", "persistence", "growth-mindset", "leadership", "learning", "confidence"],
+  "openclaw": {
+    "emoji": "💪",
+    "category": "self-improvement"
+  }
+}

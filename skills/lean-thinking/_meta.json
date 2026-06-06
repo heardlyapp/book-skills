@@ -1,0 +1,19 @@
+{
+  "name": "lean-thinking",
+  "version": "1.0.0",
+  "description": "James P. Womack & Daniel T. Jones' Lean Thinking — eliminate waste (muda), maximize customer value, and create wealth in any organization using the 5 lean principles.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/lean-thinking",
+  "useCase": "Operational excellence through lean principles — define value, map value streams, create flow, implement pull, and pursue perfection via kaizen across manufacturing, software, healthcare, services, and supply chains.",
+  "knownRisks": [
+    "Lean is often confused with cost-cutting/downsizing; this skill is about creating value, not eliminating jobs",
+    "Principles are designed for organizational processes; applying to personal productivity requires adaptation",
+    "Transformation requires sustained leadership commitment — one-time implementation rarely works"
+  ],
+  "tags": ["lean", "operations", "manufacturing", "waste-reduction", "kaizen", "toyota", "value-stream", "continuous-improvement", "business", "management"],
+  "openclaw": {
+    "emoji": "🏭",
+    "category": "business"
+  }
+}

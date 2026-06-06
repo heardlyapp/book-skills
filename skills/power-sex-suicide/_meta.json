@@ -1,0 +1,18 @@
+{
+  "name": "power-sex-suicide",
+  "version": "1.0.0",
+  "description": "Nick Lane's Power, Sex, Suicide — understand how mitochondria shape the most profound aspects of life: cellular energy, the evolution of sex, aging, and programmed cell death (apoptosis)",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/power-sex-suicide",
+  "useCase": "Helps anyone understand the fundamental biology of mitochondria and their role in evolution, aging, sex, and disease — from cellular energy production to the origins of complex life.",
+  "knownRisks": [
+    "This is a complex biology topic — the skill simplifies but users should expect depth",
+    "Mitochondrial health advice should complement, not replace, medical guidance"
+  ],
+  "tags": ["mitochondria", "biology", "evolution", "aging", "cell-biology", "health", "science", "dna"],
+  "openclaw": {
+    "emoji": "🔬",
+    "category": "health"
+  }
+}

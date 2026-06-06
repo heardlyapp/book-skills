@@ -1,0 +1,17 @@
+{
+  "name": "the-outsiders",
+  "version": "1.0.0",
+  "description": "William N. Thorndike's The Outsiders — learn from eight unconventional CEOs who created extraordinary shareholder value through brilliant capital allocation, contrarian thinking, and rational decision-making",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-outsiders",
+  "useCase": "Helps entrepreneurs, executives, and investors understand the principles of superior capital allocation — when to reinvest, when to buy back shares, when to acquire, and when to do nothing.",
+  "knownRisks": [
+    "The book focuses on U.S. companies and may not apply directly to other markets"
+  ],
+  "tags": ["business", "ceo", "capital-allocation", "investing", "management", "leadership", "value-investing"],
+  "openclaw": {
+    "emoji": "🏢",
+    "category": "self-improvement"
+  }
+}

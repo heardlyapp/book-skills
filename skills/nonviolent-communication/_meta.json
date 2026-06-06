@@ -1,0 +1,18 @@
+{
+  "name": "nonviolent-communication",
+  "version": "1.0.0",
+  "description": "马歇尔·卢森堡《非暴力沟通》(NVC) 的可执行工具箱：把任何一句话翻译成 观察-感受-需要-请求(OFNR)",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/nonviolent-communication",
+  "useCase": "Developers and AI agents can use this skill to rewrite hurtful language into NVC expressions, resolve conflicts empathetically, process emotions, give compassionate feedback, and communicate authentically in real-world conversations.",
+  "knownRisks": [
+    "机械套用四要素而无连结意图反而破坏沟通",
+    "NVC不是万能的——在某些高压/危险场景应以安全为先"
+  ],
+  "tags": ["communication", "psychology", "nvc", "conflict-resolution", "empathy", "self-help"],
+  "openclaw": {
+    "emoji": "🦒",
+    "category": "psychology"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "blood-and-oil",
+  "version": "1.0.0",
+  "description": "Bradley Hope and Justin Scheck's Blood and Oil — extract strategic and geopolitical lessons from Mohammed bin Salman's rise: how oil wealth enables authoritarian power, how reform coexists with repression, and how to analyze political risk in petrostates",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/blood-and-oil",
+  "useCase": "Helps analysts, investors, diplomats, and business leaders understand Saudi geopolitics, evaluate political risk, and navigate engagement with resource-rich autocracies using the MBS Playbook framework.",
+  "knownRisks": [
+    "The book covers events through 2020 — the region continues to evolve rapidly",
+    "Geopolitical analysis requires updating with current events beyond this book's scope"
+  ],
+  "tags": ["geopolitics", "saudi-arabia", "oil", "mbs", "middle-east", "political-risk", "authoritarianism", "investigative-journalism"],
+  "openclaw": {
+    "emoji": "🛢️",
+    "category": "business"
+  }
+}

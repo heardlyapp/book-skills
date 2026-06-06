@@ -1,0 +1,12 @@
+{
+  "name": "creative-confidence",
+  "version": "1.0.0",
+  "description": "David & Tom Kelley's Creative Confidence — unleash your creative potential and overcome fear of judgment",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/creative-confidence",
+  "useCase": "Helps individuals and teams overcome fear of judgment, unlock creative potential, and generate innovative ideas using design thinking principles.",
+  "knownRisks": ["Building creative confidence takes consistent practice — a single workshop won't overcome years of conditioning"],
+  "tags": ["creativity", "innovation", "design-thinking", "confidence", "ideation", "psychology"],
+  "openclaw": {"emoji": "🎨", "category": "self-improvement"}
+}

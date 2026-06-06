@@ -1,0 +1,17 @@
+{
+  "name": "the-war-of-art",
+  "version": "1.0.0",
+  "description": "Steven Pressfield's The War of Art — an executable toolkit for overcoming creative resistance, defeating procrastination, and doing the work that matters most.\n\nCovers 5 use cases:\n① Overcoming Resistance — recognize and defeat the internal force blocking creative work\n② Becoming a Professional — adopt the mindset, habits, and discipline of a professional creative\n③ The Creative Process — navigate the stages of creation from inspiration to completion\n④ Winning the Inner Battle — defeat self-sabotage, fear, and the ego\n⑤ Turning Pro — transition from amateur to professional in any creative field.\n\nTrigger when users say: \"Creative block\" \"Overcoming resistance\" \"Steven Pressfield\" \"War of Art\" \"How to be creative\" \"Procrastination\" \"Creative fear\" \"Self-sabotage\" \"How to start creating\" \"Beat procrastination\" \"Creative discipline\" \"Do the work\" \"Show up every day\"\nor mention: Steven Pressfield / War of Art / Resistance / turning pro / creative block / muse / procrastination.\n\nRelated skills: the-creative-act, big-magic, the-happiness-advantage, atomic-habits, the-slight-edge.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-war-of-art",
+  "useCase": "Helps creatives of all types overcome the internal Resistance that blocks meaningful work and transition from amateur to professional mindset.",
+  "knownRisks": [
+    "Pressfield's framework is intentionally blunt; some may find it harsh, but the directness is part of its effectiveness."
+  ],
+  "tags": ["creativity", "writing", "procrastination", "resistance", "art", "discipline", "productivity", "inspiration", "self-help"],
+  "openclaw": {
+    "emoji": "⚔️",
+    "category": "creativity"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "zen-mind-beginners-mind",
+  "version": "1.0.0",
+  "description": "Shunryu Suzuki's Zen Mind, Beginner's Mind — an executable toolkit for Zen meditation and mindful living: how to cultivate a beginner's mind, establish a meditation practice, and bring Zen awareness into every aspect of daily life.\n\nCovers 5 use cases:\n① Establishing a Meditation Practice — learn proper posture, breathing, and how to sit with a clear mind\n② Cultivating Beginner's Mind — approach every experience with openness, curiosity, and no preconceptions\n③ Working with Thoughts — handle mind-wandering, emotional turbulence, and mental noise with compassion\n④ Bringing Zen into Daily Life — practice mindfulness in ordinary activities: eating, walking, working\n⑤ Understanding Non-Attachment — let go of expectations, goals, and the need to get somewhere in practice.\n\nTrigger when users say: \"Zen meditation\" \"How to meditate\" \"Beginner's mind\" \"Shunryu Suzuki\" \"Zazen\" \"Mindfulness\" \"Zen Buddhism\" \"How to be present\" \"Meditation for beginners\" \"Stop overthinking\" \"Let go of attachment\" \"Just sitting\" \"Buddhist meditation\" \"Zen practice\"\nor mention: Shunryu Suzuki / Zen Mind / Beginner's Mind / zazen / meditation / Zen / Buddhism / mindfulness / beginner's mind.\n\nRelated skills: the-power-of-now, be-here-now, the-miracle-of-mindfulness, the-happiness-advantage, radically-happy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/zen-mind-beginners-mind",
+  "useCase": "Helps anyone establish a meditation practice and bring Zen awareness into daily life — from complete beginners to experienced practitioners seeking to reconnect with beginner's mind.",
+  "knownRisks": [
+    "Zen meditation is a spiritual practice, not a therapy. It can surface difficult emotions; approach with patience and seek qualified guidance if needed."
+  ],
+  "tags": ["zen", "meditation", "buddhism", "mindfulness", "spirituality", "beginner-mind", "zazen", "suzuki", "presence", "awareness"],
+  "openclaw": {
+    "emoji": "🧘",
+    "category": "mindfulness"
+  }
+}

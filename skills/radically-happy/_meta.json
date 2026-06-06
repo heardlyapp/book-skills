@@ -1,0 +1,18 @@
+{
+  "name": "radically-happy",
+  "version": "1.0.0",
+  "description": "Phakchok Rinpoche and Erric Solomon's Radically Happy — combine Buddhist wisdom with practical psychology to understand your mind, overcome negative patterns, and cultivate genuine lasting happiness",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/radically-happy",
+  "useCase": "Helps anyone train their mind for genuine happiness through meditation, emotional awareness, pattern recognition, and compassion — based on Buddhist mind training (lojong) adapted for modern life.",
+  "knownRisks": [
+    "The book draws on Buddhist teachings — users should approach with respect for the tradition",
+    "Meditation and mind training require consistent practice for results"
+  ],
+  "tags": ["happiness", "meditation", "mindfulness", "buddhism", "mental-health", "emotions", "compassion", "psychology"],
+  "openclaw": {
+    "emoji": "☸️",
+    "category": "self-improvement"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "the-slight-edge",
+  "version": "1.0.0",
+  "description": "Jeff Olson's The Slight Edge — understand how small daily actions compound into massive success or failure over time",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-slight-edge",
+  "useCase": "Helps users bridge the gap between knowing and doing by mastering simple daily disciplines that compound over time.",
+  "knownRisks": ["The philosophy is simple — the challenge is consistency, not understanding"],
+  "tags": ["self-improvement", "habits", "success", "mindset", "consistency", "compound-effect"],
+  "openclaw": {"emoji": "🌱", "category": "self-improvement"}
+}

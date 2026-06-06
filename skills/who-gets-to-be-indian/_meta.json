@@ -1,0 +1,17 @@
+{
+  "name": "who-gets-to-be-indian",
+  "version": "1.0.0",
+  "description": "Dina Gilio-Whitaker's Who Gets to Be Indian? — an executable toolkit exploring the complex landscape of Native American identity: ethnic fraud, tribal enrollment and disenrollment, cultural appropriation, and what it means to be Indian in contemporary America.\n\nCovers 5 use cases:\n① Understanding Native Identity — learn the difference between political citizenship, racial identity, and cultural belonging\n② Recognizing Ethnic Fraud — understand pretendianism and why people falsely claim Native identity\n③ Navigating Cultural Appropriation — distinguish cultural exchange from appropriation\n④ Understanding Disenrollment — learn about the crisis of tribal governments stripping citizenship\n⑤ Engaging Respectfully — have informed, respectful conversations about Native identity.\n\nTrigger when users say: \"Native American identity\" \"Who is Native American\" \"Ethnic fraud\" \"Pretendian\" \"Tribal enrollment\" \"Disenrollment\" \"Cultural appropriation Native\" \"American Indian\" \"Native sovereignty\" \"How to be an ally\" \"Fake Indian\" \"Sacheen Littlefeather\" \"Indian ancestry\"\nor mention: Dina Gilio-Whitaker / pretendian / ethnic fraud / disenrollment / Native American identity / tribal sovereignty / cultural appropriation / settler colonialism.\n\nRelated skills: the-coddling-of-the-american-mind, the-great-displacement, clear-thinking-book.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/who-gets-to-be-indian",
+  "useCase": "Helps anyone understand the complex landscape of Native American identity — from ethnic fraud and tribal enrollment to cultural appropriation and respectful engagement.",
+  "knownRisks": [
+    "This is a politically and emotionally charged topic; approach with sensitivity and defer to Native voices."
+  ],
+  "tags": ["native-american", "identity", "ethnic-fraud", "tribal-sovereignty", "cultural-appropriation", "indigenous", "decolonial", "social-justice"],
+  "openclaw": {
+    "emoji": "🌎",
+    "category": "education"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "work-rules",
+  "version": "1.0.0",
+  "description": "Laszlo Bock's Work Rules! — an executable toolkit based on Google's people operations: how to hire exceptional talent, build a culture of trust and freedom, manage performance effectively, and create a workplace where people do their best work.\n\nCovers 5 use cases:\n① Hiring Exceptional Talent — set a high bar, assess objectively, build a hiring machine\n② Building Culture & Trust — create a mission-driven culture, eliminate status symbols, empower people\n③ Performance Management — set goals (OKRs), gather peer feedback, calibrate ratings\n④ Compensation & Rewards — pay unfairly in the best sense, reward performance, celebrate accomplishment\n⑤ Learning & Development — build a learning institution with proven programs.\n\nTrigger when users say: \"Google HR practices\" \"How to hire like Google\" \"People operations\" \"Work rules\" \"Laszlo Bock\" \"Google culture\" \"Hiring best practices\" \"Performance management\" \"Employee engagement\" \"Company culture\" \"HR strategy\" \"Talent acquisition\" \"OKRs\" \"Peer feedback\"\nor mention: Laszlo Bock / Work Rules / Google / people operations / hiring / culture / OKRs / performance management / talent.\n\nRelated skills: the-essential-drucker, winning, inspired, the-four-steps-to-the-epiphany, the-outsiders.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/work-rules",
+  "useCase": "Helps leaders and HR professionals build organizations where people do their best work — using evidence-based practices from Google on hiring, culture, performance, compensation, and learning.",
+  "knownRisks": [
+    "Google's approach is enabled by exceptional resources and brand; adapt the principles (trust, data, differentiation) to your organization's context."
+  ],
+  "tags": ["google", "hr", "people-operations", "hiring", "culture", "leadership", "management", "talent", "performance-management", "organizational-development"],
+  "openclaw": {
+    "emoji": "🏢",
+    "category": "business"
+  }
+}

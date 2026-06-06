@@ -1,0 +1,18 @@
+{
+  "name": "financial-feminist",
+  "version": "1.0.0",
+  "description": "Tori Dunlap's Financial Feminist — master your money by combining practical financial skills (budgeting, debt, investing, earning) with awareness of the emotional and systemic forces that shape your relationship with money",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/financial-feminist",
+  "useCase": "Helps women (and anyone) take control of their finances through the 5-step Financial Game Plan: know your numbers, build an emergency fund, pay off debt, invest for the future, and increase your income — all while addressing money shame and systemic barriers.",
+  "knownRisks": [
+    "Financial advice should be adapted to individual circumstances — consult a professional for complex situations",
+    "Investment returns are not guaranteed; past performance does not predict future results"
+  ],
+  "tags": ["personal-finance", "money", "investing", "budgeting", "women", "feminism", "debt", "financial-independence"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "business"
+  }
+}

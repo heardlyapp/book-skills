@@ -1,0 +1,17 @@
+{
+  "name": "the-first-days-of-school",
+  "version": "1.0.0",
+  "description": "Harry and Rosemary Wong's The First Days of School — proven strategies for classroom management, effective teaching, establishing procedures, and starting the school year for maximum student success",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-first-days-of-school",
+  "useCase": "Helps new and experienced teachers establish effective classrooms through procedures, positive expectations, and mastery teaching — starting from the first day of school.",
+  "knownRisks": [
+    "Classroom management strategies may need adaptation for different age groups and contexts"
+  ],
+  "tags": ["teaching", "education", "classroom-management", "teacher", "school", "pedagogy", "procedures"],
+  "openclaw": {
+    "emoji": "🍎",
+    "category": "self-improvement"
+  }
+}

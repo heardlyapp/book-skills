@@ -1,0 +1,18 @@
+{
+  "name": "leadership-in-turbulent-times",
+  "version": "1.0.0",
+  "description": "Doris Kearns Goodwin's Leadership — extract leadership lessons from Lincoln, TR, FDR, and LBJ on developing through adversity, navigating crises, building teams, and communicating vision",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/leadership-in-turbulent-times",
+  "useCase": "Helps leaders at any level understand how leadership is developed through adversity — using four presidential profiles to illustrate different styles of crisis navigation, team building, resilience, and communication.",
+  "knownRisks": [
+    "Presidential leadership operates at a scale most leaders won't encounter — adapt lessons to your context",
+    "Historical analysis inevitably simplifies complex individuals"
+  ],
+  "tags": ["leadership", "history", "presidents", "crisis-management", "team-building", "resilience", "communication"],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "business"
+  }
+}

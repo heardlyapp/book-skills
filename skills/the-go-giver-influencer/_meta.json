@@ -1,0 +1,17 @@
+{
+  "name": "the-go-giver-influencer",
+  "version": "1.0.0",
+  "description": "Bob Burg and John David Mann's The Go-Giver Influencer — build genuine influence through giving value, finding the third way beyond win-lose, and leading through service",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-go-giver-influencer",
+  "useCase": "Helps anyone build genuine influence in their relationships, negotiations, and leadership by focusing on adding value, empathetic persuasion, and finding win-win solutions.",
+  "knownRisks": [
+    "The Go-Giver approach requires a genuine shift in mindset — surface-level application won't produce results"
+  ],
+  "tags": ["influence", "persuasion", "negotiation", "leadership", "servant-leadership", "relationships", "communication"],
+  "openclaw": {
+    "emoji": "🤝",
+    "category": "business"
+  }
+}

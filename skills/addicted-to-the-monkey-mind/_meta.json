@@ -1,0 +1,18 @@
+{
+  "name": "addicted-to-the-monkey-mind",
+  "version": "1.0.0",
+  "description": "J.F. Benoist's Addicted to the Monkey Mind — recognize the programmed reactive voice driving your patterns of self-sabotage and activate the Observing Mind to rewrite the beliefs that run your life",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/addicted-to-the-monkey-mind",
+  "useCase": "Helps users break free from automatic patterns and childhood programming by distinguishing the reactive Monkey Mind from the calm Observing Mind, investigating belief origins, and consciously rewriting internal programs.",
+  "knownRisks": [
+    "Tracing childhood programming can surface difficult emotions — users should go at their own pace",
+    "The book's framework complements but does not replace professional therapy for deep trauma"
+  ],
+  "tags": ["monkey-mind", "self-awareness", "childhood-programming", "limiting-beliefs", "inner-critic", "overthinking", "personal-development", "psychology"],
+  "openclaw": {
+    "emoji": "🐒",
+    "category": "self-improvement"
+  }
+}

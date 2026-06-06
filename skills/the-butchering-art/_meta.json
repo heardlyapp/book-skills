@@ -1,0 +1,17 @@
+{
+  "name": "the-butchering-art",
+  "version": "1.0.0",
+  "description": "Lindsey Fitzharris's The Butchering Art — learn how Joseph Lister transformed Victorian surgery through antisepsis, overcoming entrenched opposition to revolutionize medicine and save millions of lives",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-butchering-art",
+  "useCase": "Helps anyone understand how paradigm-shifting innovation happens in the face of entrenched opposition — through the story of Joseph Lister's quest to bring antiseptic surgery to Victorian medicine.",
+  "knownRisks": [
+    "Historical narrative — the scientific understanding has evolved significantly since Lister's time"
+  ],
+  "tags": ["medical-history", "surgery", "innovation", "lister", "science", "antiseptic", "hygiene", "victorian"],
+  "openclaw": {
+    "emoji": "🏥",
+    "category": "health"
+  }
+}

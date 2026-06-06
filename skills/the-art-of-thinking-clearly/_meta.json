@@ -1,0 +1,15 @@
+{
+  "name": "the-art-of-thinking-clearly",
+  "version": "1.0.0",
+  "description": "Rolf Dobelli's The Art of Thinking Clearly — field guide to 99+ cognitive biases that lead to bad decisions",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-art-of-thinking-clearly",
+  "useCase": "Helps users recognize cognitive biases, make better decisions, evaluate risk correctly, and overcome self-deception.",
+  "knownRisks": [
+    "Awareness of biases doesn't automatically prevent them — practice and systems are required",
+    "Some biases overlap; classification may vary between sources"
+  ],
+  "tags": ["cognitive-biases", "decision-making", "psychology", "rationality", "thinking", "self-improvement"],
+  "openclaw": {"emoji": "🧠", "category": "psychology"}
+}

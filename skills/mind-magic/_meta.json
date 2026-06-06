@@ -1,0 +1,30 @@
+{
+  "name": "mind-magic",
+  "version": "1.0.1",
+  "description": "James R. Doty's neuroscience-backed 6-step manifestation system — turn intention into reality by rewiring your brain's networks.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/mind-magic",
+  "useCase": "Master the neuroscience of manifestation: calm your nervous system, clarify your intentions, remove mental obstacles, embed goals in your subconscious, and release attachment to outcomes — all grounded in the latest brain science.",
+  "knownRisks": [
+    "Manifestation is not a substitute for medical or mental health treatment — users with serious anxiety, depression, or trauma should seek professional help alongside these practices.",
+    "The techniques require consistent daily practice over weeks or months — users expecting instant results may feel discouraged.",
+    "Cultural and systemic barriers (poverty, discrimination, disability) can limit what manifestation alone can achieve — reality always has the final say."
+  ],
+  "tags": [
+    "manifestation",
+    "neuroscience",
+    "visualization",
+    "intention-setting",
+    "habit",
+    "mindfulness",
+    "self-improvement",
+    "neuroplasticity",
+    "personal-development",
+    "james-doty"
+  ],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "self-improvement"
+  }
+}

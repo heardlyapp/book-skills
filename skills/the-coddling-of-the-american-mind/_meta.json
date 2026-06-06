@@ -1,0 +1,17 @@
+{
+  "name": "the-coddling-of-the-american-mind",
+  "version": "1.0.0",
+  "description": "Greg Lukianoff and Jonathan Haidt's The Coddling of the American Mind — understand the Three Great Untruths weakening resilience, apply CBT principles to challenge distorted thinking, and foster antifragility in education and culture",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-coddling-of-the-american-mind",
+  "useCase": "Helps parents, educators, and anyone concerned about resilience understand how safetyism, emotional reasoning, and polarization are harming young people — and how CBT principles can restore antifragility.",
+  "knownRisks": [
+    "The book presents a specific cultural analysis that some may find controversial"
+  ],
+  "tags": ["resilience", "psychology", "education", "free-speech", "cbt", "polarization", "mental-health", "parenting"],
+  "openclaw": {
+    "emoji": "🎓",
+    "category": "self-improvement"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "world-order",
+  "version": "1.0.0",
+  "description": "Henry Kissinger's World Order — an executable toolkit for understanding global geopolitics: how nations interact, the balance of power, diplomatic strategy, and the forces shaping international order.\n\nCovers 5 use cases:\n① Understanding Geopolitics — grasp the fundamental forces shaping relations between nations\n② The Balance of Power — analyze how equilibrium prevents war\n③ Diplomatic Strategy — apply frameworks for negotiation and statecraft\n④ Regional Dynamics — understand distinct worldviews of Europe, Middle East, Asia, America\n⑤ Technology & World Order — analyze how technology is transforming global power.\n\nTrigger when users say: \"International relations\" \"Geopolitics\" \"World order\" \"Henry Kissinger\" \"Balance of power\" \"Foreign policy\" \"Diplomacy\" \"Geopolitical strategy\" \"Global politics\" \"How nations behave\" \"Cold War strategy\" \"Power politics\" \"Statecraft\"\nor mention: Henry Kissinger / World Order / geopolitics / balance of power / diplomacy / international relations / sovereignty / foreign policy.\n\nRelated skills: the-tragedy-of-great-power-politics, richard-nixon, leadership-in-turbulent-times, the-essential-drucker, the-lords-of-easy-money.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/world-order",
+  "useCase": "Helps anyone understand the forces shaping global politics — from historical foundations of international order to contemporary challenges of technology and multipolar power.",
+  "knownRisks": [
+    "Kissinger's realist perspective is controversial; this skill presents his framework without endorsing all his policy positions."
+  ],
+  "tags": ["geopolitics", "international-relations", "diplomacy", "kissinger", "world-order", "balance-of-power", "foreign-policy", "history"],
+  "openclaw": {
+    "emoji": "🌐",
+    "category": "education"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "think-and-grow-rich",
+  "version": "1.0.0",
+  "description": "Napoleon Hill's Think and Grow Rich — harness the power of thought and persistence to achieve wealth and success",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/think-and-grow-rich",
+  "useCase": "Helps users harness desire, faith, persistence, and mastermind groups to set and achieve ambitious goals.",
+  "knownRisks": ["Hill's metaphysical concepts may not resonate with all audiences"],
+  "tags": ["wealth", "success", "mindset", "goal-setting", "motivation", "self-help"],
+  "openclaw": {"emoji": "🧠", "category": "self-improvement"}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "one-up-on-wall-street",
+  "version": "1.0.0",
+  "description": "Peter Lynch's One Up On Wall Street — invest in what you know, identify tenbaggers, categorize companies by type, and build a winning portfolio using the edge individual investors have over professionals",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/one-up-on-wall-street",
+  "useCase": "Helps individual investors pick winning stocks using Peter Lynch's proven framework: the six company categories, the perfect stock criteria, PEG ratio valuation, and the two-minute drill for understanding any investment.",
+  "knownRisks": [
+    "Lynch's methods are based on his experience managing Fidelity Magellan — past performance does not guarantee future results",
+    "Individual stock investing carries significant risk; diversification is essential"
+  ],
+  "tags": ["investing", "stocks", "stock-picking", "value-investing", "peter-lynch", "tenbagger", "portfolio", "finance"],
+  "openclaw": {
+    "emoji": "📈",
+    "category": "business"
+  }
+}

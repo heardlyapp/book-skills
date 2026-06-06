@@ -1,0 +1,18 @@
+{
+  "name": "the-way-to-wealth",
+  "version": "1.0.0",
+  "description": "Benjamin Franklin's The Way to Wealth — an executable toolkit of timeless financial and life wisdom from Poor Richard's Almanack. Distills Franklin's principles on industry, frugality, prudence, and integrity into actionable habits for building wealth and character.\n\nCovers 5 use cases:\n① Frugality & Smart Spending — live within your means, distinguish needs from wants, avoid the \"whistle\" trap of overpaying for things\n② Industry & Work Ethic — develop the habit of productive work, overcome procrastination, make time your ally\n③ Financial Prudence — understand debt, saving, and the power of compound interest\n④ Integrity & Reputation — build a trustworthy character that attracts opportunity\n⑤ Practical Wisdom — apply Franklin's common-sense approach to everyday decisions.\n\nTrigger when users say: \"How to save money\" \"Benjamin Franklin\" \"Poor Richard\" \"Financial wisdom\" \"I need to be more disciplined\" \"Live frugally\" \"How to build character\" \"Work harder\" \"Stop procrastinating\" \"Time is money\" \"A penny saved\" \"Early to bed\" \"Wealth building\" \"Practical wisdom\" \"How to succeed in life\"\nor mention: Benjamin Franklin / Poor Richard's Almanack / Way to Wealth / frugality / industry / prudence / compound interest / a penny saved / early to bed / time is money / self-discipline / common sense.\n\nAlso triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.\n\nRelated skills: rich-dad-poor-dad, the-richest-man-in-babylon, the-slight-edge, atomic-habits, think-and-grow-rich.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-way-to-wealth",
+  "useCase": "Helps anyone apply Benjamin Franklin's timeless wisdom on wealth and character — from frugal living and productive work habits to building a reputation that attracts opportunity.",
+  "knownRisks": [
+    "Some of Franklin's advice reflects 18th-century values and may feel dated to modern readers; focus on the underlying principles rather than literal application.",
+    "Franklin's financial advice is conservative by nature — it emphasizes saving and frugality over risk-taking and investment growth."
+  ],
+  "tags": ["benjamin-franklin", "wealth", "frugality", "industry", "wisdom", "personal-finance", "character", "self-discipline", "life-advice", "productivity"],
+  "openclaw": {
+    "emoji": "💡",
+    "category": "self-improvement"
+  }
+}

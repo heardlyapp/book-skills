@@ -1,0 +1,12 @@
+{
+  "name": "lean-in",
+  "version": "1.0.0",
+  "description": "Sheryl Sandberg's Lean In — build leadership ambition, overcome the confidence gap, and create more equal workplaces",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/lean-in",
+  "useCase": "Helps women and men recognize internal barriers, build career ambition, negotiate effectively, find mentors, and create partnership at home and leadership at work.",
+  "knownRisks": ["Workplace dynamics vary by industry and culture — adapt these principles to your context"],
+  "tags": ["leadership", "women-in-business", "career", "mentorship", "negotiation", "gender-equality"],
+  "openclaw": {"emoji": "💪", "category": "business"}
+}

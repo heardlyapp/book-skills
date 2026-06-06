@@ -1,0 +1,17 @@
+{
+  "name": "the-truth-about-financial-freedom",
+  "version": "1.0.0",
+  "description": "David Chilton's The Wealthy Barber Returns (also known as The Truth About Financial Freedom) — an executable toolkit that applies common-sense principles to saving, spending, borrowing, and investing. Cuts through the complexity of personal finance with psychological insight, behavioral economics, and practical habits anyone can follow.\n\nCovers 5 use cases:\n① Saving & Spending — build a sustainable savings habit without deprivation, understand the psychological traps that lead to overspending\n② Debt Management — distinguish good debt from bad debt, develop a strategy to reduce and eliminate consumer debt\n③ Investing Fundamentals — avoid common investing mistakes, understand why index funds beat active management, ignore the noise\n④ Behavioral Finance — recognize the psychological biases that sabotage financial decisions, from the endowment effect to loss aversion\n⑤ Home & Life Planning — navigate the biggest financial decisions: buying vs renting, mortgages, emergency funds, and estate planning.\n\nTrigger when users say: \"I can't save money\" \"I need financial advice\" \"How to get out of debt\" \"Where should I invest\" \"I spend too much\" \"Living paycheck to paycheck\" \"How to build wealth\" \"Should I buy a house\" \"Credit card debt\" \"I need a financial plan\" \"How to budget\" \"Stop overspending\" \"Financial freedom\" \"Money management\" \"Personal finance tips\"\nor mention: Dave Chilton / Wealthy Barber / truth about financial freedom / personal finance / behavioral economics / saving vs spending / index funds / consumer debt / living within means / pay yourself first / emergency fund / mortgage / line of credit / financial independence.\n\nRelated skills: rich-dad-poor-dad, i-will-teach-you-to-be-rich, the-millionaire-fastlane, atomic-habits, the-slight-edge.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-truth-about-financial-freedom",
+  "useCase": "Helps anyone take control of their personal finances through common-sense principles — from building saving habits and eliminating debt to investing wisely and making sound life decisions with money.",
+  "knownRisks": [
+    "The book presents a Canadian-centric perspective on financial products (RRSPs, TFSAs, etc.) — users in other countries should adapt to local equivalents."
+  ],
+  "tags": ["personal-finance", "saving", "investing", "debt", "behavioral-finance", "financial-freedom", "wealth", "money-management", "budgeting"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "self-improvement"
+  }
+}

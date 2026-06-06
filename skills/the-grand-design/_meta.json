@@ -1,0 +1,17 @@
+{
+  "name": "the-grand-design",
+  "version": "1.0.0",
+  "description": "Stephen Hawking and Leonard Mlodinow's The Grand Design — explore the nature of the universe, the laws of physics, quantum mechanics, M-theory, and why the universe doesn't need a creator",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-grand-design",
+  "useCase": "Helps anyone understand modern cosmology — the Big Bang, quantum mechanics, M-theory, and the scientific argument that the universe can create itself from nothing without a creator.",
+  "knownRisks": [
+    "The book presents a specific scientific viewpoint that some may find controversial"
+  ],
+  "tags": ["cosmology", "physics", "hawking", "universe", "quantum-mechanics", "m-theory", "big-bang", "science"],
+  "openclaw": {
+    "emoji": "🌌",
+    "category": "self-improvement"
+  }
+}

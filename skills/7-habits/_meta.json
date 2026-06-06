@@ -1,0 +1,18 @@
+{
+  "name": "7-habits",
+  "version": "1.0.0",
+  "description": "Stephen Covey's The 7 Habits of Highly Effective People — principle-centered living from personal effectiveness to interdependent leadership",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/7-habits",
+  "useCase": "Developers and AI agents can use this skill to help users develop personal effectiveness, set life goals, manage time, build relationships, resolve conflicts, collaborate creatively, and maintain renewal.",
+  "knownRisks": [
+    "Covey's framework requires genuine internal commitment — superficial application won't produce results",
+    "Some concepts (like Personal Mission Statement) may feel abstract without guided practice"
+  ],
+  "tags": ["self-improvement", "leadership", "productivity", "time-management", "relationships", "effectiveness"],
+  "openclaw": {
+    "emoji": "🌳",
+    "category": "self-improvement"
+  }
+}

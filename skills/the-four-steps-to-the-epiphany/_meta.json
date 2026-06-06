@@ -1,0 +1,17 @@
+{
+  "name": "the-four-steps-to-the-epiphany",
+  "version": "1.0.0",
+  "description": "Steve Blank's The Four Steps to the Epiphany — apply the Customer Development model to replace traditional product development: find customers before building, validate demand, create a market, and build a scalable company",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-four-steps-to-the-epiphany",
+  "useCase": "Helps entrepreneurs and product teams validate business ideas before building, find product-market fit, get first customers, and build scalable companies using the Customer Development framework.",
+  "knownRisks": [
+    "The Customer Development model requires getting out of the building — it's time-intensive but essential"
+  ],
+  "tags": ["startup", "customer-development", "lean-startup", "entrepreneurship", "product-management", "innovation", "business-model"],
+  "openclaw": {
+    "emoji": "🚀",
+    "category": "business"
+  }
+}

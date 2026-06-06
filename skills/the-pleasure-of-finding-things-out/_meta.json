@@ -1,0 +1,17 @@
+{
+  "name": "the-pleasure-of-finding-things-out",
+  "version": "1.0.0",
+  "description": "Richard P. Feynman's The Pleasure of Finding Things Out — an executable toolkit exploring the joy of scientific discovery, the value of doubt, the nature of physics, and Feynman's unique approach to understanding the world through curiosity and evidence",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-pleasure-of-finding-things-out",
+  "useCase": "Helps anyone cultivate scientific thinking and curiosity — from understanding how to doubt productively to appreciating the wonder of physics and learning Feynman's approach to problem-solving.",
+  "knownRisks": [
+    "The book is a collection of writings — topics vary widely across chapters"
+  ],
+  "tags": ["science", "physics", "feynman", "curiosity", "critical-thinking", "discovery", "learning", "education"],
+  "openclaw": {
+    "emoji": "🔬",
+    "category": "self-improvement"
+  }
+}

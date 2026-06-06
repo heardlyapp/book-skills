@@ -1,0 +1,18 @@
+{
+  "name": "as-a-man-thinketh",
+  "version": "1.0.0",
+  "description": "James Allen's As a Man Thinketh — the foundational classic on how thoughts shape character, circumstances, health, achievement, and serenity",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/as-a-man-thinketh",
+  "useCase": "Helps users take radical responsibility for their mental world by applying the law of cause and effect in thought — transforming character, health, purpose, and inner peace through conscious thought cultivation.",
+  "knownRisks": [
+    "The book's law-of-cause-and-effect framework can feel deterministic — it's not meant to blame people for their suffering, but to empower them to change its root cause",
+    "As a 1902 classic, the language is philosophical rather than tactical; users expecting step-by-step modern self-help may need guidance applying the principles"
+  ],
+  "tags": ["mindset", "self-mastery", "character-development", "positive-thinking", "personal-development", "philosophy", "classic"],
+  "openclaw": {
+    "emoji": "🌿",
+    "category": "self-improvement"
+  }
+}

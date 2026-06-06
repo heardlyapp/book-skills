@@ -1,0 +1,18 @@
+{
+  "name": "atomic-habits",
+  "version": "1.0.0",
+  "description": "詹姆斯·克利尔《原子习惯》的可执行工具箱：用四大定律让好习惯变容易、坏习惯变难",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/atomic-habits",
+  "useCase": "Developers and AI agents can use this skill to diagnose habit problems, design new habits from scratch, break bad habits, build systems, and shift identity from goal-focused to system-focused behavior change.",
+  "knownRisks": [
+    "习惯设计依赖用户诚实的环境评估",
+    "某些习惯（成瘾/心理依赖）可能需要专业干预"
+  ],
+  "tags": ["self-improvement", "habits", "productivity", "psychology", "behavior-change", "discipline"],
+  "openclaw": {
+    "emoji": "🔄",
+    "category": "self-improvement"
+  }
+}

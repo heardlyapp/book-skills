@@ -1,0 +1,18 @@
+{
+  "name": "eat-to-live",
+  "version": "1.0.0",
+  "description": "Dr. Joel Fuhrman's Eat to Live — apply the Nutritarian approach to transform your health through nutrient density: eat for maximum nutrition per calorie, lose weight sustainably, and prevent or reverse chronic disease",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/eat-to-live",
+  "useCase": "Helps anyone improve their health through the Nutritarian diet — focusing on ANDI scores, G-BOMBS, and the 6-week jumpstart plan to achieve weight loss, disease reversal, and lifelong vitality through high-nutrient eating.",
+  "knownRisks": [
+    "This book provides dietary guidance, not medical advice — users should consult their physician before making significant dietary changes, especially if on medication",
+    "The 6-week plan may not be suitable for everyone — individual nutritional needs vary"
+  ],
+  "tags": ["nutrition", "health", "weight-loss", "plant-based", "disease-prevention", "nutrient-density", "wellness", "diet"],
+  "openclaw": {
+    "emoji": "🥗",
+    "category": "self-improvement"
+  }
+}

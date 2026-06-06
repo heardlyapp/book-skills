@@ -1,0 +1,19 @@
+{
+  "name": "crashed",
+  "version": "1.0.0",
+  "description": "Adam Tooze's Crashed — How a Decade of Financial Crises Changed the World. Understand the 2008 global financial crisis, the transatlantic banking meltdown, the eurozone crisis, and the political upheavals that reshaped the 21st century.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/crashed",
+  "useCase": "Analyze and understand the 2008 global financial crisis, the transatlantic banking system, the eurozone debt crisis, and the political fallout including Trump and Brexit. Use for crisis analysis, financial system education, and connecting economic events to political change.",
+  "knownRisks": [
+    "Contains complex financial and economic concepts that may be challenging for beginners",
+    "Some interpretations (especially the eurozone misdiagnosis thesis) are politically contested",
+    "Focuses on the 2008-2017 period — does not cover post-2017 developments"
+  ],
+  "tags": ["2008 crisis", "financial crisis", "global finance", "eurozone", "economics", "history", "Tooze"],
+  "openclaw": {
+    "emoji": "🏦",
+    "category": "history"
+  }
+}

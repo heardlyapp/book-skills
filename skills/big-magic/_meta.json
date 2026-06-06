@@ -1,0 +1,17 @@
+{
+  "name": "big-magic",
+  "version": "1.0.0",
+  "description": "Elizabeth Gilbert's Big Magic — creative living beyond fear: overcome perfectionism, work with inspiration, persist through difficulty, and trust your creative process",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/big-magic",
+  "useCase": "Helps anyone live a more creative life by addressing the five key challenges: courage (overcoming fear), enchantment (working with inspiration), permission (claiming your right to create), persistence (sticking with it), and trust (letting go of outcomes).",
+  "knownRisks": [
+    "The book's approach is inspiration-focused — some users may need more structured techniques for executing creative work"
+  ],
+  "tags": ["creativity", "inspiration", "art", "writing", "courage", "perfectionism", "creative-block", "self-expression"],
+  "openclaw": {
+    "emoji": "✨",
+    "category": "self-improvement"
+  }
+}

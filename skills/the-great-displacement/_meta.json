@@ -1,0 +1,17 @@
+{
+  "name": "the-great-displacement",
+  "version": "1.0.0",
+  "description": "Jake Bittle's The Great Displacement — understand how climate change is forcing the largest migration in American history through wildfires, floods, sea-level rise, and extreme weather",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-great-displacement",
+  "useCase": "Helps anyone understand the real impact of climate change on American communities — from disaster preparedness and community resilience to personal decisions about where to live.",
+  "knownRisks": [
+    "The book covers climate impacts through 2023 — conditions continue to evolve"
+  ],
+  "tags": ["climate-change", "migration", "environment", "displacement", "disaster", "adaptation", "community", "policy"],
+  "openclaw": {
+    "emoji": "🌊",
+    "category": "self-improvement"
+  }
+}

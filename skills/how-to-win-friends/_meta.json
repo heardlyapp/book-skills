@@ -1,0 +1,18 @@
+{
+  "name": "how-to-win-friends",
+  "version": "1.0.0",
+  "description": "Dale Carnegie's How to Win Friends and Influence People — build relationships, handle people, lead without resistance using 30 principles",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/how-to-win-friends",
+  "useCase": "Developers and AI agents can use this skill to get practical advice on making friends, handling difficult people, winning arguments, giving criticism, and leading without authority.",
+  "knownRisks": [
+    "Carnegie's principles are for genuine human connection, not manipulation — use sincerely",
+    "Cultural differences may affect how directly applicable some principles are"
+  ],
+  "tags": ["communication", "relationships", "leadership", "persuasion", "social-skills", "career"],
+  "openclaw": {
+    "emoji": "🤝",
+    "category": "communication"
+  }
+}

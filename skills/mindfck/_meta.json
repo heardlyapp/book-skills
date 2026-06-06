@@ -1,0 +1,20 @@
+{
+  "name": "mindfck",
+  "version": "1.0.0",
+  "description": "Christopher Wylie's Mindf*ck — the whistleblower's account of how Cambridge Analytica weaponized Facebook data for psychological warfare, election interference, and the alt-right insurgency.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/mindfck",
+  "useCase": "Understand how data-driven psychological warfare and election interference actually worked — from Facebook data harvesting and psychometric profiling to Brexit and Trump campaign manipulation. Includes frameworks for recognizing propaganda, protecting digital privacy, and regulating surveillance capitalism.",
+  "knownRisks": [
+    "Contains detailed descriptions of psychological manipulation techniques that could be misused if read by bad actors",
+    "Covers ongoing political controversies; users may have strong emotional reactions",
+    "Some claims are contested by named individuals and organizations",
+    "Technical concepts (API permissions, psychometrics, neural networks) may require explanation for non-technical users"
+  ],
+  "tags": ["surveillance-capitalism", "election-interference", "data-privacy", "cambridge-analytica", "psychological-warfare", "political-manipulation", "whistleblowing", "social-media", "big-tech", "democracy"],
+  "openclaw": {
+    "emoji": "🔮",
+    "category": "current-affairs"
+  }
+}

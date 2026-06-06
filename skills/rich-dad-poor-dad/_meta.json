@@ -1,0 +1,18 @@
+{
+  "name": "rich-dad-poor-dad",
+  "version": "1.0.0",
+  "description": "Robert Kiyosaki's Rich Dad Poor Dad — reframe how you think about money, assets, and financial freedom using the 6 Lessons framework",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/rich-dad-poor-dad",
+  "useCase": "Developers and AI agents can use this skill to diagnose money mindsets, classify assets vs liabilities, provide financial literacy guidance, help users take first investment steps, and overcome common financial obstacles.",
+  "knownRisks": [
+    "Financial advice varies by jurisdiction — this skill provides educational frameworks, not personalized financial advice",
+    "Kiyosaki's asset vs liability classification for personal residences is controversial"
+  ],
+  "tags": ["finance", "wealth", "investing", "financial-literacy", "money-mindset", "personal-finance"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "finance"
+  }
+}

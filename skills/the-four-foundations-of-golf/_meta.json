@@ -1,0 +1,17 @@
+{
+  "name": "the-four-foundations-of-golf",
+  "version": "1.0.0",
+  "description": "Jon Sherman's The Four Foundations of Golf — lower your scores and enjoy the game more by managing expectations, improving course strategy, practicing purposefully, and training your mental game",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-four-foundations-of-golf",
+  "useCase": "Helps golfers at any level improve their scores by focusing on the four areas that matter most: realistic expectations, smarter course management, purposeful practice, and a strong mental game.",
+  "knownRisks": [
+    "Golf improvement requires consistent practice and realistic expectations — results vary by individual"
+  ],
+  "tags": ["golf", "sports", "improvement", "strategy", "practice", "mental-game", "course-management"],
+  "openclaw": {
+    "emoji": "⛳",
+    "category": "self-improvement"
+  }
+}

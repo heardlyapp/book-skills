@@ -1,0 +1,17 @@
+{
+  "name": "the-creative-habit",
+  "version": "1.0.0",
+  "description": "Twyla Tharp's The Creative Habit — build creativity as a daily practice through rituals, preparation, discipline, and consistent work, regardless of inspiration or mood",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-creative-habit",
+  "useCase": "Helps anyone develop a sustainable creative practice by building rituals, preparing scaffolding, overcoming fear, and showing up consistently — based on Twyla Tharp's decades as a world-class choreographer.",
+  "knownRisks": [
+    "The approach requires consistent daily practice — knowing the techniques isn't enough"
+  ],
+  "tags": ["creativity", "habit", "discipline", "art", "daily-practice", "ritual", "choreography", "self-discipline"],
+  "openclaw": {
+    "emoji": "💃",
+    "category": "self-improvement"
+  }
+}

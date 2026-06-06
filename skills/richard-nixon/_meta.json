@@ -1,0 +1,17 @@
+{
+  "name": "richard-nixon",
+  "version": "1.0.0",
+  "description": "John Farrell's Richard Nixon: The Life — extract lessons from Nixon's rise, triumph, and fall: resilience, foreign policy genius, leadership under pressure, the dangers of paranoia, and political strategy",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/richard-nixon",
+  "useCase": "Helps leaders, students of politics, and anyone interested in power understand both the art of political comeback and the dangers of unchecked ambition — through the definitive Nixon biography.",
+  "knownRisks": [
+    "Nixon's story is complex and controversial — the skill aims to extract lessons without endorsing unethical behavior"
+  ],
+  "tags": ["nixon", "president", "politics", "leadership", "watergate", "resilience", "history", "biography"],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "business"
+  }
+}

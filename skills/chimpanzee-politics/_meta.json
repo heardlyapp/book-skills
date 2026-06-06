@@ -1,0 +1,18 @@
+{
+  "name": "chimpanzee-politics",
+  "version": "1.0.0",
+  "description": "Frans de Waal's Chimpanzee Politics — analyze power dynamics, coalition-building, leadership styles, and conflict resolution through the lens of chimpanzee social behavior",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/chimpanzee-politics",
+  "useCase": "Helps leaders, managers, and anyone navigating organizations understand the biological roots of political behavior — how coalitions form, how power shifts, and how groups maintain stability through conflict and reconciliation.",
+  "knownRisks": [
+    "Chimpanzee behavior is a metaphor for human politics, not a direct equivalent — human social structures are far more complex",
+    "The book's observations are from captive chimps at Arnhem Zoo; wild chimp behavior differs significantly"
+  ],
+  "tags": ["primatology", "power", "leadership", "social-dynamics", "evolution", "psychology", "organizational-behavior"],
+  "openclaw": {
+    "emoji": "🐵",
+    "category": "business"
+  }
+}

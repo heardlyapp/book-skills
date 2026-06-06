@@ -1,0 +1,15 @@
+{
+  "name": "the-richest-man-in-babylon",
+  "version": "1.0.1",
+  "description": "George S. Clason's The Richest Man in Babylon — timeless wealth-building principles through the 7 Cures and 5 Laws of Gold",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-richest-man-in-babylon",
+  "useCase": "Helps users build financial discipline through ancient wisdom: save 10%, budget wisely, invest with caution, increase earning power.",
+  "knownRisks": [
+    "The parables are principle-based, not specific financial advice for modern investments",
+    "The 10% savings rate is a starting guideline; individual circumstances may require different ratios"
+  ],
+  "tags": ["personal-finance", "wealth", "saving", "investing", "financial-discipline", "money-mindset"],
+  "openclaw": {"emoji": "🏛️", "category": "finance"}
+}

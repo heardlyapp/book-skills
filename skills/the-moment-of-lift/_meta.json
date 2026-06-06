@@ -1,0 +1,17 @@
+{
+  "name": "the-moment-of-lift",
+  "version": "1.0.0",
+  "description": "Melinda French Gates' The Moment of Lift — understand how empowering women changes the world through family planning, education, economic empowerment, and gender equality",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-moment-of-lift",
+  "useCase": "Helps anyone understand the transformational power of women's empowerment — from family planning and girls' education to microfinance and global development.",
+  "knownRisks": [
+    "The book reflects Melinda Gates' perspective through 2019"
+  ],
+  "tags": ["women-empowerment", "gender-equality", "global-development", "philanthropy", "family-planning", "education", "microfinance"],
+  "openclaw": {
+    "emoji": "🌍",
+    "category": "self-improvement"
+  }
+}

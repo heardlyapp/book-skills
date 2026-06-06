@@ -1,0 +1,18 @@
+{
+  "name": "countdown-1945",
+  "version": "1.0.0",
+  "description": "Chris Wallace and Mitch Weiss's Countdown 1945 — leadership and decision-making toolkit from the 116 days between FDR's death and the atomic bombing of Hiroshima",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/countdown-1945",
+  "useCase": "Helps leaders and decision-makers understand how to handle high-stakes decisions with incomplete information, navigate leadership transitions, manage massive secret projects, and make ethical choices under extreme pressure — through the lens of Truman's most consequential period.",
+  "knownRisks": [
+    "Historical lessons are retrospective — real-time decision-making feels different than historical analysis",
+    "Military and wartime contexts may not translate directly to civilian leadership scenarios"
+  ],
+  "tags": ["history", "leadership", "decision-making", "wwii", "truman", "atomic-bomb", "crisis-management", "manhattan-project", "ethics", "project-management"],
+  "openclaw": {
+    "emoji": "☢️",
+    "category": "business"
+  }
+}

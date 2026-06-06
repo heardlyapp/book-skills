@@ -1,0 +1,12 @@
+{
+  "name": "the-checklist-manifesto",
+  "version": "1.0.1",
+  "description": "Atul Gawande's The Checklist Manifesto — manage complexity and prevent errors in high-stakes environments",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-checklist-manifesto",
+  "useCase": "Helps professionals and teams design effective checklists, reduce errors, manage complexity, and build a culture of discipline in high-stakes work.",
+  "knownRisks": ["Checklists complement expertise but don't replace judgment — they are tools for discipline, not substitutes for skill"],
+  "tags": ["productivity", "systems", "quality", "leadership", "healthcare", "aviation", "engineering"],
+  "openclaw": {"emoji": "✅", "category": "productivity"}
+}

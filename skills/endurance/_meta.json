@@ -1,0 +1,17 @@
+{
+  "name": "endurance",
+  "version": "1.0.0",
+  "description": "Alfred Lansing's Endurance — an executable toolkit for leadership under extreme adversity, drawn from the harrowing true story of Ernest Shackleton's 1914 Antarctic expedition and the survival of his entire crew against impossible odds.\n\nCovers 5 use cases:\n① Leadership in Crisis — how Shackleton kept his crew alive, united, and hopeful through nearly two years of hardship\n② Building Unbreakable Team Spirit — create a culture of mutual support and shared purpose\n③ Decision-Making Under Uncertainty — make critical decisions with incomplete information\n④ Maintaining Hope in Desperate Circumstances — sustain optimism when the situation seems hopeless\n⑤ Adaptability & Resourcefulness — pivot strategies when plans fail.\n\nTrigger when users say: \"Shackleton\" \"Endurance expedition\" \"Leadership under pressure\" \"Crisis leadership\" \"Team survival\" \"Never give up\" \"Extreme adversity\" \"Leadership lessons\" \"Survival mindset\"\nor mention: Ernest Shackleton / Endurance / Antarctica / survival / crisis leadership / polar exploration.\n\nRelated skills: cant-hurt-me, leadership-in-turbulent-times, the-slight-edge, winning, the-servant.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/endurance",
+  "useCase": "Helps leaders navigate extreme adversity by applying Ernest Shackleton's proven methods for keeping teams alive, united, and hopeful when everything goes wrong.",
+  "knownRisks": [
+    "Shackleton's methods were extreme for extreme circumstances; adapt the principles to your context."
+  ],
+  "tags": ["leadership", "survival", "crisis", "shackleton", "antarctica", "adventure", "teamwork", "resilience", "history"],
+  "openclaw": {
+    "emoji": "❄️",
+    "category": "business"
+  }
+}

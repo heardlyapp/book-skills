@@ -1,0 +1,17 @@
+{
+  "name": "the-alter-ego-effect",
+  "version": "1.0.0",
+  "description": "Todd Herman's The Alter Ego Effect — create a secret identity to overcome self-doubt, perform under pressure, and access your highest potential when it matters most",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-alter-ego-effect",
+  "useCase": "Helps anyone who struggles with self-doubt, performance anxiety, or impostor syndrome create an alter ego that accesses their peak performance — whether for presentations, sports, interviews, or tough conversations.",
+  "knownRisks": [
+    "The alter ego approach is a tool, not an identity change — users should maintain connection to their core self"
+  ],
+  "tags": ["confidence", "performance", "psychology", "persona", "peak-performance", "identity", "self-improvement", "mental-toughness"],
+  "openclaw": {
+    "emoji": "🦸",
+    "category": "self-improvement"
+  }
+}

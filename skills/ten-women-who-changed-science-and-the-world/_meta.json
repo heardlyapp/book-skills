@@ -1,0 +1,17 @@
+{
+  "name": "ten-women-who-changed-science-and-the-world",
+  "version": "1.0.0",
+  "description": "Catherine Whitlock and Rhodri Evans's Ten Women Who Changed Science — learn from ten pioneering women scientists about discovery, persistence, overcoming barriers, and leaving a lasting impact on science and humanity",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/ten-women-who-changed-science-and-the-world",
+  "useCase": "Helps anyone find inspiration in the stories of ten women scientists who changed the world — from Marie Curie to Rachel Carson — and learn about systemic barriers, persistence, and the true nature of scientific discovery.",
+  "knownRisks": [
+    "The book profiles ten specific women — there are many other women scientists whose stories are not covered"
+  ],
+  "tags": ["women-in-science", "stem", "science", "biography", "inspiration", "history-of-science", "diversity"],
+  "openclaw": {
+    "emoji": "🔬",
+    "category": "self-improvement"
+  }
+}

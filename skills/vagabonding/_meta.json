@@ -1,0 +1,17 @@
+{
+  "name": "vagabonding",
+  "version": "1.0.0",
+  "description": "Rolf Potts's Vagabonding — an executable toolkit for long-term world travel: how to break free from the conventional path, save money for extended travel, embrace uncertainty on the road, and turn travel into a way of life rather than a brief escape.\n\nCovers 5 use cases:\n① Breaking Free — overcome the myths that keep you from extended travel, reframe your relationship with time and work\n② Financial Preparation — save aggressively, simplify your life, build a travel fund\n③ Planning & Logistics — plan just enough without overplanning, handle visas, gear, health\n④ On the Road — navigate new cultures, make friends, stay safe, embrace uncertainty\n⑤ Coming Home — reintegrate after long-term travel, apply travel wisdom to daily life.\n\nTrigger when users say: \"Long-term travel\" \"How to travel the world\" \"Quit job to travel\" \"Travel on a budget\" \"Extended trip planning\" \"How to afford travel\" \"World travel tips\" \"Solo travel\" \"Backpacking\" \"Travel lifestyle\" \"Digital nomad\" \"How to start traveling\" \"Travel fear\" \"Overcome travel anxiety\" \"Life-changing travel\"\nor mention: Rolf Potts / vagabonding / long-term travel / budget travel / world travel / travel lifestyle.\n\nRelated skills: the-millionaire-fastlane, the-slight-edge, the-happiness-advantage, clear-thinking-book.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/vagabonding",
+  "useCase": "Helps anyone who dreams of long-term travel overcome the practical and psychological barriers — from saving money and simplifying their life to navigating uncertainty on the road and reintegrating after returning home.",
+  "knownRisks": [
+    "Vagabonding advice reflects a Western perspective on travel; safety, visa, and cost considerations vary by nationality and destination."
+  ],
+  "tags": ["travel", "vagabonding", "backpacking", "solo-travel", "budget-travel", "adventure", "lifestyle-design", "digital-nomad", "world-travel", "travel-tips"],
+  "openclaw": {
+    "emoji": "🌍",
+    "category": "lifestyle"
+  }
+}

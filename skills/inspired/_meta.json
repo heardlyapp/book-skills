@@ -1,0 +1,12 @@
+{
+  "name": "inspired",
+  "version": "1.0.0",
+  "description": "Marty Cagan's Inspired — build tech products customers love through product discovery, empowered teams, and product strategy",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/inspired",
+  "useCase": "Helps product managers, designers, and tech leaders build products that solve real problems through discovery, empowered teams, and customer-centric product strategy.",
+  "knownRisks": ["Product management practices vary by company size and industry — adapt the framework to your context"],
+  "tags": ["product-management", "product-discovery", "tech", "startup", "leadership", "innovation"],
+  "openclaw": {"emoji": "🚀", "category": "business"}
+}

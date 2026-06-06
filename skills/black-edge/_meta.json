@@ -1,0 +1,18 @@
+{
+  "name": "black-edge",
+  "version": "1.0.0",
+  "description": "Sheelah Kolhatkar's Black Edge — learn from the rise and fall of SAC Capital how insider trading works, how aggressive hedge fund culture blurs ethical lines, and how regulators build cases from cooperators and trading patterns",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/black-edge",
+  "useCase": "Helps finance professionals, compliance officers, and investigators understand insider trading patterns, recognize dangerous firm cultures, navigate compliance gray zones, and understand how regulatory investigations actually work.",
+  "knownRisks": [
+    "The book is a narrative account of one case — patterns may not apply universally",
+    "Legal standards for insider trading vary by jurisdiction"
+  ],
+  "tags": ["finance", "insider-trading", "hedge-fund", "compliance", "white-collar-crime", "investigation", "wall-street"],
+  "openclaw": {
+    "emoji": "📈",
+    "category": "business"
+  }
+}

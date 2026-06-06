@@ -1,0 +1,12 @@
+{
+  "name": "the-happiness-advantage",
+  "version": "1.0.0",
+  "description": "Shawn Achor's The Happiness Advantage — use positive psychology to fuel success and performance",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-happiness-advantage",
+  "useCase": "Helps users reverse the success→happiness formula, rewire their brain for positivity, overcome overwhelm, build resilience, and strengthen relationships.",
+  "knownRisks": ["Positive psychology is evidence-based but not a substitute for professional mental health support"],
+  "tags": ["happiness", "positive-psychology", "resilience", "productivity", "gratitude", "workplace-wellbeing"],
+  "openclaw": {"emoji": "😊", "category": "psychology"}
+}

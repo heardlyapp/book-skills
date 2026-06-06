@@ -1,0 +1,12 @@
+{
+  "name": "the-servant",
+  "version": "1.0.0",
+  "description": "James C. Hunter's The Servant — lead through authority and service, not power and self-interest",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-servant",
+  "useCase": "Helps leaders build authority through character, serve their teams, and practice the 6 principles of servant leadership.",
+  "knownRisks": ["Servant leadership requires genuine character change — superficial application won't build lasting authority"],
+  "tags": ["leadership", "servant-leadership", "management", "team-building", "character", "trust"],
+  "openclaw": {"emoji": "👑", "category": "business"}
+}

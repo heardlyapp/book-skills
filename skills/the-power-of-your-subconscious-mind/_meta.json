@@ -1,0 +1,17 @@
+{
+  "name": "the-power-of-your-subconscious-mind",
+  "version": "1.0.0",
+  "description": "Joseph Murphy's The Power of Your Subconscious Mind — an executable toolkit on using the subconscious mind to transform your life through affirmations, visualization, belief change, and the power of suggestion",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-power-of-your-subconscious-mind",
+  "useCase": "Helps anyone harness the power of their subconscious mind for personal transformation — overcoming fear, changing habits, attracting success, and healing through the power of belief.",
+  "knownRisks": [
+    "The book presents a metaphysical view that may not align with scientific evidence"
+  ],
+  "tags": ["subconscious-mind", "affirmations", "visualization", "self-help", "mind-power", "belief", "success", "personal-transformation"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "self-improvement"
+  }
+}

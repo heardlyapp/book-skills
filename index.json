@@ -1,0 +1,1690 @@
+{
+  "name": "Heardly Book Skills",
+  "description": "Executable AI skill toolkits for books",
+  "source": "https://github.com/heardlyapp/book-skills",
+  "total_skills": 100,
+  "skills": {
+    "100m-offers": {
+      "title": "$100M Offers",
+      "slug": "100m-offers",
+      "tags": [
+        "business",
+        "sales",
+        "marketing",
+        "pricing",
+        "offers",
+        "entrepreneurship",
+        "value",
+        "conversion",
+        "high-ticket"
+      ],
+      "emoji": "💰",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/100m-offers"
+    },
+    "7-habits": {
+      "title": "The 7 Habits of Highly Effective People",
+      "slug": "7-habits",
+      "tags": [
+        "self-improvement",
+        "leadership",
+        "productivity",
+        "time-management",
+        "relationships",
+        "effectiveness"
+      ],
+      "emoji": "🌳",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/7-habits"
+    },
+    "a-mind-for-numbers": {
+      "title": "A Mind for Numbers",
+      "slug": "a-mind-for-numbers",
+      "tags": [
+        "learning",
+        "study-skills",
+        "math",
+        "science",
+        "memory",
+        "procrastination",
+        "education",
+        "chunking",
+        "recall"
+      ],
+      "emoji": "🧠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/a-mind-for-numbers"
+    },
+    "addicted-to-the-monkey-mind": {
+      "title": "Addicted to the Monkey Mind",
+      "slug": "addicted-to-the-monkey-mind",
+      "tags": [
+        "monkey-mind",
+        "self-awareness",
+        "childhood-programming",
+        "limiting-beliefs",
+        "inner-critic",
+        "overthinking",
+        "personal-development",
+        "psychology"
+      ],
+      "emoji": "🐒",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/addicted-to-the-monkey-mind"
+    },
+    "as-a-man-thinketh": {
+      "title": "As a Man Thinketh",
+      "slug": "as-a-man-thinketh",
+      "tags": [
+        "mindset",
+        "self-mastery",
+        "character-development",
+        "positive-thinking",
+        "personal-development",
+        "philosophy",
+        "classic"
+      ],
+      "emoji": "🌿",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/as-a-man-thinketh"
+    },
+    "atomic-habits": {
+      "title": "Atomic Habits",
+      "slug": "atomic-habits",
+      "tags": [
+        "self-improvement",
+        "habits",
+        "productivity",
+        "psychology",
+        "behavior-change",
+        "discipline"
+      ],
+      "emoji": "🔄",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/atomic-habits"
+    },
+    "bad-blood": {
+      "title": "Bad Blood",
+      "slug": "bad-blood",
+      "tags": [
+        "theranos",
+        "fraud",
+        "silicon-valley",
+        "startup",
+        "whistleblowing",
+        "investigative-journalism",
+        "corporate-governance",
+        "due-diligence"
+      ],
+      "emoji": "🩸",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/bad-blood"
+    },
+    "battle-for-the-american-mind": {
+      "title": "Battle for the American Mind",
+      "slug": "battle-for-the-american-mind",
+      "tags": [
+        "education",
+        "classical-education",
+        "parenting",
+        "philosophy",
+        "curriculum",
+        "school-choice",
+        "paideia",
+        "trivium"
+      ],
+      "emoji": "📚",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/battle-for-the-american-mind"
+    },
+    "be-here-now": {
+      "title": "Be Here Now",
+      "slug": "be-here-now",
+      "tags": [
+        "spirituality",
+        "meditation",
+        "presence",
+        "consciousness",
+        "yoga",
+        "love",
+        "self-discovery",
+        "mindfulness",
+        "ram-dass"
+      ],
+      "emoji": "🕉️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/be-here-now"
+    },
+    "big-magic": {
+      "title": "Big Magic",
+      "slug": "big-magic",
+      "tags": [
+        "creativity",
+        "inspiration",
+        "art",
+        "writing",
+        "courage",
+        "perfectionism",
+        "creative-block",
+        "self-expression"
+      ],
+      "emoji": "✨",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/big-magic"
+    },
+    "black-edge": {
+      "title": "Black Edge",
+      "slug": "black-edge",
+      "tags": [
+        "finance",
+        "insider-trading",
+        "hedge-fund",
+        "compliance",
+        "white-collar-crime",
+        "investigation",
+        "wall-street"
+      ],
+      "emoji": "📈",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/black-edge"
+    },
+    "blood-and-oil": {
+      "title": "Blood and Oil",
+      "slug": "blood-and-oil",
+      "tags": [
+        "geopolitics",
+        "saudi-arabia",
+        "oil",
+        "mbs",
+        "middle-east",
+        "political-risk",
+        "authoritarianism",
+        "investigative-journalism"
+      ],
+      "emoji": "🛢️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/blood-and-oil"
+    },
+    "blowout": {
+      "title": "Blowout",
+      "slug": "blowout",
+      "tags": [
+        "oil",
+        "corruption",
+        "russia",
+        "geopolitics",
+        "democracy",
+        "environment",
+        "kleptocracy",
+        "energy",
+        "investigative-journalism"
+      ],
+      "emoji": "🛢️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/blowout"
+    },
+    "broken-money": {
+      "title": "Broken Money",
+      "slug": "broken-money",
+      "tags": [
+        "money",
+        "inflation",
+        "banking",
+        "bitcoin",
+        "gold",
+        "monetary-system",
+        "finance",
+        "economics"
+      ],
+      "emoji": "💵",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/broken-money"
+    },
+    "change-your-questions-change-your-life": {
+      "title": "Change Your Questions, Change Your Life",
+      "slug": "change-your-questions-change-your-life",
+      "tags": [
+        "mindset",
+        "questions",
+        "leadership",
+        "coaching",
+        "self-awareness",
+        "communication",
+        "transformation"
+      ],
+      "emoji": "❓",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/change-your-questions-change-your-life"
+    },
+    "chimpanzee-politics": {
+      "title": "Chimpanzee Politics",
+      "slug": "chimpanzee-politics",
+      "tags": [
+        "primatology",
+        "power",
+        "leadership",
+        "social-dynamics",
+        "evolution",
+        "psychology",
+        "organizational-behavior"
+      ],
+      "emoji": "🐵",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/chimpanzee-politics"
+    },
+    "countdown-1945": {
+      "title": "Countdown 1945",
+      "slug": "countdown-1945",
+      "tags": [
+        "history",
+        "leadership",
+        "decision-making",
+        "wwii",
+        "truman",
+        "atomic-bomb",
+        "crisis-management",
+        "manhattan-project",
+        "ethics",
+        "project-management"
+      ],
+      "emoji": "☢️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/countdown-1945"
+    },
+    "crashed": {
+      "title": "Crashed",
+      "slug": "crashed",
+      "tags": [
+        "2008 crisis",
+        "financial crisis",
+        "global finance",
+        "eurozone",
+        "economics",
+        "history",
+        "Tooze"
+      ],
+      "emoji": "🏦",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/crashed"
+    },
+    "creative-confidence": {
+      "title": "Creative Confidence",
+      "slug": "creative-confidence",
+      "tags": [
+        "creativity",
+        "innovation",
+        "design-thinking",
+        "confidence",
+        "ideation",
+        "psychology"
+      ],
+      "emoji": "🎨",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/creative-confidence"
+    },
+    "eat-to-live": {
+      "title": "Eat to Live",
+      "slug": "eat-to-live",
+      "tags": [
+        "nutrition",
+        "health",
+        "weight-loss",
+        "plant-based",
+        "disease-prevention",
+        "nutrient-density",
+        "wellness",
+        "diet"
+      ],
+      "emoji": "🥗",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/eat-to-live"
+    },
+    "endurance": {
+      "title": "Endurance",
+      "slug": "endurance",
+      "tags": [
+        "leadership",
+        "survival",
+        "crisis",
+        "shackleton",
+        "antarctica",
+        "adventure",
+        "teamwork",
+        "resilience",
+        "history"
+      ],
+      "emoji": "❄️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/endurance"
+    },
+    "everyone-communicates-few-connect": {
+      "title": "Everyone Communicates, Few Connect",
+      "slug": "everyone-communicates-few-connect",
+      "tags": [
+        "communication",
+        "leadership",
+        "connection",
+        "rapport",
+        "public-speaking",
+        "influence",
+        "relationships"
+      ],
+      "emoji": "🔗",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/everyone-communicates-few-connect"
+    },
+    "failing-forward": {
+      "title": "Failing Forward",
+      "slug": "failing-forward",
+      "tags": [
+        "failure",
+        "resilience",
+        "persistence",
+        "growth-mindset",
+        "leadership",
+        "learning",
+        "confidence"
+      ],
+      "emoji": "💪",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/failing-forward"
+    },
+    "financial-feminist": {
+      "title": "Financial Feminist",
+      "slug": "financial-feminist",
+      "tags": [
+        "personal-finance",
+        "money",
+        "investing",
+        "budgeting",
+        "women",
+        "feminism",
+        "debt",
+        "financial-independence"
+      ],
+      "emoji": "💰",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/financial-feminist"
+    },
+    "future-bright": {
+      "title": "Future Bright",
+      "slug": "future-bright",
+      "tags": [
+        "intelligence",
+        "cognitive-enhancement",
+        "psychology",
+        "learning",
+        "brain",
+        "education",
+        "iq",
+        "self-improvement",
+        "neuroscience"
+      ],
+      "emoji": "🧠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/future-bright"
+    },
+    "hidden-valley-road": {
+      "title": "Hidden Valley Road",
+      "slug": "hidden-valley-road",
+      "tags": [
+        "mental-health",
+        "schizophrenia",
+        "family",
+        "genetics",
+        "psychiatry",
+        "caregiving",
+        "trauma",
+        "neuroscience"
+      ],
+      "emoji": "🏠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/hidden-valley-road"
+    },
+    "how-to-enjoy-your-life-and-your-job": {
+      "title": "How to Enjoy Your Life and Your Job",
+      "slug": "how-to-enjoy-your-life-and-your-job",
+      "tags": [
+        "relationships",
+        "happiness",
+        "work-satisfaction",
+        "worry",
+        "enthusiasm",
+        "communication",
+        "personal-development",
+        "dale-carnegie"
+      ],
+      "emoji": "😊",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-enjoy-your-life-and-your-job"
+    },
+    "how-to-win-friends": {
+      "title": "How to Win Friends and Influence People",
+      "slug": "how-to-win-friends",
+      "tags": [
+        "communication",
+        "relationships",
+        "leadership",
+        "persuasion",
+        "social-skills",
+        "career"
+      ],
+      "emoji": "🤝",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-win-friends"
+    },
+    "i-will-teach-you-to-be-rich": {
+      "title": "I Will Teach You to Be Rich",
+      "slug": "i-will-teach-you-to-be-rich",
+      "tags": [
+        "personal-finance",
+        "money",
+        "investing",
+        "credit-cards",
+        "budgeting",
+        "wealth",
+        "ramit-sethi"
+      ],
+      "emoji": "💰",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/i-will-teach-you-to-be-rich"
+    },
+    "inspired": {
+      "title": "Inspired",
+      "slug": "inspired",
+      "tags": [
+        "product-management",
+        "product-discovery",
+        "tech",
+        "startup",
+        "leadership",
+        "innovation"
+      ],
+      "emoji": "🚀",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/inspired"
+    },
+    "kitchen-confidential": {
+      "title": "Kitchen Confidential",
+      "slug": "kitchen-confidential",
+      "tags": [
+        "leadership",
+        "cooking",
+        "restaurant",
+        "high-performance",
+        "kitchen-culture",
+        "bourdain",
+        "management",
+        "team-culture",
+        "hospitality"
+      ],
+      "emoji": "🔪",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/kitchen-confidential"
+    },
+    "leadership-in-turbulent-times": {
+      "title": "Leadership",
+      "slug": "leadership-in-turbulent-times",
+      "tags": [
+        "leadership",
+        "history",
+        "presidents",
+        "crisis-management",
+        "team-building",
+        "resilience",
+        "communication"
+      ],
+      "emoji": "🏛️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/leadership-in-turbulent-times"
+    },
+    "leadership-turbulent-times": {
+      "title": "Leadership: In Turbulent Times",
+      "slug": "leadership-turbulent-times",
+      "tags": [
+        "leadership",
+        "history",
+        "presidents",
+        "adversity",
+        "crisis-management",
+        "transformational-leadership",
+        "doris-kearns-goodwin"
+      ],
+      "emoji": "🏛️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/leadership-turbulent-times"
+    },
+    "lean-in": {
+      "title": "Lean In",
+      "slug": "lean-in",
+      "tags": [
+        "leadership",
+        "women-in-business",
+        "career",
+        "mentorship",
+        "negotiation",
+        "gender-equality"
+      ],
+      "emoji": "💪",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/lean-in"
+    },
+    "lean-thinking": {
+      "title": "Lean Thinking",
+      "slug": "lean-thinking",
+      "tags": [
+        "lean",
+        "operations",
+        "manufacturing",
+        "waste-reduction",
+        "kaizen",
+        "toyota",
+        "value-stream",
+        "continuous-improvement",
+        "business",
+        "management"
+      ],
+      "emoji": "🏭",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/lean-thinking"
+    },
+    "make-it-stick": {
+      "title": "Make It Stick",
+      "slug": "make-it-stick",
+      "tags": [
+        "learning",
+        "education",
+        "memory",
+        "study-skills",
+        "cognitive-science",
+        "productivity"
+      ],
+      "emoji": "📚",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/make-it-stick"
+    },
+    "mind-magic": {
+      "title": "neuroscience-backed 6-step manifestation system",
+      "slug": "mind-magic",
+      "tags": [
+        "manifestation",
+        "neuroscience",
+        "visualization",
+        "intention-setting",
+        "habit",
+        "mindfulness",
+        "self-improvement",
+        "neuroplasticity",
+        "personal-development",
+        "james-doty"
+      ],
+      "emoji": "🧠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/mind-magic"
+    },
+    "mindfck": {
+      "title": "Mindf*ck",
+      "slug": "mindfck",
+      "tags": [
+        "surveillance-capitalism",
+        "election-interference",
+        "data-privacy",
+        "cambridge-analytica",
+        "psychological-warfare",
+        "political-manipulation",
+        "whistleblowing",
+        "social-media",
+        "big-tech",
+        "democracy"
+      ],
+      "emoji": "🔮",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/mindfck"
+    },
+    "nonviolent-communication": {
+      "title": "Nonviolent Communication",
+      "slug": "nonviolent-communication",
+      "tags": [
+        "communication",
+        "psychology",
+        "nvc",
+        "conflict-resolution",
+        "empathy",
+        "self-help"
+      ],
+      "emoji": "🦒",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/nonviolent-communication"
+    },
+    "old-school-grit": {
+      "title": "Old School Grit",
+      "slug": "old-school-grit",
+      "tags": [
+        "grit",
+        "perseverance",
+        "discipline",
+        "mental-toughness",
+        "success",
+        "motivation",
+        "work-ethic",
+        "resilience"
+      ],
+      "emoji": "💪",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/old-school-grit"
+    },
+    "one-up-on-wall-street": {
+      "title": "One Up On Wall Street",
+      "slug": "one-up-on-wall-street",
+      "tags": [
+        "investing",
+        "stocks",
+        "stock-picking",
+        "value-investing",
+        "peter-lynch",
+        "tenbagger",
+        "portfolio",
+        "finance"
+      ],
+      "emoji": "📈",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/one-up-on-wall-street"
+    },
+    "power-sex-suicide": {
+      "title": "Power, Sex, Suicide",
+      "slug": "power-sex-suicide",
+      "tags": [
+        "mitochondria",
+        "biology",
+        "evolution",
+        "aging",
+        "cell-biology",
+        "health",
+        "science",
+        "dna"
+      ],
+      "emoji": "🔬",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/power-sex-suicide"
+    },
+    "radically-happy": {
+      "title": "Radically Happy",
+      "slug": "radically-happy",
+      "tags": [
+        "happiness",
+        "meditation",
+        "mindfulness",
+        "buddhism",
+        "mental-health",
+        "emotions",
+        "compassion",
+        "psychology"
+      ],
+      "emoji": "☸️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/radically-happy"
+    },
+    "rich-dad-poor-dad": {
+      "title": "Rich Dad Poor Dad",
+      "slug": "rich-dad-poor-dad",
+      "tags": [
+        "finance",
+        "wealth",
+        "investing",
+        "financial-literacy",
+        "money-mindset",
+        "personal-finance"
+      ],
+      "emoji": "💰",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/rich-dad-poor-dad"
+    },
+    "richard-nixon": {
+      "title": "Richard Nixon: The Life",
+      "slug": "richard-nixon",
+      "tags": [
+        "nixon",
+        "president",
+        "politics",
+        "leadership",
+        "watergate",
+        "resilience",
+        "history",
+        "biography"
+      ],
+      "emoji": "🏛️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/richard-nixon"
+    },
+    "surviving-climate-anxiety": {
+      "title": "Surviving Climate Anxiety",
+      "slug": "surviving-climate-anxiety",
+      "tags": [
+        "climate",
+        "anxiety",
+        "mental-health",
+        "environment",
+        "coping",
+        "resilience",
+        "eco-anxiety",
+        "sustainability",
+        "psychology",
+        "hope"
+      ],
+      "emoji": "🌱",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/surviving-climate-anxiety"
+    },
+    "talk-like-ted": {
+      "title": "Talk Like TED",
+      "slug": "talk-like-ted",
+      "tags": [
+        "public-speaking",
+        "presentation-skills",
+        "ted-talks",
+        "storytelling",
+        "communication",
+        "leadership",
+        "pitch"
+      ],
+      "emoji": "🎤",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/talk-like-ted"
+    },
+    "ten-women-who-changed-science-and-the-world": {
+      "title": "Ten Women Who Changed Science",
+      "slug": "ten-women-who-changed-science-and-the-world",
+      "tags": [
+        "women-in-science",
+        "stem",
+        "science",
+        "biography",
+        "inspiration",
+        "history-of-science",
+        "diversity"
+      ],
+      "emoji": "🔬",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/ten-women-who-changed-science-and-the-world"
+    },
+    "the-advice-trap": {
+      "title": "The Advice Trap",
+      "slug": "the-advice-trap",
+      "tags": [
+        "coaching",
+        "leadership",
+        "management",
+        "questions",
+        "communication",
+        "curiosity",
+        "psychological-safety"
+      ],
+      "emoji": "🦁",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-advice-trap"
+    },
+    "the-alter-ego-effect": {
+      "title": "The Alter Ego Effect",
+      "slug": "the-alter-ego-effect",
+      "tags": [
+        "confidence",
+        "performance",
+        "psychology",
+        "persona",
+        "peak-performance",
+        "identity",
+        "self-improvement",
+        "mental-toughness"
+      ],
+      "emoji": "🦸",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-alter-ego-effect"
+    },
+    "the-art-of-loving": {
+      "title": "The Art of Loving",
+      "slug": "the-art-of-loving",
+      "tags": [
+        "love",
+        "relationships",
+        "psychology",
+        "philosophy",
+        "self-love",
+        "personal-development",
+        "fromm"
+      ],
+      "emoji": "❤️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-loving"
+    },
+    "the-art-of-thinking-clearly": {
+      "title": "The Art of Thinking Clearly",
+      "slug": "the-art-of-thinking-clearly",
+      "tags": [
+        "cognitive-biases",
+        "decision-making",
+        "psychology",
+        "rationality",
+        "thinking",
+        "self-improvement"
+      ],
+      "emoji": "🧠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-thinking-clearly"
+    },
+    "the-butchering-art": {
+      "title": "The Butchering Art",
+      "slug": "the-butchering-art",
+      "tags": [
+        "medical-history",
+        "surgery",
+        "innovation",
+        "lister",
+        "science",
+        "antiseptic",
+        "hygiene",
+        "victorian"
+      ],
+      "emoji": "🏥",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-butchering-art"
+    },
+    "the-checklist-manifesto": {
+      "title": "The Checklist Manifesto",
+      "slug": "the-checklist-manifesto",
+      "tags": [
+        "productivity",
+        "systems",
+        "quality",
+        "leadership",
+        "healthcare",
+        "aviation",
+        "engineering"
+      ],
+      "emoji": "✅",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-checklist-manifesto"
+    },
+    "the-coddling-of-the-american-mind": {
+      "title": "The Coddling of the American Mind",
+      "slug": "the-coddling-of-the-american-mind",
+      "tags": [
+        "resilience",
+        "psychology",
+        "education",
+        "free-speech",
+        "cbt",
+        "polarization",
+        "mental-health",
+        "parenting"
+      ],
+      "emoji": "🎓",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-coddling-of-the-american-mind"
+    },
+    "the-computer-always-wins": {
+      "title": "The Computer Always Wins",
+      "slug": "the-computer-always-wins",
+      "tags": [
+        "algorithms",
+        "computer-science",
+        "AI",
+        "machine-learning",
+        "games",
+        "puzzles",
+        "programming",
+        "coding",
+        "education"
+      ],
+      "emoji": "💻",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-computer-always-wins"
+    },
+    "the-creative-act": {
+      "title": "The Creative Act",
+      "slug": "the-creative-act",
+      "tags": [
+        "creativity",
+        "art",
+        "music",
+        "inspiration",
+        "creative-process",
+        "rick-rubin",
+        "self-expression",
+        "philosophy"
+      ],
+      "emoji": "🎨",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-creative-act"
+    },
+    "the-creative-habit": {
+      "title": "The Creative Habit",
+      "slug": "the-creative-habit",
+      "tags": [
+        "creativity",
+        "habit",
+        "discipline",
+        "art",
+        "daily-practice",
+        "ritual",
+        "choreography",
+        "self-discipline"
+      ],
+      "emoji": "💃",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-creative-habit"
+    },
+    "the-crowd": {
+      "title": "The Crowd",
+      "slug": "the-crowd",
+      "tags": [
+        "psychology",
+        "crowds",
+        "social-psychology",
+        "group-behavior",
+        "influence",
+        "persuasion",
+        "propaganda",
+        "mob"
+      ],
+      "emoji": "👥",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-crowd"
+    },
+    "the-education-of-a-value-investor": {
+      "title": "The Education of a Value Investor",
+      "slug": "the-education-of-a-value-investor",
+      "tags": [
+        "investing",
+        "value-investing",
+        "buffett",
+        "graham",
+        "psychology",
+        "finance",
+        "long-term",
+        "stocks"
+      ],
+      "emoji": "📚",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-education-of-a-value-investor"
+    },
+    "the-element": {
+      "title": "The Element",
+      "slug": "the-element",
+      "tags": [
+        "creativity",
+        "passion",
+        "career",
+        "talent",
+        "purpose",
+        "personal-development",
+        "self-discovery"
+      ],
+      "emoji": "🔥",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-element"
+    },
+    "the-essential-drucker": {
+      "title": "The Essential Drucker",
+      "slug": "the-essential-drucker",
+      "tags": [
+        "management",
+        "leadership",
+        "business",
+        "innovation",
+        "strategy",
+        "drucker",
+        "executive",
+        "organization"
+      ],
+      "emoji": "📊",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-essential-drucker"
+    },
+    "the-first-days-of-school": {
+      "title": "The First Days of School",
+      "slug": "the-first-days-of-school",
+      "tags": [
+        "teaching",
+        "education",
+        "classroom-management",
+        "teacher",
+        "school",
+        "pedagogy",
+        "procedures"
+      ],
+      "emoji": "🍎",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-first-days-of-school"
+    },
+    "the-four-foundations-of-golf": {
+      "title": "The Four Foundations of Golf",
+      "slug": "the-four-foundations-of-golf",
+      "tags": [
+        "golf",
+        "sports",
+        "improvement",
+        "strategy",
+        "practice",
+        "mental-game",
+        "course-management"
+      ],
+      "emoji": "⛳",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-four-foundations-of-golf"
+    },
+    "the-four-steps-to-the-epiphany": {
+      "title": "The Four Steps to the Epiphany",
+      "slug": "the-four-steps-to-the-epiphany",
+      "tags": [
+        "startup",
+        "customer-development",
+        "lean-startup",
+        "entrepreneurship",
+        "product-management",
+        "innovation",
+        "business-model"
+      ],
+      "emoji": "🚀",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-four-steps-to-the-epiphany"
+    },
+    "the-go-giver-influencer": {
+      "title": "The Go-Giver Influencer",
+      "slug": "the-go-giver-influencer",
+      "tags": [
+        "influence",
+        "persuasion",
+        "negotiation",
+        "leadership",
+        "servant-leadership",
+        "relationships",
+        "communication"
+      ],
+      "emoji": "🤝",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-go-giver-influencer"
+    },
+    "the-grand-design": {
+      "title": "The Grand Design",
+      "slug": "the-grand-design",
+      "tags": [
+        "cosmology",
+        "physics",
+        "hawking",
+        "universe",
+        "quantum-mechanics",
+        "m-theory",
+        "big-bang",
+        "science"
+      ],
+      "emoji": "🌌",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-grand-design"
+    },
+    "the-great-displacement": {
+      "title": "The Great Displacement",
+      "slug": "the-great-displacement",
+      "tags": [
+        "climate-change",
+        "migration",
+        "environment",
+        "displacement",
+        "disaster",
+        "adaptation",
+        "community",
+        "policy"
+      ],
+      "emoji": "🌊",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-great-displacement"
+    },
+    "the-happiness-advantage": {
+      "title": "The Happiness Advantage",
+      "slug": "the-happiness-advantage",
+      "tags": [
+        "happiness",
+        "positive-psychology",
+        "resilience",
+        "productivity",
+        "gratitude",
+        "workplace-wellbeing"
+      ],
+      "emoji": "😊",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-happiness-advantage"
+    },
+    "the-lords-of-easy-money": {
+      "title": "The Lords of Easy Money",
+      "slug": "the-lords-of-easy-money",
+      "tags": [
+        "federal-reserve",
+        "quantitative-easing",
+        "monetary-policy",
+        "economics",
+        "inflation",
+        "central-banking",
+        "finance"
+      ],
+      "emoji": "💰",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-lords-of-easy-money"
+    },
+    "the-miracle-of-mindfulness": {
+      "title": "The Miracle of Mindfulness",
+      "slug": "the-miracle-of-mindfulness",
+      "tags": [
+        "mindfulness",
+        "meditation",
+        "zen",
+        "thich-nhat-hanh",
+        "breathing",
+        "presence",
+        "spirituality",
+        "peace"
+      ],
+      "emoji": "🧘",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-miracle-of-mindfulness"
+    },
+    "the-moment-of-lift": {
+      "title": "The Moment Of Lift",
+      "slug": "the-moment-of-lift",
+      "tags": [
+        "women-empowerment",
+        "gender-equality",
+        "global-development",
+        "philanthropy",
+        "family-planning",
+        "education",
+        "microfinance"
+      ],
+      "emoji": "🌍",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-moment-of-lift"
+    },
+    "the-mountain-is-you": {
+      "title": "The Mountain Is You",
+      "slug": "the-mountain-is-you",
+      "tags": [
+        "self-sabotage",
+        "emotional-intelligence",
+        "personal-development",
+        "self-mastery",
+        "psychology",
+        "transformation",
+        "limiting-beliefs"
+      ],
+      "emoji": "🏔️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-mountain-is-you"
+    },
+    "the-new-jim-crow": {
+      "title": "The New Jim Crow",
+      "slug": "the-new-jim-crow",
+      "tags": [
+        "social-justice",
+        "mass-incarceration",
+        "racial-justice",
+        "criminal-justice",
+        "prison",
+        "civil-rights",
+        "law",
+        "activism"
+      ],
+      "emoji": "⛓️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-jim-crow"
+    },
+    "the-outsiders": {
+      "title": "The Outsiders",
+      "slug": "the-outsiders",
+      "tags": [
+        "business",
+        "ceo",
+        "capital-allocation",
+        "investing",
+        "management",
+        "leadership",
+        "value-investing"
+      ],
+      "emoji": "🏢",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-outsiders"
+    },
+    "the-pleasure-of-finding-things-out": {
+      "title": "The Pleasure of Finding Things Out",
+      "slug": "the-pleasure-of-finding-things-out",
+      "tags": [
+        "science",
+        "physics",
+        "feynman",
+        "curiosity",
+        "critical-thinking",
+        "discovery",
+        "learning",
+        "education"
+      ],
+      "emoji": "🔬",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-pleasure-of-finding-things-out"
+    },
+    "the-power-of-now": {
+      "title": "The Power of Now",
+      "slug": "the-power-of-now",
+      "tags": [
+        "mindfulness",
+        "spirituality",
+        "presence",
+        "meditation",
+        "ego",
+        "consciousness",
+        "healing",
+        "inner-peace"
+      ],
+      "emoji": "🧘",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-power-of-now"
+    },
+    "the-power-of-your-subconscious-mind": {
+      "title": "The Power of Your Subconscious Mind",
+      "slug": "the-power-of-your-subconscious-mind",
+      "tags": [
+        "subconscious-mind",
+        "affirmations",
+        "visualization",
+        "self-help",
+        "mind-power",
+        "belief",
+        "success",
+        "personal-transformation"
+      ],
+      "emoji": "🧠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-power-of-your-subconscious-mind"
+    },
+    "the-price-of-inequality": {
+      "title": "The Price of Inequality",
+      "slug": "the-price-of-inequality",
+      "tags": [
+        "inequality",
+        "economics",
+        "stiglitz",
+        "wealth-gap",
+        "economic-policy",
+        "social-justice",
+        "poverty",
+        "democracy"
+      ],
+      "emoji": "📊",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-price-of-inequality"
+    },
+    "the-prize": {
+      "title": "The Prize",
+      "slug": "the-prize",
+      "tags": [
+        "oil",
+        "energy",
+        "history",
+        "geopolitics",
+        "economy",
+        "petroleum",
+        "energy-policy",
+        "middle-east"
+      ],
+      "emoji": "🛢️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-prize"
+    },
+    "the-psychology-of-selling": {
+      "title": "The Psychology of Selling",
+      "slug": "the-psychology-of-selling",
+      "tags": [
+        "sales",
+        "selling",
+        "business",
+        "psychology",
+        "persuasion",
+        "closing",
+        "prospecting",
+        "communication"
+      ],
+      "emoji": "📞",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-psychology-of-selling"
+    },
+    "the-richest-man-in-babylon": {
+      "title": "The Richest Man in Babylon",
+      "slug": "the-richest-man-in-babylon",
+      "tags": [
+        "personal-finance",
+        "wealth",
+        "saving",
+        "investing",
+        "financial-discipline",
+        "money-mindset"
+      ],
+      "emoji": "🏛️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-richest-man-in-babylon"
+    },
+    "the-servant": {
+      "title": "The Servant",
+      "slug": "the-servant",
+      "tags": [
+        "leadership",
+        "servant-leadership",
+        "management",
+        "team-building",
+        "character",
+        "trust"
+      ],
+      "emoji": "👑",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-servant"
+    },
+    "the-slight-edge": {
+      "title": "The Slight Edge",
+      "slug": "the-slight-edge",
+      "tags": [
+        "self-improvement",
+        "habits",
+        "success",
+        "mindset",
+        "consistency",
+        "compound-effect"
+      ],
+      "emoji": "🌱",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-slight-edge"
+    },
+    "the-tragedy-of-great-power-politics": {
+      "title": "The Tragedy of Great Power Politics",
+      "slug": "the-tragedy-of-great-power-politics",
+      "tags": [
+        "international-relations",
+        "geopolitics",
+        "realism",
+        "war",
+        "power",
+        "strategy",
+        "political-science",
+        "mearsheimer"
+      ],
+      "emoji": "🌐",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-tragedy-of-great-power-politics"
+    },
+    "the-truth-about-financial-freedom": {
+      "title": "The Wealthy Barber Returns (also known as The Truth About Financial Freedom)",
+      "slug": "the-truth-about-financial-freedom",
+      "tags": [
+        "personal-finance",
+        "saving",
+        "investing",
+        "debt",
+        "behavioral-finance",
+        "financial-freedom",
+        "wealth",
+        "money-management",
+        "budgeting"
+      ],
+      "emoji": "💰",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-truth-about-financial-freedom"
+    },
+    "the-war-of-art": {
+      "title": "The War of Art",
+      "slug": "the-war-of-art",
+      "tags": [
+        "creativity",
+        "writing",
+        "procrastination",
+        "resistance",
+        "art",
+        "discipline",
+        "productivity",
+        "inspiration",
+        "self-help"
+      ],
+      "emoji": "⚔️",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-war-of-art"
+    },
+    "the-way-to-wealth": {
+      "title": "The Way to Wealth",
+      "slug": "the-way-to-wealth",
+      "tags": [
+        "benjamin-franklin",
+        "wealth",
+        "frugality",
+        "industry",
+        "wisdom",
+        "personal-finance",
+        "character",
+        "self-discipline",
+        "life-advice",
+        "productivity"
+      ],
+      "emoji": "💡",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-way-to-wealth"
+    },
+    "the-womanly-art-of-breastfeeding": {
+      "title": "The Womanly Art of Breastfeeding",
+      "slug": "the-womanly-art-of-breastfeeding",
+      "tags": [
+        "breastfeeding",
+        "parenting",
+        "newborn",
+        "lactation",
+        "pregnancy",
+        "motherhood",
+        "baby",
+        "nursing",
+        "pumping",
+        "la-leche-league",
+        "milk-supply"
+      ],
+      "emoji": "🤱",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-womanly-art-of-breastfeeding"
+    },
+    "think-and-grow-rich": {
+      "title": "Think and Grow Rich",
+      "slug": "think-and-grow-rich",
+      "tags": [
+        "wealth",
+        "success",
+        "mindset",
+        "goal-setting",
+        "motivation",
+        "self-help"
+      ],
+      "emoji": "🧠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/think-and-grow-rich"
+    },
+    "thomas-jefferson": {
+      "title": "Thomas Jefferson: The Art of Power",
+      "slug": "thomas-jefferson",
+      "tags": [
+        "leadership",
+        "thomas-jefferson",
+        "politics",
+        "influence",
+        "history",
+        "biography",
+        "strategy",
+        "legacy",
+        "american-history",
+        "management"
+      ],
+      "emoji": "📜",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/thomas-jefferson"
+    },
+    "tiny-habits": {
+      "title": "Tiny Habits",
+      "slug": "tiny-habits",
+      "tags": [
+        "habits",
+        "behavior-design",
+        "self-improvement",
+        "psychology",
+        "productivity"
+      ],
+      "emoji": "🌱",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/tiny-habits"
+    },
+    "vagabonding": {
+      "title": "Vagabonding",
+      "slug": "vagabonding",
+      "tags": [
+        "travel",
+        "vagabonding",
+        "backpacking",
+        "solo-travel",
+        "budget-travel",
+        "adventure",
+        "lifestyle-design",
+        "digital-nomad",
+        "world-travel",
+        "travel-tips"
+      ],
+      "emoji": "🌍",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/vagabonding"
+    },
+    "what-do-you-care-what-other-people-think": {
+      "title": "\"What Do You Care What Other People Think?\"",
+      "slug": "what-do-you-care-what-other-people-think",
+      "tags": [
+        "feynman",
+        "curiosity",
+        "learning",
+        "science",
+        "critical-thinking",
+        "integrity",
+        "authenticity",
+        "education",
+        "challenger",
+        "physics"
+      ],
+      "emoji": "🔬",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/what-do-you-care-what-other-people-think"
+    },
+    "what-your-adhd-child-wishes-you-knew": {
+      "title": "What Your ADHD Child Wishes You Knew",
+      "slug": "what-your-adhd-child-wishes-you-knew",
+      "tags": [
+        "ADHD",
+        "parenting",
+        "children",
+        "executive-function",
+        "neurodiversity",
+        "school",
+        "behavior",
+        "special-needs",
+        "mental-health",
+        "family"
+      ],
+      "emoji": "🧠",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/what-your-adhd-child-wishes-you-knew"
+    },
+    "who-gets-to-be-indian": {
+      "title": "Who Gets to Be Indian?",
+      "slug": "who-gets-to-be-indian",
+      "tags": [
+        "native-american",
+        "identity",
+        "ethnic-fraud",
+        "tribal-sovereignty",
+        "cultural-appropriation",
+        "indigenous",
+        "decolonial",
+        "social-justice"
+      ],
+      "emoji": "🌎",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/who-gets-to-be-indian"
+    },
+    "winning": {
+      "title": "Winning",
+      "slug": "winning",
+      "tags": [
+        "leadership",
+        "management",
+        "business",
+        "strategy",
+        "talent",
+        "candor",
+        "ge",
+        "welch",
+        "execution",
+        "organizational-culture"
+      ],
+      "emoji": "🏆",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/winning"
+    },
+    "work-rules": {
+      "title": "Work Rules!",
+      "slug": "work-rules",
+      "tags": [
+        "google",
+        "hr",
+        "people-operations",
+        "hiring",
+        "culture",
+        "leadership",
+        "management",
+        "talent",
+        "performance-management",
+        "organizational-development"
+      ],
+      "emoji": "🏢",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/work-rules"
+    },
+    "world-order": {
+      "title": "World Order",
+      "slug": "world-order",
+      "tags": [
+        "geopolitics",
+        "international-relations",
+        "diplomacy",
+        "kissinger",
+        "world-order",
+        "balance-of-power",
+        "foreign-policy",
+        "history"
+      ],
+      "emoji": "🌐",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/world-order"
+    },
+    "zen-mind-beginners-mind": {
+      "title": "Zen Mind, Beginner's Mind",
+      "slug": "zen-mind-beginners-mind",
+      "tags": [
+        "zen",
+        "meditation",
+        "buddhism",
+        "mindfulness",
+        "spirituality",
+        "beginner-mind",
+        "zazen",
+        "suzuki",
+        "presence",
+        "awareness"
+      ],
+      "emoji": "🧘",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/zen-mind-beginners-mind"
+    }
+  }
+}

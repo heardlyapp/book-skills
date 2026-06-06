@@ -1,0 +1,17 @@
+{
+  "name": "winning",
+  "version": "1.0.0",
+  "description": "Jack Welch's Winning — an executable toolkit for business leadership: how to build a culture of candor, differentiate your people, manage talent rigorously, and drive your organization to outperform.\n\nCovers 5 use cases:\n① Building a Culture of Candor — create an environment where people speak openly and the best ideas win\n② Talent Management & Differentiation — identify, develop, reward top performers; address low performers with honesty\n③ Mission & Values Alignment — define a clear mission that drives daily decisions\n④ Strategy & Execution — the 5-slide strategy framework for clarity and action\n⑤ Leading Through Change — manage acquisitions, restructurings, and organizational change.\n\nTrigger when users say: \"How to be a better leader\" \"Jack Welch\" \"Winning\" \"Business management\" \"Leadership strategy\" \"Managing people\" \"Performance management\" \"Organizational culture\" \"How to give feedback\" \"Business strategy\" \"Candor at work\" \"Differentiation\" \"20-70-10\" \"GE management\"\nor mention: Jack Welch / Winning / candor / differentiation / GE / leadership / talent management / mission and values.\n\nRelated skills: the-essential-drucker, leadership-in-turbulent-times, the-four-steps-to-the-epiphany, the-outsiders, clear-thinking-book.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/winning",
+  "useCase": "Helps leaders at all levels build high-performance organizations through candor, talent differentiation, clear strategy, and relentless execution.",
+  "knownRisks": [
+    "Welch's 20-70-10 differentiation approach has been criticized as harsh; adapt the principle of honest performance management to your organizational culture."
+  ],
+  "tags": ["leadership", "management", "business", "strategy", "talent", "candor", "ge", "welch", "execution", "organizational-culture"],
+  "openclaw": {
+    "emoji": "🏆",
+    "category": "business"
+  }
+}

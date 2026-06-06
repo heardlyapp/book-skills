@@ -1,0 +1,17 @@
+{
+  "name": "the-miracle-of-mindfulness",
+  "version": "1.0.0",
+  "description": "Thich Nhat Hanh's The Miracle of Mindfulness — learn the practice of mindfulness meditation through conscious breathing, daily presence, and transforming suffering into peace",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-miracle-of-mindfulness",
+  "useCase": "Helps anyone start or deepen their mindfulness practice — from beginners who can't stop their thoughts to experienced meditators looking for daily practice guidance.",
+  "knownRisks": [
+    "Mindfulness practice is simple but not easy — results come from consistent practice"
+  ],
+  "tags": ["mindfulness", "meditation", "zen", "thich-nhat-hanh", "breathing", "presence", "spirituality", "peace"],
+  "openclaw": {
+    "emoji": "🧘",
+    "category": "self-improvement"
+  }
+}

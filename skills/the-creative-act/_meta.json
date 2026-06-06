@@ -1,0 +1,17 @@
+{
+  "name": "the-creative-act",
+  "version": "1.0.0",
+  "description": "Rick Rubin's The Creative Act — access your innate creativity through tuning in, letting go of expectations, and approaching creation as a way of being rather than a product to deliver",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-creative-act",
+  "useCase": "Helps anyone unlock their creative potential by shifting from \"making art\" to \"living creatively\" — using Rubin's philosophy of tuning in, receiving ideas, and letting go of outcomes.",
+  "knownRisks": [
+    "Rubin's approach is philosophical and experiential — it complements but doesn't replace practical creative skills"
+  ],
+  "tags": ["creativity", "art", "music", "inspiration", "creative-process", "rick-rubin", "self-expression", "philosophy"],
+  "openclaw": {
+    "emoji": "🎨",
+    "category": "self-improvement"
+  }
+}

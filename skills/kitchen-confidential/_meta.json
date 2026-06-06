@@ -1,0 +1,17 @@
+{
+  "name": "kitchen-confidential",
+  "version": "1.0.0",
+  "description": "Anthony Bourdain's Kitchen Confidential — an executable toolkit for leadership, resilience, and high-performance culture drawn from the brutal, beautiful world of professional kitchens.\n\nCovers 5 use cases:\n① Building High-Performance Culture — create a team that operates with precision, pride, and accountability under pressure\n② Leadership Under Pressure — lead effectively in high-stress, fast-paced environments\n③ The Apprenticeship Mindset — embrace the grind, learn from mentors, earn your place\n④ Standards & Integrity — maintain uncompromising standards when no one is watching\n⑤ Embracing the Chaos — find beauty and meaning in high-pressure environments.\n\nTrigger when users say: \"Kitchen Confidential\" \"Anthony Bourdain\" \"Restaurant management\" \"Kitchen culture\" \"High-pressure environment\" \"Team leadership\" \"How to run a kitchen\" \"Professional cooking\" \"Bourdain philosophy\"\nor mention: Anthony Bourdain / Kitchen Confidential / line cook / kitchen culture / restaurant / high-pressure leadership / mise en place.\n\nRelated skills: winning, cant-hurt-me, the-servant, the-essential-drucker, the-happiness-advantage.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/kitchen-confidential",
+  "useCase": "Helps anyone build high-performance teams, lead under pressure, and maintain uncompromising standards — inspired by the brutal wisdom of professional kitchens.",
+  "knownRisks": [
+    "Bourdain's voice is intentionally provocative and raw; adapt his directness to your cultural context."
+  ],
+  "tags": ["leadership", "cooking", "restaurant", "high-performance", "kitchen-culture", "bourdain", "management", "team-culture", "hospitality"],
+  "openclaw": {
+    "emoji": "🔪",
+    "category": "business"
+  }
+}

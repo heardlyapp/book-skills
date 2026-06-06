@@ -1,0 +1,18 @@
+{
+  "name": "blowout",
+  "version": "1.0.0",
+  "description": "Rachel Maddow's Blowout — expose how the oil and gas industry corrupts democracy, empowers authoritarian regimes, and drives environmental destruction, with lessons from Russia, the US, and the developing world",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/blowout",
+  "useCase": "Helps citizens, activists, investors, and policymakers understand the systemic corruption caused by oil wealth — from kleptocracy and regulatory capture to environmental destruction — and how to protect democratic institutions.",
+  "knownRisks": [
+    "The book presents a specific investigative perspective; readers should engage critically with the arguments",
+    "Geopolitical analysis requires updating with current events beyond the book's coverage"
+  ],
+  "tags": ["oil", "corruption", "russia", "geopolitics", "democracy", "environment", "kleptocracy", "energy", "investigative-journalism"],
+  "openclaw": {
+    "emoji": "🛢️",
+    "category": "business"
+  }
+}

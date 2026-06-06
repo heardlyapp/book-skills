@@ -1,0 +1,17 @@
+{
+  "name": "how-to-enjoy-your-life-and-your-job",
+  "version": "1.0.0",
+  "description": "Dale Carnegie's How to Enjoy Your Life and Your Job — build positive relationships, reduce worry, find meaning in work, and live with enthusiasm using Carnegie's timeless principles",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/how-to-enjoy-your-life-and-your-job",
+  "useCase": "Helps anyone improve their relationships, reduce worry, and find greater satisfaction in work and life by applying Carnegie's core principles: genuine interest, praise over criticism, enthusiasm, and day-tight living.",
+  "knownRisks": [
+    "Some principles may feel dated in their language but remain psychologically sound"
+  ],
+  "tags": ["relationships", "happiness", "work-satisfaction", "worry", "enthusiasm", "communication", "personal-development", "dale-carnegie"],
+  "openclaw": {
+    "emoji": "😊",
+    "category": "self-improvement"
+  }
+}

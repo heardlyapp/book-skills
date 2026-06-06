@@ -1,0 +1,12 @@
+{
+  "name": "tiny-habits",
+  "version": "1.0.1",
+  "description": "BJ Fogg's Tiny Habits — behavior design system using B=MAP: build any habit by making it tiny, anchoring it, and celebrating",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/tiny-habits",
+  "useCase": "Helps users design habits that stick using the B=MAP model: start tiny, find the right anchor, and wire habits through celebration.",
+  "knownRisks": ["The Tiny Habits method works best when you pick behaviors you genuinely want — not what you think you should do"],
+  "tags": ["habits", "behavior-design", "self-improvement", "psychology", "productivity"],
+  "openclaw": {"emoji": "🌱", "category": "self-improvement"}
+}

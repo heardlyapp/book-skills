@@ -1,0 +1,18 @@
+{
+  "name": "bad-blood",
+  "version": "1.0.0",
+  "description": "John Carreyrou's Bad Blood — extract investigative lessons from the Theranos scandal: how fraud happens in Silicon Valley, how charismatic founders deceive smart people, and how to spot red flags before it's too late",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/bad-blood",
+  "useCase": "Helps entrepreneurs, investors, employees, and board members recognize fraud patterns, evaluate startup culture, understand whistleblower psychology, and practice rigorous due diligence — using the Theranos case as a master class in what NOT to do.",
+  "knownRisks": [
+    "The book is a narrative account — the extracted patterns are Carreyrou's journalistic findings, not a peer-reviewed fraud detection framework",
+    "Applying these lessons requires judgment; not every charismatic founder and secretive startup is Theranos"
+  ],
+  "tags": ["theranos", "fraud", "silicon-valley", "startup", "whistleblowing", "investigative-journalism", "corporate-governance", "due-diligence"],
+  "openclaw": {
+    "emoji": "🩸",
+    "category": "business"
+  }
+}

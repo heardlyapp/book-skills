@@ -1,0 +1,17 @@
+{
+  "name": "the-crowd",
+  "version": "1.0.0",
+  "description": "Gustave Le Bon's The Crowd — understand how individuals change in crowds, how collective behavior forms, and how leaders influence the popular mind through assertion, repetition, and contagion",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-crowd",
+  "useCase": "Helps anyone understand crowd psychology — from political rallies to social media mobs — and recognize how group dynamics alter individual behavior, thinking, and decision-making.",
+  "knownRisks": [
+    "Le Bon's work is a 1895 classic — some views reflect the era's social biases"
+  ],
+  "tags": ["psychology", "crowds", "social-psychology", "group-behavior", "influence", "persuasion", "propaganda", "mob"],
+  "openclaw": {
+    "emoji": "👥",
+    "category": "business"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "surviving-climate-anxiety",
+  "version": "1.0.0",
+  "description": "Thomas Doherty's Surviving Climate Anxiety — an executable toolkit for coping with climate-related distress: manage eco-anxiety, find meaning in a warming world, build resilience, and move from fear to empowered action.\n\nCovers 5 use cases:\n① Managing Climate Anxiety — develop coping strategies for climate-related fear and worry\n② Building Emotional Resilience — process difficult emotions (grief, anger, despair) related to environmental loss\n③ Finding Meaning & Purpose — connect climate action to your values, discover purpose in environmental engagement\n④ Taking Sustainable Action — move from anxiety to effective action without burning out\n⑤ Nurturing Hope — maintain hope and happiness while facing climate reality.\n\nTrigger when users say: \"Climate anxiety\" \"Eco-anxiety\" \"Climate change depression\" \"Overwhelmed by climate news\" \"Climate grief\" \"Environmental guilt\" \"How to cope with climate change\" \"Climate doom\" \"Climate mental health\" \"Sustainable living\" \"Climate action burnout\" \"Climate hope\"\nor mention: Thomas Doherty / climate anxiety / eco-anxiety / climate grief / climate resilience / environmental psychology / sustainable living.\n\nRelated skills: the-happiness-advantage, the-power-of-now, the-miracle-of-mindfulness, radically-happy, atomic-habits.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/surviving-climate-anxiety",
+  "useCase": "Helps anyone struggling with climate anxiety develop practical coping strategies, process difficult emotions, find meaningful action, and maintain hope in challenging times.",
+  "knownRisks": [
+    "This skill provides general coping strategies; severe anxiety or depression should be addressed with a qualified mental health professional."
+  ],
+  "tags": ["climate", "anxiety", "mental-health", "environment", "coping", "resilience", "eco-anxiety", "sustainability", "psychology", "hope"],
+  "openclaw": {
+    "emoji": "🌱",
+    "category": "health"
+  }
+}

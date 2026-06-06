@@ -1,0 +1,17 @@
+{
+  "name": "the-tragedy-of-great-power-politics",
+  "version": "1.0.0",
+  "description": "John Mearsheimer's The Tragedy of Great Power Politics — an executable toolkit on offensive realism: why great powers inevitably compete for regional hegemony and how the international system drives conflict",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-tragedy-of-great-power-politics",
+  "useCase": "Helps anyone understand international relations through the lens of offensive realism — why great powers expand, why conflict is inevitable, and how the structure of the international system drives state behavior.",
+  "knownRisks": [
+    "The book presents a specific realist theory that some find deterministic or pessimistic"
+  ],
+  "tags": ["international-relations", "geopolitics", "realism", "war", "power", "strategy", "political-science", "mearsheimer"],
+  "openclaw": {
+    "emoji": "🌐",
+    "category": "self-improvement"
+  }
+}

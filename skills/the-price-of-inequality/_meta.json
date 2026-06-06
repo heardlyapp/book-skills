@@ -1,0 +1,17 @@
+{
+  "name": "the-price-of-inequality",
+  "version": "1.0.0",
+  "description": "Joseph E. Stiglitz's The Price of Inequality — an executable toolkit exploring how inequality damages economies, democracy, and society: the causes of inequality, its consequences, and what can be done about it",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-price-of-inequality",
+  "useCase": "Helps anyone understand the causes and consequences of economic inequality — from how the 1% captures the gains to the systemic reforms needed for a fairer economy.",
+  "knownRisks": [
+    "The book presents a progressive economic perspective on inequality"
+  ],
+  "tags": ["inequality", "economics", "stiglitz", "wealth-gap", "economic-policy", "social-justice", "poverty", "democracy"],
+  "openclaw": {
+    "emoji": "📊",
+    "category": "self-improvement"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "the-lords-of-easy-money",
+  "version": "1.0.0",
+  "description": "Christopher Leonard's The Lords of Easy Money — understand how the Federal Reserve's quantitative easing policies transformed the economy, created inequality, and set the stage for inflation",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-lords-of-easy-money",
+  "useCase": "Helps anyone understand modern central banking — how QE works, who benefits, how it caused inflation, and what individuals can do to protect their finances.",
+  "knownRisks": [
+    "Monetary policy is complex and evolving — the book covers Fed policy through 2022"
+  ],
+  "tags": ["federal-reserve", "quantitative-easing", "monetary-policy", "economics", "inflation", "central-banking", "finance"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "self-improvement"
+  }
+}

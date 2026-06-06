@@ -1,0 +1,17 @@
+{
+  "name": "the-art-of-loving",
+  "version": "1.0.0",
+  "description": "Erich Fromm's The Art of Loving — explore love as an art that requires knowledge and practice, covering the four elements of love, the five types of love, and how to cultivate genuine love in modern society",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-art-of-loving",
+  "useCase": "Helps anyone understand love as a skill to be practiced rather than a feeling to be found — through the framework of care, responsibility, respect, and knowledge applied to all types of love.",
+  "knownRisks": [
+    "Fromm's analysis is psychoanalytic and philosophical — it offers insight, not step-by-step relationship advice"
+  ],
+  "tags": ["love", "relationships", "psychology", "philosophy", "self-love", "personal-development", "fromm"],
+  "openclaw": {
+    "emoji": "❤️",
+    "category": "self-improvement"
+  }
+}

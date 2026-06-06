@@ -1,0 +1,15 @@
+{
+  "name": "the-element",
+  "version": "1.0.0",
+  "description": "Ken Robinson's The Element — find where your talent and passion meet to live a more fulfilling life",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-element",
+  "useCase": "Helps users discover their unique talents and passions, overcome societal pressure, find their community, and build a life aligned with their true abilities.",
+  "knownRisks": [
+    "Finding your Element is a personal journey — there's no single formula that works for everyone",
+    "Some practical constraints (financial, family obligations) may limit immediate changes"
+  ],
+  "tags": ["creativity", "passion", "career", "talent", "purpose", "personal-development", "self-discovery"],
+  "openclaw": {"emoji": "🔥", "category": "self-improvement"}
+}

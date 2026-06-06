@@ -1,0 +1,18 @@
+{
+  "name": "talk-like-ted",
+  "version": "1.0.0",
+  "description": "Carmine Gallo's Talk Like TED — master the 9 public-speaking secrets of the world's top TED presenters to deliver emotional, novel, and memorable presentations",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/talk-like-ted",
+  "useCase": "Helps anyone craft and deliver TED-worthy presentations — from investor pitches and conference keynotes to team updates and virtual talks — using the 9-secrets framework across three categories: Emotional, Novel, and Memorable.",
+  "knownRisks": [
+    "The 9-secrets framework requires practice — reading without rehearsing won't improve your speaking skills",
+    "Real TED talks at the actual conference involve a rigorous curation process; this skill trains presentation technique, not curation approval"
+  ],
+  "tags": ["public-speaking", "presentation-skills", "ted-talks", "storytelling", "communication", "leadership", "pitch"],
+  "openclaw": {
+    "emoji": "🎤",
+    "category": "business"
+  }
+}

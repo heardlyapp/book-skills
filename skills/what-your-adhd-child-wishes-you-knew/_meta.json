@@ -1,0 +1,17 @@
+{
+  "name": "what-your-adhd-child-wishes-you-knew",
+  "version": "1.0.0",
+  "description": "Dr. Sharon Saline's What Your ADHD Child Wishes You Knew — an executable toolkit for parenting kids with ADHD using the Five C's framework: Self-Control, Compassion, Collaboration, Consistency, and Celebration.\n\nCovers 5 use cases:\n① Understanding the ADHD Brain — learn how ADHD actually works, separate the condition from the child\n② The Five C's Framework — master the core parenting approach\n③ School Success — navigate homework, teacher relationships, executive functioning challenges\n④ Managing Emotions & Behavior — handle meltdowns, tantrums, and emotional dysregulation\n⑤ Executive Functioning & Daily Life — build organization, time management, and social skills.\n\nTrigger when users say: \"ADHD parenting\" \"My child has ADHD\" \"ADHD meltdowns\" \"ADHD homework help\" \"Parenting ADHD child\" \"ADHD behavior\" \"ADHD school problems\" \"ADHD discipline\" \"ADHD organization\" \"ADHD social skills\" \"ADHD emotional regulation\"\nor mention: Dr. Sharon Saline / ADHD child / five C's / ADHD brain / executive functioning / ADHD parenting / neurodiversity.\n\nRelated skills: the-first-days-of-school, the-happiness-advantage, nonviolent-communication, atomic-habits.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/what-your-adhd-child-wishes-you-knew",
+  "useCase": "Helps parents of children with ADHD understand their child's brain, reduce conflict, and build effective systems for school, home, and social success using the Five C's framework.",
+  "knownRisks": [
+    "This skill provides general parenting guidance for ADHD; it does not replace medical advice, therapy, or medication management from a qualified professional."
+  ],
+  "tags": ["ADHD", "parenting", "children", "executive-function", "neurodiversity", "school", "behavior", "special-needs", "mental-health", "family"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "parenting"
+  }
+}

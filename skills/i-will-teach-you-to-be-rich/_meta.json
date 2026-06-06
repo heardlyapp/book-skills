@@ -1,0 +1,18 @@
+{
+  "name": "i-will-teach-you-to-be-rich",
+  "version": "1.0.0",
+  "description": "Ramit Sethi's I Will Teach You to Be Rich — a 6-week program to optimize credit cards, automate investments, create a Conscious Spending Plan, and design your Rich Life",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/i-will-teach-you-to-be-rich",
+  "useCase": "Helps anyone take control of their finances through a practical 6-week system: credit card optimization, high-interest banking, automated investing, conscious spending, salary negotiation, and Rich Life design.",
+  "knownRisks": [
+    "The 6-week program is a starting point — ongoing financial management requires sustained habits",
+    "Investment returns are not guaranteed"
+  ],
+  "tags": ["personal-finance", "money", "investing", "credit-cards", "budgeting", "wealth", "ramit-sethi"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "business"
+  }
+}

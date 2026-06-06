@@ -1,0 +1,17 @@
+{
+  "name": "the-prize",
+  "version": "1.0.0",
+  "description": "Daniel Yergin's The Prize — an executable toolkit exploring the epic history of oil: how oil shaped wars, economies, and geopolitics from the 19th century to the Gulf War",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-prize",
+  "useCase": "Helps anyone understand the central role of oil in modern history — from the rise of Standard Oil to OPEC, the oil shocks of the 1970s, and the Gulf War.",
+  "knownRisks": [
+    "The book covers oil history through the early 1990s"
+  ],
+  "tags": ["oil", "energy", "history", "geopolitics", "economy", "petroleum", "energy-policy", "middle-east"],
+  "openclaw": {
+    "emoji": "🛢️",
+    "category": "self-improvement"
+  }
+}

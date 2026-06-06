@@ -1,0 +1,18 @@
+{
+  "name": "hidden-valley-road",
+  "version": "1.0.0",
+  "description": "Robert Kolker's Hidden Valley Road — extract lessons from the Galvin family's story of mental illness: understanding schizophrenia, genetics, caregiver dynamics, and the evolution of mental health treatment",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/hidden-valley-road",
+  "useCase": "Helps families, caregivers, and anyone affected by mental illness understand schizophrenia, navigate caregiving challenges, find community resources, and learn from the scientific breakthroughs that the Galvin family enabled.",
+  "knownRisks": [
+    "This book provides information, not medical advice — users should consult mental health professionals for diagnosis and treatment",
+    "The Galvin family's story is one family's experience and may not represent all experiences of schizophrenia"
+  ],
+  "tags": ["mental-health", "schizophrenia", "family", "genetics", "psychiatry", "caregiving", "trauma", "neuroscience"],
+  "openclaw": {
+    "emoji": "🏠",
+    "category": "health"
+  }
+}

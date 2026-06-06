@@ -1,0 +1,18 @@
+{
+  "name": "battle-for-the-american-mind",
+  "version": "1.0.0",
+  "description": "Pete Hegseth and David Goodwin's Battle for the American Mind — understand the principles of classical Christian education (paideia) and the Four Towers of Reason, Virtue, Wonder, and Beauty to evaluate schools and reclaim your child's formation",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/battle-for-the-american-mind",
+  "useCase": "Helps parents, educators, and citizens understand the difference between progressive and classical education, evaluate schools using the Four Towers framework, apply the Trivium at home, and cultivate a paideia-rich family culture.",
+  "knownRisks": [
+    "The book presents a specific (classical Christian) viewpoint on education — users should engage with it critically and supplement with other perspectives",
+    "Practical implementation of classical education at home requires time, resources, and commitment"
+  ],
+  "tags": ["education", "classical-education", "parenting", "philosophy", "curriculum", "school-choice", "paideia", "trivium"],
+  "openclaw": {
+    "emoji": "📚",
+    "category": "self-improvement"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "the-psychology-of-selling",
+  "version": "1.0.0",
+  "description": "Brian Tracy's The Psychology of Selling — an executable toolkit on the science and art of selling: prospecting, closing, overcoming objections, and building long-term customer relationships",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-psychology-of-selling",
+  "useCase": "Helps sales professionals and entrepreneurs master the psychology of selling — from prospecting and presenting to handling objections and closing deals.",
+  "knownRisks": [
+    "Selling techniques vary across industries and cultures"
+  ],
+  "tags": ["sales", "selling", "business", "psychology", "persuasion", "closing", "prospecting", "communication"],
+  "openclaw": {
+    "emoji": "📞",
+    "category": "self-improvement"
+  }
+}

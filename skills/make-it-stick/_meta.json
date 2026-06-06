@@ -1,0 +1,12 @@
+{
+  "name": "make-it-stick",
+  "version": "1.0.0",
+  "description": "Roediger & McDaniel's Make It Stick — effective learning based on cognitive science: retrieval practice, spacing, interleaving",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/make-it-stick",
+  "useCase": "Helps students and lifelong learners replace ineffective study habits with evidence-based techniques for durable learning.",
+  "knownRisks": ["Desirable difficulties feel harder initially — users may mistake productive struggle for poor learning"],
+  "tags": ["learning", "education", "memory", "study-skills", "cognitive-science", "productivity"],
+  "openclaw": {"emoji": "📚", "category": "education"}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "100m-offers",
+  "version": "1.0.0",
+  "description": "Alex Hormozi's $100M Offers — an executable toolkit for creating offers so compelling that people feel stupid saying no. Master the Value Equation, pricing psychology, and offer design.\n\nCovers 5 use cases:\n① The Value Equation — understand the four levers driving perceived value\n② Pricing Strategy — escape the commodity trap, find a starving crowd, charge what it's worth\n③ Grand Slam Offer Design — create a transformative offer by stacking solutions\n④ Scarcity, Urgency & Bonuses — enhance offers with ethical psychological triggers\n⑤ Guarantees & Naming — remove risk with powerful guarantees and position with names that sell.\n\nTrigger when users say: \"How to make more sales\" \"Create an offer\" \"Pricing strategy\" \"How to sell high ticket\" \"Value proposition\" \"Business offer\" \"Sales conversion\" \"Alex Hormozi\" \"Increase revenue\" \"Product bundling\" \"How to price my service\" \"Customer acquisition\" \"Sales psychology\"\nor mention: Alex Hormozi / $100M Offers / grand slam offer / value equation / pricing / scarcity / offer design.\n\nRelated skills: winning, the-essential-drucker, the-four-steps-to-the-epiphany, the-education-of-a-value-investor, one-up-on-wall-street.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/100m-offers",
+  "useCase": "Helps entrepreneurs and business owners create offers that sell themselves — using the Value Equation, Grand Slam Offer framework, and proven pricing psychology.",
+  "knownRisks": [
+    "Some tactics (scarcity, urgency) can feel manipulative if done poorly; always use genuine scarcity and ethical marketing."
+  ],
+  "tags": ["business", "sales", "marketing", "pricing", "offers", "entrepreneurship", "value", "conversion", "high-ticket"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "business"
+  }
+}

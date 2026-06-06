@@ -1,0 +1,18 @@
+{
+  "name": "a-mind-for-numbers",
+  "version": "1.0.0",
+  "description": "Barbara Oakley's A Mind for Numbers — apply the science of effective learning using focused/diffuse modes, chunking, active recall, spaced repetition, and procrastination management to master math, science, and any technical subject",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/a-mind-for-numbers",
+  "useCase": "Helps anyone learn math, science, and technical subjects more effectively by understanding how the brain works — focused and diffuse thinking modes, chunking complex ideas, retrieval practice, defeating procrastination, and test-taking strategies.",
+  "knownRisks": [
+    "The techniques require consistent practice — learning the principles alone won't change study habits",
+    "Individual learning differences (ADHD, learning disabilities) may need adaptations alongside these techniques"
+  ],
+  "tags": ["learning", "study-skills", "math", "science", "memory", "procrastination", "education", "chunking", "recall"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "self-improvement"
+  }
+}

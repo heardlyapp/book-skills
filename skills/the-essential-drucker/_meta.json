@@ -1,0 +1,17 @@
+{
+  "name": "the-essential-drucker",
+  "version": "1.0.0",
+  "description": "Peter Drucker's The Essential Drucker — apply Drucker's six decades of management wisdom on the five deadly sins, management by objectives, innovation, the effective executive, and leading change",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-essential-drucker",
+  "useCase": "Helps managers, executives, and leaders apply Drucker's timeless management principles — avoid the five deadly sins, practice management by objectives, innovate systematically, and become an effective executive.",
+  "knownRisks": [
+    "Drucker's principles are broad concepts that require adaptation to specific contexts"
+  ],
+  "tags": ["management", "leadership", "business", "innovation", "strategy", "drucker", "executive", "organization"],
+  "openclaw": {
+    "emoji": "📊",
+    "category": "business"
+  }
+}

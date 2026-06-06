@@ -1,0 +1,17 @@
+{
+  "name": "what-do-you-care-what-other-people-think",
+  "version": "1.0.0",
+  "description": "Richard Feynman's \"What Do You Care What Other People Think?\" — an executable toolkit that captures Feynman's approach to curiosity, scientific thinking, integrity under pressure, and living a life unconstrained by others' opinions.\n\nCovers 5 use cases:\n① Cultivating Curiosity — develop a relentless, playful curiosity about how the world works\n② Thinking for Yourself — resist groupthink, trust your own reasoning, don't be swayed by authority\n③ Integrity Under Pressure — stand by the truth even when it's unpopular, as Feynman did with the Challenger investigation\n④ Learning Anything — the Feynman Technique: learn deeply by teaching simply\n⑤ Living Authentically — embrace your quirks, don't perform for others, find joy in your own path.\n\nTrigger when users say: \"How to think like Feynman\" \"Feynman technique\" \"What do you care what other people think\" \"Scientific thinking\" \"Critical thinking\" \"How to learn\" \"Speak truth to power\" \"Challenger disaster\" \"Be myself\" \"Think independently\" \"How to be curious\" \"Groupthink\" \"Question authority\"\nor mention: Richard Feynman / curiosity / scientific method / Challenger / O-ring / integrity / Feynman Technique / physics / authentic living.\n\nRelated skills: the-pleasure-of-finding-things-out, clear-thinking-book, make-it-stick, the-art-of-thinking-clearly, the-creative-act.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/what-do-you-care-what-other-people-think",
+  "useCase": "Helps anyone think more clearly, learn more effectively, and live more authentically — inspired by Richard Feynman's irreverent curiosity and uncompromising honesty.",
+  "knownRisks": [
+    "Feynman's directness can come across as dismissive to some; adapt his approach to your cultural context."
+  ],
+  "tags": ["feynman", "curiosity", "learning", "science", "critical-thinking", "integrity", "authenticity", "education", "challenger", "physics"],
+  "openclaw": {
+    "emoji": "🔬",
+    "category": "education"
+  }
+}

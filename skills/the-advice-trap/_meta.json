@@ -1,0 +1,17 @@
+{
+  "name": "the-advice-trap",
+  "version": "1.0.0",
+  "description": "Michael Bungay Stanier's The Advice Trap — tame your Advice Monster, stay curious longer, and lead through coaching questions instead of giving advice",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-advice-trap",
+  "useCase": "Helps leaders, managers, and anyone who works with others shift from advice-giving to coaching — using the 7 coaching questions to build trust, develop capability, and foster psychological safety.",
+  "knownRisks": [
+    "Coaching skills require practice — knowing the questions is not the same as using them"
+  ],
+  "tags": ["coaching", "leadership", "management", "questions", "communication", "curiosity", "psychological-safety"],
+  "openclaw": {
+    "emoji": "🦁",
+    "category": "business"
+  }
+}
