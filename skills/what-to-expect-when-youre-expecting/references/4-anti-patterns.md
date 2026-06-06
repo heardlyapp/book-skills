@@ -19,7 +19,7 @@ The book spends significant energy correcting outdated beliefs, cultural myths, 
 **The truth:** Regular moderate exercise is not only safe but beneficial. It reduces back pain, prevents excessive weight gain, improves mood and sleep, and may even shorten labor.
 
 > "The Benefits of Exercise, Working in Workouts, Can You Kegel?, Exercise Smarts, Exercising the Right Way When You're Expecting"
-> — *Source: What to Expect When You're Expecting, Chapter 9*
+> Source: What to Expect When You're Expecting, Chapter 9*
 
 **The book's nuance:** Certain activities should be modified (no contact sports, no exercises lying flat on your back after the first trimester, avoid risk of falling), and you should listen to your body. But sitting on the couch for nine months is not the prescription.
 
@@ -74,12 +74,12 @@ The book spends significant energy correcting outdated beliefs, cultural myths, 
 
 **The book's technique:** Chapter 14 provides extensive guidance on dealing with going overdue, including the emotional challenge of "still waiting" when everyone's asking, "You haven't had that baby yet?"
 
-### Case 1: The Guilt-Ridden Coffee Drinker
-
+> **Case: The Guilt-Ridden Coffee Drinker**
+> **Key takeaway**: 
 A pregnant woman who can't give up her morning latte hears from friends and family that she's risking her baby's health. The book's Caffeine Counter helps her realize her single latte is well within the safe 200 mg range. She learns that the real risk comes from excessive consumption (3+ cups), not moderate intake. The anti-pattern correction relieves her guilt and prevents unnecessary stress—which itself is a risk factor for poor pregnancy outcomes.
 
-### Case 2: The Herbal Tea Enthusiast
-
+> **Case: The Herbal Tea Enthusiast**
+> **Key takeaway**: 
 A health-conscious mom-to-be replaces all beverages with herbal teas, believing they're safer than coffee or soda. The book's Chapter 4 "All About Complementary and Alternative Medicine" and the "Herbal Tea" section in Chapter 5 warn that not all herbal teas are pregnancy-safe. It provides a clear list: chamomile in moderation is fine; herbs like black cohosh, blue cohosh, pennyroyal, and others should be avoided. She learns to read labels and choose pregnancy-safe blends—turning a risk into a safe practice.
 
 ---

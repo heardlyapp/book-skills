@@ -11,7 +11,7 @@
 The book's most distinctive quality: it talks to you like a knowledgeable friend, not a medical textbook. It uses "you" abundantly. It anticipates your fears and addresses them before you've articulated them. It uses humor ("Almost makes me want to run out and get pregnant again. I said *almost*.") to disarm anxiety.
 
 > "When *What to Expect When You're Expecting* was first conceived, it was with a single mission in mind: to help parents-to-be worry less and enjoy their pregnancies more."
-> — *Source: What to Expect When You're Expecting, Introduction*
+> Source: What to Expect When You're Expecting, Introduction*
 
 **2. Permission to Skip Around**
 
@@ -67,7 +67,7 @@ The combination of Chapters 12 (Easing Labor Pain), 14 (Prelabor/False Labor/Rea
 The book is pro-breastfeeding but not dogmatic. Chapter 13's "All About Breastfeeding" presents the evidence: breast milk is ideally suited for human babies (antibodies, perfect nutrient balance, digestibility), and breastfeeding benefits mothers too (uterine contraction, caloric burn, bonding). But it also addresses when breastfeeding isn't possible or isn't the right choice:
 
 > "Why Some Opt for the Bottle, Making the Choice to Breastfeed, Nursing After Breast Surgery, Got Pierced?, Mixing Breast and Bottle, When You Can't or Shouldn't Breastfeed, When Father Knows Breast"
-> — *Source: What to Expect When You're Expecting, Chapter 13*
+> Source: What to Expect When You're Expecting, Chapter 13*
 
 **The framework:** Know the benefits. Understand the challenges. Make the choice that works for your family. If you choose to breastfeed, the book has a comprehensive initiation guide. If you choose to bottle feed, it covers formula safety and feeding techniques. No guilt in either direction.
 
@@ -82,12 +82,12 @@ Part 4 doesn't just cover your physical recovery—it covers your emotional heal
 | Symptoms | Mood swings, crying, irritability | Persistent sadness, loss of interest, anxiety, difficulty bonding |
 | Needs | Rest and support | Professional help |
 
-### Case 1: The Second-Time Mom Planning a VBAC
-
+> **Case: The Second-Time Mom Planning a VBAC**
+> **Key takeaway**: 
 A mom who had a C-section with her first child is pregnant again and hoping for a vaginal birth. She uses the book as a decision-support tool: Chapter 13's "Vaginal Birth After Cesarean (VBAC)" section gives her the facts—success rates (60–80%), candidacy criteria, risks (uterine rupture, though rare), and hospital policies. She brings these facts to her practitioner and has an informed conversation. The book doesn't tell her what to choose; it gives her the framework to make her own choice confidently.
 
-### Case 2: The First-Time Mom with Postpartum Urinary Incontinence
-
+> **Case: The First-Time Mom with Postpartum Urinary Incontinence**
+> **Key takeaway**: 
 A new mom who's too embarrassed to mention her leaking problem reads Chapter 18's section on "Postpartum Urinary Incontinence." The book normalizes it (common, especially after vaginal delivery) and provides a practical 3-layer approach: Kegel exercises (how to do them correctly, how often), lifestyle modifications (timed voiding, fluid management), and when to seek professional help (pelvic floor physical therapy, potential interventions). She's empowered to raise the issue with her provider at her 6-week checkup rather than suffering in silence for months or years.
 
 ---

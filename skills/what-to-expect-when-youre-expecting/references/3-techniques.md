@@ -25,7 +25,7 @@ The book is packed with specific, actionable techniques that go far beyond "talk
 - Leg stretches for nighttime cramps (flex foot, press heel, gently stretch calf)
 
 > "As a mother this book was my survival guide to getting through the day."
-> — *Source: What to Expect When You're Expecting, Testimonials*
+> Source: What to Expect When You're Expecting, Testimonials*
 
 ## Prenatal Testing Navigation (Chapter 3)
 
@@ -61,7 +61,7 @@ The book provides a decision framework for prenatal testing that helps readers u
 - **Breathing and positioning:** Various labor positions, breathing patterns for each phase
 
 > "Managing Your Pain with Medications, Pushing Without the Pain, Managing Your Pain with CAM, Just Breathe, Making the Decision"
-> — *Source: What to Expect When You're Expecting, Chapter 12*
+> Source: What to Expect When You're Expecting, Chapter 12*
 
 ### Positions for Labor and Delivery
 The book illustrates multiple positions (not just the classic lithotomy):
@@ -93,12 +93,12 @@ The "Getting Started Breastfeeding" section is a mini-manual within the book:
 ### The 6-Week Postpartum Checkup Checklist
 The book prepares you to discuss: bleeding, perineal healing, C-section scar, urinary/fecal incontinence, thyroid function, birth control, postpartum mood, and readiness to resume sex.
 
-### Case 1: The Mom with Gestational Diabetes
-
+> **Case: The Mom with Gestational Diabetes**
+> **Key takeaway**: 
 When a glucose screening test comes back elevated, the reader turns to Chapter 22's "You'll Want to Know: Gestational Diabetes." The technique is information + action: what GDM is (hormonal resistance to insulin during pregnancy), what it means for baby (usually very little with proper management), and the concrete steps—diet modification (low glycemic index foods, smaller meals), blood sugar monitoring (how often, what numbers to target), exercise regimen, and when medication (insulin or oral) may be needed. The technique transforms a scary diagnosis into a manageable plan.
 
-### Case 2: The Breech Baby Decision at 36 Weeks
-
+> **Case: The Breech Baby Decision at 36 Weeks**
+> **Key takeaway**: 
 A reader discovers her baby is breech at the 36-week checkup. The book provides the technique for evaluating options: external cephalic version (ECV) procedure explained step-by-step (what happens, how successful, what it feels like), positioning exercises (like the "pregnancy tilt" or inversions), the reality of scheduled C-section if the baby doesn't turn, and—crucially—the option of vaginal breech delivery with an experienced practitioner. Each option includes success probabilities and trade-offs, enabling an informed decision.
 
 ---

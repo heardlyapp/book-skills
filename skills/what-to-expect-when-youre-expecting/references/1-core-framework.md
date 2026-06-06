@@ -19,7 +19,7 @@ The book's spine is a month-by-month (and often week-by-week) guide from concept
 - **What You May Be Wondering About** — The Q&A engine that addresses real concerns from real parents
 
 > "Week-by-week updates on your little one's transformation from microscopic bundle of cells to cuddly newborn—the incredible development of your baby-to-be that will make all that heartburn, all those trips to the bathroom, all that gas, all those pains, and all the sleep deprivation more than worth it."
-> — *Source: What to Expect When You're Expecting, Introduction*
+> Source: What to Expect When You're Expecting, Introduction*
 
 ### Pillar 2: The Symptom-Solution Engine (Throughout)
 
@@ -59,12 +59,12 @@ Beyond the core calendar, the book extends to cover:
 
 **For someone with a concern:** Use the comprehensive index. The book is organized for just-in-time answers—find your symptom, read the solution, move on.
 
-### Case 1: A First-Time Mom at 8 Weeks with Morning Sickness
-
+> **Case: A First-Time Mom at 8 Weeks with Morning Sickness**
+> **Key takeaway**: 
 A reader experiencing nausea for the first time turns to Chapter 7 (Second Month). She finds the "Morning Sickness" entry under "What You May Be Wondering About." The section explains that nausea is caused by rising HCG levels, reassures her that it typically peaks around weeks 8–10 then improves, and provides actionable solutions: eat small frequent meals (the Six-Meal Solution from Chapter 5), keep crackers by the bedside, try ginger or vitamin B6, avoid triggers, and call the practitioner if vomiting prevents fluid retention. She leaves feeling reassured and equipped.
 
-### Case 2: A Partner at 36 Weeks Preparing for Labor
-
+> **Case: A Partner at 36 Weeks Preparing for Labor**
+> **Key takeaway**: 
 The dad-to-be in Chapter 19 (Fathers Are Expectant, Too) reads about labor and delivery worries. He's pointed to the comprehensive "Labor and Delivery" chapter (Chapter 15) which walks through prelabor, false labor, real labor symptoms, and exactly what to expect at each stage. He learns about the three stages of labor, how to support his partner through each phase, what the coach's role is during emergency delivery, and how to handle seeing blood. The "Emergency Delivery: Tips for the Coach" section gives him specific, calm, actionable steps—not just reassurance.
 
 ---

@@ -13,7 +13,7 @@ As Heidi Murkoff writes: "to help parents-to-be worry less and enjoy their pregn
 The healthiest pregnancies start before conception. Chapter 1 is a call to action: get a checkup, update immunizations, optimize your diet (especially folic acid), achieve a healthy weight, manage chronic conditions, and clean out your medicine cabinet. This isn't about perfection—it's about setting the best foundation possible.
 
 > "If you don't get pregnant right away, relax and keep trying (and don't forget to keep having fun while you're trying!). If you're already pregnant—and didn't have a chance to follow these steps before you conceived—not to worry."
-> — *Source: What to Expect When You're Expecting, Chapter 1*
+> Source: What to Expect When You're Expecting, Chapter 1*
 
 The key insight: **start wherever you are**. No guilt about what you didn't do before.
 
@@ -34,7 +34,7 @@ Chapter 5's nutrition philosophy is elegantly simple: eat the same healthy foods
 **The Six-Meal Solution** — Instead of three large meals (which worsen heartburn and nausea), the book recommends six smaller meals spread throughout the day. This stabilizes blood sugar, minimizes nausea, and provides steady nutrition.
 
 > "Nine Basic Principles for Nine Months of Healthy Eating: Have It Your Way, Try These Instead, The Six-Meal Solution, No More Guilt, The Pregnancy Daily Dozen, Count 'Em Once, Count 'Em Twice"
-> — *Source: What to Expect When You're Expecting, Chapter 5*
+> Source: What to Expect When You're Expecting, Chapter 5*
 
 ### Principle 4: Your Body Is Built for This
 
@@ -50,7 +50,7 @@ Pregnancy is not an illness—it's a normal physiological process. The book cons
 Chapter 19 is a landmark: a full chapter dedicated to the dad- or partner-to-be. It addresses "sympathy symptoms" (Couvade syndrome), feeling left out, sexual concerns, labor anxiety, and bonding. The message is clear: this is happening to both of you.
 
 > "Get ready, get set… then go. Dealing with Her Symptoms. A Partner in Parenting by Any Name. Sympathy Symptoms. Feeling Left Out."
-> — *Source: What to Expect When You're Expecting, Chapter 19*
+> Source: What to Expect When You're Expecting, Chapter 19*
 
 ### Principle 6: Knowledge Is Power, Not Panic
 
@@ -60,12 +60,12 @@ Part 7 (Complicated Pregnancy) and Chapter 23 (Coping with Pregnancy Loss) embod
 
 The book doesn't stop at delivery. Part 4 covers the first week and first six weeks postpartum with the same rigor as the prenatal chapters—breastfeeding basics, postpartum bleeding ("lochia"), recovery from cesarean, the baby blues vs. postpartum depression, and getting back into shape. The wisdom: **the fourth trimester matters as much as the first three**.
 
-### Case 1: The Overweight Mom Who Fears Judgment
-
+> **Case: The Overweight Mom Who Fears Judgment**
+> **Key takeaway**: 
 A woman with a high BMI is nervous about her first prenatal visit, worried she'll be lectured. The book's principle of "start wherever you are" applies directly. Chapter 3's obesity section is factual without being judgmental: increased risks for gestational diabetes, preeclampsia, and C-section are explained alongside practical recommendations. She learns that gaining less weight during pregnancy (as advised by her practitioner) can reduce risks, and that healthy eating (Chapter 5) and safe exercise (Chapter 9) are within reach. She walks into her appointment informed, not ashamed.
 
-### Case 2: The Partner Feeling Disconnected at 6 Months
-
+> **Case: The Partner Feeling Disconnected at 6 Months**
+> **Key takeaway**: 
 A father-to-be feels his wife has become "all about the baby"—he misses their old dynamic. Chapter 19 validates his feelings: "Feeling Left Out" normalizes his experience. It explains that his wife's focus on pregnancy is biological and temporary, and gives him concrete ways to reconnect: attend childbirth classes together (Chapter 11), give her a pregnancy massage, talk about his own anxieties. The principle of partnership reframes his isolation as an opportunity to grow closer.
 
 ---
