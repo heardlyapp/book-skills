@@ -1,0 +1,19 @@
+{
+ "name": "exposure",
+ "version": "1.0.0",
+ "description": "Robert Bilott's 'Exposure: Poisoned Water, Corporate Greed, and One Lawyer's Twenty-Year Battle against DuPont' — the true story of how one lawyer took on the world's most powerful chemical company and exposed the PFAS crisis poisoning communities worldwide.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/exposure",
+ "useCase": "Learn about the PFAS contamination crisis, corporate cover-ups, environmental litigation strategy, and how one person can hold a powerful corporation accountable.",
+ "knownRisks": [
+  "Contains graphic descriptions of animal deaths and human illness — not for all readers",
+  "Legal strategies discussed are specific to U.S. tort law — may not apply in other jurisdictions",
+  "The PFAS crisis is ongoing and complex — this book covers one aspect; consult current sources for latest developments"
+ ],
+ "tags": ["robert-bilott", "dupont", "pfas", "pfoa", "environmental-law", "water-contamination", "corporate-accountability", "whistleblowing", "toxic-tort", "environmental-justice"],
+ "openclaw": {
+  "emoji": "💧",
+  "category": "current-events"
+ }
+}
