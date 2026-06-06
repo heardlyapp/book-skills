@@ -1,0 +1,19 @@
+{
+ "name": "a-pattern-language",
+ "version": "1.0.0",
+ "description": "Christopher Alexander's 'A Pattern Language: Towns, Buildings, Construction' — a toolkit for designing spaces that feel alive, using 253 interconnected patterns for towns, buildings, rooms, and construction details.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/a-pattern-language",
+ "useCase": "Design or diagnose any space — from a room and house to a neighborhood and town — using 253 proven patterns for making places feel alive and functional.",
+ "knownRisks": [
+  "The 253 patterns can overwhelm beginners — start with the 5-10 patterns most relevant to your specific project",
+  "Patterns are empirically grounded in 1970s observation — some urban patterns may need adaptation for contemporary contexts",
+  "The pattern language is a reference work, not a narrative — best used by reading the sections relevant to your project, not cover-to-cover"
+ ],
+ "tags": ["architecture", "design", "urban-planning", "building", "pattern-language", "spatial-design", "interior-design", "community-design", "christopher-alexander", "timeless-way"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "lifestyle"
+ }
+}

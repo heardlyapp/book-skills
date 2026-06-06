@@ -70,6 +70,26 @@
       "summary": "Barbara Oakley's A Mind for Numbers \u2014 apply the science of effective learning using focused/diffuse modes, chunking, active recall, spaced repetition, and procrastination management to master math, science, and any technical subject"
     },
     {
+      "slug": "a-pattern-language",
+      "title": "Christopher Alexander's 'A Pattern Language: Towns, Building",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "architecture",
+        "design",
+        "urban-planning",
+        "building",
+        "pattern-language",
+        "spatial-design",
+        "interior-design",
+        "community-design",
+        "christopher-alexander",
+        "timeless-way"
+      ],
+      "score": 9.8,
+      "summary": "Christopher Alexander's 'A Pattern Language: Towns, Buildings, Construction' \u2014 a toolkit for designing spaces that feel alive, using 253 interconnected patterns for towns, buildings, rooms, and construction details."
+    },
+    {
       "slug": "addicted-to-the-monkey-mind",
       "title": "J.F. Benoist's Addicted to the Monkey Mind \u2014 recognize the p",
       "author": "heardlyapp",
