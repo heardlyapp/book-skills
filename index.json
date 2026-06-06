@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 124,
+  "total_skills": 125,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -2014,6 +2014,20 @@
       "emoji": "\ud83e\udded",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/journey-to-the-heart"
+    },
+    "the-cold-war-new-history": {
+      "title": "The Cold War: A New History",
+      "slug": "the-cold-war-new-history",
+      "tags": [
+        "cold-war",
+        "history",
+        "soviet-union",
+        "us-history",
+        "geopolitics"
+      ],
+      "emoji": "\ud83c\udf0d",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-cold-war-new-history"
     }
   }
 }

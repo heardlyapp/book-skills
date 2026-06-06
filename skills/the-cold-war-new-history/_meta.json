@@ -1,0 +1,19 @@
+{
+  "name": "the-cold-war-new-history",
+  "version": "1.0.0",
+  "description": "John Lewis Gaddis The Cold War: A New History \u2014 an executable toolkit for understanding the global struggle between the US and Soviet Union from 1945 to 1991.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-cold-war-new-history",
+  "tags": [
+    "cold-war",
+    "history",
+    "soviet-union",
+    "us-history",
+    "geopolitics"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udf0d",
+    "category": "education"
+  }
+}
