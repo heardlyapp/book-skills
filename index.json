@@ -1,12 +1,10 @@
 {
-  "name": "Heardly Book Skills",
-  "description": "Executable AI skill toolkits for books",
-  "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 130,
-  "skills": {
-    "100m-offers": {
-      "title": "$100M Offers",
+  "skills": [
+    {
       "slug": "100m-offers",
+      "title": "Alex Hormozi's $100M Offers \u2014 an executable toolkit for crea",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "business",
         "sales",
@@ -18,13 +16,29 @@
         "conversion",
         "high-ticket"
       ],
-      "emoji": "\ud83d\udcb0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/100m-offers"
+      "score": 9.8,
+      "summary": "Alex Hormozi's $100M Offers \u2014 an executable toolkit for creating offers so compelling that people feel stupid saying no. Master the Value Equation, pricing psychology, and offer design.\n\nCovers 5 use cases:\n\u2460 The Value Equation \u2014 understand the four levers driving perceived value\n\u2461 Pricing Strategy \u2014 escape the commodity trap, find a starving crowd, charge what it's worth\n\u2462 Grand Slam Offer Design \u2014 create a transformative offer by stacking solutions\n\u2463 Scarcity, Urgency & Bonuses \u2014 enhance offers with ethical psychological triggers\n\u2464 Guarantees & Naming \u2014 remove risk with powerful guarantees and position with names that sell.\n\nTrigger when users say: \"How to make more sales\" \"Create an offer\" \"Pricing strategy\" \"How to sell high ticket\" \"Value proposition\" \"Business offer\" \"Sales conversion\" \"Alex Hormozi\" \"Increase revenue\" \"Product bundling\" \"How to price my service\" \"Customer acquisition\" \"Sales psychology\"\nor mention: Alex Hormozi / $100M Offers / grand slam offer / value equation / pricing / scarcity / offer design.\n\nRelated skills: winning, the-essential-drucker, the-four-steps-to-the-epiphany, the-education-of-a-value-investor, one-up-on-wall-street."
     },
-    "7-habits": {
-      "title": "The 7 Habits of Highly Effective People",
+    {
+      "slug": "21-lessons-for-the-21st-century",
+      "title": "Yuval Noah Harari's 21 Lessons for the 21st Century \u2014 an exe",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "harari",
+        "future",
+        "technology",
+        "politics",
+        "philosophy"
+      ],
+      "score": 9.8,
+      "summary": "Yuval Noah Harari's 21 Lessons for the 21st Century \u2014 an executable toolkit for navigating the biggest challenges of our time: technology, politics, religion, and the future of humanity."
+    },
+    {
       "slug": "7-habits",
+      "title": "Stephen Covey's The 7 Habits of Highly Effective People \u2014 pr",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "self-improvement",
         "leadership",
@@ -33,13 +47,14 @@
         "relationships",
         "effectiveness"
       ],
-      "emoji": "\ud83c\udf33",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/7-habits"
+      "score": 9.8,
+      "summary": "Stephen Covey's The 7 Habits of Highly Effective People \u2014 principle-centered living from personal effectiveness to interdependent leadership"
     },
-    "a-mind-for-numbers": {
-      "title": "A Mind for Numbers",
+    {
       "slug": "a-mind-for-numbers",
+      "title": "Barbara Oakley's A Mind for Numbers \u2014 apply the science of e",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "learning",
         "study-skills",
@@ -51,13 +66,14 @@
         "chunking",
         "recall"
       ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/a-mind-for-numbers"
+      "score": 9.8,
+      "summary": "Barbara Oakley's A Mind for Numbers \u2014 apply the science of effective learning using focused/diffuse modes, chunking, active recall, spaced repetition, and procrastination management to master math, science, and any technical subject"
     },
-    "addicted-to-the-monkey-mind": {
-      "title": "Addicted to the Monkey Mind",
+    {
       "slug": "addicted-to-the-monkey-mind",
+      "title": "J.F. Benoist's Addicted to the Monkey Mind \u2014 recognize the p",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "monkey-mind",
         "self-awareness",
@@ -68,13 +84,23 @@
         "personal-development",
         "psychology"
       ],
-      "emoji": "\ud83d\udc12",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/addicted-to-the-monkey-mind"
+      "score": 9.8,
+      "summary": "J.F. Benoist's Addicted to the Monkey Mind \u2014 recognize the programmed reactive voice driving your patterns of self-sabotage and activate the Observing Mind to rewrite the beliefs that run your life"
     },
-    "as-a-man-thinketh": {
-      "title": "As a Man Thinketh",
+    {
+      "slug": "antifragile",
+      "title": "antifragile",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [],
+      "score": 9.8,
+      "summary": ""
+    },
+    {
       "slug": "as-a-man-thinketh",
+      "title": "James Allen's As a Man Thinketh \u2014 the foundational classic o",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "mindset",
         "self-mastery",
@@ -84,13 +110,14 @@
         "philosophy",
         "classic"
       ],
-      "emoji": "\ud83c\udf3f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/as-a-man-thinketh"
+      "score": 9.8,
+      "summary": "James Allen's As a Man Thinketh \u2014 the foundational classic on how thoughts shape character, circumstances, health, achievement, and serenity"
     },
-    "atomic-habits": {
-      "title": "Atomic Habits",
+    {
       "slug": "atomic-habits",
+      "title": "\u8a79\u59c6\u65af\u00b7\u514b\u5229\u5c14\u300a\u539f\u5b50\u4e60\u60ef\u300b\u7684\u53ef\u6267\u884c\u5de5\u5177\u7bb1\uff1a\u7528\u56db\u5927\u5b9a\u5f8b\u8ba9\u597d\u4e60\u60ef\u53d8\u5bb9\u6613\u3001\u574f\u4e60\u60ef\u53d8\u96be",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "self-improvement",
         "habits",
@@ -99,13 +126,14 @@
         "behavior-change",
         "discipline"
       ],
-      "emoji": "\ud83d\udd04",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/atomic-habits"
+      "score": 9.8,
+      "summary": "\u8a79\u59c6\u65af\u00b7\u514b\u5229\u5c14\u300a\u539f\u5b50\u4e60\u60ef\u300b\u7684\u53ef\u6267\u884c\u5de5\u5177\u7bb1\uff1a\u7528\u56db\u5927\u5b9a\u5f8b\u8ba9\u597d\u4e60\u60ef\u53d8\u5bb9\u6613\u3001\u574f\u4e60\u60ef\u53d8\u96be"
     },
-    "bad-blood": {
-      "title": "Bad Blood",
+    {
       "slug": "bad-blood",
+      "title": "John Carreyrou's Bad Blood \u2014 extract investigative lessons f",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "theranos",
         "fraud",
@@ -116,13 +144,14 @@
         "corporate-governance",
         "due-diligence"
       ],
-      "emoji": "\ud83e\ude78",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/bad-blood"
+      "score": 9.8,
+      "summary": "John Carreyrou's Bad Blood \u2014 extract investigative lessons from the Theranos scandal: how fraud happens in Silicon Valley, how charismatic founders deceive smart people, and how to spot red flags before it's too late"
     },
-    "battle-for-the-american-mind": {
-      "title": "Battle for the American Mind",
+    {
       "slug": "battle-for-the-american-mind",
+      "title": "Pete Hegseth and David Goodwin's Battle for the American Min",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "education",
         "classical-education",
@@ -133,13 +162,14 @@
         "paideia",
         "trivium"
       ],
-      "emoji": "\ud83d\udcda",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/battle-for-the-american-mind"
+      "score": 9.8,
+      "summary": "Pete Hegseth and David Goodwin's Battle for the American Mind \u2014 understand the principles of classical Christian education (paideia) and the Four Towers of Reason, Virtue, Wonder, and Beauty to evaluate schools and reclaim your child's formation"
     },
-    "be-here-now": {
-      "title": "Be Here Now",
+    {
       "slug": "be-here-now",
+      "title": "Ram Dass's Be Here Now \u2014 a spiritual classic on presence, me",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "spirituality",
         "meditation",
@@ -151,13 +181,14 @@
         "mindfulness",
         "ram-dass"
       ],
-      "emoji": "\ud83d\udd49\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/be-here-now"
+      "score": 9.8,
+      "summary": "Ram Dass's Be Here Now \u2014 a spiritual classic on presence, meditation, love, and service that guides you from ego-driven seeking to conscious awareness in the here and now"
     },
-    "big-magic": {
-      "title": "Big Magic",
+    {
       "slug": "big-magic",
+      "title": "Elizabeth Gilbert's Big Magic \u2014 creative living beyond fear:",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "creativity",
         "inspiration",
@@ -168,13 +199,14 @@
         "creative-block",
         "self-expression"
       ],
-      "emoji": "\u2728",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/big-magic"
+      "score": 9.8,
+      "summary": "Elizabeth Gilbert's Big Magic \u2014 creative living beyond fear: overcome perfectionism, work with inspiration, persist through difficulty, and trust your creative process"
     },
-    "black-edge": {
-      "title": "Black Edge",
+    {
       "slug": "black-edge",
+      "title": "Sheelah Kolhatkar's Black Edge \u2014 learn from the rise and fal",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "finance",
         "insider-trading",
@@ -184,13 +216,14 @@
         "investigation",
         "wall-street"
       ],
-      "emoji": "\ud83d\udcc8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/black-edge"
+      "score": 9.8,
+      "summary": "Sheelah Kolhatkar's Black Edge \u2014 learn from the rise and fall of SAC Capital how insider trading works, how aggressive hedge fund culture blurs ethical lines, and how regulators build cases from cooperators and trading patterns"
     },
-    "blood-and-oil": {
-      "title": "Blood and Oil",
+    {
       "slug": "blood-and-oil",
+      "title": "Bradley Hope and Justin Scheck's Blood and Oil \u2014 extract str",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "geopolitics",
         "saudi-arabia",
@@ -201,13 +234,14 @@
         "authoritarianism",
         "investigative-journalism"
       ],
-      "emoji": "\ud83d\udee2\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/blood-and-oil"
+      "score": 9.8,
+      "summary": "Bradley Hope and Justin Scheck's Blood and Oil \u2014 extract strategic and geopolitical lessons from Mohammed bin Salman's rise: how oil wealth enables authoritarian power, how reform coexists with repression, and how to analyze political risk in petrostates"
     },
-    "blowout": {
-      "title": "Blowout",
+    {
       "slug": "blowout",
+      "title": "Rachel Maddow's Blowout \u2014 expose how the oil and gas industr",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "oil",
         "corruption",
@@ -219,13 +253,14 @@
         "energy",
         "investigative-journalism"
       ],
-      "emoji": "\ud83d\udee2\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/blowout"
+      "score": 9.8,
+      "summary": "Rachel Maddow's Blowout \u2014 expose how the oil and gas industry corrupts democracy, empowers authoritarian regimes, and drives environmental destruction, with lessons from Russia, the US, and the developing world"
     },
-    "broken-money": {
-      "title": "Broken Money",
+    {
       "slug": "broken-money",
+      "title": "Lyn Alden's Broken Money \u2014 understand why the financial syst",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "money",
         "inflation",
@@ -236,13 +271,14 @@
         "finance",
         "economics"
       ],
-      "emoji": "\ud83d\udcb5",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/broken-money"
+      "score": 9.8,
+      "summary": "Lyn Alden's Broken Money \u2014 understand why the financial system fails to preserve your purchasing power and how to build resilience through sound money, inflation protection, and strategic asset allocation"
     },
-    "change-your-questions-change-your-life": {
-      "title": "Change Your Questions, Change Your Life",
+    {
       "slug": "change-your-questions-change-your-life",
+      "title": "Marilee Adams's Change Your Questions, Change Your Life \u2014 ap",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "mindset",
         "questions",
@@ -252,13 +288,14 @@
         "communication",
         "transformation"
       ],
-      "emoji": "\u2753",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/change-your-questions-change-your-life"
+      "score": 9.8,
+      "summary": "Marilee Adams's Change Your Questions, Change Your Life \u2014 apply the Choice Map and Question Thinking framework to shift from Judger to Learner mindset by changing the questions you ask yourself"
     },
-    "chimpanzee-politics": {
-      "title": "Chimpanzee Politics",
+    {
       "slug": "chimpanzee-politics",
+      "title": "Frans de Waal's Chimpanzee Politics \u2014 analyze power dynamics",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "primatology",
         "power",
@@ -268,13 +305,14 @@
         "psychology",
         "organizational-behavior"
       ],
-      "emoji": "\ud83d\udc35",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/chimpanzee-politics"
+      "score": 9.8,
+      "summary": "Frans de Waal's Chimpanzee Politics \u2014 analyze power dynamics, coalition-building, leadership styles, and conflict resolution through the lens of chimpanzee social behavior"
     },
-    "countdown-1945": {
-      "title": "Countdown 1945",
+    {
       "slug": "countdown-1945",
+      "title": "Chris Wallace and Mitch Weiss's Countdown 1945 \u2014 leadership ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "history",
         "leadership",
@@ -287,13 +325,14 @@
         "ethics",
         "project-management"
       ],
-      "emoji": "\u2622\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/countdown-1945"
+      "score": 9.8,
+      "summary": "Chris Wallace and Mitch Weiss's Countdown 1945 \u2014 leadership and decision-making toolkit from the 116 days between FDR's death and the atomic bombing of Hiroshima"
     },
-    "crashed": {
-      "title": "Crashed",
+    {
       "slug": "crashed",
+      "title": "Adam Tooze's Crashed \u2014 How a Decade of Financial Crises Chan",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "2008 crisis",
         "financial crisis",
@@ -303,13 +342,14 @@
         "history",
         "Tooze"
       ],
-      "emoji": "\ud83c\udfe6",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/crashed"
+      "score": 9.8,
+      "summary": "Adam Tooze's Crashed \u2014 How a Decade of Financial Crises Changed the World. Understand the 2008 global financial crisis, the transatlantic banking meltdown, the eurozone crisis, and the political upheavals that reshaped the 21st century."
     },
-    "creative-confidence": {
-      "title": "Creative Confidence",
+    {
       "slug": "creative-confidence",
+      "title": "David & Tom Kelley's Creative Confidence \u2014 unleash your crea",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "creativity",
         "innovation",
@@ -318,13 +358,34 @@
         "ideation",
         "psychology"
       ],
-      "emoji": "\ud83c\udfa8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/creative-confidence"
+      "score": 9.8,
+      "summary": "David & Tom Kelley's Creative Confidence \u2014 unleash your creative potential and overcome fear of judgment"
     },
-    "eat-to-live": {
-      "title": "Eat to Live",
+    {
+      "slug": "deep-work",
+      "title": "Gold-standard skill for Cal Newport's *Deep Work: Rules for ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "deep-work",
+        "cal-newport",
+        "focus",
+        "productivity",
+        "concentration",
+        "distraction",
+        "knowledge-work",
+        "time-management",
+        "habits",
+        "deliberate-practice"
+      ],
+      "score": 9.8,
+      "summary": "Gold-standard skill for Cal Newport's *Deep Work: Rules for Focused Success in a Distracted World*. Master the ability to focus deeply, eliminate distractions, and produce valuable output in a distracted world."
+    },
+    {
       "slug": "eat-to-live",
+      "title": "Dr. Joel Fuhrman's Eat to Live \u2014 apply the Nutritarian appro",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "nutrition",
         "health",
@@ -335,27 +396,53 @@
         "wellness",
         "diet"
       ],
-      "emoji": "\ud83e\udd57",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/eat-to-live"
+      "score": 9.8,
+      "summary": "Dr. Joel Fuhrman's Eat to Live \u2014 apply the Nutritarian approach to transform your health through nutrient density: eat for maximum nutrition per calorie, lose weight sustainably, and prevent or reverse chronic disease"
     },
-    "endurance": {
-      "title": "Endurance: Shackleton Incredible Voyage",
+    {
       "slug": "endurance",
+      "title": "Alfred Lansing's Endurance: Shackleton's Incredible Voyage \u2014",
+      "author": "heardlyapp",
+      "version": "1.0.1",
       "tags": [
         "leadership",
         "survival",
-        "antarctic",
-        "expedition",
-        "adversity"
+        "crisis",
+        "shackleton",
+        "antarctica",
+        "adventure",
+        "teamwork",
+        "resilience",
+        "history"
       ],
-      "emoji": "\ud83e\uddca",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/endurance"
+      "score": 9.8,
+      "summary": "Alfred Lansing's Endurance: Shackleton's Incredible Voyage \u2014 an executable toolkit for leadership under extreme adversity, drawn from the true story of Ernest Shackleton's 1914 Antarctic expedition and the survival of all 28 crew members against impossible odds. Covers crisis leadership, team cohesion under pressure, decision-making with no good options, maintaining hope in desperate circumstances, and adaptability when plans fail.\n\nRelated skills: grit, leadership-in-turbulent-times, cant-hurt-me, the-outsiders, the-war-of-art."
     },
-    "everyone-communicates-few-connect": {
-      "title": "Everyone Communicates, Few Connect",
+    {
+      "slug": "essentialism",
+      "title": "Gold-standard skill for Greg McKeown's *Essentialism: The Di",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "essentialism",
+        "greg-mckeown",
+        "productivity",
+        "simplicity",
+        "focus",
+        "minimalism",
+        "prioritization",
+        "decision-making",
+        "time-management",
+        "discipline"
+      ],
+      "score": 9.8,
+      "summary": "Gold-standard skill for Greg McKeown's *Essentialism: The Disciplined Pursuit of Less*. Master the disciplined pursuit of less but better \u2014 discern the vital few from the trivial many, eliminate nonessentials, and make execution effortless."
+    },
+    {
       "slug": "everyone-communicates-few-connect",
+      "title": "John C. Maxwell's Everyone Communicates, Few Connect \u2014 apply",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "communication",
         "leadership",
@@ -365,13 +452,14 @@
         "influence",
         "relationships"
       ],
-      "emoji": "\ud83d\udd17",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/everyone-communicates-few-connect"
+      "score": 9.8,
+      "summary": "John C. Maxwell's Everyone Communicates, Few Connect \u2014 apply the 5 principles and 5 practices of connecting to move from merely sending information to genuinely connecting with people"
     },
-    "failing-forward": {
-      "title": "Failing Forward",
+    {
       "slug": "failing-forward",
+      "title": "John C. Maxwell's Failing Forward \u2014 transform your relations",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "failure",
         "resilience",
@@ -381,13 +469,14 @@
         "learning",
         "confidence"
       ],
-      "emoji": "\ud83d\udcaa",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/failing-forward"
+      "score": 9.8,
+      "summary": "John C. Maxwell's Failing Forward \u2014 transform your relationship with failure into a stepping stone for success by learning to treat mistakes as feedback, not final judgments"
     },
-    "financial-feminist": {
-      "title": "Financial Feminist",
+    {
       "slug": "financial-feminist",
+      "title": "Tori Dunlap's Financial Feminist \u2014 master your money by comb",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "personal-finance",
         "money",
@@ -398,13 +487,14 @@
         "debt",
         "financial-independence"
       ],
-      "emoji": "\ud83d\udcb0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/financial-feminist"
+      "score": 9.8,
+      "summary": "Tori Dunlap's Financial Feminist \u2014 master your money by combining practical financial skills (budgeting, debt, investing, earning) with awareness of the emotional and systemic forces that shape your relationship with money"
     },
-    "future-bright": {
-      "title": "Future Bright",
+    {
       "slug": "future-bright",
+      "title": "Michael E. Martinez's Future Bright \u2014 an executable toolkit ",
+      "author": "heardlyapp",
+      "version": "1.0.1",
       "tags": [
         "intelligence",
         "cognitive-enhancement",
@@ -416,13 +506,43 @@
         "self-improvement",
         "neuroscience"
       ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/future-bright"
+      "score": 9.8,
+      "summary": "Michael E. Martinez's Future Bright \u2014 an executable toolkit for understanding and enhancing human intelligence: how fluid intelligence, crystallized knowledge, and effective character work together, and the strategies to improve all three.\n\nCovers 5 use cases:\n\u2460 Understanding Intelligence \u2014 learn what intelligence is, how it's measured, why it matters\n\u2461 Fluid Intelligence \u2014 develop adaptive problem-solving ability and abstract reasoning\n\u2462 Crystallized Intelligence \u2014 build deep knowledge and expertise through deliberate learning\n\u2463 Effective Character \u2014 cultivate persistence, curiosity, and self-regulation\n\u2464 Ten Strategies to Enhance Intelligence \u2014 apply proven methods to improve cognitive abilities.\n\nTrigger when users say: \"How to get smarter\" \"Can intelligence be improved\" \"IQ\" \"Brain training\" \"Cognitive enhancement\" \"How to learn faster\" \"Fluid intelligence\" \"Crystallized intelligence\" \"Effective thinking\" \"Michael Martinez\" \"Future Bright\" \"Growth mindset\" \"Brain plasticity\"\nor mention: Michael Martinez / Future Bright / fluid intelligence / crystallized intelligence / effective character / IQ / cognitive ability / intelligence enhancement.\n\nAlso triggers when the user says they just installed this skill or doesn't know how to start \u2014 the AI MUST proactively present the Quick Start guide below.\n\nRelated skills: a-mind-for-numbers, make-it-stick, the-slight-edge, atomic-habits, the-happiness-advantage."
     },
-    "hidden-valley-road": {
-      "title": "Hidden Valley Road",
+    {
+      "slug": "great-power-diplomacy",
+      "title": "A. Wess Mitchell's Great Power Diplomacy \u2014 an executable too",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [],
+      "score": 9.8,
+      "summary": "A. Wess Mitchell's Great Power Diplomacy \u2014 an executable toolkit for mastering strategic statecraft from Attila the Hun to Kissinger: how great powers use diplomacy to survive, build coalitions, manipulate time, and avoid wars they cannot win.\n\nCovers 5 use cases:\n\u2460 Strategic Diplomacy \u2014 understand how great powers use diplomacy as an instrument of grand strategy\n\u2461 Coalition Building \u2014 learn how weaker states combine forces to restrain hegemons\n\u2462 Time Manipulation \u2014 master the diplomatic art of controlling the clock\n\u2463 Managing Two-Front Threats \u2014 navigate the challenge of facing multiple great powers\n\u2464 Diplomatic Trade-offs \u2014 weigh the costs of diplomatic choices.\n\nTrigger when users say: \"Great power diplomacy\" \"Statecraft\" \"Strategic diplomacy\" \"Archidamus moment\" \"Coalition building\" \"Two-front war\" \"Balance of power diplomacy\" \"How to negotiate with stronger enemies\" \"Geopolitical strategy\" \"Realpolitik\" \"Diplomatic history\" \"International relations strategy\" \"Grand strategy\" \"Power politics\" \"Alliance management\" \"Time in strategy\" \"How to avoid war\" \"Richelieu diplomacy\" \"Bismarck alliances\" \"Kissinger diplomacy\" \"Metternich system\" \"Byzantine diplomacy\" \"Venetian diplomacy\"\nor mention: A. Wess Mitchell / Great Power Diplomacy / strategic statecraft / diplomacy as grand strategy / Archidamus / Chrysaphius / Richelieu / Metternich / Bismarck / Kaunitz / Nixon-Kissinger / two-front war / coalition diplomacy / Attila the Hun / Suleiman the Magnificent / Frederick the Great / Maria Theresa / Congress of Vienna / Concert of Europe / Cold War diplomacy / triangular diplomacy / balance of power / diplomatic history / diplomacy of the weak / diplomatic trade-offs.\n\nRelated skills: world-order, the-tragedy-of-great-power-politics, the-prize, leadership-in-turbulent-times, the-essential-drucker."
+    },
+    {
+      "slug": "grit-the-power-of-passion-and-perseverance",
+      "title": "Angela Duckworth's Grit \u2014 an executable toolkit for developi",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "grit",
+        "perseverance",
+        "passion",
+        "success",
+        "psychology",
+        "motivation",
+        "discipline",
+        "deliberate-practice",
+        "resilience",
+        "achievement"
+      ],
+      "score": 9.8,
+      "summary": "Angela Duckworth's Grit \u2014 an executable toolkit for developing the power of passion and perseverance: how talent alone isn't enough, effort counts twice, and grit can be grown from the inside out.\n\nCovers 5 use cases:\n\u2460 Understanding Grit \u2014 the science of passion and perseverance\n\u2461 The Effort Equation \u2014 Talent \u00d7 Effort = Skill, Skill \u00d7 Effort = Achievement\n\u2462 Developing Passion \u2014 discover and deepen interests over time\n\u2463 Deliberate Practice \u2014 practice that actually improves skill\n\u2464 Cultivating Hope & Resilience \u2014 the mindset that keeps you going.\n\nTrigger when users say: \"Grit\" \"Angela Duckworth\" \"Passion and perseverance\" \"How to be more persistent\" \"I give up too easily\" \"How to develop grit\" \"Talent vs hard work\" \"Deliberate practice\" \"Growth mindset\" \"How to stay motivated\" \"Never give up\" \"Resilience\" \"How to achieve long-term goals\"\nor mention: Angela Duckworth / Grit / passion / perseverance / effort counts twice / deliberate practice / purpose / hope.\n\nAlso triggers when the user says they just installed this skill or doesn't know how to start \u2014 the AI MUST proactively present the Quick Start guide below.\n\nRelated skills: atomic-habits, the-slight-edge, cant-hurt-me, make-it-stick, the-happiness-advantage."
+    },
+    {
       "slug": "hidden-valley-road",
+      "title": "Robert Kolker's Hidden Valley Road \u2014 extract lessons from th",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "mental-health",
         "schizophrenia",
@@ -433,13 +553,38 @@
         "trauma",
         "neuroscience"
       ],
-      "emoji": "\ud83c\udfe0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/hidden-valley-road"
+      "score": 9.8,
+      "summary": "Robert Kolker's Hidden Valley Road \u2014 extract lessons from the Galvin family's story of mental illness: understanding schizophrenia, genetics, caregiver dynamics, and the evolution of mental health treatment"
     },
-    "how-to-enjoy-your-life-and-your-job": {
-      "title": "How to Enjoy Your Life and Your Job",
+    {
+      "slug": "hit-refresh",
+      "title": "Satya Nadella Hit Refresh \u2014 an executable toolkit for leadin",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "leadership",
+        "microsoft",
+        "transformation",
+        "innovation",
+        "technology"
+      ],
+      "score": 9.8,
+      "summary": "Satya Nadella Hit Refresh \u2014 an executable toolkit for leading organizational transformation through empathy, innovation, and a growth mindset."
+    },
+    {
+      "slug": "homo-deus",
+      "title": "homo-deus",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [],
+      "score": 9.8,
+      "summary": ""
+    },
+    {
       "slug": "how-to-enjoy-your-life-and-your-job",
+      "title": "Dale Carnegie's How to Enjoy Your Life and Your Job \u2014 build ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "relationships",
         "happiness",
@@ -450,13 +595,14 @@
         "personal-development",
         "dale-carnegie"
       ],
-      "emoji": "\ud83d\ude0a",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-enjoy-your-life-and-your-job"
+      "score": 9.8,
+      "summary": "Dale Carnegie's How to Enjoy Your Life and Your Job \u2014 build positive relationships, reduce worry, find meaning in work, and live with enthusiasm using Carnegie's timeless principles"
     },
-    "how-to-win-friends": {
-      "title": "How to Win Friends and Influence People",
+    {
       "slug": "how-to-win-friends",
+      "title": "Dale Carnegie's How to Win Friends and Influence People \u2014 bu",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "communication",
         "relationships",
@@ -465,13 +611,14 @@
         "social-skills",
         "career"
       ],
-      "emoji": "\ud83e\udd1d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-win-friends"
+      "score": 9.8,
+      "summary": "Dale Carnegie's How to Win Friends and Influence People \u2014 build relationships, handle people, lead without resistance using 30 principles"
     },
-    "i-will-teach-you-to-be-rich": {
-      "title": "I Will Teach You to Be Rich",
+    {
       "slug": "i-will-teach-you-to-be-rich",
+      "title": "Ramit Sethi's I Will Teach You to Be Rich \u2014 a 6-week program",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "personal-finance",
         "money",
@@ -481,13 +628,14 @@
         "wealth",
         "ramit-sethi"
       ],
-      "emoji": "\ud83d\udcb0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/i-will-teach-you-to-be-rich"
+      "score": 9.8,
+      "summary": "Ramit Sethi's I Will Teach You to Be Rich \u2014 a 6-week program to optimize credit cards, automate investments, create a Conscious Spending Plan, and design your Rich Life"
     },
-    "inspired": {
-      "title": "Inspired",
+    {
       "slug": "inspired",
+      "title": "Marty Cagan's Inspired \u2014 build tech products customers love ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "product-management",
         "product-discovery",
@@ -496,13 +644,29 @@
         "leadership",
         "innovation"
       ],
-      "emoji": "\ud83d\ude80",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/inspired"
+      "score": 9.8,
+      "summary": "Marty Cagan's Inspired \u2014 build tech products customers love through product discovery, empowered teams, and product strategy"
     },
-    "kitchen-confidential": {
-      "title": "Kitchen Confidential",
+    {
+      "slug": "journey-to-the-heart",
+      "title": "Melody Beattie Journey to the Heart \u2014 daily meditations for ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "meditation",
+        "spirituality",
+        "self-help",
+        "creativity",
+        "healing"
+      ],
+      "score": 9.8,
+      "summary": "Melody Beattie Journey to the Heart \u2014 daily meditations for spiritual growth, creativity, and trusting your soul."
+    },
+    {
       "slug": "kitchen-confidential",
+      "title": "Anthony Bourdain's Kitchen Confidential \u2014 an executable tool",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "leadership",
         "cooking",
@@ -514,13 +678,14 @@
         "team-culture",
         "hospitality"
       ],
-      "emoji": "\ud83d\udd2a",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/kitchen-confidential"
+      "score": 9.8,
+      "summary": "Anthony Bourdain's Kitchen Confidential \u2014 an executable toolkit for leadership, resilience, and high-performance culture drawn from the brutal, beautiful world of professional kitchens.\n\nCovers 5 use cases:\n\u2460 Building High-Performance Culture \u2014 create a team that operates with precision, pride, and accountability under pressure\n\u2461 Leadership Under Pressure \u2014 lead effectively in high-stress, fast-paced environments\n\u2462 The Apprenticeship Mindset \u2014 embrace the grind, learn from mentors, earn your place\n\u2463 Standards & Integrity \u2014 maintain uncompromising standards when no one is watching\n\u2464 Embracing the Chaos \u2014 find beauty and meaning in high-pressure environments.\n\nTrigger when users say: \"Kitchen Confidential\" \"Anthony Bourdain\" \"Restaurant management\" \"Kitchen culture\" \"High-pressure environment\" \"Team leadership\" \"How to run a kitchen\" \"Professional cooking\" \"Bourdain philosophy\"\nor mention: Anthony Bourdain / Kitchen Confidential / line cook / kitchen culture / restaurant / high-pressure leadership / mise en place.\n\nRelated skills: winning, cant-hurt-me, the-servant, the-essential-drucker, the-happiness-advantage."
     },
-    "leadership-in-turbulent-times": {
-      "title": "Leadership",
+    {
       "slug": "leadership-in-turbulent-times",
+      "title": "Doris Kearns Goodwin's Leadership \u2014 extract leadership lesso",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "leadership",
         "history",
@@ -530,13 +695,14 @@
         "resilience",
         "communication"
       ],
-      "emoji": "\ud83c\udfdb\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/leadership-in-turbulent-times"
+      "score": 9.8,
+      "summary": "Doris Kearns Goodwin's Leadership \u2014 extract leadership lessons from Lincoln, TR, FDR, and LBJ on developing through adversity, navigating crises, building teams, and communicating vision"
     },
-    "leadership-turbulent-times": {
-      "title": "Leadership: In Turbulent Times",
+    {
       "slug": "leadership-turbulent-times",
+      "title": "Doris Kearns Goodwin's Leadership: In Turbulent Times \u2014 a hi",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "leadership",
         "history",
@@ -546,13 +712,14 @@
         "transformational-leadership",
         "doris-kearns-goodwin"
       ],
-      "emoji": "\ud83c\udfdb\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/leadership-turbulent-times"
+      "score": 9.8,
+      "summary": "Doris Kearns Goodwin's Leadership: In Turbulent Times \u2014 a historical case-study toolkit for understanding how great leaders emerge, grow through adversity, and align with the moment."
     },
-    "lean-in": {
-      "title": "Lean In",
+    {
       "slug": "lean-in",
+      "title": "Sheryl Sandberg's Lean In \u2014 build leadership ambition, overc",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "leadership",
         "women-in-business",
@@ -561,13 +728,14 @@
         "negotiation",
         "gender-equality"
       ],
-      "emoji": "\ud83d\udcaa",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/lean-in"
+      "score": 9.8,
+      "summary": "Sheryl Sandberg's Lean In \u2014 build leadership ambition, overcome the confidence gap, and create more equal workplaces"
     },
-    "lean-thinking": {
-      "title": "Lean Thinking",
+    {
       "slug": "lean-thinking",
+      "title": "James P. Womack & Daniel T. Jones' Lean Thinking \u2014 eliminate",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "lean",
         "operations",
@@ -580,13 +748,43 @@
         "business",
         "management"
       ],
-      "emoji": "\ud83c\udfed",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/lean-thinking"
+      "score": 9.8,
+      "summary": "James P. Womack & Daniel T. Jones' Lean Thinking \u2014 eliminate waste (muda), maximize customer value, and create wealth in any organization using the 5 lean principles."
     },
-    "make-it-stick": {
-      "title": "Make It Stick",
+    {
+      "slug": "little-leaders",
+      "title": "Vashti Harrison's Little Leaders: Bold Women in Black Histor",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "women",
+        "history",
+        "biography",
+        "black-history",
+        "role-models",
+        "inspiration",
+        "diversity",
+        "civil-rights",
+        "stem",
+        "arts"
+      ],
+      "score": 9.8,
+      "summary": "Vashti Harrison's Little Leaders: Bold Women in Black History \u2014 celebrate 40 trailblazing black women who broke barriers in science, arts, sports, politics, and activism, told through accessible mini-biographies that inspire the next generation"
+    },
+    {
+      "slug": "long-walk-to-freedom",
+      "title": "long-walk-to-freedom",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [],
+      "score": 9.8,
+      "summary": ""
+    },
+    {
       "slug": "make-it-stick",
+      "title": "Roediger & McDaniel's Make It Stick \u2014 effective learning bas",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "learning",
         "education",
@@ -595,13 +793,14 @@
         "cognitive-science",
         "productivity"
       ],
-      "emoji": "\ud83d\udcda",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/make-it-stick"
+      "score": 9.8,
+      "summary": "Roediger & McDaniel's Make It Stick \u2014 effective learning based on cognitive science: retrieval practice, spacing, interleaving"
     },
-    "mind-magic": {
-      "title": "neuroscience-backed 6-step manifestation system",
+    {
       "slug": "mind-magic",
+      "title": "James R. Doty's neuroscience-backed 6-step manifestation sys",
+      "author": "heardlyapp",
+      "version": "1.0.1",
       "tags": [
         "manifestation",
         "neuroscience",
@@ -614,13 +813,14 @@
         "personal-development",
         "james-doty"
       ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/mind-magic"
+      "score": 9.8,
+      "summary": "James R. Doty's neuroscience-backed 6-step manifestation system \u2014 turn intention into reality by rewiring your brain's networks."
     },
-    "mindfck": {
-      "title": "Mindf*ck",
+    {
       "slug": "mindfck",
+      "title": "Christopher Wylie's Mindf*ck \u2014 the whistleblower's account o",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "surveillance-capitalism",
         "election-interference",
@@ -633,13 +833,14 @@
         "big-tech",
         "democracy"
       ],
-      "emoji": "\ud83d\udd2e",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/mindfck"
+      "score": 9.8,
+      "summary": "Christopher Wylie's Mindf*ck \u2014 the whistleblower's account of how Cambridge Analytica weaponized Facebook data for psychological warfare, election interference, and the alt-right insurgency."
     },
-    "nonviolent-communication": {
-      "title": "Nonviolent Communication",
+    {
       "slug": "nonviolent-communication",
+      "title": "\u9a6c\u6b47\u5c14\u00b7\u5362\u68ee\u5821\u300a\u975e\u66b4\u529b\u6c9f\u901a\u300b(NVC) \u7684\u53ef\u6267\u884c\u5de5\u5177\u7bb1\uff1a\u628a\u4efb\u4f55\u4e00\u53e5\u8bdd\u7ffb\u8bd1\u6210 \u89c2\u5bdf-\u611f\u53d7-\u9700\u8981-\u8bf7\u6c42(OFNR)",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "communication",
         "psychology",
@@ -648,13 +849,14 @@
         "empathy",
         "self-help"
       ],
-      "emoji": "\ud83e\udd92",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/nonviolent-communication"
+      "score": 9.8,
+      "summary": "\u9a6c\u6b47\u5c14\u00b7\u5362\u68ee\u5821\u300a\u975e\u66b4\u529b\u6c9f\u901a\u300b(NVC) \u7684\u53ef\u6267\u884c\u5de5\u5177\u7bb1\uff1a\u628a\u4efb\u4f55\u4e00\u53e5\u8bdd\u7ffb\u8bd1\u6210 \u89c2\u5bdf-\u611f\u53d7-\u9700\u8981-\u8bf7\u6c42(OFNR)"
     },
-    "old-school-grit": {
-      "title": "Old School Grit",
+    {
       "slug": "old-school-grit",
+      "title": "Darrin Donnelly's Old School Grit \u2014 build perseverance, disc",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "grit",
         "perseverance",
@@ -665,13 +867,14 @@
         "work-ethic",
         "resilience"
       ],
-      "emoji": "\ud83d\udcaa",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/old-school-grit"
+      "score": 9.8,
+      "summary": "Darrin Donnelly's Old School Grit \u2014 build perseverance, discipline, mental toughness, and a positive success mindset using nine timeless rules that never change"
     },
-    "one-up-on-wall-street": {
-      "title": "One Up On Wall Street",
+    {
       "slug": "one-up-on-wall-street",
+      "title": "Peter Lynch's One Up On Wall Street \u2014 invest in what you kno",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "investing",
         "stocks",
@@ -682,13 +885,23 @@
         "portfolio",
         "finance"
       ],
-      "emoji": "\ud83d\udcc8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/one-up-on-wall-street"
+      "score": 9.8,
+      "summary": "Peter Lynch's One Up On Wall Street \u2014 invest in what you know, identify tenbaggers, categorize companies by type, and build a winning portfolio using the edge individual investors have over professionals"
     },
-    "power-sex-suicide": {
-      "title": "Power, Sex, Suicide",
+    {
+      "slug": "patriot-a-memoir",
+      "title": "patriot-a-memoir",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [],
+      "score": 9.8,
+      "summary": ""
+    },
+    {
       "slug": "power-sex-suicide",
+      "title": "Nick Lane's Power, Sex, Suicide \u2014 understand how mitochondri",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "mitochondria",
         "biology",
@@ -699,13 +912,14 @@
         "science",
         "dna"
       ],
-      "emoji": "\ud83d\udd2c",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/power-sex-suicide"
+      "score": 9.8,
+      "summary": "Nick Lane's Power, Sex, Suicide \u2014 understand how mitochondria shape the most profound aspects of life: cellular energy, the evolution of sex, aging, and programmed cell death (apoptosis)"
     },
-    "radically-happy": {
-      "title": "Radically Happy",
+    {
       "slug": "radically-happy",
+      "title": "Phakchok Rinpoche and Erric Solomon's Radically Happy \u2014 comb",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "happiness",
         "meditation",
@@ -716,13 +930,34 @@
         "compassion",
         "psychology"
       ],
-      "emoji": "\u2638\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/radically-happy"
+      "score": 9.8,
+      "summary": "Phakchok Rinpoche and Erric Solomon's Radically Happy \u2014 combine Buddhist wisdom with practical psychology to understand your mind, overcome negative patterns, and cultivate genuine lasting happiness"
     },
-    "rich-dad-poor-dad": {
-      "title": "Rich Dad Poor Dad",
+    {
+      "slug": "reentry",
+      "title": "Eric Berger's 'Reentry: SpaceX, Elon Musk, and the Reusable ",
+      "author": "heardlyapp",
+      "version": "1.0.1",
+      "tags": [
+        "spacex",
+        "elon-musk",
+        "innovation",
+        "aerospace",
+        "entrepreneurship",
+        "technology",
+        "engineering-culture",
+        "disruption",
+        "failure-recovery",
+        "reusability"
+      ],
+      "score": 9.8,
+      "summary": "Eric Berger's 'Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age' \u2014 a toolkit for applying SpaceX's scrappy innovation culture, failure-recovery playbook, and reusability-thinking to your own high-stakes projects."
+    },
+    {
       "slug": "rich-dad-poor-dad",
+      "title": "Robert Kiyosaki's Rich Dad Poor Dad \u2014 reframe how you think ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "finance",
         "wealth",
@@ -731,13 +966,14 @@
         "money-mindset",
         "personal-finance"
       ],
-      "emoji": "\ud83d\udcb0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/rich-dad-poor-dad"
+      "score": 9.8,
+      "summary": "Robert Kiyosaki's Rich Dad Poor Dad \u2014 reframe how you think about money, assets, and financial freedom using the 6 Lessons framework"
     },
-    "richard-nixon": {
-      "title": "Richard Nixon: The Life",
+    {
       "slug": "richard-nixon",
+      "title": "John Farrell's Richard Nixon: The Life \u2014 extract lessons fro",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "nixon",
         "president",
@@ -748,13 +984,14 @@
         "history",
         "biography"
       ],
-      "emoji": "\ud83c\udfdb\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/richard-nixon"
+      "score": 9.8,
+      "summary": "John Farrell's Richard Nixon: The Life \u2014 extract lessons from Nixon's rise, triumph, and fall: resilience, foreign policy genius, leadership under pressure, the dangers of paranoia, and political strategy"
     },
-    "surviving-climate-anxiety": {
-      "title": "Surviving Climate Anxiety",
+    {
       "slug": "surviving-climate-anxiety",
+      "title": "Thomas Doherty's Surviving Climate Anxiety \u2014 an executable t",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "climate",
         "anxiety",
@@ -767,13 +1004,14 @@
         "psychology",
         "hope"
       ],
-      "emoji": "\ud83c\udf31",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/surviving-climate-anxiety"
+      "score": 9.8,
+      "summary": "Thomas Doherty's Surviving Climate Anxiety \u2014 an executable toolkit for coping with climate-related distress: manage eco-anxiety, find meaning in a warming world, build resilience, and move from fear to empowered action.\n\nCovers 5 use cases:\n\u2460 Managing Climate Anxiety \u2014 develop coping strategies for climate-related fear and worry\n\u2461 Building Emotional Resilience \u2014 process difficult emotions (grief, anger, despair) related to environmental loss\n\u2462 Finding Meaning & Purpose \u2014 connect climate action to your values, discover purpose in environmental engagement\n\u2463 Taking Sustainable Action \u2014 move from anxiety to effective action without burning out\n\u2464 Nurturing Hope \u2014 maintain hope and happiness while facing climate reality.\n\nTrigger when users say: \"Climate anxiety\" \"Eco-anxiety\" \"Climate change depression\" \"Overwhelmed by climate news\" \"Climate grief\" \"Environmental guilt\" \"How to cope with climate change\" \"Climate doom\" \"Climate mental health\" \"Sustainable living\" \"Climate action burnout\" \"Climate hope\"\nor mention: Thomas Doherty / climate anxiety / eco-anxiety / climate grief / climate resilience / environmental psychology / sustainable living.\n\nRelated skills: the-happiness-advantage, the-power-of-now, the-miracle-of-mindfulness, radically-happy, atomic-habits."
     },
-    "talk-like-ted": {
-      "title": "Talk Like TED",
+    {
       "slug": "talk-like-ted",
+      "title": "Carmine Gallo's Talk Like TED \u2014 master the 9 public-speaking",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "public-speaking",
         "presentation-skills",
@@ -783,13 +1021,14 @@
         "leadership",
         "pitch"
       ],
-      "emoji": "\ud83c\udfa4",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/talk-like-ted"
+      "score": 9.8,
+      "summary": "Carmine Gallo's Talk Like TED \u2014 master the 9 public-speaking secrets of the world's top TED presenters to deliver emotional, novel, and memorable presentations"
     },
-    "ten-women-who-changed-science-and-the-world": {
-      "title": "Ten Women Who Changed Science",
+    {
       "slug": "ten-women-who-changed-science-and-the-world",
+      "title": "Catherine Whitlock and Rhodri Evans's Ten Women Who Changed ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "women-in-science",
         "stem",
@@ -799,13 +1038,14 @@
         "history-of-science",
         "diversity"
       ],
-      "emoji": "\ud83d\udd2c",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/ten-women-who-changed-science-and-the-world"
+      "score": 9.8,
+      "summary": "Catherine Whitlock and Rhodri Evans's Ten Women Who Changed Science \u2014 learn from ten pioneering women scientists about discovery, persistence, overcoming barriers, and leaving a lasting impact on science and humanity"
     },
-    "the-advice-trap": {
-      "title": "The Advice Trap",
+    {
       "slug": "the-advice-trap",
+      "title": "Michael Bungay Stanier's The Advice Trap \u2014 tame your Advice ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "coaching",
         "leadership",
@@ -815,13 +1055,14 @@
         "curiosity",
         "psychological-safety"
       ],
-      "emoji": "\ud83e\udd81",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-advice-trap"
+      "score": 9.8,
+      "summary": "Michael Bungay Stanier's The Advice Trap \u2014 tame your Advice Monster, stay curious longer, and lead through coaching questions instead of giving advice"
     },
-    "the-alter-ego-effect": {
-      "title": "The Alter Ego Effect",
+    {
       "slug": "the-alter-ego-effect",
+      "title": "Todd Herman's The Alter Ego Effect \u2014 create a secret identit",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "confidence",
         "performance",
@@ -832,13 +1073,44 @@
         "self-improvement",
         "mental-toughness"
       ],
-      "emoji": "\ud83e\uddb8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-alter-ego-effect"
+      "score": 9.8,
+      "summary": "Todd Herman's The Alter Ego Effect \u2014 create a secret identity to overcome self-doubt, perform under pressure, and access your highest potential when it matters most"
     },
-    "the-art-of-loving": {
-      "title": "The Art of Loving",
+    {
+      "slug": "the-american-presidency",
+      "title": "Charles O. Jones' The American Presidency \u2014 an executable to",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "presidency",
+        "government",
+        "politics",
+        "us-history",
+        "constitution"
+      ],
+      "score": 9.8,
+      "summary": "Charles O. Jones' The American Presidency \u2014 an executable toolkit for understanding how the American presidency works, its constitutional design, and the art of presidential leadership."
+    },
+    {
+      "slug": "the-anatomy-of-the-state",
+      "title": "Murray Rothbard Anatomy of the State \u2014 an executable toolkit",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "libertarian",
+        "political-philosophy",
+        "state",
+        "anarcho-capitalism",
+        "austrian-economics"
+      ],
+      "score": 9.8,
+      "summary": "Murray Rothbard Anatomy of the State \u2014 an executable toolkit for understanding the nature of the state as a coercive institution."
+    },
+    {
       "slug": "the-art-of-loving",
+      "title": "Erich Fromm's The Art of Loving \u2014 explore love as an art tha",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "love",
         "relationships",
@@ -848,13 +1120,14 @@
         "personal-development",
         "fromm"
       ],
-      "emoji": "\u2764\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-loving"
+      "score": 9.8,
+      "summary": "Erich Fromm's The Art of Loving \u2014 explore love as an art that requires knowledge and practice, covering the four elements of love, the five types of love, and how to cultivate genuine love in modern society"
     },
-    "the-art-of-thinking-clearly": {
-      "title": "The Art of Thinking Clearly",
+    {
       "slug": "the-art-of-thinking-clearly",
+      "title": "Rolf Dobelli's The Art of Thinking Clearly \u2014 field guide to ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "cognitive-biases",
         "decision-making",
@@ -863,13 +1136,29 @@
         "thinking",
         "self-improvement"
       ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-thinking-clearly"
+      "score": 9.8,
+      "summary": "Rolf Dobelli's The Art of Thinking Clearly \u2014 field guide to 99+ cognitive biases that lead to bad decisions"
     },
-    "the-butchering-art": {
-      "title": "The Butchering Art",
+    {
+      "slug": "the-black-swan",
+      "title": "Nassim Nicholas Taleb's The Black Swan \u2014 an executable toolk",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "uncertainty",
+        "randomness",
+        "taleb",
+        "rare-events",
+        "antifragile"
+      ],
+      "score": 9.8,
+      "summary": "Nassim Nicholas Taleb's The Black Swan \u2014 an executable toolkit for navigating uncertainty, randomness, and rare high-impact events."
+    },
+    {
       "slug": "the-butchering-art",
+      "title": "Lindsey Fitzharris's The Butchering Art \u2014 learn how Joseph L",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "medical-history",
         "surgery",
@@ -880,13 +1169,14 @@
         "hygiene",
         "victorian"
       ],
-      "emoji": "\ud83c\udfe5",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-butchering-art"
+      "score": 9.8,
+      "summary": "Lindsey Fitzharris's The Butchering Art \u2014 learn how Joseph Lister transformed Victorian surgery through antisepsis, overcoming entrenched opposition to revolutionize medicine and save millions of lives"
     },
-    "the-checklist-manifesto": {
-      "title": "The Checklist Manifesto",
+    {
       "slug": "the-checklist-manifesto",
+      "title": "Atul Gawande's The Checklist Manifesto \u2014 manage complexity a",
+      "author": "heardlyapp",
+      "version": "1.0.1",
       "tags": [
         "productivity",
         "systems",
@@ -896,13 +1186,14 @@
         "aviation",
         "engineering"
       ],
-      "emoji": "\u2705",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-checklist-manifesto"
+      "score": 9.8,
+      "summary": "Atul Gawande's The Checklist Manifesto \u2014 manage complexity and prevent errors in high-stakes environments"
     },
-    "the-coddling-of-the-american-mind": {
-      "title": "The Coddling of the American Mind",
+    {
       "slug": "the-coddling-of-the-american-mind",
+      "title": "Greg Lukianoff and Jonathan Haidt's The Coddling of the Amer",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "resilience",
         "psychology",
@@ -913,27 +1204,48 @@
         "mental-health",
         "parenting"
       ],
-      "emoji": "\ud83c\udf93",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-coddling-of-the-american-mind"
+      "score": 9.8,
+      "summary": "Greg Lukianoff and Jonathan Haidt's The Coddling of the American Mind \u2014 understand the Three Great Untruths weakening resilience, apply CBT principles to challenge distorted thinking, and foster antifragility in education and culture"
     },
-    "the-computer-always-wins": {
-      "title": "The Computer Always Wins",
+    {
+      "slug": "the-cold-war-new-history",
+      "title": "John Lewis Gaddis The Cold War: A New History \u2014 an executabl",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "cold-war",
+        "history",
+        "soviet-union",
+        "us-history",
+        "geopolitics"
+      ],
+      "score": 9.8,
+      "summary": "John Lewis Gaddis The Cold War: A New History \u2014 an executable toolkit for understanding the global struggle between the US and Soviet Union from 1945 to 1991."
+    },
+    {
       "slug": "the-computer-always-wins",
+      "title": "Elliot Lichtman's The Computer Always Wins \u2014 an executable t",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "algorithms",
-        "puzzles",
+        "computer-science",
+        "ai",
+        "machine-learning",
         "games",
+        "puzzles",
         "strategy",
-        "computational-thinking"
+        "computational-thinking",
+        "programming"
       ],
-      "emoji": "\ud83d\udcbb",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-computer-always-wins"
+      "score": 9.8,
+      "summary": "Elliot Lichtman's The Computer Always Wins \u2014 an executable toolkit that teaches algorithmic thinking through puzzles, strategy games, and AI concepts. Learn how computers solve problems, make decisions, and defeat human opponents.\n\nCovers 5 use cases:\n\u2460 Algorithmic Thinking \u2014 understand how computers approach problems systematically, from binary search to sorting algorithms\n\u2461 Game Strategy \u2014 learn how computers win at games like tic-tac-toe, Connect Four, and chess using search trees and minimax\n\u2462 Random Simulation \u2014 understand Monte Carlo methods and how computers use randomness to solve complex problems\n\u2463 Machine Learning Basics \u2014 grasp how computers learn from data through neural networks, reinforcement learning, and pattern recognition\n\u2464 Computational Thinking \u2014 apply computer science concepts to everyday problem solving: breaking down problems, recognizing patterns, and designing efficient solutions.\n\nTrigger when users say: \"How algorithms work\" \"Game AI\" \"Computer wins at games\" \"Algorithmic thinking\" \"How to think like a computer scientist\" \"Puzzle solving strategies\" \"AI for beginners\" \"How does machine learning work\" \"Search algorithms\" \"Minimax\" \"Monte Carlo\" \"Neural networks explained\" \"Computer science basics\"\nor mention: Elliot Lichtman / The Computer Always Wins / algorithms / game AI / machine learning / search trees / minimax / Monte Carlo / neural networks / computational thinking / puzzles / strategy games.\n\nRelated skills: predictably-irrational, the-art-of-thinking-clearly, black-swan, brain-rules."
     },
-    "the-creative-act": {
-      "title": "The Creative Act",
+    {
       "slug": "the-creative-act",
+      "title": "Rick Rubin's The Creative Act \u2014 access your innate creativit",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "creativity",
         "art",
@@ -944,13 +1256,14 @@
         "self-expression",
         "philosophy"
       ],
-      "emoji": "\ud83c\udfa8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-creative-act"
+      "score": 9.8,
+      "summary": "Rick Rubin's The Creative Act \u2014 access your innate creativity through tuning in, letting go of expectations, and approaching creation as a way of being rather than a product to deliver"
     },
-    "the-creative-habit": {
-      "title": "The Creative Habit",
+    {
       "slug": "the-creative-habit",
+      "title": "Twyla Tharp's The Creative Habit \u2014 build creativity as a dai",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "creativity",
         "habit",
@@ -961,13 +1274,14 @@
         "choreography",
         "self-discipline"
       ],
-      "emoji": "\ud83d\udc83",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-creative-habit"
+      "score": 9.8,
+      "summary": "Twyla Tharp's The Creative Habit \u2014 build creativity as a daily practice through rituals, preparation, discipline, and consistent work, regardless of inspiration or mood"
     },
-    "the-crowd": {
-      "title": "The Crowd",
+    {
       "slug": "the-crowd",
+      "title": "Gustave Le Bon's The Crowd \u2014 understand how individuals chan",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "psychology",
         "crowds",
@@ -978,13 +1292,14 @@
         "propaganda",
         "mob"
       ],
-      "emoji": "\ud83d\udc65",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-crowd"
+      "score": 9.8,
+      "summary": "Gustave Le Bon's The Crowd \u2014 understand how individuals change in crowds, how collective behavior forms, and how leaders influence the popular mind through assertion, repetition, and contagion"
     },
-    "the-education-of-a-value-investor": {
-      "title": "The Education of a Value Investor",
+    {
       "slug": "the-education-of-a-value-investor",
+      "title": "Guy Spier's The Education of a Value Investor \u2014 apply value ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "investing",
         "value-investing",
@@ -995,13 +1310,14 @@
         "long-term",
         "stocks"
       ],
-      "emoji": "\ud83d\udcda",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-education-of-a-value-investor"
+      "score": 9.8,
+      "summary": "Guy Spier's The Education of a Value Investor \u2014 apply value investing principles to both money and life: think independently, stay within your circle of competence, avoid biases, and cultivate long-term temperament"
     },
-    "the-element": {
-      "title": "The Element",
+    {
       "slug": "the-element",
+      "title": "Ken Robinson's The Element \u2014 find where your talent and pass",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "creativity",
         "passion",
@@ -1011,13 +1327,14 @@
         "personal-development",
         "self-discovery"
       ],
-      "emoji": "\ud83d\udd25",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-element"
+      "score": 9.8,
+      "summary": "Ken Robinson's The Element \u2014 find where your talent and passion meet to live a more fulfilling life"
     },
-    "the-essential-drucker": {
-      "title": "The Essential Drucker",
+    {
       "slug": "the-essential-drucker",
+      "title": "Peter Drucker's The Essential Drucker \u2014 apply Drucker's six ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "management",
         "leadership",
@@ -1028,13 +1345,29 @@
         "executive",
         "organization"
       ],
-      "emoji": "\ud83d\udcca",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-essential-drucker"
+      "score": 9.8,
+      "summary": "Peter Drucker's The Essential Drucker \u2014 apply Drucker's six decades of management wisdom on the five deadly sins, management by objectives, innovation, the effective executive, and leading change"
     },
-    "the-first-days-of-school": {
-      "title": "The First Days of School",
+    {
+      "slug": "the-fire-next-time",
+      "title": "James Baldwin The Fire Next Time \u2014 an executable toolkit for",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "race",
+        "civil-rights",
+        "baldwin",
+        "justice",
+        "american-history"
+      ],
+      "score": 9.8,
+      "summary": "James Baldwin The Fire Next Time \u2014 an executable toolkit for understanding race, justice, and the moral crisis of America."
+    },
+    {
       "slug": "the-first-days-of-school",
+      "title": "Harry and Rosemary Wong's The First Days of School \u2014 proven ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "teaching",
         "education",
@@ -1044,13 +1377,14 @@
         "pedagogy",
         "procedures"
       ],
-      "emoji": "\ud83c\udf4e",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-first-days-of-school"
+      "score": 9.8,
+      "summary": "Harry and Rosemary Wong's The First Days of School \u2014 proven strategies for classroom management, effective teaching, establishing procedures, and starting the school year for maximum student success"
     },
-    "the-four-foundations-of-golf": {
-      "title": "The Four Foundations of Golf",
+    {
       "slug": "the-four-foundations-of-golf",
+      "title": "Jon Sherman's The Four Foundations of Golf \u2014 lower your scor",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "golf",
         "sports",
@@ -1060,13 +1394,14 @@
         "mental-game",
         "course-management"
       ],
-      "emoji": "\u26f3",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-four-foundations-of-golf"
+      "score": 9.8,
+      "summary": "Jon Sherman's The Four Foundations of Golf \u2014 lower your scores and enjoy the game more by managing expectations, improving course strategy, practicing purposefully, and training your mental game"
     },
-    "the-four-steps-to-the-epiphany": {
-      "title": "The Four Steps to the Epiphany",
+    {
       "slug": "the-four-steps-to-the-epiphany",
+      "title": "Steve Blank's The Four Steps to the Epiphany \u2014 apply the Cus",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "startup",
         "customer-development",
@@ -1076,13 +1411,14 @@
         "innovation",
         "business-model"
       ],
-      "emoji": "\ud83d\ude80",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-four-steps-to-the-epiphany"
+      "score": 9.8,
+      "summary": "Steve Blank's The Four Steps to the Epiphany \u2014 apply the Customer Development model to replace traditional product development: find customers before building, validate demand, create a market, and build a scalable company"
     },
-    "the-go-giver-influencer": {
-      "title": "The Go-Giver Influencer",
+    {
       "slug": "the-go-giver-influencer",
+      "title": "Bob Burg and John David Mann's The Go-Giver Influencer \u2014 bui",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "influence",
         "persuasion",
@@ -1092,13 +1428,14 @@
         "relationships",
         "communication"
       ],
-      "emoji": "\ud83e\udd1d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-go-giver-influencer"
+      "score": 9.8,
+      "summary": "Bob Burg and John David Mann's The Go-Giver Influencer \u2014 build genuine influence through giving value, finding the third way beyond win-lose, and leading through service"
     },
-    "the-grand-design": {
-      "title": "The Grand Design",
+    {
       "slug": "the-grand-design",
+      "title": "Stephen Hawking and Leonard Mlodinow's The Grand Design \u2014 ex",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "cosmology",
         "physics",
@@ -1109,13 +1446,14 @@
         "big-bang",
         "science"
       ],
-      "emoji": "\ud83c\udf0c",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-grand-design"
+      "score": 9.8,
+      "summary": "Stephen Hawking and Leonard Mlodinow's The Grand Design \u2014 explore the nature of the universe, the laws of physics, quantum mechanics, M-theory, and why the universe doesn't need a creator"
     },
-    "the-great-displacement": {
-      "title": "The Great Displacement",
+    {
       "slug": "the-great-displacement",
+      "title": "Jake Bittle's The Great Displacement \u2014 understand how climat",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "climate-change",
         "migration",
@@ -1126,13 +1464,14 @@
         "community",
         "policy"
       ],
-      "emoji": "\ud83c\udf0a",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-great-displacement"
+      "score": 9.8,
+      "summary": "Jake Bittle's The Great Displacement \u2014 understand how climate change is forcing the largest migration in American history through wildfires, floods, sea-level rise, and extreme weather"
     },
-    "the-happiness-advantage": {
-      "title": "The Happiness Advantage",
+    {
       "slug": "the-happiness-advantage",
+      "title": "Shawn Achor's The Happiness Advantage \u2014 use positive psychol",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "happiness",
         "positive-psychology",
@@ -1141,13 +1480,14 @@
         "gratitude",
         "workplace-wellbeing"
       ],
-      "emoji": "\ud83d\ude0a",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-happiness-advantage"
+      "score": 9.8,
+      "summary": "Shawn Achor's The Happiness Advantage \u2014 use positive psychology to fuel success and performance"
     },
-    "the-lords-of-easy-money": {
-      "title": "The Lords of Easy Money",
+    {
       "slug": "the-lords-of-easy-money",
+      "title": "Christopher Leonard's The Lords of Easy Money \u2014 understand h",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "federal-reserve",
         "quantitative-easing",
@@ -1157,13 +1497,14 @@
         "central-banking",
         "finance"
       ],
-      "emoji": "\ud83d\udcb0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-lords-of-easy-money"
+      "score": 9.8,
+      "summary": "Christopher Leonard's The Lords of Easy Money \u2014 understand how the Federal Reserve's quantitative easing policies transformed the economy, created inequality, and set the stage for inflation"
     },
-    "the-miracle-of-mindfulness": {
-      "title": "The Miracle of Mindfulness",
+    {
       "slug": "the-miracle-of-mindfulness",
+      "title": "Thich Nhat Hanh's The Miracle of Mindfulness \u2014 learn the pra",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "mindfulness",
         "meditation",
@@ -1174,13 +1515,14 @@
         "spirituality",
         "peace"
       ],
-      "emoji": "\ud83e\uddd8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-miracle-of-mindfulness"
+      "score": 9.8,
+      "summary": "Thich Nhat Hanh's The Miracle of Mindfulness \u2014 learn the practice of mindfulness meditation through conscious breathing, daily presence, and transforming suffering into peace"
     },
-    "the-moment-of-lift": {
-      "title": "The Moment Of Lift",
+    {
       "slug": "the-moment-of-lift",
+      "title": "Melinda French Gates' The Moment of Lift \u2014 understand how em",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "women-empowerment",
         "gender-equality",
@@ -1190,13 +1532,14 @@
         "education",
         "microfinance"
       ],
-      "emoji": "\ud83c\udf0d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-moment-of-lift"
+      "score": 9.8,
+      "summary": "Melinda French Gates' The Moment of Lift \u2014 understand how empowering women changes the world through family planning, education, economic empowerment, and gender equality"
     },
-    "the-mountain-is-you": {
-      "title": "The Mountain Is You",
+    {
       "slug": "the-mountain-is-you",
+      "title": "Brianna Wiest's The Mountain Is You \u2014 transform self-sabotag",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "self-sabotage",
         "emotional-intelligence",
@@ -1206,13 +1549,14 @@
         "transformation",
         "limiting-beliefs"
       ],
-      "emoji": "\ud83c\udfd4\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-mountain-is-you"
+      "score": 9.8,
+      "summary": "Brianna Wiest's The Mountain Is You \u2014 transform self-sabotage into self-mastery by uncovering the unconscious needs behind self-defeating behaviors"
     },
-    "the-new-jim-crow": {
-      "title": "The New Jim Crow",
+    {
       "slug": "the-new-jim-crow",
+      "title": "Michelle Alexander's The New Jim Crow \u2014 an executable toolki",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "social-justice",
         "mass-incarceration",
@@ -1223,13 +1567,14 @@
         "law",
         "activism"
       ],
-      "emoji": "\u26d3\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-jim-crow"
+      "score": 9.8,
+      "summary": "Michelle Alexander's The New Jim Crow \u2014 an executable toolkit for understanding mass incarceration as a racial caste system in America: its history, mechanisms, human impact, and what can be done about it.\n\nCovers 5 use cases:\n\u2460 Understanding Mass Incarceration \u2014 grasp how the War on Drugs created a racial caste system\n\u2461 The Mechanics of the System \u2014 how policing, prosecution, and sentencing create racial disparities\n\u2462 The Collateral Consequences \u2014 the permanent discrimination faced by people with criminal records\n\u2463 The Human Impact \u2014 stories of individuals and communities devastated by mass incarceration\n\u2464 Toward Reform \u2014 strategies for meaningful change.\n\nTrigger when users say: \"Mass incarceration\" \"New Jim Crow\" \"Michelle Alexander\" \"Criminal justice reform\" \"Prison system\" \"War on Drugs\" \"Racial justice\" \"Policing reform\" \"Sentencing reform\" \"Felony disenfranchisement\"\nor mention: Michelle Alexander / New Jim Crow / mass incarceration / war on drugs / racial caste / criminal justice.\n\nRelated skills: the-coddling-of-the-american-mind, battle-for-the-american-mind, the-great-displacement, clear-thinking-book."
     },
-    "the-outsiders": {
-      "title": "The Outsiders",
+    {
       "slug": "the-outsiders",
+      "title": "William N. Thorndike's The Outsiders \u2014 learn from eight unco",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "business",
         "ceo",
@@ -1239,13 +1584,29 @@
         "leadership",
         "value-investing"
       ],
-      "emoji": "\ud83c\udfe2",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-outsiders"
+      "score": 9.8,
+      "summary": "William N. Thorndike's The Outsiders \u2014 learn from eight unconventional CEOs who created extraordinary shareholder value through brilliant capital allocation, contrarian thinking, and rational decision-making"
     },
-    "the-pleasure-of-finding-things-out": {
-      "title": "The Pleasure of Finding Things Out",
+    {
+      "slug": "the-paradox-of-choice",
+      "title": "Barry Schwartz's The Paradox of Choice \u2014 an executable toolk",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "choice",
+        "decision-making",
+        "happiness",
+        "psychology",
+        "behavioral-economics"
+      ],
+      "score": 9.8,
+      "summary": "Barry Schwartz's The Paradox of Choice \u2014 an executable toolkit for understanding why more choice leads to less happiness, and how to become a satisficer instead of a maximizer."
+    },
+    {
       "slug": "the-pleasure-of-finding-things-out",
+      "title": "Richard P. Feynman's The Pleasure of Finding Things Out \u2014 an",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "science",
         "physics",
@@ -1256,13 +1617,14 @@
         "learning",
         "education"
       ],
-      "emoji": "\ud83d\udd2c",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-pleasure-of-finding-things-out"
+      "score": 9.8,
+      "summary": "Richard P. Feynman's The Pleasure of Finding Things Out \u2014 an executable toolkit exploring the joy of scientific discovery, the value of doubt, the nature of physics, and Feynman's unique approach to understanding the world through curiosity and evidence"
     },
-    "the-power-of-now": {
-      "title": "The Power of Now",
+    {
       "slug": "the-power-of-now",
+      "title": "Eckhart Tolle's The Power of Now \u2014 break free from mind iden",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "mindfulness",
         "spirituality",
@@ -1273,13 +1635,14 @@
         "healing",
         "inner-peace"
       ],
-      "emoji": "\ud83e\uddd8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-power-of-now"
+      "score": 9.8,
+      "summary": "Eckhart Tolle's The Power of Now \u2014 break free from mind identification and live in the present moment"
     },
-    "the-power-of-your-subconscious-mind": {
-      "title": "The Power of Your Subconscious Mind",
+    {
       "slug": "the-power-of-your-subconscious-mind",
+      "title": "Joseph Murphy's The Power of Your Subconscious Mind \u2014 an exe",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "subconscious-mind",
         "affirmations",
@@ -1290,13 +1653,14 @@
         "success",
         "personal-transformation"
       ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-power-of-your-subconscious-mind"
+      "score": 9.8,
+      "summary": "Joseph Murphy's The Power of Your Subconscious Mind \u2014 an executable toolkit on using the subconscious mind to transform your life through affirmations, visualization, belief change, and the power of suggestion"
     },
-    "the-price-of-inequality": {
-      "title": "The Price of Inequality",
+    {
       "slug": "the-price-of-inequality",
+      "title": "Joseph E. Stiglitz's The Price of Inequality \u2014 an executable",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "inequality",
         "economics",
@@ -1307,13 +1671,14 @@
         "poverty",
         "democracy"
       ],
-      "emoji": "\ud83d\udcca",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-price-of-inequality"
+      "score": 9.8,
+      "summary": "Joseph E. Stiglitz's The Price of Inequality \u2014 an executable toolkit exploring how inequality damages economies, democracy, and society: the causes of inequality, its consequences, and what can be done about it"
     },
-    "the-prize": {
-      "title": "The Prize",
+    {
       "slug": "the-prize",
+      "title": "Daniel Yergin's The Prize \u2014 an executable toolkit exploring ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "oil",
         "energy",
@@ -1324,13 +1689,14 @@
         "energy-policy",
         "middle-east"
       ],
-      "emoji": "\ud83d\udee2\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-prize"
+      "score": 9.8,
+      "summary": "Daniel Yergin's The Prize \u2014 an executable toolkit exploring the epic history of oil: how oil shaped wars, economies, and geopolitics from the 19th century to the Gulf War"
     },
-    "the-psychology-of-selling": {
-      "title": "The Psychology of Selling",
+    {
       "slug": "the-psychology-of-selling",
+      "title": "Brian Tracy's The Psychology of Selling \u2014 an executable tool",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "sales",
         "selling",
@@ -1341,13 +1707,14 @@
         "prospecting",
         "communication"
       ],
-      "emoji": "\ud83d\udcde",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-psychology-of-selling"
+      "score": 9.8,
+      "summary": "Brian Tracy's The Psychology of Selling \u2014 an executable toolkit on the science and art of selling: prospecting, closing, overcoming objections, and building long-term customer relationships"
     },
-    "the-richest-man-in-babylon": {
-      "title": "The Richest Man in Babylon",
+    {
       "slug": "the-richest-man-in-babylon",
+      "title": "George S. Clason's The Richest Man in Babylon \u2014 timeless wea",
+      "author": "heardlyapp",
+      "version": "1.0.1",
       "tags": [
         "personal-finance",
         "wealth",
@@ -1356,13 +1723,14 @@
         "financial-discipline",
         "money-mindset"
       ],
-      "emoji": "\ud83c\udfdb\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-richest-man-in-babylon"
+      "score": 9.8,
+      "summary": "George S. Clason's The Richest Man in Babylon \u2014 timeless wealth-building principles through the 7 Cures and 5 Laws of Gold"
     },
-    "the-servant": {
-      "title": "The Servant",
+    {
       "slug": "the-servant",
+      "title": "James C. Hunter's The Servant \u2014 lead through authority and s",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "leadership",
         "servant-leadership",
@@ -1371,13 +1739,14 @@
         "character",
         "trust"
       ],
-      "emoji": "\ud83d\udc51",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-servant"
+      "score": 9.8,
+      "summary": "James C. Hunter's The Servant \u2014 lead through authority and service, not power and self-interest"
     },
-    "the-slight-edge": {
-      "title": "The Slight Edge",
+    {
       "slug": "the-slight-edge",
+      "title": "Jeff Olson's The Slight Edge \u2014 understand how small daily ac",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "self-improvement",
         "habits",
@@ -1386,13 +1755,29 @@
         "consistency",
         "compound-effect"
       ],
-      "emoji": "\ud83c\udf31",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-slight-edge"
+      "score": 9.8,
+      "summary": "Jeff Olson's The Slight Edge \u2014 understand how small daily actions compound into massive success or failure over time"
     },
-    "the-tragedy-of-great-power-politics": {
-      "title": "The Tragedy of Great Power Politics",
+    {
+      "slug": "the-soul-of-america",
+      "title": "Jon Meacham The Soul of America \u2014 an executable toolkit for ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "american-history",
+        "leadership",
+        "hope",
+        "democracy",
+        "politics"
+      ],
+      "score": 9.8,
+      "summary": "Jon Meacham The Soul of America \u2014 an executable toolkit for understanding how America has faced crises and found hope through its better angels."
+    },
+    {
       "slug": "the-tragedy-of-great-power-politics",
+      "title": "John Mearsheimer's The Tragedy of Great Power Politics \u2014 an ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "international-relations",
         "geopolitics",
@@ -1403,13 +1788,14 @@
         "political-science",
         "mearsheimer"
       ],
-      "emoji": "\ud83c\udf10",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-tragedy-of-great-power-politics"
+      "score": 9.8,
+      "summary": "John Mearsheimer's The Tragedy of Great Power Politics \u2014 an executable toolkit on offensive realism: why great powers inevitably compete for regional hegemony and how the international system drives conflict"
     },
-    "the-truth-about-financial-freedom": {
-      "title": "The Wealthy Barber Returns (also known as The Truth About Financial Freedom)",
+    {
       "slug": "the-truth-about-financial-freedom",
+      "title": "David Chilton's The Wealthy Barber Returns (also known as Th",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "personal-finance",
         "saving",
@@ -1421,28 +1807,48 @@
         "money-management",
         "budgeting"
       ],
-      "emoji": "\ud83d\udcb0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-truth-about-financial-freedom"
+      "score": 9.8,
+      "summary": "David Chilton's The Wealthy Barber Returns (also known as The Truth About Financial Freedom) \u2014 an executable toolkit that applies common-sense principles to saving, spending, borrowing, and investing. Cuts through the complexity of personal finance with psychological insight, behavioral economics, and practical habits anyone can follow.\n\nCovers 5 use cases:\n\u2460 Saving & Spending \u2014 build a sustainable savings habit without deprivation, understand the psychological traps that lead to overspending\n\u2461 Debt Management \u2014 distinguish good debt from bad debt, develop a strategy to reduce and eliminate consumer debt\n\u2462 Investing Fundamentals \u2014 avoid common investing mistakes, understand why index funds beat active management, ignore the noise\n\u2463 Behavioral Finance \u2014 recognize the psychological biases that sabotage financial decisions, from the endowment effect to loss aversion\n\u2464 Home & Life Planning \u2014 navigate the biggest financial decisions: buying vs renting, mortgages, emergency funds, and estate planning.\n\nTrigger when users say: \"I can't save money\" \"I need financial advice\" \"How to get out of debt\" \"Where should I invest\" \"I spend too much\" \"Living paycheck to paycheck\" \"How to build wealth\" \"Should I buy a house\" \"Credit card debt\" \"I need a financial plan\" \"How to budget\" \"Stop overspending\" \"Financial freedom\" \"Money management\" \"Personal finance tips\"\nor mention: Dave Chilton / Wealthy Barber / truth about financial freedom / personal finance / behavioral economics / saving vs spending / index funds / consumer debt / living within means / pay yourself first / emergency fund / mortgage / line of credit / financial independence.\n\nRelated skills: rich-dad-poor-dad, i-will-teach-you-to-be-rich, the-millionaire-fastlane, atomic-habits, the-slight-edge."
     },
-    "the-war-of-art": {
-      "title": "The War of Art",
+    {
+      "slug": "the-tyranny-of-big-tech",
+      "title": "Josh Hawley The Tyranny of Big Tech \u2014 an executable toolkit ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "big-tech",
+        "monopoly",
+        "censorship",
+        "privacy",
+        "antitrust"
+      ],
+      "score": 9.8,
+      "summary": "Josh Hawley The Tyranny of Big Tech \u2014 an executable toolkit for understanding how Big Tech monopolies control speech, data, and democracy."
+    },
+    {
       "slug": "the-war-of-art",
+      "title": "Steven Pressfield's The War of Art \u2014 an executable toolkit f",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "creativity",
         "writing",
         "procrastination",
         "resistance",
         "art",
-        "discipline"
+        "discipline",
+        "productivity",
+        "inspiration",
+        "self-help"
       ],
-      "emoji": "\u2694\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-war-of-art"
+      "score": 9.8,
+      "summary": "Steven Pressfield's The War of Art \u2014 an executable toolkit for overcoming creative resistance, defeating procrastination, and doing the work that matters most.\n\nCovers 5 use cases:\n\u2460 Overcoming Resistance \u2014 recognize and defeat the internal force blocking creative work\n\u2461 Becoming a Professional \u2014 adopt the mindset, habits, and discipline of a professional creative\n\u2462 The Creative Process \u2014 navigate the stages of creation from inspiration to completion\n\u2463 Winning the Inner Battle \u2014 defeat self-sabotage, fear, and the ego\n\u2464 Turning Pro \u2014 transition from amateur to professional in any creative field.\n\nTrigger when users say: \"Creative block\" \"Overcoming resistance\" \"Steven Pressfield\" \"War of Art\" \"How to be creative\" \"Procrastination\" \"Creative fear\" \"Self-sabotage\" \"How to start creating\" \"Beat procrastination\" \"Creative discipline\" \"Do the work\" \"Show up every day\"\nor mention: Steven Pressfield / War of Art / Resistance / turning pro / creative block / muse / procrastination.\n\nRelated skills: the-creative-act, big-magic, the-happiness-advantage, atomic-habits, the-slight-edge."
     },
-    "the-way-to-wealth": {
-      "title": "The Way to Wealth",
+    {
       "slug": "the-way-to-wealth",
+      "title": "Benjamin Franklin's The Way to Wealth \u2014 an executable toolki",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "benjamin-franklin",
         "wealth",
@@ -1455,13 +1861,14 @@
         "life-advice",
         "productivity"
       ],
-      "emoji": "\ud83d\udca1",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-way-to-wealth"
+      "score": 9.8,
+      "summary": "Benjamin Franklin's The Way to Wealth \u2014 an executable toolkit of timeless financial and life wisdom from Poor Richard's Almanack. Distills Franklin's principles on industry, frugality, prudence, and integrity into actionable habits for building wealth and character.\n\nCovers 5 use cases:\n\u2460 Frugality & Smart Spending \u2014 live within your means, distinguish needs from wants, avoid the \"whistle\" trap of overpaying for things\n\u2461 Industry & Work Ethic \u2014 develop the habit of productive work, overcome procrastination, make time your ally\n\u2462 Financial Prudence \u2014 understand debt, saving, and the power of compound interest\n\u2463 Integrity & Reputation \u2014 build a trustworthy character that attracts opportunity\n\u2464 Practical Wisdom \u2014 apply Franklin's common-sense approach to everyday decisions.\n\nTrigger when users say: \"How to save money\" \"Benjamin Franklin\" \"Poor Richard\" \"Financial wisdom\" \"I need to be more disciplined\" \"Live frugally\" \"How to build character\" \"Work harder\" \"Stop procrastinating\" \"Time is money\" \"A penny saved\" \"Early to bed\" \"Wealth building\" \"Practical wisdom\" \"How to succeed in life\"\nor mention: Benjamin Franklin / Poor Richard's Almanack / Way to Wealth / frugality / industry / prudence / compound interest / a penny saved / early to bed / time is money / self-discipline / common sense.\n\nAlso triggers when the user says they just installed this skill or doesn't know how to start \u2014 the AI MUST proactively present the Quick Start guide below.\n\nRelated skills: rich-dad-poor-dad, the-richest-man-in-babylon, the-slight-edge, atomic-habits, think-and-grow-rich."
     },
-    "the-womanly-art-of-breastfeeding": {
-      "title": "The Womanly Art of Breastfeeding",
+    {
       "slug": "the-womanly-art-of-breastfeeding",
+      "title": "La Leche League International's The Womanly Art of Breastfee",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "breastfeeding",
         "parenting",
@@ -1475,13 +1882,41 @@
         "la-leche-league",
         "milk-supply"
       ],
-      "emoji": "\ud83e\udd31",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-womanly-art-of-breastfeeding"
+      "score": 9.8,
+      "summary": "La Leche League International's The Womanly Art of Breastfeeding \u2014 an executable toolkit for new and expecting mothers covering the complete breastfeeding journey: preparation, latching, milk supply, pumping, troubleshooting, and weaning.\n\nCovers 5 use cases:\n\u2460 Preparation & Birth \u2014 get mentally and physically ready, understand how birth affects breastfeeding, build your support network\n\u2461 Latching & Positioning \u2014 master laid-back breastfeeding, achieve a comfortable latch, solve pain and attachment issues\n\u2462 Milk Supply & Management \u2014 understand milk production, increase or decrease supply, handle engorgement\n\u2463 Pumping, Storing & Returning to Work \u2014 express and store milk efficiently, navigate pumping at work\n\u2464 Troubleshooting & Weaning \u2014 solve common problems and navigate gentle weaning.\n\nTrigger when users say: \"How to breastfeed\" \"Baby won't latch\" \"Breastfeeding pain\" \"Not enough milk\" \"Pumping at work\" \"Breastfeeding tips\" \"New mom breastfeeding\" \"Nipple pain\" \"How to increase milk supply\" \"Breastfeeding positions\" \"Clogged milk duct\" \"Mastitis\" \"Breastfeeding and sleep\" \"Nursing strike\" \"Weaning baby\"\nor mention: La Leche League / womanly art of breastfeeding / breastfeeding help / latch / nursing / milk supply / pumping / breast milk / newborn feeding / lactation / nipple pain / engorgement.\n\nAlso triggers when the user says they just installed this skill or doesn't know how to start \u2014 the AI MUST proactively present the Quick Start guide below.\n\nRelated skills: the-first-days-of-school, eat-to-live, the-happiness-advantage."
     },
-    "think-and-grow-rich": {
-      "title": "Think and Grow Rich",
+    {
+      "slug": "the-year-of-living-danishly",
+      "title": "Helen Russell's The Year of Living Danishly \u2014 uncover the se",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "happiness",
+        "danish",
+        "lifestyle",
+        "work-life-balance",
+        "culture",
+        "hygge",
+        "wellbeing",
+        "scandinavian"
+      ],
+      "score": 9.8,
+      "summary": "Helen Russell's The Year of Living Danishly \u2014 uncover the secrets of the world's happiest country and apply Danish principles to your own life"
+    },
+    {
+      "slug": "thermoinfocomplexity",
+      "title": "thermoinfocomplexity",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [],
+      "score": 9.8,
+      "summary": ""
+    },
+    {
       "slug": "think-and-grow-rich",
+      "title": "Napoleon Hill's Think and Grow Rich \u2014 harness the power of t",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "wealth",
         "success",
@@ -1490,13 +1925,14 @@
         "motivation",
         "self-help"
       ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/think-and-grow-rich"
+      "score": 9.8,
+      "summary": "Napoleon Hill's Think and Grow Rich \u2014 harness the power of thought and persistence to achieve wealth and success"
     },
-    "thomas-jefferson": {
-      "title": "Thomas Jefferson: The Art of Power",
+    {
       "slug": "thomas-jefferson",
+      "title": "Jon Meacham's Thomas Jefferson: The Art of Power \u2014 an execut",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "leadership",
         "thomas-jefferson",
@@ -1509,13 +1945,14 @@
         "american-history",
         "management"
       ],
-      "emoji": "\ud83d\udcdc",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/thomas-jefferson"
+      "score": 9.8,
+      "summary": "Jon Meacham's Thomas Jefferson: The Art of Power \u2014 an executable toolkit that extracts leadership lessons from Jefferson's remarkable life: how to balance idealism with pragmatism, build influence through quiet persistence, navigate political opposition, and lead through times of division.\n\nCovers 5 use cases:\n\u2460 The Art of Quiet Influence \u2014 build power through patience, strategic silence, and personal relationships rather than confrontation\n\u2461 Balancing Principles & Pragmatism \u2014 pursue noble goals while accepting the compromises necessary to make progress\n\u2462 Leading Through Opposition \u2014 navigate political or organizational conflict with grace, patience, and strategic timing\n\u2463 Building a Legacy \u2014 think beyond the present moment, invest in institutions and ideas that outlast you\n\u2464 Managing Personal & Public Life \u2014 maintain private relationships, intellectual pursuits, and personal resilience while in the public eye.\n\nTrigger when users say: \"How to be influential\" \"Quiet leadership\" \"Leading through conflict\" \"Balance principles and pragmatism\" \"Building a legacy\" \"Jefferson leadership\" \"The art of power\" \"Lead without fighting\" \"Political strategy\" \"How to persuade others\" \"Staying true to values\" \"Navigating opposition\" \"Patience in leadership\" \"Personal resilience\"\nor mention: Thomas Jefferson / Jon Meacham / art of power / founding fathers / quiet influence / political leadership / Declaration of Independence / strategic patience.\n\nAlso triggers when the user says they just installed this skill or doesn't know how to start \u2014 the AI MUST proactively present the Quick Start guide below.\n\nRelated skills: richard-nixon, leadership-in-turbulent-times, the-essential-drucker, clear-thinking-book, the-servant."
     },
-    "tiny-habits": {
-      "title": "Tiny Habits",
+    {
       "slug": "tiny-habits",
+      "title": "BJ Fogg's Tiny Habits \u2014 behavior design system using B=MAP: ",
+      "author": "heardlyapp",
+      "version": "1.0.1",
       "tags": [
         "habits",
         "behavior-design",
@@ -1523,13 +1960,14 @@
         "psychology",
         "productivity"
       ],
-      "emoji": "\ud83c\udf31",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/tiny-habits"
+      "score": 9.8,
+      "summary": "BJ Fogg's Tiny Habits \u2014 behavior design system using B=MAP: build any habit by making it tiny, anchoring it, and celebrating"
     },
-    "vagabonding": {
-      "title": "Vagabonding",
+    {
       "slug": "vagabonding",
+      "title": "Rolf Potts's Vagabonding \u2014 an executable toolkit for long-te",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "travel",
         "vagabonding",
@@ -1542,13 +1980,14 @@
         "world-travel",
         "travel-tips"
       ],
-      "emoji": "\ud83c\udf0d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/vagabonding"
+      "score": 9.8,
+      "summary": "Rolf Potts's Vagabonding \u2014 an executable toolkit for long-term world travel: how to break free from the conventional path, save money for extended travel, embrace uncertainty on the road, and turn travel into a way of life rather than a brief escape.\n\nCovers 5 use cases:\n\u2460 Breaking Free \u2014 overcome the myths that keep you from extended travel, reframe your relationship with time and work\n\u2461 Financial Preparation \u2014 save aggressively, simplify your life, build a travel fund\n\u2462 Planning & Logistics \u2014 plan just enough without overplanning, handle visas, gear, health\n\u2463 On the Road \u2014 navigate new cultures, make friends, stay safe, embrace uncertainty\n\u2464 Coming Home \u2014 reintegrate after long-term travel, apply travel wisdom to daily life.\n\nTrigger when users say: \"Long-term travel\" \"How to travel the world\" \"Quit job to travel\" \"Travel on a budget\" \"Extended trip planning\" \"How to afford travel\" \"World travel tips\" \"Solo travel\" \"Backpacking\" \"Travel lifestyle\" \"Digital nomad\" \"How to start traveling\" \"Travel fear\" \"Overcome travel anxiety\" \"Life-changing travel\"\nor mention: Rolf Potts / vagabonding / long-term travel / budget travel / world travel / travel lifestyle.\n\nRelated skills: the-millionaire-fastlane, the-slight-edge, the-happiness-advantage, clear-thinking-book."
     },
-    "what-do-you-care-what-other-people-think": {
-      "title": "\"What Do You Care What Other People Think?\"",
+    {
       "slug": "what-do-you-care-what-other-people-think",
+      "title": "Richard Feynman's \"What Do You Care What Other People Think?",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "feynman",
         "curiosity",
@@ -1561,13 +2000,34 @@
         "challenger",
         "physics"
       ],
-      "emoji": "\ud83d\udd2c",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/what-do-you-care-what-other-people-think"
+      "score": 9.8,
+      "summary": "Richard Feynman's \"What Do You Care What Other People Think?\" \u2014 an executable toolkit that captures Feynman's approach to curiosity, scientific thinking, integrity under pressure, and living a life unconstrained by others' opinions.\n\nCovers 5 use cases:\n\u2460 Cultivating Curiosity \u2014 develop a relentless, playful curiosity about how the world works\n\u2461 Thinking for Yourself \u2014 resist groupthink, trust your own reasoning, don't be swayed by authority\n\u2462 Integrity Under Pressure \u2014 stand by the truth even when it's unpopular, as Feynman did with the Challenger investigation\n\u2463 Learning Anything \u2014 the Feynman Technique: learn deeply by teaching simply\n\u2464 Living Authentically \u2014 embrace your quirks, don't perform for others, find joy in your own path.\n\nTrigger when users say: \"How to think like Feynman\" \"Feynman technique\" \"What do you care what other people think\" \"Scientific thinking\" \"Critical thinking\" \"How to learn\" \"Speak truth to power\" \"Challenger disaster\" \"Be myself\" \"Think independently\" \"How to be curious\" \"Groupthink\" \"Question authority\"\nor mention: Richard Feynman / curiosity / scientific method / Challenger / O-ring / integrity / Feynman Technique / physics / authentic living.\n\nRelated skills: the-pleasure-of-finding-things-out, clear-thinking-book, make-it-stick, the-art-of-thinking-clearly, the-creative-act."
     },
-    "what-your-adhd-child-wishes-you-knew": {
-      "title": "What Your ADHD Child Wishes You Knew",
+    {
+      "slug": "what-to-expect-when-youre-expecting",
+      "title": "The ultimate month-by-month pregnancy guide covering preconc",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "pregnancy",
+        "parenting",
+        "health",
+        "baby",
+        "guide",
+        "childbirth",
+        "nutrition",
+        "wellness",
+        "postpartum",
+        "breastfeeding"
+      ],
+      "score": 9.8,
+      "summary": "The ultimate month-by-month pregnancy guide covering preconception, prenatal nutrition, symptom management, labor and delivery, postpartum recovery, and baby care."
+    },
+    {
       "slug": "what-your-adhd-child-wishes-you-knew",
+      "title": "Dr. Sharon Saline's What Your ADHD Child Wishes You Knew \u2014 a",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "ADHD",
         "parenting",
@@ -1580,13 +2040,42 @@
         "mental-health",
         "family"
       ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/what-your-adhd-child-wishes-you-knew"
+      "score": 9.8,
+      "summary": "Dr. Sharon Saline's What Your ADHD Child Wishes You Knew \u2014 an executable toolkit for parenting kids with ADHD using the Five C's framework: Self-Control, Compassion, Collaboration, Consistency, and Celebration.\n\nCovers 5 use cases:\n\u2460 Understanding the ADHD Brain \u2014 learn how ADHD actually works, separate the condition from the child\n\u2461 The Five C's Framework \u2014 master the core parenting approach\n\u2462 School Success \u2014 navigate homework, teacher relationships, executive functioning challenges\n\u2463 Managing Emotions & Behavior \u2014 handle meltdowns, tantrums, and emotional dysregulation\n\u2464 Executive Functioning & Daily Life \u2014 build organization, time management, and social skills.\n\nTrigger when users say: \"ADHD parenting\" \"My child has ADHD\" \"ADHD meltdowns\" \"ADHD homework help\" \"Parenting ADHD child\" \"ADHD behavior\" \"ADHD school problems\" \"ADHD discipline\" \"ADHD organization\" \"ADHD social skills\" \"ADHD emotional regulation\"\nor mention: Dr. Sharon Saline / ADHD child / five C's / ADHD brain / executive functioning / ADHD parenting / neurodiversity.\n\nRelated skills: the-first-days-of-school, the-happiness-advantage, nonviolent-communication, atomic-habits."
     },
-    "who-gets-to-be-indian": {
-      "title": "Who Gets to Be Indian?",
+    {
+      "slug": "where-tomorrows-arent-promised",
+      "title": "where-tomorrows-arent-promised",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "survival",
+        "hope",
+        "basketball",
+        "carmelo-anthony",
+        "red-hook",
+        "brooklyn",
+        "baltimore",
+        "poverty",
+        "resilience",
+        "grit",
+        "trauma",
+        "loss",
+        "nba",
+        "syracuse",
+        "family",
+        "mentorship",
+        "mental-health"
+      ],
+      "score": 9.8,
+      "summary": ""
+    },
+    {
       "slug": "who-gets-to-be-indian",
+      "title": "Dina Gilio-Whitaker's Who Gets to Be Indian? \u2014 an executable",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "native-american",
         "identity",
@@ -1597,13 +2086,23 @@
         "decolonial",
         "social-justice"
       ],
-      "emoji": "\ud83c\udf0e",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/who-gets-to-be-indian"
+      "score": 9.8,
+      "summary": "Dina Gilio-Whitaker's Who Gets to Be Indian? \u2014 an executable toolkit exploring the complex landscape of Native American identity: ethnic fraud, tribal enrollment and disenrollment, cultural appropriation, and what it means to be Indian in contemporary America.\n\nCovers 5 use cases:\n\u2460 Understanding Native Identity \u2014 learn the difference between political citizenship, racial identity, and cultural belonging\n\u2461 Recognizing Ethnic Fraud \u2014 understand pretendianism and why people falsely claim Native identity\n\u2462 Navigating Cultural Appropriation \u2014 distinguish cultural exchange from appropriation\n\u2463 Understanding Disenrollment \u2014 learn about the crisis of tribal governments stripping citizenship\n\u2464 Engaging Respectfully \u2014 have informed, respectful conversations about Native identity.\n\nTrigger when users say: \"Native American identity\" \"Who is Native American\" \"Ethnic fraud\" \"Pretendian\" \"Tribal enrollment\" \"Disenrollment\" \"Cultural appropriation Native\" \"American Indian\" \"Native sovereignty\" \"How to be an ally\" \"Fake Indian\" \"Sacheen Littlefeather\" \"Indian ancestry\"\nor mention: Dina Gilio-Whitaker / pretendian / ethnic fraud / disenrollment / Native American identity / tribal sovereignty / cultural appropriation / settler colonialism.\n\nRelated skills: the-coddling-of-the-american-mind, the-great-displacement, clear-thinking-book."
     },
-    "winning": {
-      "title": "Winning",
+    {
+      "slug": "why-are-all-the-black-kids-sitting-together-in-the-cafeteria",
+      "title": "why-are-all-the-black-kids-sitting-together-in-the-cafeteria",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [],
+      "score": 9.8,
+      "summary": ""
+    },
+    {
       "slug": "winning",
+      "title": "Jack Welch's Winning \u2014 an executable toolkit for business le",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "leadership",
         "management",
@@ -1616,13 +2115,14 @@
         "execution",
         "organizational-culture"
       ],
-      "emoji": "\ud83c\udfc6",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/winning"
+      "score": 9.8,
+      "summary": "Jack Welch's Winning \u2014 an executable toolkit for business leadership: how to build a culture of candor, differentiate your people, manage talent rigorously, and drive your organization to outperform.\n\nCovers 5 use cases:\n\u2460 Building a Culture of Candor \u2014 create an environment where people speak openly and the best ideas win\n\u2461 Talent Management & Differentiation \u2014 identify, develop, reward top performers; address low performers with honesty\n\u2462 Mission & Values Alignment \u2014 define a clear mission that drives daily decisions\n\u2463 Strategy & Execution \u2014 the 5-slide strategy framework for clarity and action\n\u2464 Leading Through Change \u2014 manage acquisitions, restructurings, and organizational change.\n\nTrigger when users say: \"How to be a better leader\" \"Jack Welch\" \"Winning\" \"Business management\" \"Leadership strategy\" \"Managing people\" \"Performance management\" \"Organizational culture\" \"How to give feedback\" \"Business strategy\" \"Candor at work\" \"Differentiation\" \"20-70-10\" \"GE management\"\nor mention: Jack Welch / Winning / candor / differentiation / GE / leadership / talent management / mission and values.\n\nRelated skills: the-essential-drucker, leadership-in-turbulent-times, the-four-steps-to-the-epiphany, the-outsiders, clear-thinking-book."
     },
-    "work-rules": {
-      "title": "Work Rules!",
+    {
       "slug": "work-rules",
+      "title": "Laszlo Bock's Work Rules! \u2014 an executable toolkit based on G",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "google",
         "hr",
@@ -1635,13 +2135,14 @@
         "performance-management",
         "organizational-development"
       ],
-      "emoji": "\ud83c\udfe2",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/work-rules"
+      "score": 9.8,
+      "summary": "Laszlo Bock's Work Rules! \u2014 an executable toolkit based on Google's people operations: how to hire exceptional talent, build a culture of trust and freedom, manage performance effectively, and create a workplace where people do their best work.\n\nCovers 5 use cases:\n\u2460 Hiring Exceptional Talent \u2014 set a high bar, assess objectively, build a hiring machine\n\u2461 Building Culture & Trust \u2014 create a mission-driven culture, eliminate status symbols, empower people\n\u2462 Performance Management \u2014 set goals (OKRs), gather peer feedback, calibrate ratings\n\u2463 Compensation & Rewards \u2014 pay unfairly in the best sense, reward performance, celebrate accomplishment\n\u2464 Learning & Development \u2014 build a learning institution with proven programs.\n\nTrigger when users say: \"Google HR practices\" \"How to hire like Google\" \"People operations\" \"Work rules\" \"Laszlo Bock\" \"Google culture\" \"Hiring best practices\" \"Performance management\" \"Employee engagement\" \"Company culture\" \"HR strategy\" \"Talent acquisition\" \"OKRs\" \"Peer feedback\"\nor mention: Laszlo Bock / Work Rules / Google / people operations / hiring / culture / OKRs / performance management / talent.\n\nRelated skills: the-essential-drucker, winning, inspired, the-four-steps-to-the-epiphany, the-outsiders."
     },
-    "world-order": {
-      "title": "World Order",
+    {
       "slug": "world-order",
+      "title": "Henry Kissinger's World Order \u2014 an executable toolkit for un",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "geopolitics",
         "international-relations",
@@ -1652,13 +2153,14 @@
         "foreign-policy",
         "history"
       ],
-      "emoji": "\ud83c\udf10",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/world-order"
+      "score": 9.8,
+      "summary": "Henry Kissinger's World Order \u2014 an executable toolkit for understanding global geopolitics: how nations interact, the balance of power, diplomatic strategy, and the forces shaping international order.\n\nCovers 5 use cases:\n\u2460 Understanding Geopolitics \u2014 grasp the fundamental forces shaping relations between nations\n\u2461 The Balance of Power \u2014 analyze how equilibrium prevents war\n\u2462 Diplomatic Strategy \u2014 apply frameworks for negotiation and statecraft\n\u2463 Regional Dynamics \u2014 understand distinct worldviews of Europe, Middle East, Asia, America\n\u2464 Technology & World Order \u2014 analyze how technology is transforming global power.\n\nTrigger when users say: \"International relations\" \"Geopolitics\" \"World order\" \"Henry Kissinger\" \"Balance of power\" \"Foreign policy\" \"Diplomacy\" \"Geopolitical strategy\" \"Global politics\" \"How nations behave\" \"Cold War strategy\" \"Power politics\" \"Statecraft\"\nor mention: Henry Kissinger / World Order / geopolitics / balance of power / diplomacy / international relations / sovereignty / foreign policy.\n\nRelated skills: the-tragedy-of-great-power-politics, richard-nixon, leadership-in-turbulent-times, the-essential-drucker, the-lords-of-easy-money."
     },
-    "zen-mind-beginners-mind": {
-      "title": "Zen Mind, Beginner's Mind",
+    {
       "slug": "zen-mind-beginners-mind",
+      "title": "Shunryu Suzuki's Zen Mind, Beginner's Mind \u2014 an executable t",
+      "author": "heardlyapp",
+      "version": "1.0.0",
       "tags": [
         "zen",
         "meditation",
@@ -1671,433 +2173,8 @@
         "presence",
         "awareness"
       ],
-      "emoji": "\ud83e\uddd8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/zen-mind-beginners-mind"
-    },
-    "deep-work": {
-      "title": "Deep Work: Rules for Focused Success in a Distracted World",
-      "slug": "deep-work",
-      "tags": [
-        "productivity",
-        "focus",
-        "deep-work",
-        "cal-newport",
-        "distraction",
-        "concentration"
-      ],
-      "emoji": "\ud83c\udfaf",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/deep-work"
-    },
-    "essentialism": {
-      "title": "Essentialism: The Disciplined Pursuit of Less",
-      "slug": "essentialism",
-      "tags": [
-        "productivity",
-        "simplicity",
-        "focus",
-        "minimalism",
-        "prioritization"
-      ],
-      "emoji": "\ud83c\udfaf",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/essentialism"
-    },
-    "grit-the-power-of-passion-and-perseverance": {
-      "title": "Grit: The Power of Passion and Perseverance",
-      "slug": "grit-the-power-of-passion-and-perseverance",
-      "tags": [
-        "grit",
-        "perseverance",
-        "passion",
-        "success",
-        "psychology"
-      ],
-      "emoji": "\ud83c\udfd4\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/grit-the-power-of-passion-and-perseverance"
-    },
-    "ego-is-the-enemy": {
-      "title": "Ego Is the Enemy: The Fight to Master Our Greatest Opponent",
-      "slug": "ego-is-the-enemy",
-      "tags": [
-        "stoicism",
-        "ego",
-        "humility",
-        "ryan-holiday",
-        "philosophy",
-        "self-improvement"
-      ],
-      "emoji": "\u2694\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/ego-is-the-enemy"
-    },
-    "mans-search-for-meaning": {
-      "title": "Man's Search for Meaning",
-      "slug": "mans-search-for-meaning",
-      "tags": [
-        "psychology",
-        "meaning",
-        "logotherapy",
-        "viktor-frankl",
-        "philosophy",
-        "purpose"
-      ],
-      "emoji": "\ud83d\udd6f\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/mans-search-for-meaning"
-    },
-    "why-are-all-the-black-kids-sitting-together-in-the-cafeteria": {
-      "title": "Why Are All the Black Kids Sitting Together in the Cafeteria?",
-      "slug": "why-are-all-the-black-kids-sitting-together-in-the-cafeteria",
-      "tags": [
-        "race",
-        "identity",
-        "psychology",
-        "education",
-        "social-justice"
-      ],
-      "emoji": "\ud83e\udd1d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/why-are-all-the-black-kids-sitting-together-in-the-cafeteria"
-    },
-    "caste": {
-      "title": "Caste: The Origins of Our Discontents",
-      "slug": "caste",
-      "tags": [
-        "caste",
-        "inequality",
-        "social-justice",
-        "isabel-wilkerson",
-        "history",
-        "hierarchy"
-      ],
-      "emoji": "\ud83c\udfdb\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/caste"
-    },
-    "outliers": {
-      "title": "Outliers: The Story of Success",
-      "slug": "outliers",
-      "tags": [
-        "success",
-        "gladwell",
-        "psychology",
-        "practice",
-        "opportunity"
-      ],
-      "emoji": "\ud83d\udcca",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/outliers"
-    },
-    "predictably-irrational": {
-      "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
-      "slug": "predictably-irrational",
-      "tags": [
-        "behavioral-economics",
-        "psychology",
-        "decision-making",
-        "biases",
-        "dan-ariely"
-      ],
-      "emoji": "\ud83e\udde0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/predictably-irrational"
-    },
-    "21-lessons-for-the-21st-century": {
-      "title": "21 Lessons for the 21st Century",
-      "slug": "21-lessons-for-the-21st-century",
-      "tags": [
-        "harari",
-        "future",
-        "technology",
-        "society",
-        "philosophy"
-      ],
-      "emoji": "\ud83c\udf0d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/21-lessons-for-the-21st-century"
-    },
-    "homo-deus": {
-      "title": "Homo Deus: A Brief History of Tomorrow",
-      "slug": "homo-deus",
-      "tags": [
-        "harari",
-        "future",
-        "humanity",
-        "technology",
-        "philosophy"
-      ],
-      "emoji": "\ud83d\udd2e",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/homo-deus"
-    },
-    "the-black-swan": {
-      "title": "The Black Swan: The Impact of the Highly Improbable",
-      "slug": "the-black-swan",
-      "tags": [
-        "uncertainty",
-        "randomness",
-        "taleb",
-        "risk",
-        "probability"
-      ],
-      "emoji": "\ud83e\udda2",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-swan"
-    },
-    "antifragile": {
-      "title": "Antifragile: Things That Gain from Disorder",
-      "slug": "antifragile",
-      "tags": [
-        "taleb",
-        "antifragile",
-        "uncertainty",
-        "risk",
-        "philosophy"
-      ],
-      "emoji": "\ud83e\uddf1",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/antifragile"
-    },
-    "the-paradox-of-choice": {
-      "title": "The Paradox of Choice: Why More Is Less",
-      "slug": "the-paradox-of-choice",
-      "tags": [
-        "choice",
-        "decision-making",
-        "happiness",
-        "psychology",
-        "behavioral-economics"
-      ],
-      "emoji": "\ud83d\udecd\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-paradox-of-choice"
-    },
-    "the-year-of-living-danishly": {
-      "title": "The Year of Living Danishly",
-      "slug": "the-year-of-living-danishly",
-      "tags": [
-        "happiness",
-        "danish",
-        "lifestyle",
-        "work-life-balance",
-        "culture"
-      ],
-      "emoji": "\ud83c\udde9\ud83c\uddf0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-year-of-living-danishly"
-    },
-    "long-walk-to-freedom": {
-      "title": "Long Walk to Freedom",
-      "slug": "long-walk-to-freedom",
-      "tags": [
-        "mandela",
-        "leadership",
-        "freedom",
-        "autobiography",
-        "resilience"
-      ],
-      "emoji": "\u270a\ud83c\udfff",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/long-walk-to-freedom"
-    },
-    "thermoinfocomplexity": {
-      "title": "Thermoinfocomplexity",
-      "slug": "thermoinfocomplexity",
-      "tags": [
-        "complexity",
-        "evolution",
-        "life-origin",
-        "science",
-        "thermodynamics"
-      ],
-      "emoji": "\ud83e\uddec",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/thermoinfocomplexity"
-    },
-    "great-power-diplomacy": {
-      "title": "Great Power Diplomacy",
-      "slug": "great-power-diplomacy",
-      "tags": [
-        "diplomacy",
-        "statecraft",
-        "geopolitics",
-        "history",
-        "international-relations"
-      ],
-      "emoji": "\ud83c\udf0d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/great-power-diplomacy"
-    },
-    "little-leaders": {
-      "title": "Little Leaders",
-      "slug": "little-leaders",
-      "tags": [
-        "women",
-        "history",
-        "biography",
-        "black-history",
-        "role-models"
-      ],
-      "emoji": "\ud83d\udc67\ud83c\udfff",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/little-leaders"
-    },
-    "the-american-presidency": {
-      "title": "The American Presidency",
-      "slug": "the-american-presidency",
-      "tags": [
-        "presidency",
-        "government",
-        "politics",
-        "us-history",
-        "constitution"
-      ],
-      "emoji": "\ud83c\udfdb\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-american-presidency"
-    },
-    "patriot-a-memoir": {
-      "title": "Patriot: A Memoir",
-      "slug": "patriot-a-memoir",
-      "tags": [
-        "navalny",
-        "memoir",
-        "politics",
-        "russia",
-        "courage"
-      ],
-      "emoji": "\ud83c\uddf7\ud83c\uddfa",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/patriot-a-memoir"
-    },
-    "what-to-expect-when-youre-expecting": {
-      "title": "What to Expect When You are Expecting",
-      "slug": "what-to-expect-when-youre-expecting",
-      "tags": [
-        "pregnancy",
-        "parenting",
-        "health",
-        "baby",
-        "guide"
-      ],
-      "emoji": "\ud83d\udc76",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/what-to-expect-when-youre-expecting"
-    },
-    "where-tomorrows-arent-promised": {
-      "title": "Where Tomorrows Arent Promised",
-      "slug": "where-tomorrows-arent-promised",
-      "tags": [
-        "memoir",
-        "survival",
-        "hope",
-        "basketball",
-        "carmelo-anthony"
-      ],
-      "emoji": "\ud83c\udfc0",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/where-tomorrows-arent-promised"
-    },
-    "journey-to-the-heart": {
-      "title": "Journey to the Heart",
-      "slug": "journey-to-the-heart",
-      "tags": [
-        "meditation",
-        "spirituality",
-        "self-help",
-        "creativity",
-        "healing"
-      ],
-      "emoji": "\ud83e\udded",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/journey-to-the-heart"
-    },
-    "the-cold-war-new-history": {
-      "title": "The Cold War: A New History",
-      "slug": "the-cold-war-new-history",
-      "tags": [
-        "cold-war",
-        "history",
-        "soviet-union",
-        "us-history",
-        "geopolitics"
-      ],
-      "emoji": "\ud83c\udf0d",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-cold-war-new-history"
-    },
-    "the-anatomy-of-the-state": {
-      "title": "The Anatomy of the State",
-      "slug": "the-anatomy-of-the-state",
-      "tags": [
-        "libertarian",
-        "political-philosophy",
-        "state",
-        "anarcho-capitalism",
-        "austrian-economics"
-      ],
-      "emoji": "\ud83c\udff4",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-anatomy-of-the-state"
-    },
-    "the-fire-next-time": {
-      "title": "The Fire Next Time",
-      "slug": "the-fire-next-time",
-      "tags": [
-        "race",
-        "civil-rights",
-        "baldwin",
-        "justice",
-        "american-history"
-      ],
-      "emoji": "\ud83d\udd25",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-fire-next-time"
-    },
-    "the-tyranny-of-big-tech": {
-      "title": "The Tyranny of Big Tech",
-      "slug": "the-tyranny-of-big-tech",
-      "tags": [
-        "big-tech",
-        "monopoly",
-        "censorship",
-        "privacy",
-        "antitrust"
-      ],
-      "emoji": "\ud83c\udfe2",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-tyranny-of-big-tech"
-    },
-    "hit-refresh": {
-      "title": "Hit Refresh",
-      "slug": "hit-refresh",
-      "tags": [
-        "leadership",
-        "microsoft",
-        "transformation",
-        "innovation",
-        "technology"
-      ],
-      "emoji": "\ud83d\udd04",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/hit-refresh"
-    },
-    "the-soul-of-america": {
-      "title": "The Soul of America",
-      "slug": "the-soul-of-america",
-      "tags": [
-        "american-history",
-        "leadership",
-        "hope",
-        "democracy",
-        "politics"
-      ],
-      "emoji": "\ud83c\uddfa\ud83c\uddf8",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/the-soul-of-america"
+      "score": 9.8,
+      "summary": "Shunryu Suzuki's Zen Mind, Beginner's Mind \u2014 an executable toolkit for Zen meditation and mindful living: how to cultivate a beginner's mind, establish a meditation practice, and bring Zen awareness into every aspect of daily life.\n\nCovers 5 use cases:\n\u2460 Establishing a Meditation Practice \u2014 learn proper posture, breathing, and how to sit with a clear mind\n\u2461 Cultivating Beginner's Mind \u2014 approach every experience with openness, curiosity, and no preconceptions\n\u2462 Working with Thoughts \u2014 handle mind-wandering, emotional turbulence, and mental noise with compassion\n\u2463 Bringing Zen into Daily Life \u2014 practice mindfulness in ordinary activities: eating, walking, working\n\u2464 Understanding Non-Attachment \u2014 let go of expectations, goals, and the need to get somewhere in practice.\n\nTrigger when users say: \"Zen meditation\" \"How to meditate\" \"Beginner's mind\" \"Shunryu Suzuki\" \"Zazen\" \"Mindfulness\" \"Zen Buddhism\" \"How to be present\" \"Meditation for beginners\" \"Stop overthinking\" \"Let go of attachment\" \"Just sitting\" \"Buddhist meditation\" \"Zen practice\"\nor mention: Shunryu Suzuki / Zen Mind / Beginner's Mind / zazen / meditation / Zen / Buddhism / mindfulness / beginner's mind.\n\nRelated skills: the-power-of-now, be-here-now, the-miracle-of-mindfulness, the-happiness-advantage, radically-happy."
     }
-  }
+  ]
 }
