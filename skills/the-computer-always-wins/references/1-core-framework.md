@@ -1,26 +1,49 @@
-> Source: The Computer Always Wins, Chapter 1 "Guess Wrong Answers" & Chapter 4 "Whose Turn Is It Anyway?"
+> Source: The Computer Always Wins, Chapter 1 "Guess Wrong Answers" & Chapter 2 "The Road Not Taken" & Chapter 3 "One Step at a Time" & Chapter 4 "Whose Turn Is It Anyway?"
 
-# Core Framework: Search Trees and Minimax
+# Core Framework: Algorithmic Thinking, Puzzles, and Strategies
 
-The heart of game AI — and many computer algorithms — is the search tree. The computer maps out all possible moves, then all possible responses, then all possible counter-responses, building a tree of possibilities. Then it evaluates which branches lead to winning outcomes.
+The central idea of this book: every puzzle and strategy game can be understood through a small set of core algorithmic patterns. Once you recognize the pattern, the solution approach follows naturally.
 
-## Binary Search: The Simplest Powerful Algorithm
+## Binary Search (Elimination Algorithm)
 
-Before search trees, Lichtman introduces binary search: given a sorted list, start in the middle. If your guess is too high, eliminate the top half. If too low, eliminate the bottom half. Repeat. With each guess, you cut the remaining possibilities in half. Finding a word in a 1,000-page dictionary takes at most 10 guesses.
+The simplest and most powerful algorithm. Given a sorted list, start in the middle. If your guess is wrong, eliminate the half that cannot contain the answer. Repeat. With each guess, you halve the search space. The key insight: **elimination is more powerful than selection.** Instead of trying to guess the right answer, focus on eliminating wrong answers as fast as possible.
 
-> **Case: The Number Guessing Game** (Chapter 1): Lichtman presents a simple game: guess a number between 1 and 100. Most people guess randomly. Binary search starts at 50. "Higher." Next: 75. "Lower." Next: 62 or 63. Within 7 guesses, you’ve found any number between 1 and 100. This is not just a party trick — it’s the same algorithm used in database indexing, debugging code, and searching sorted data.
-> **Key takeaway:** Binary search is exponentially efficient. Doubling the search space adds only one extra guess. This scalability is why computers can search billions of items instantly.
+> **Case: The Number Guessing Game** (Chapter 1): Lichtman asks: guess a number from 1 to 10, but you'll be told "too high" or "too low." Most people guess randomly. Binary search starts at 5. An incorrect 5 leaves an average of just 4.1 remaining options — better than guessing 7 (4.5 remaining). With numbers 1 to 1,024, binary search guarantees a win in at most 10 guesses. This scalability — adding one extra guess per doubling of the search space — is why computers can search billions of items instantly.
+>
+> **Key takeaway:** Elimination beats selection. The best first guess isn't the one most likely to be right — it's the one that eliminates the most possibilities when wrong.
 
-## Minimax and the Game Tree
+> **Case: Wordle and the "Wrong" Word** (Chapter 1): Lichtman reduces Wordle to a smaller 18-word game and demonstrates a shocking result: the best first guess is often a word that CANNOT be the right answer. The word "there" is not in the 18-word bank, but it's a better first guess than any word in the bank because it eliminates more possibilities. A human player would never guess "there" — but an optimal algorithm does. The full 2,315-word Wordle database: a purely random elimination strategy solves Wordle in under 5 guesses for a third of words, and under 7 guesses for all but 187.
+>
+> **Key takeaway:** Algorithmic thinking often contradicts intuition. The computer's best strategy may feel wrong to a human — but it works.
 
-For turn-based games, the computer uses minimax: assume your opponent will make the best possible move for them (which is the worst possible move for you). Then choose the move that maximizes your minimum guaranteed outcome. The computer explores all possible moves, evaluates each resulting position, and picks the one with the highest guaranteed score.
+## Recursion and Backtracking
 
-> **Case: The Nim Game** (Chapter 4, "Whose Turn Is It Anyway?"): Nim is a simple game where players take turns removing objects from piles. The winning strategy depends on a mathematical property called the XOR sum. A computer using minimax can learn this strategy by exploring the game tree — without knowing the math. It discovers the winning positions through brute-force search, then exploits them perfectly.
-> **Key takeaway:** Computers often outperform humans not by being smarter but by being more thorough. The computer explores thousands of positions that a human wouldn’t even consider. Thoroughness beats cleverness in many domains.
+When a problem involves exploring possibilities (mazes, sudoku, Eight Queens), the solution is recursion: a function that calls itself on smaller versions of the same problem. Backtracking is recursion with undo: try a move, see if it leads to a solution, and if not, undo it and try another.
 
-The elegance of binary search is that it works regardless of the size of the data. Searching a list of 10 items or 10 million items uses the same logic. The only difference is how many steps it takes. This scalability is what makes computers powerful - they apply the same simple logic at enormous scale without breaking a sweat.
+> **Case: The Maze and the Ice Cream Line** (Chapter 2): Lichtman introduces recursion through a vivid metaphor: counting the number of people ahead of you in an ice cream line by asking the person in front of you to count the people ahead of THEM. Each person solves the same problem on a smaller input. The person at the front returns 0. That lets the second person return 1. And so on, back to you. The same pattern solves mazes. And shockingly, the EXACT SAME recursive function that solves a maze also solves sudoku — just with different helper functions.
+>
+> **Key takeaway:** Recursion is a universal problem-solving pattern. Once you learn to think recursively, you can solve an entire class of otherwise-intractable problems.
 
+## Breadth-First vs Depth-First Search
 
-The magic of algorithms is that simple rules produce intelligent behavior. A child can understand binary search in five minutes. That same algorithm powers Google, Amazon, and every database in the world. Learning algorithms is learning how to think at scale.
+The choice between exploring broadly (breadth-first) or deeply (depth-first) determines whether you find the shortest path (BFS) or any path quickly (DFS).
 
-The simplicity and power of binary search demonstrates why algorithms are so valuable. A method that a child can understand in minutes powers the most sophisticated search systems in the world. This is the beauty of computer science: simple ideas, enormous impact.
+> **Case: Word Ladder from BOLD to HOPE** (Chapter 3): Lichtman builds all two-word ladders from BOLD (BOLD-HOLD, BOLD-TOLD), then all three-word ladders, and so on. The first winning path found is guaranteed to be the shortest. But the cost is staggering: with 4,000 words and depth 10, BFS would need 25+ billion nine-word options. DFS would find a path faster but might find a comically long one (GOOD to CODE via hood-hook-look-lock-dock-duck-dusk-dust-bust-bush-busy-bury-burn-born-corn-core, then CODE).
+>
+> **Key takeaway:** Choose BFS when path length matters (navigation, networking). Choose DFS when finding ANY path quickly is the goal (puzzles, constraint satisfaction).
+
+## Minimax: The Heart of Game AI
+
+For turn-based two-player games, the computer assumes its opponent is perfect. It explores all possible moves, evaluates each resulting position from both perspectives, and picks the move that maximizes its minimum guaranteed outcome.
+
+> **Case: The Nim Game** (Chapter 4): Nim is simple: take 1 or 2 coins; whoever takes the last coin wins. A computer using minimax doesn't need to know the mathematical strategy (XOR sum). It discovers it by brute force — playing out every possible sequence of moves. This is the fundamental insight: computers don't "understand" games. They explore trees. And for games with small trees (tic-tac-toe, Nim), this brute-force approach is perfect.
+>
+> **Key takeaway:** Computers don't win by being smarter than humans. They win by being more thorough. A computer considers thousands of branches that a human would never bother to examine.
+
+---
+
+[One specific, immediate action the user can take right now.]
+
+---
+
+*Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*

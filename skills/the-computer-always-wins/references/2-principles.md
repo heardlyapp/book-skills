@@ -1,30 +1,45 @@
-> Source: The Computer Always Wins, Chapter 7 "Throwing Darts" & Chapter 12 "Minimizing Regret"
+> Source: The Computer Always Wins, Chapter 5 "Move Faster" & Chapter 6 "Pruning the Tree" & Chapter 7 "Throwing Darts" & Chapter 12 "Minimizing Regret"
 
-# Principles: Algorithmic Thinking
+# Principles: Game Theory, Decision Trees, and Trade-offs
 
-## Principle 1: It’s About the Journey, Not Just the Answer
-Lichtman emphasizes that the value of studying algorithms is not in memorizing solutions but in learning how to approach problems. The process of breaking down a problem, designing a solution, testing it, and refining it is itself the skill.
+The deeper layer of algorithmic thinking: understanding WHY certain approaches work, what trade-offs they encode, and when to choose one over another.
 
-## Principle 2: Trade-offs Are Fundamental
-Every algorithm involves trade-offs. A faster algorithm usually uses more memory. A simpler algorithm is easier to understand but may be slower. A more accurate model requires more data and training time. There is no perfect algorithm — only the right one for your constraints.
+## The Depth vs. Accuracy Trade-off
 
-> **Case: The Sorting Problem** (Chapter 2, "The Road Not Taken"): Lichtman compares sorting algorithms: bubble sort (simple but slow), merge sort (fast but memory-intensive), and quicksort (fast on average but slow in worst case). Each has different strengths. Bubble sort is great for small lists where simplicity matters. Merge sort excels for large datasets. Quicksort is the workhorse of most programming languages.
-> **Key takeaway:** The "best" algorithm depends on your specific situation. Understanding trade-offs is more important than knowing the fastest algorithm.
+Minimax is perfect but slow. To speed it up, we limit how far ahead the computer looks. But limited depth means incomplete information. The computer must score intermediate positions — boards where no one has won yet.
 
-## Principle 3: Randomness Is a Tool, Not a Bug
-Many people think of randomness as the opposite of algorithmic thinking. In fact, random simulation (Monte Carlo methods) is one of the most powerful tools in computer science. When a problem is too complex to solve exactly, throw darts at it statistically.
+> **Case: Scoring an In-Progress Connect Four Board** (Chapter 5): Lichtman's scoring system: +10 for three-in-a-row with an empty fourth spot, +5 for two-in-a-row with two empty spots, +3 for a checker in the middle column. Sum the computer's score, subtract the rival's score. At depth 2, the computer makes decent moves. At depth 5, it plays well. The trade-off: deeper analysis means exponentially more boards to evaluate. The solution isn't a better computer — it's a smarter algorithm.
+>
+> **Key takeaway:** Every algorithm involves a trade-off between depth (how far you look) and speed (how fast you decide). Choose based on your constraints.
 
-## Principle 4: Feedback Loops Drive Learning
-Machine learning is not magic. It’s a feedback loop: make a prediction, compare it to the actual outcome, adjust the model, repeat. Lichtman’s reinforcement learning examples (chapter 10) show how a computer can learn to play Rock-Paper-Scissors simply by tracking patterns and adjusting.
+## Alpha-Beta Pruning: The Efficiency Revolution
 
-## Principle 5: Simple Rules Produce Complex Behavior
-The most powerful insight of computer science: complex, intelligent behavior can emerge from simple rules. A neural network is just thousands of simple calculations. A game AI is just a search tree. The complexity is in the combination, not the components.
+The insight: many branches of a search tree are irrelevant. If the computer finds that one move leads to a rival win, it doesn't matter how good the other options on that branch look — the rival will pick the winning one. Cut that branch.
 
-The elegance of algorithmic thinking is that it applies far beyond computers. Breaking down a complex problem into smaller pieces, testing each piece systematically, and iterating based on feedback - these are life skills as much as programming skills. The computer is just a particularly good student of this method.
+> **Case: The Eight-Gameboard Example** (Chapter 6): Lichtman walks through a constrained Connect Four example with just 8 possible gameboards. Without pruning, all 8 must be evaluated. With pruning, the computer evaluates only 5 — and makes the exact same decision. Scaling up: pruning cuts a depth-4 search from 19,607 gameboards to just 4,307. More importantly, the computer can now search at depth 5 (17,116 boards) in the time it previously took to search at depth 4 (19,607 boards).
+>
+> **Key takeaway:** Pruning doesn't trade accuracy for speed — it eliminates irrelevant work. The decision quality is identical. The only cost is the pruning logic itself, which is minimal.
 
+## Monte Carlo Methods: Randomness as Strategy
 
-Understanding how computers solve problems can make you a better thinker. The same principles - divide and conquer, worst-case analysis, iterative improvement - apply to business strategy, personal productivity, and creative problem solving.
+When a problem is too complex for exact calculation, random simulation provides surprisingly good answers. The trade-off: precision for depth. A blurry picture at great depth is often more valuable than a sharp picture at shallow depth.
 
-Learning to think in terms of trade-offs, worst cases, and systematic iteration will make you a better problem solver in any domain. These principles transcend programming.
-When you understand that computers are not smart but thorough, you understand both their power and their limitations. The best human-computer partnerships combine algorithmic thoroughness with human creativity and judgment.
-The ability to think algorithmically - breaking down problems, recognizing patterns, designing systematic solutions - is one of the most valuable skills you can develop in any field.
+> **Case: The 2048 Game** (Chapter 7): A full minimax tree for 2048 explodes to millions of boards after just 3 moves — and the game requires ~1,000 moves. Lichtman's solution: for each possible tilt (up/down/left/right), simulate 50 random games to completion. Average the scores. Pick the tilt with the best average. This "throw darts" approach beats pure randomness (93% deadlock at 128) and shallow minimax (15% win rate at 2048), achieving a 43% win rate at 2048. The random approach wins because it sees the long-term consequences that shallow minimax misses.
+>
+> **Key takeaway:** Sometimes a rough estimate of the long-term future is more valuable than an exact calculation of the short-term present.
+
+## Counterfactual Regret Minimization
+
+The most elegant learning algorithm: play many games. Each time, track what you WOULD HAVE earned had you chosen each alternative. The moves with more regret get played more often. Over time, the strategy converges to the optimal mixed strategy.
+
+> **Case: Colonel Blotto** (Chapter 12): Deploy 5 battalions across 3 battlefields. There are 21 possible deployment patterns. Without being told the optimal strategy, the computer plays thousands of games, tracks regret for each of the 21 options, and gradually adjusts. The result: it discovers that the optimal strategy is to randomly choose from the [3,2,0] family of deployments. If an opponent knows this strategy, they have no incentive to change — it's a Nash equilibrium. The computer discovered this mathematical truth through pure trial and error.
+>
+> **Key takeaway:** The most powerful learning algorithms don't need to be told the answer. They need clear feedback and enough iterations. Given those, they converge to optimal strategies on their own.
+
+---
+
+[One specific, immediate action the user can take right now.]
+
+---
+
+*Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*

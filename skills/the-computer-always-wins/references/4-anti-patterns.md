@@ -1,35 +1,61 @@
-> Source: The Computer Always Wins, Chapter 5 "Move Faster" & Afterword
+> Source: The Computer Always Wins, Chapter 5 "Move Faster" & Chapter 6 "Pruning the Tree" & Chapter 7 "Throwing Darts" & Chapter 12 "Minimizing Regret"
 
-# Anti-Patterns: Common Mistakes
+# Anti-Patterns: Wrong Strategies and Cognitive Traps
 
-## ❌ Premature Optimization
-The most common mistake in programming: trying to make code fast before making it correct. Optimizing too early leads to complex, buggy code. The correct sequence: make it work, make it right, make it fast. In that order.
+Algorithms fail in predictable ways. Recognizing these failure patterns is as important as knowing the algorithms themselves.
 
-## ❌ Ignoring the Worst Case
-An algorithm that works great on average but fails catastrophically in the worst case is dangerous. Always consider the worst-case scenario. QuickSort is fast on average but slow on sorted data. Hash tables are fast until too many collisions occur.
+## Mistake 1: Premature Optimization
 
-> **Case: The Quicksort Trap** (Chapter 2): Quicksort is one of the most widely used sorting algorithms — for good reason. It’s fast on average (O(n log n)). But if you choose a bad pivot (like the first element on an already-sorted list), it degrades to O(n²) — slower than bubble sort. This is why production implementations use randomized pivot selection.
-> **Key takeaway:** Average-case performance is not enough. Always understand the worst-case behavior of any algorithm or system you rely on.
+The most common error: trying to make code fast before making it correct. Lichtman shows this throughout the book — the elegantly simple recursive solution comes first, the pruning and depth-limiting comes later.
 
-## ❌ Overfitting
-In machine learning, overfitting means the model memorizes the training data instead of learning general patterns. It performs perfectly on the training set but fails on new data. The fix: test on data the model has never seen.
+> **Case: The Quicksort Trap** (Analogy to Chapter 5-6): Quicksort is beautiful and fast on average — but choose a bad pivot (e.g., the first element on an already-sorted list) and it degrades to O(n²), slower than bubble sort. The parallel in game AI: implementing depth-limited minimax without first verifying that the base minimax works correctly guarantees bugs. The correct sequence: make it work, make it right, make it fast.
+>
+> **Key takeaway:** Speed without correctness is useless. Optimize only after you have a working baseline.
 
-## ❌ Reinventing the Wheel
-Many problems already have well-known solutions. Before designing a new algorithm, research existing ones. The best engineers spend more time reading than writing.
+## Mistake 2: Ignoring the Worst Case
 
-## ❌ Ignoring the Human Element
-The best algorithm fails if the user can’t understand or trust it. Simplicity, transparency, and explainability matter as much as raw performance.
+An algorithm that works great "on average" but fails catastrophically in the worst case is not a good algorithm — it's a dangerous one.
 
-The most important lesson from studying computer algorithms: the same principles that make computers powerful can make you a better thinker - divide problems, test systematically, learn from feedback, and never stop iterating.
+> **Case: The Random Wordle Solver's Blind Spots** (Chapter 1): Lichtman's random Wordle solver works well — it identifies the hidden word in under 5 guesses for a third of the 2,315-word database. But 187 words require 7 or more guesses. Is that a failure? It depends on your standards. If you're playing for fun, 7 guesses is fine. If you're building a competitive solver, those 187 words are exactly where your algorithm needs improvement. The worst case — not the average — determines whether you can claim your algorithm "wins."
+>
+> **Key takeaway:** Always ask: what does failure look like? How often does it happen? Is that acceptable? Average-case thinking blinds you to catastrophic edge cases.
 
+## Mistake 3: Assuming Symmetry in Opponent Behavior
 
-The ultimate lesson: computers and humans have different strengths. Computers are fast and thorough. Humans are creative and intuitive. The best solutions combine both.
+The biggest mistake humans make in games: assuming the opponent is as rational (or irrational) as you are. The computer avoids this by assuming the opponent plays optimally — but that assumption can also be wrong.
 
-Learning from these mistakes is what separates good programmers from great ones. The best engineers have made all these mistakes and learned from them.
-The key is to recognize these patterns early, before they cause significant problems in your code or your thinking.
-Understanding these patterns early can save you from costly mistakes in both programming and life.
-The best engineers and problem solvers all share one trait: they learn from failure faster than others. These anti-patterns are shortcuts to that learning.
-Learning these patterns early in your programming journey will save you countless hours of debugging and refactoring later.
-The best programmers are not the ones who never make mistakes but the ones who learn from them fastest.
-Every programmer encounters these warnings at some point. Learning them early accelerates your growth and prevents unnecessary struggles with code that could have been avoided with better planning.
-Recognizing and avoiding these common pitfalls is what separates experienced developers from beginners. The sooner you learn them, the faster you improve.
+> **Case: Exploiting Human Weakness in Rock-Paper-Scissors** (Chapter 10): A computer that assumes its opponent is random will win, lose, and tie equally. A computer that tracks patterns (reluctance to repeat, favoring one move, changing after losses) can win up to 43% of games — a significant edge. The anti-pattern is assuming your opponent has no patterns. In reality, the first round of Rock-Paper-Scissors is not random — 35.4% of people play rock. The algorithm that exploits this knowledge beats the algorithm that assumes symmetry.
+>
+> **Key takeaway:** The assumption that opponents are random is itself a dangerous assumption. Account for real human behavior when designing competitive algorithms.
+
+## Mistake 4: Forgetting the Base Case in Recursion
+
+Recursive functions must have a non-recursive exit condition. Without it, the function calls itself forever — infinite recursion. This is the programming equivalent of asking "what happens if I keep going and never stop?" The answer: stack overflow.
+
+> **Case: The Ice Cream Line Without an End** (Chapter 2): Lichtman's recursion metaphor works because the person at the front of the line can return "0" — the base case. Remove that base case, and the question "how many people are in front of me?" propagates forever. Every recursive function in this book (maze solving, sudoku, minimax) has a clear non-recursive condition: the maze exit, a filled board, a win/loss/tie. Forgetting this is the single most common bug in recursive code.
+>
+> **Key takeaway:** Always define the stopping condition first when designing recursion. The base case is not optional — it's the foundation.
+
+## Mistake 5: Giving Equal Attention to All Options
+
+The throw-darts approach (Chapter 7) treats all options equally — 50 simulations per move, regardless of whether some options are clearly terrible. The aim-darts approach (Chapter 8) improves this by allocating simulations dynamically. But both can fall into the trap of investing too much in clearly inferior paths.
+
+> **Case: Wasting Simulations on Bad Connect Four Moves** (Chapter 9): Lichtman's MCTS Connect Four uses a CHOOSECHILD function that naturally favors promising nodes and neglects bad ones. But if the initial random seeding causes the computer to explore a terrible move first, it can waste hundreds of simulations before the CHOOSECHILD function shifts focus. The fix: prioritize checking for immediate wins and blocks before starting the simulation tree.
+>
+> **Key takeaway:** Don't give equal time to all options. Check the obvious best and worst moves first. Then allocate your remaining analysis budget proportionally.
+
+## Mistake 6: Treating the Algorithm as a Black Box
+
+The most subtle anti-pattern in the book: becoming so confident in your algorithm that you stop verifying its outputs. The neural network in Chapter 11 is explicitly called a "black box" — the programmer feeds in data and gets predictions without understanding the internal logic. This is powerful but dangerous.
+
+> **Case: The Neural Network's Hidden Assumptions** (Chapter 11): Lichtman's neural network distinguishes random players from reluctant players in Rock-Paper-Scissors. It does this by learning weights that it discovers through trial and error. But the programmer doesn't know which features the network actually learned to use. If the training data has a hidden bias (e.g., all "random" players were generated with one seed, all "reluctant" with another), the network will learn to exploit that bias instead of the actual distinction. This is overfitting — and you can't detect it without testing on fresh data.
+>
+> **Key takeaway:** Black box algorithms require continuous validation. Trust but verify. Test on data the algorithm has never seen.
+
+---
+
+[One specific, immediate action the user can take right now.]
+
+---
+
+*Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*

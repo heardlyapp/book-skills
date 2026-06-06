@@ -1,32 +1,41 @@
-> Source: The Computer Always Wins, Chapter 3 "One Step at a Time" & Chapter 11 "Black Boxes"
+> Source: The Computer Always Wins, Chapter 8 "Aiming Darts" & Chapter 9 "Aiming Darts at Others" & Chapter 10 "Rock, Paper... Paper"
 
-# Techniques: Practical Algorithmic Methods
+# Techniques: Solving Puzzles, Pattern Recognition, and Strategic Sampling
 
-## Technique 1: The Binary Search Method
-When searching for something in sorted data: start in the middle. Eliminate half. Repeat. This works for debugging (find which code change broke something), troubleshooting (find which setting is wrong), and any scenario where you need to narrow down options efficiently.
+Moving beyond theory to practical techniques: how to implement algorithms that solve real problems, detect patterns, and make decisions under uncertainty.
 
-## Technique 2: The Game Tree Exploration
-When facing a strategic decision: map out the possible moves, then map out the responses to each move, then the responses to those responses. Even exploring 2-3 moves deep reveals patterns you wouldn’t see otherwise.
+## Strategic Sampling (Upper Confidence Bound)
 
-> **Case: The Connect Four Strategy** (Chapter 6, "Pruning the Tree"): Connect Four has 4.5 trillion possible board positions. A computer can’t explore them all. But by pruning — eliminating obviously bad branches — it can reduce the search space enough to play perfectly. Lichtman shows how alpha-beta pruning cuts the search tree by 50-90% without losing any strategic accuracy.
-> **Key takeaway:** You don’t need to consider every possibility. Eliminate obviously bad options and focus your analysis on the promising ones.
+Instead of allocating simulations evenly across all options, allocate them intelligently. Track which options are promising and explore them more. Track which are under-explored and catch up. The key formula: balance exploration (try unvisited nodes) with exploitation (dig deeper into promising nodes).
 
-## Technique 3: The Monte Carlo Method
-When you can’t solve a problem exactly: simulate it many times with random inputs and take the average. This is how computers estimate pi, predict weather, and play Go. More simulations = better accuracy.
+> **Case: Blackjack with Strategic Sampling** (Chapter 8): Lichtman compares two approaches to teaching a computer Blackjack. The "throw darts" approach (Chapter 7) runs 100 simulations for "take a card" and 100 for "stand" — evenly split. The "aim darts" approach (Chapter 8) builds a deeper tree: after taking one card, the computer can then take another or stand. It allocates simulations dynamically — favoring nodes with higher win rates but occasionally visiting under-explored ones. Result: the "aim darts" computer wins ~4,300 out of 10,000 games against the dealer, matching professional human players. This is remarkable because the computer goes first (a disadvantage in Blackjack), yet still achieves near-optimal performance.
+>
+> **Key takeaway:** Strategic allocation of computational resources beats brute-force allocation. In any analysis, focus more on promising avenues while maintaining some exploration of unknowns.
 
-## Technique 4: The Pattern Recognition Loop
-Identify a pattern, predict the next occurrence, test your prediction, adjust. This is the foundation of machine learning and also a powerful everyday thinking tool.
+## Monte Carlo Tree Search for Two-Player Games
 
-## Technique 5: The Minimax Decision Framework
-For any competitive decision: assume the worst case. Choose the option that guarantees the best outcome even when your opponent (or circumstances) act against you.
+The combination of strategic sampling (Chapter 8) with two-player turn-based games (Chapters 4-6). The computer builds a partial tree, simulates random games from promising nodes, and gradually focuses on the most promising branches. This beats pure minimax in games with large search spaces.
 
-The most practical takeaway from studying algorithms: most problems you encounter have already been solved by someone. Before designing a new solution, ask: "What kind of problem is this?" The answer points you to the right existing algorithm. Learning to classify problems is more valuable than memorizing solutions.
+> **Case: Connect Four Showdown** (Chapter 9): Lichtman pits the minimax-with-pruning Connect Four (Chapter 6) against the Monte Carlo Tree Search Connect Four (Chapter 9). The MCTS version tracks 11 pieces of data per node: who played, which column, visit count, win count, and children node numbers. It uses a CHOOSECHILD function that scores each potential move based on win rate (multiplied by 10 for emphasis) and visit frequency (square root of parent visits / child visits to encourage exploration of neglected nodes). The result: MCTS plays competitive Connect Four without needing a game-specific scoring function — it learns what good positions look like through simulation.
+>
+> **Key takeaway:** Monte Carlo Tree Search is the algorithm behind AlphaGo and other modern game AIs. It combines the thoroughness of minimax with the scalability of random simulation.
 
+## Pattern Recognition: Finding Human Quirks
 
-The practical value of understanding algorithms extends far beyond programming. The ability to break down complex problems, recognize patterns, and design systematic solutions is valuable in every field. Algorithmic thinking is a life skill.
+The computer doesn't just play games — it plays AGAINST humans. And humans have predictable quirks: they repeat less, they favor certain moves after wins or losses, they get bored.
 
-Understanding these algorithms gives you a mental toolkit for solving problems systematically. The next time you face a complex decision, ask yourself: what kind of problem is this, and what algorithm applies?
-The most valuable skill is not memorizing algorithms but learning to classify problems. Once you know the type of problem, the solution approach becomes clear.
-The more you practice thinking this way, the more natural it becomes. Start with simple puzzles and work your way up to complex systems.
-Building these mental models takes practice, but the payoff is enormous. Algorithmic thinking will make you more effective at solving any kind of complex problem.
-Each time you learn a new algorithm, you add a tool to your mental toolbox. Over time, these tools compound into genuine expertise in computational thinking.
+> **Case: Rock-Paper-Scissors Against a Human** (Chapter 10): A truly random human would make the computer win, lose, and tie each exactly 1/3 of the time. But real humans show patterns. Some are "reluctant" — they avoid repeating the same move twice. Some are "boring" — they favor one move (often rock). Some are "sore losers" — they change moves after a loss but stick after a win. Lichtman builds functions like ISRELUCTANT() that test each hypothesis against the player's history. Even better: build conditional probability tables. If a player played rock after winning last round 75% of the time, the computer can predict rock and counter with paper. These conditional models (WHENROCKWON, WHENROCKLOST, WHENSCISSORSWON) let the computer detect ANY pattern — not just the ones the programmer anticipated.
+>
+> **Key takeaway:** The computer's superpower in human interaction is patience and memory. A human can't remember every round of a 100-game Rock-Paper-Scissors session. The computer can — and will exploit every detectable pattern.
+
+## Practical Technique: The Elimination Mindset
+
+The single most practical takeaway from this book: **when you don't know the right answer, focus on eliminating wrong ones.** This works for debugging (binary search finds the buggy commit), decision-making (eliminate bad options first), and learning (eliminate misconceptions before building correct models).
+
+---
+
+[One specific, immediate action the user can take right now.]
+
+---
+
+*Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*

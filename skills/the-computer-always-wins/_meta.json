@@ -1,15 +1,25 @@
 {
   "name": "the-computer-always-wins",
-  "version": "1.0.0",
-  "description": "Elliot Lichtman's The Computer Always Wins — an executable toolkit that teaches algorithmic thinking through puzzles, strategy games, and AI concepts. Learn how computers solve problems, make decisions, and defeat human opponents.\n\nCovers 5 use cases:\n① Algorithmic Thinking — understand how computers approach problems systematically\n② Game Strategy — learn how computers win at games using search trees and minimax\n③ Random Simulation — understand Monte Carlo methods and probability-based algorithms\n④ Machine Learning Basics — grasp neural networks, reinforcement learning, and pattern recognition\n⑤ Computational Thinking — apply computer science concepts to everyday problem solving.\n\nTrigger when users say: \"How algorithms work\" \"Game AI\" \"Algorithmic thinking\" \"Puzzle solving strategies\" \"AI for beginners\" \"How does machine learning work\" \"Search algorithms\" \"Minimax\" \"Monte Carlo\" \"Neural networks explained\" \"Computer science basics\"\nor mention: Elliot Lichtman / The Computer Always Wins / algorithms / game AI / machine learning / minimax / Monte Carlo / neural networks.\n\nRelated skills: a-mind-for-numbers, the-pleasure-of-finding-things-out, clear-thinking-book, make-it-stick, the-creative-act.",
   "publisher": "heardlyapp",
+  "version": "1.0.0",
   "license": "MIT",
+  "description": "Elliot Lichtman's The Computer Always Wins — an executable toolkit that teaches algorithmic thinking through puzzles, strategy games, and AI concepts. Learn how computers solve problems, make decisions, and defeat human opponents.\n\nCovers 5 use cases:\n\u2460 Algorithmic Thinking — understand how computers approach problems systematically, from binary search to sorting algorithms\n\u2461 Game Strategy — learn how computers win at games like tic-tac-toe, Connect Four, and chess using search trees and minimax\n\u2462 Random Simulation — understand Monte Carlo methods and how computers use randomness to solve complex problems\n\u2463 Machine Learning Basics — grasp how computers learn from data through neural networks, reinforcement learning, and pattern recognition\n\u2464 Computational Thinking — apply computer science concepts to everyday problem solving: breaking down problems, recognizing patterns, and designing efficient solutions.\n\nTrigger when users say: \"How algorithms work\" \"Game AI\" \"Computer wins at games\" \"Algorithmic thinking\" \"How to think like a computer scientist\" \"Puzzle solving strategies\" \"AI for beginners\" \"How does machine learning work\" \"Search algorithms\" \"Minimax\" \"Monte Carlo\" \"Neural networks explained\" \"Computer science basics\"\nor mention: Elliot Lichtman / The Computer Always Wins / algorithms / game AI / machine learning / search trees / minimax / Monte Carlo / neural networks / computational thinking / puzzles / strategy games.\n\nRelated skills: predictably-irrational, the-art-of-thinking-clearly, black-swan, brain-rules.",
   "homepage": "https://clawhub.ai/heardlyapp/the-computer-always-wins",
   "useCase": "Helps anyone understand algorithmic thinking through fun puzzles and strategy games — from binary search to neural networks, without needing a computer science degree.",
   "knownRisks": [
     "Some examples use basic Python; readers without programming experience may need supplemental resources for the code examples."
   ],
-  "tags": ["algorithms", "computer-science", "AI", "machine-learning", "games", "puzzles", "programming", "coding", "education"],
+  "tags": [
+    "algorithms",
+    "computer-science",
+    "ai",
+    "machine-learning",
+    "games",
+    "puzzles",
+    "strategy",
+    "computational-thinking",
+    "programming"
+  ],
   "openclaw": {
     "emoji": "💻",
     "category": "education"
