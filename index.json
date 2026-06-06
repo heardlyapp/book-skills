@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 125,
+  "total_skills": 126,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -2028,6 +2028,20 @@
       "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-cold-war-new-history"
+    },
+    "the-anatomy-of-the-state": {
+      "title": "The Anatomy of the State",
+      "slug": "the-anatomy-of-the-state",
+      "tags": [
+        "libertarian",
+        "political-philosophy",
+        "state",
+        "anarcho-capitalism",
+        "austrian-economics"
+      ],
+      "emoji": "\ud83c\udff4",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-anatomy-of-the-state"
     }
   }
 }
