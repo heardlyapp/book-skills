@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 102,
+  "total_skills": 103,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1712,6 +1712,20 @@
       "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/deep-work"
+    },
+    "essentialism": {
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "slug": "essentialism",
+      "tags": [
+        "productivity",
+        "simplicity",
+        "focus",
+        "minimalism",
+        "prioritization"
+      ],
+      "emoji": "\ud83c\udfaf",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/essentialism"
     }
   }
 }

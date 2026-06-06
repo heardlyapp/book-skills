@@ -1,0 +1,15 @@
+{
+  "name": "essentialism",
+  "description": "Gold-standard skill for Greg McKeown's *Essentialism: The Disciplined Pursuit of Less*. Master the disciplined pursuit of less but better — discern the vital few from the trivial many, eliminate nonessentials, and make execution effortless.",
+  "publisher": "heardlyapp",
+  "homepage": "https://clawhub.ai/heardlyapp/essentialism",
+  "version": "1.0.0",
+  "license": "MIT",
+  "tags": ["essentialism", "greg-mckeown", "productivity", "simplicity", "focus", "minimalism", "prioritization", "decision-making", "time-management", "discipline"],
+  "openclaw": "🎯",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heardlyapp/essentialism"
+  },
+  "categories": ["productivity", "self-improvement", "career"]
+}
