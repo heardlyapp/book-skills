@@ -63,3 +63,10 @@ Newport presents three arguments for the meaningfulness of depth:
 - The economic and personal rewards of mastering depth are enormous
 - Shallow work is seductive because it feels productive (busyness) but creates little lasting value
 - A deep life is not just more productive—it's more *meaningful*
+
+
+> **Case: The Carpenter's Focus** (Introduction): Newport describes a carpenter who spends hours measuring, cutting, and fitting wood — completely absorbed in his craft. He doesn't check his phone, answer emails, or multitask. He is in a state of deep work. Newport argues that this state, not busyness, is the source of meaningful productivity and satisfaction.
+> **Key takeaway:** Deep work is not exclusive to knowledge workers. Any craft done with full attention produces better results and more satisfaction.
+
+> **Case: The Academics Who Wrote Books** (Chapter 1): Newport studied professors who published influential books while teaching full-time. The common factor was not more hours worked but more hours of deep work. Those who protected long, uninterrupted blocks for writing produced far more than those who tried to write in the gaps between meetings.
+> **Key takeaway:** The quantity of deep work, not total hours worked, predicts output. One hour of undistracted focus beats four hours of fragmented attention.

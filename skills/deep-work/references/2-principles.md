@@ -91,3 +91,10 @@ Shallow work is less vital than it seems. A 37signals (Basecamp) experiment shor
 **Finish Your Work by 5:30:** Newport's fixed-schedule productivity principle—commit to a strict end time and work backward from it. Fixed deadlines force prioritization and eliminate the false urgency of busyness.
 
 **Become Hard to Reach:** Use sender filters, smart email triage, and the "process-centric approach" (respond to emails with clear process, not open-ended requests). Train people to expect thoughtful, delayed responses rather than immediate ones.
+
+
+> **Case: Carl Jung's Tower** (Chapter 2): Jung built a stone tower in the woods outside Zurich where he retreated for hours of uninterrupted writing and thinking. He didn't bring his patients there. He didn't answer correspondence. The tower was his deep work sanctuary. Some of his most important work emerged from this protected space.
+> **Key takeaway:** A dedicated space for deep work signals to your brain that depth is expected. Your environment shapes your ability to focus. Create a "tower" of your own.
+
+> **Case: Bill Gates' Think Weeks** (Chapter 2): Bill Gates famously took two "Think Weeks" per year — retreating to a cabin to read and think without interruption. During one Think Week, he wrote a famous memo about the importance of the internet that led to Microsoft's strategic pivot. These isolated deep sessions produced ideas that changed the company's direction.
+> **Key takeaway:** Bimodal deep work (long, isolated periods) can produce breakthrough ideas. Even a single day of uninterrupted thinking can change your trajectory.

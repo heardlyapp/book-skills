@@ -117,3 +117,10 @@ If any of these describe your work life, you're trapped in the shallow:
 - [ ] You try to focus using willpower alone (Willpower Trap)
 
 Each anti-pattern has a corresponding deep work counter-strategy. The path from shallow to deep is not about adding more discipline — it's about removing the structural obstacles that make depth impossible.
+
+
+> **Case: The Email Addict** (Chapter 11): Newport describes a professional who checked email compulsively, never going more than 15 minutes without looking. The cost was invisible: every check fragmented his attention, and it took 20 minutes to fully refocus after each interruption. His day was a series of shallow fragments, punctuated by brief, unproductive deep work attempts.
+> **Key takeaway:** The cost of distraction is not the time spent on the distraction — it's the time spent recovering from it. A single notification can destroy an hour of potential depth.
+
+> **Case: The Meeting That Could Have Been an Email** (Chapter 8): A weekly status meeting at a tech company consumed 10 person-hours per week. After tracking their output, a manager discovered that the meeting generated no decisions, no insights, and no action items. It was pure shallow work — continued only because of inertia.
+> **Key takeaway:** Meetings, notifications, and status updates feel productive but often produce nothing of value. Ruthlessly audit your commitments for shallow work.

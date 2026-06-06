@@ -5,11 +5,26 @@
   "homepage": "https://clawhub.ai/heardlyapp/deep-work",
   "version": "1.0.0",
   "license": "MIT",
-  "tags": ["deep-work", "cal-newport", "focus", "productivity", "concentration", "distraction", "knowledge-work", "time-management", "habits", "deliberate-practice"],
-  "openclaw": "🔮",
+  "tags": [
+    "deep-work",
+    "cal-newport",
+    "focus",
+    "productivity",
+    "concentration",
+    "distraction",
+    "knowledge-work",
+    "time-management",
+    "habits",
+    "deliberate-practice"
+  ],
+  "openclaw": "\ud83d\udd2e",
   "repository": {
     "type": "git",
     "url": "https://github.com/heardlyapp/deep-work"
   },
-  "categories": ["productivity", "self-improvement", "career"]
+  "categories": [
+    "productivity",
+    "self-improvement",
+    "career"
+  ]
 }

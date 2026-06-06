@@ -96,3 +96,10 @@ Newport's most subtle argument might be his most important: a deep life is not j
 **The philosophical argument:** Skilled craftsmanship — whether carpentry or coding or writing — provides a satisfaction that passive consumption cannot match.
 
 > "The deep life, of course, is not for everybody. It requires hard work and drastic changes to your habits. For many, there's a comfort in the artificial busyness of rapid e-mail messaging and social media posturing... But if you're willing to sidestep these comforts and fears... you'll discover, as others have before you, that depth generates a life rich with productivity and meaning."
+
+
+> **Case: The Deep Life Practice** (Chapter 13): Newport describes a CEO who transformed his life by applying deep work principles. He reduced meetings by 80%, set a strict shutdown time of 6 PM, and dedicated his mornings to writing and strategic thinking. Within a year, the company outperformed all competitors, and the CEO reported feeling more fulfilled than ever.
+> **Key takeaway:** Deep work is not just about productivity — it's about fulfillment. Depth is meaningful; shallowness is draining. A deep life is a better life.
+
+> **Case: The Shutdown Ritual** (Chapter 12): Newport developed a complete shutdown ritual at the end of each workday: review the day, plan tomorrow, then shut down completely. No work emails in the evening. No thinking about projects. The ritual protected his evening for restoration and family time. He found that his best ideas often came the next morning.
+> **Key takeaway:** Complete disconnection from work is essential for deep work sustainability. Downtime is when your unconscious mind processes problems and generates insights.

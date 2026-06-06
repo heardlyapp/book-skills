@@ -107,3 +107,10 @@ A multi-pronged approach to reclaiming attention from incoming requests:
 1. **Sender filters** — Set up smart email sorting. Newport's assistant pre-filters physical mail; the digital equivalent is rules that sort emails into folders by priority.
 2. **Process-centric email** — Instead of open-ended responses, reply with clear process: "I need X from you to proceed. Once I have it, I can respond by Y."
 3. **Multi-stage response** — For non-urgent emails, Newport responds in batches at set times. Most senders don't need an immediate reply — they need a clear expectation of when they'll hear back.
+
+
+> **Case: The Journalist's Deadline** (Chapter 5): Newport describes journalists who develop the ability to write anywhere, anytime, under any conditions. They can't afford to wait for perfect conditions — their deadline is coming. This "journalistic" approach to deep work means seizing any available window of concentration, even if it's only 20 minutes.
+> **Key takeaway:** The ability to quickly switch into deep work mode is a skill that can be developed. With practice, you can enter a deep state within minutes, not hours.
+
+> **Case: The Fixed Schedule Experiment** (Chapter 7): Newport set a firm end time for his workday — 5:30 PM — and refused to work later. This forced him to ruthlessly prioritize and eliminate shallow work. He accomplished more in fewer hours because the constraint forced focus. The fixed schedule is a commitment device that makes deep work the default.
+> **Key takeaway:** A fixed end time is not a limitation — it's a forcing function. If you only have limited hours, you'll make them count.
