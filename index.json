@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 105,
+  "total_skills": 106,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1755,6 +1755,20 @@
       "emoji": "\ud83d\udd6f\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/mans-search-for-meaning"
+    },
+    "why-are-all-the-black-kids-sitting-together-in-the-cafeteria": {
+      "title": "Why Are All the Black Kids Sitting Together in the Cafeteria?",
+      "slug": "why-are-all-the-black-kids-sitting-together-in-the-cafeteria",
+      "tags": [
+        "race",
+        "identity",
+        "psychology",
+        "education",
+        "social-justice"
+      ],
+      "emoji": "\ud83e\udd1d",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/why-are-all-the-black-kids-sitting-together-in-the-cafeteria"
     }
   }
 }
