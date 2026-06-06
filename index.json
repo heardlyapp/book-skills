@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 103,
+  "total_skills": 104,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1725,6 +1725,21 @@
       "emoji": "\ud83c\udfd4\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/grit-the-power-of-passion-and-perseverance"
+    },
+    "ego-is-the-enemy": {
+      "title": "Ego Is the Enemy: The Fight to Master Our Greatest Opponent",
+      "slug": "ego-is-the-enemy",
+      "tags": [
+        "stoicism",
+        "ego",
+        "humility",
+        "ryan-holiday",
+        "philosophy",
+        "self-improvement"
+      ],
+      "emoji": "\u2694\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/ego-is-the-enemy"
     }
   }
 }
