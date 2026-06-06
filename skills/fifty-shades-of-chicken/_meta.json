@@ -1,0 +1,19 @@
+{
+ "name": "fifty-shades-of-chicken",
+ "version": "1.0.0",
+ "description": "F.L. Fowler's 'Fifty Shades of Chicken: A Parody in a Cookbook' — 85+ real chicken recipes wrapped in a hilarious Fifty Shades parody, from roast chicken to coq au vin, with proper techniques, brining tips, and weeknight meal solutions.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/fifty-shades-of-chicken",
+ "useCase": "Find delicious chicken recipes for any occasion, learn proper cooking techniques, and enjoy a laugh while cooking.",
+ "knownRisks": [
+  "Parody contains mature innuendo — may not be suitable for all readers",
+  "Recipes are real but the framing is comedic — some may prefer straightforward cookbooks",
+  "Primarily chicken-focused — limited use for other proteins or dietary restrictions"
+ ],
+ "tags": ["cookbook", "chicken", "recipes", "humor", "parody", "cooking", "food", "kitchen", "fifty-shades", "poultry"],
+ "openclaw": {
+  "emoji": "🐔",
+  "category": "food"
+ }
+}
