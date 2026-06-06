@@ -1,0 +1,19 @@
+{
+ "name": "period-repair-manual",
+ "version": "1.0.0",
+ "description": "Dr. Lara Briden's 'Period Repair Manual: Natural Treatment for Better Hormones and Better Periods' — a comprehensive guide to treating period problems with nutrition, supplements, and lifestyle instead of just the pill.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/period-repair-manual",
+ "useCase": "Understand menstrual health, treat period problems naturally, balance hormones through nutrition, and navigate fertility and perimenopause.",
+ "knownRisks": [
+  "Not a substitute for medical advice — always include a disclaimer",
+  "Natural medicine perspective — may differ from conventional gynecological approaches",
+  "Covers complex medical conditions — individual results vary"
+ ],
+ "tags": ["lara-briden", "women-health", "hormones", "menstrual-health", "period", "pcos", "endometriosis", "natural-medicine", "nutrition", "fertility"],
+ "openclaw": {
+  "emoji": "🌸",
+  "category": "health"
+ }
+}
