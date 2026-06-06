@@ -1,0 +1,19 @@
+{
+ "name": "old-path-white-clouds",
+ "version": "1.0.0",
+ "description": "Thich Nhat Hanh's 'Old Path White Clouds: Walking in the Footsteps of the Buddha' — a vivid retelling of the Buddha's life from birth to enlightenment, making core Buddhist teachings accessible through storytelling.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/old-path-white-clouds",
+ "useCase": "Learn the Buddha's life story, understand core Buddhist teachings, and develop a mindfulness practice rooted in ancient wisdom.",
+ "knownRisks": [
+  "Buddhist perspective — primarily relevant to those interested in Buddhism and mindfulness",
+  "Narrative retelling — some scenes are imaginative reconstructions, not historical documents",
+  "Lengthy book (14900+ lines) — the skill captures highlights, not every chapter"
+ ],
+ "tags": ["thich-nhat-hanh", "buddhism", "buddha", "mindfulness", "meditation", "spirituality", "enlightenment", "dharma", "compassion", "wisdom"],
+ "openclaw": {
+  "emoji": "☸️",
+  "category": "spirituality"
+ }
+}
