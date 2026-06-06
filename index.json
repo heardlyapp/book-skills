@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 108,
+  "total_skills": 109,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1798,6 +1798,20 @@
       "emoji": "\ud83d\udcca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/outliers"
+    },
+    "predictably-irrational": {
+      "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+      "slug": "predictably-irrational",
+      "tags": [
+        "behavioral-economics",
+        "psychology",
+        "decision-making",
+        "biases",
+        "dan-ariely"
+      ],
+      "emoji": "\ud83e\udde0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/predictably-irrational"
     }
   }
 }
