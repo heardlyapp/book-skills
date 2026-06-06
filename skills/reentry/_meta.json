@@ -1,17 +1,30 @@
 {
-  "skill": {
-    "name": "reentry",
-    "title": "Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age",
-    "author": "Eric Berger",
-    "version": "1.0.0",
-    "license": "MIT",
-    "published": "2024",
-    "tags": ["spacex", "elon-musk", "rockets", "aerospace", "technology", "entrepreneurship", "innovation"],
-    "score": 9.8,
-    "summary": "The inside story of how SpaceX built the world's first reusable rockets — from Falcon 9's first test-fire through Starship's debut — told through the engineers, the failures, and the relentless push that launched a second space age.",
-    "read_time_minutes": 30,
-    "reference_count": 5,
-    "difficulty": "intermediate",
-    "category": "nonfiction"
+  "name": "reentry",
+  "version": "1.0.1",
+  "description": "Eric Berger's 'Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age' \u2014 a toolkit for applying SpaceX's scrappy innovation culture, failure-recovery playbook, and reusability-thinking to your own high-stakes projects.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/reentry",
+  "useCase": "Apply SpaceX's scrappy innovation methods, failure-recovery playbook, and reusability mindset to engineering projects, business strategy, and team culture challenges.",
+  "knownRisks": [
+    "SpaceX's methods assume a founder-led organization with extreme conviction \u2014 may not translate directly to consensus-driven cultures",
+    "'Musk time' deadlines can cause burnout if applied without recovery cycles",
+    "The 'scrappy' approach works best when the core vision is clear and stable \u2014 can devolve into chaos without strong leadership"
+  ],
+  "tags": [
+    "spacex",
+    "elon-musk",
+    "innovation",
+    "aerospace",
+    "entrepreneurship",
+    "technology",
+    "engineering-culture",
+    "disruption",
+    "failure-recovery",
+    "reusability"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\ude80",
+    "category": "business"
   }
 }
