@@ -1,0 +1,19 @@
+{
+ "name": "live-in-grace-walk-in-love",
+ "version": "1.0.0",
+ "description": "Bob Goff's 'Live in Grace, Walk in Love: A 365-Day Journey' — a daily devotional that invites you to spend a year learning to live in God's grace and walk in His love, one story at a time.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/live-in-grace-walk-in-love",
+ "useCase": "Grow spiritually through daily devotional readings, understand God's grace, learn to love others practically, and build consistent spiritual habits.",
+ "knownRisks": [
+  "Explicitly Christian — best suited for Christian readers",
+  "365 daily readings — not a narrative book, more like a daily guide",
+  "Same author as 'Everybody, Always' — similar voice and themes"
+ ],
+ "tags": ["bob-goff", "devotional", "christianity", "grace", "love", "faith", "prayer", "spiritual-growth", "daily-reading", "devotion"],
+ "openclaw": {
+  "emoji": "✨",
+  "category": "spirituality"
+ }
+}
