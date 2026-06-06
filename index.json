@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 122,
+  "total_skills": 123,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1986,6 +1986,20 @@
       "emoji": "\ud83d\udc76",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/what-to-expect-when-youre-expecting"
+    },
+    "where-tomorrows-arent-promised": {
+      "title": "Where Tomorrows Arent Promised",
+      "slug": "where-tomorrows-arent-promised",
+      "tags": [
+        "memoir",
+        "survival",
+        "hope",
+        "basketball",
+        "carmelo-anthony"
+      ],
+      "emoji": "\ud83c\udfc0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/where-tomorrows-arent-promised"
     }
   }
 }
