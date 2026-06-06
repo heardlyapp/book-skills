@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 104,
+  "total_skills": 105,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1740,6 +1740,21 @@
       "emoji": "\u2694\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/ego-is-the-enemy"
+    },
+    "mans-search-for-meaning": {
+      "title": "Man's Search for Meaning",
+      "slug": "mans-search-for-meaning",
+      "tags": [
+        "psychology",
+        "meaning",
+        "logotherapy",
+        "viktor-frankl",
+        "philosophy",
+        "purpose"
+      ],
+      "emoji": "\ud83d\udd6f\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/mans-search-for-meaning"
     }
   }
 }
