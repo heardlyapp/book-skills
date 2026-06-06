@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 114,
+  "total_skills": 115,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1878,6 +1878,20 @@
       "emoji": "\ud83d\udecd\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-paradox-of-choice"
+    },
+    "the-year-of-living-danishly": {
+      "title": "The Year of Living Danishly",
+      "slug": "the-year-of-living-danishly",
+      "tags": [
+        "happiness",
+        "danish",
+        "lifestyle",
+        "work-life-balance",
+        "culture"
+      ],
+      "emoji": "\ud83c\udde9\ud83c\uddf0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-year-of-living-danishly"
     }
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "the-year-of-living-danishly",
+  "version": "1.0.0",
+  "description": "Helen Russell's The Year of Living Danishly — uncover the secrets of the world's happiest country and apply Danish principles to your own life",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-year-of-living-danishly",
+  "useCase": "Helps users understand Danish happiness principles (hygge, trust, work-life balance, Jante's Law) and apply them to transform their own well-being, home, career, and relationships.",
+  "knownRisks": ["Danish cultural practices are context-dependent and may not directly translate to other countries' systems and norms"],
+  "tags": ["happiness", "danish", "lifestyle", "work-life-balance", "culture", "hygge", "wellbeing", "scandinavian"],
+  "openclaw": {"emoji": "🇩🇰", "category": "lifestyle"}
+}
