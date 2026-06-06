@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 118,
+  "total_skills": 119,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1930,6 +1930,20 @@
       "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/great-power-diplomacy"
+    },
+    "little-leaders": {
+      "title": "Little Leaders",
+      "slug": "little-leaders",
+      "tags": [
+        "women",
+        "history",
+        "biography",
+        "black-history",
+        "role-models"
+      ],
+      "emoji": "\ud83d\udc67\ud83c\udfff",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/little-leaders"
     }
   }
 }

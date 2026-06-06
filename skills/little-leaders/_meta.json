@@ -1,0 +1,28 @@
+{
+  "name": "little-leaders",
+  "version": "1.0.0",
+  "description": "Vashti Harrison's Little Leaders: Bold Women in Black History — celebrate 40 trailblazing black women who broke barriers in science, arts, sports, politics, and activism, told through accessible mini-biographies that inspire the next generation",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/little-leaders",
+  "useCase": "Helps anyone find inspiration in the stories of 40 bold black women who changed history — from Harriet Tubman to Mae Jemison to Octavia Butler — and learn about determination, talent, resilience, and the power of representation.",
+  "knownRisks": [
+    "The book profiles 40 specific women — there are many other incredible black women whose stories are not covered"
+  ],
+  "tags": [
+    "women",
+    "history",
+    "biography",
+    "black-history",
+    "role-models",
+    "inspiration",
+    "diversity",
+    "civil-rights",
+    "stem",
+    "arts"
+  ],
+  "openclaw": {
+    "emoji": "👧🏿",
+    "category": "self-improvement"
+  }
+}
