@@ -1,0 +1,19 @@
+{
+  "name": "hit-refresh",
+  "version": "1.0.0",
+  "description": "Satya Nadella Hit Refresh \u2014 an executable toolkit for leading organizational transformation through empathy, innovation, and a growth mindset.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/hit-refresh",
+  "tags": [
+    "leadership",
+    "microsoft",
+    "transformation",
+    "innovation",
+    "technology"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udd04",
+    "category": "self-improvement"
+  }
+}
