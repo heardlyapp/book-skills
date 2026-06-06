@@ -1,0 +1,19 @@
+{
+  "name": "journey-to-the-heart",
+  "version": "1.0.0",
+  "description": "Melody Beattie Journey to the Heart \u2014 daily meditations for spiritual growth, creativity, and trusting your soul.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/journey-to-the-heart",
+  "tags": [
+    "meditation",
+    "spirituality",
+    "self-help",
+    "creativity",
+    "healing"
+  ],
+  "openclaw": {
+    "emoji": "\ud83e\udded",
+    "category": "self-improvement"
+  }
+}

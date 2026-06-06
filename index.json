@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 123,
+  "total_skills": 124,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -2000,6 +2000,20 @@
       "emoji": "\ud83c\udfc0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/where-tomorrows-arent-promised"
+    },
+    "journey-to-the-heart": {
+      "title": "Journey to the Heart",
+      "slug": "journey-to-the-heart",
+      "tags": [
+        "meditation",
+        "spirituality",
+        "self-help",
+        "creativity",
+        "healing"
+      ],
+      "emoji": "\ud83e\udded",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/journey-to-the-heart"
     }
   }
 }
