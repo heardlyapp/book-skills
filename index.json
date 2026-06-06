@@ -3,7 +3,7 @@
     {
       "slug": "100m-offers",
       "title": "Alex Hormozi's $100M Offers \u2014 an executable toolkit for crea",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "business",
@@ -22,7 +22,7 @@
     {
       "slug": "21-lessons-for-the-21st-century",
       "title": "Yuval Noah Harari's 21 Lessons for the 21st Century \u2014 an exe",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "harari",
@@ -37,7 +37,7 @@
     {
       "slug": "7-habits",
       "title": "Stephen Covey's The 7 Habits of Highly Effective People \u2014 pr",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "self-improvement",
@@ -53,7 +53,7 @@
     {
       "slug": "a-mind-for-numbers",
       "title": "Barbara Oakley's A Mind for Numbers \u2014 apply the science of e",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "learning",
@@ -72,7 +72,7 @@
     {
       "slug": "a-pattern-language",
       "title": "Christopher Alexander's 'A Pattern Language: Towns, Building",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "architecture",
@@ -92,7 +92,7 @@
     {
       "slug": "absolute-tao",
       "title": "Osho's 'Absolute Tao: Subtle is the way to love, happiness a",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "taoism",
@@ -112,7 +112,7 @@
     {
       "slug": "addicted-to-the-monkey-mind",
       "title": "J.F. Benoist's Addicted to the Monkey Mind \u2014 recognize the p",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "monkey-mind",
@@ -130,7 +130,7 @@
     {
       "slug": "antifragile",
       "title": "antifragile",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [],
       "score": 9.8,
@@ -139,7 +139,7 @@
     {
       "slug": "as-a-man-thinketh",
       "title": "James Allen's As a Man Thinketh \u2014 the foundational classic o",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "mindset",
@@ -156,7 +156,7 @@
     {
       "slug": "atomic-habits",
       "title": "\u8a79\u59c6\u65af\u00b7\u514b\u5229\u5c14\u300a\u539f\u5b50\u4e60\u60ef\u300b\u7684\u53ef\u6267\u884c\u5de5\u5177\u7bb1\uff1a\u7528\u56db\u5927\u5b9a\u5f8b\u8ba9\u597d\u4e60\u60ef\u53d8\u5bb9\u6613\u3001\u574f\u4e60\u60ef\u53d8\u96be",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "self-improvement",
@@ -172,7 +172,7 @@
     {
       "slug": "bad-blood",
       "title": "John Carreyrou's Bad Blood \u2014 extract investigative lessons f",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "theranos",
@@ -190,7 +190,7 @@
     {
       "slug": "battle-for-the-american-mind",
       "title": "Pete Hegseth and David Goodwin's Battle for the American Min",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "education",
@@ -208,7 +208,7 @@
     {
       "slug": "be-here-now",
       "title": "Ram Dass's Be Here Now \u2014 a spiritual classic on presence, me",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "spirituality",
@@ -225,9 +225,29 @@
       "summary": "Ram Dass's Be Here Now \u2014 a spiritual classic on presence, meditation, love, and service that guides you from ego-driven seeking to conscious awareness in the here and now"
     },
     {
+      "slug": "becoming-supernatural",
+      "title": "Dr. Joe Dispenza's 'Becoming Supernatural: How Common People",
+      "author": "Dr. Joe Dispenza",
+      "version": "1.0.0",
+      "tags": [
+        "joe-dispenza",
+        "quantum-healing",
+        "meditation",
+        "neuroscience",
+        "epigenetics",
+        "heart-coherence",
+        "personal-transformation",
+        "consciousness",
+        "self-healing",
+        "mind-body"
+      ],
+      "score": 9.8,
+      "summary": "Dr. Joe Dispenza's 'Becoming Supernatural: How Common People Are Doing the Uncommon' \u2014 a science-based toolkit for transcending ordinary reality by changing brain waves, heart coherence, and energy to heal, transform, and create a new life."
+    },
+    {
       "slug": "big-magic",
       "title": "Elizabeth Gilbert's Big Magic \u2014 creative living beyond fear:",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "creativity",
@@ -245,7 +265,7 @@
     {
       "slug": "black-edge",
       "title": "Sheelah Kolhatkar's Black Edge \u2014 learn from the rise and fal",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "finance",
@@ -262,7 +282,7 @@
     {
       "slug": "blood-and-oil",
       "title": "Bradley Hope and Justin Scheck's Blood and Oil \u2014 extract str",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "geopolitics",
@@ -280,7 +300,7 @@
     {
       "slug": "blowout",
       "title": "Rachel Maddow's Blowout \u2014 expose how the oil and gas industr",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "oil",
@@ -299,7 +319,7 @@
     {
       "slug": "broken-money",
       "title": "Lyn Alden's Broken Money \u2014 understand why the financial syst",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "money",
@@ -317,7 +337,7 @@
     {
       "slug": "change-your-questions-change-your-life",
       "title": "Marilee Adams's Change Your Questions, Change Your Life \u2014 ap",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "mindset",
@@ -334,7 +354,7 @@
     {
       "slug": "chimpanzee-politics",
       "title": "Frans de Waal's Chimpanzee Politics \u2014 analyze power dynamics",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "primatology",
@@ -351,7 +371,7 @@
     {
       "slug": "countdown-1945",
       "title": "Chris Wallace and Mitch Weiss's Countdown 1945 \u2014 leadership ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "history",
@@ -371,7 +391,7 @@
     {
       "slug": "crashed",
       "title": "Adam Tooze's Crashed \u2014 How a Decade of Financial Crises Chan",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "2008 crisis",
@@ -388,7 +408,7 @@
     {
       "slug": "creative-confidence",
       "title": "David & Tom Kelley's Creative Confidence \u2014 unleash your crea",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "creativity",
@@ -404,7 +424,7 @@
     {
       "slug": "deep-work",
       "title": "Gold-standard skill for Cal Newport's *Deep Work: Rules for ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "deep-work",
@@ -424,7 +444,7 @@
     {
       "slug": "eat-to-live",
       "title": "Dr. Joel Fuhrman's Eat to Live \u2014 apply the Nutritarian appro",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "nutrition",
@@ -442,7 +462,7 @@
     {
       "slug": "endurance",
       "title": "Alfred Lansing's Endurance: Shackleton's Incredible Voyage \u2014",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.1",
       "tags": [
         "leadership",
@@ -461,7 +481,7 @@
     {
       "slug": "essentialism",
       "title": "Gold-standard skill for Greg McKeown's *Essentialism: The Di",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "essentialism",
@@ -481,7 +501,7 @@
     {
       "slug": "everyone-communicates-few-connect",
       "title": "John C. Maxwell's Everyone Communicates, Few Connect \u2014 apply",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "communication",
@@ -498,7 +518,7 @@
     {
       "slug": "failing-forward",
       "title": "John C. Maxwell's Failing Forward \u2014 transform your relations",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "failure",
@@ -515,7 +535,7 @@
     {
       "slug": "financial-feminist",
       "title": "Tori Dunlap's Financial Feminist \u2014 master your money by comb",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "personal-finance",
@@ -533,7 +553,7 @@
     {
       "slug": "future-bright",
       "title": "Michael E. Martinez's Future Bright \u2014 an executable toolkit ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.1",
       "tags": [
         "intelligence",
@@ -552,7 +572,7 @@
     {
       "slug": "great-power-diplomacy",
       "title": "A. Wess Mitchell's Great Power Diplomacy \u2014 an executable too",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [],
       "score": 9.8,
@@ -561,7 +581,7 @@
     {
       "slug": "grit-the-power-of-passion-and-perseverance",
       "title": "Angela Duckworth's Grit \u2014 an executable toolkit for developi",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "grit",
@@ -581,7 +601,7 @@
     {
       "slug": "hidden-valley-road",
       "title": "Robert Kolker's Hidden Valley Road \u2014 extract lessons from th",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "mental-health",
@@ -599,7 +619,7 @@
     {
       "slug": "hit-refresh",
       "title": "Satya Nadella Hit Refresh \u2014 an executable toolkit for leadin",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -614,7 +634,7 @@
     {
       "slug": "homo-deus",
       "title": "homo-deus",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [],
       "score": 9.8,
@@ -623,7 +643,7 @@
     {
       "slug": "how-to-enjoy-your-life-and-your-job",
       "title": "Dale Carnegie's How to Enjoy Your Life and Your Job \u2014 build ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "relationships",
@@ -641,7 +661,7 @@
     {
       "slug": "how-to-win-friends",
       "title": "Dale Carnegie's How to Win Friends and Influence People \u2014 bu",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "communication",
@@ -657,7 +677,7 @@
     {
       "slug": "i-will-teach-you-to-be-rich",
       "title": "Ramit Sethi's I Will Teach You to Be Rich \u2014 a 6-week program",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "personal-finance",
@@ -674,7 +694,7 @@
     {
       "slug": "inspired",
       "title": "Marty Cagan's Inspired \u2014 build tech products customers love ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "product-management",
@@ -690,7 +710,7 @@
     {
       "slug": "journey-to-the-heart",
       "title": "Melody Beattie Journey to the Heart \u2014 daily meditations for ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "meditation",
@@ -705,7 +725,7 @@
     {
       "slug": "kitchen-confidential",
       "title": "Anthony Bourdain's Kitchen Confidential \u2014 an executable tool",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -724,7 +744,7 @@
     {
       "slug": "leadership-in-turbulent-times",
       "title": "Doris Kearns Goodwin's Leadership \u2014 extract leadership lesso",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -741,7 +761,7 @@
     {
       "slug": "leadership-turbulent-times",
       "title": "Doris Kearns Goodwin's Leadership: In Turbulent Times \u2014 a hi",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -758,7 +778,7 @@
     {
       "slug": "lean-in",
       "title": "Sheryl Sandberg's Lean In \u2014 build leadership ambition, overc",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -774,7 +794,7 @@
     {
       "slug": "lean-thinking",
       "title": "James P. Womack & Daniel T. Jones' Lean Thinking \u2014 eliminate",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "lean",
@@ -794,7 +814,7 @@
     {
       "slug": "little-leaders",
       "title": "Vashti Harrison's Little Leaders: Bold Women in Black Histor",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "women",
@@ -814,7 +834,7 @@
     {
       "slug": "long-walk-to-freedom",
       "title": "long-walk-to-freedom",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [],
       "score": 9.8,
@@ -823,7 +843,7 @@
     {
       "slug": "make-it-stick",
       "title": "Roediger & McDaniel's Make It Stick \u2014 effective learning bas",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "learning",
@@ -839,7 +859,7 @@
     {
       "slug": "mind-magic",
       "title": "James R. Doty's neuroscience-backed 6-step manifestation sys",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.1",
       "tags": [
         "manifestation",
@@ -859,7 +879,7 @@
     {
       "slug": "mindfck",
       "title": "Christopher Wylie's Mindf*ck \u2014 the whistleblower's account o",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "surveillance-capitalism",
@@ -879,7 +899,7 @@
     {
       "slug": "nonviolent-communication",
       "title": "\u9a6c\u6b47\u5c14\u00b7\u5362\u68ee\u5821\u300a\u975e\u66b4\u529b\u6c9f\u901a\u300b(NVC) \u7684\u53ef\u6267\u884c\u5de5\u5177\u7bb1\uff1a\u628a\u4efb\u4f55\u4e00\u53e5\u8bdd\u7ffb\u8bd1\u6210 \u89c2\u5bdf-\u611f\u53d7-\u9700\u8981-\u8bf7\u6c42(OFNR)",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "communication",
@@ -895,7 +915,7 @@
     {
       "slug": "old-school-grit",
       "title": "Darrin Donnelly's Old School Grit \u2014 build perseverance, disc",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "grit",
@@ -913,7 +933,7 @@
     {
       "slug": "one-up-on-wall-street",
       "title": "Peter Lynch's One Up On Wall Street \u2014 invest in what you kno",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "investing",
@@ -931,7 +951,7 @@
     {
       "slug": "patriot-a-memoir",
       "title": "patriot-a-memoir",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [],
       "score": 9.8,
@@ -940,7 +960,7 @@
     {
       "slug": "power-sex-suicide",
       "title": "Nick Lane's Power, Sex, Suicide \u2014 understand how mitochondri",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "mitochondria",
@@ -958,7 +978,7 @@
     {
       "slug": "radically-happy",
       "title": "Phakchok Rinpoche and Erric Solomon's Radically Happy \u2014 comb",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "happiness",
@@ -976,7 +996,7 @@
     {
       "slug": "reentry",
       "title": "Eric Berger's 'Reentry: SpaceX, Elon Musk, and the Reusable ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.1",
       "tags": [
         "spacex",
@@ -996,7 +1016,7 @@
     {
       "slug": "rich-dad-poor-dad",
       "title": "Robert Kiyosaki's Rich Dad Poor Dad \u2014 reframe how you think ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "finance",
@@ -1012,7 +1032,7 @@
     {
       "slug": "richard-nixon",
       "title": "John Farrell's Richard Nixon: The Life \u2014 extract lessons fro",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "nixon",
@@ -1030,7 +1050,7 @@
     {
       "slug": "surviving-climate-anxiety",
       "title": "Thomas Doherty's Surviving Climate Anxiety \u2014 an executable t",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "climate",
@@ -1050,7 +1070,7 @@
     {
       "slug": "talk-like-ted",
       "title": "Carmine Gallo's Talk Like TED \u2014 master the 9 public-speaking",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "public-speaking",
@@ -1067,7 +1087,7 @@
     {
       "slug": "ten-women-who-changed-science-and-the-world",
       "title": "Catherine Whitlock and Rhodri Evans's Ten Women Who Changed ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "women-in-science",
@@ -1084,7 +1104,7 @@
     {
       "slug": "the-advice-trap",
       "title": "Michael Bungay Stanier's The Advice Trap \u2014 tame your Advice ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "coaching",
@@ -1101,7 +1121,7 @@
     {
       "slug": "the-alter-ego-effect",
       "title": "Todd Herman's The Alter Ego Effect \u2014 create a secret identit",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "confidence",
@@ -1119,7 +1139,7 @@
     {
       "slug": "the-american-presidency",
       "title": "Charles O. Jones' The American Presidency \u2014 an executable to",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "presidency",
@@ -1134,7 +1154,7 @@
     {
       "slug": "the-anatomy-of-the-state",
       "title": "Murray Rothbard Anatomy of the State \u2014 an executable toolkit",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "libertarian",
@@ -1149,7 +1169,7 @@
     {
       "slug": "the-art-of-loving",
       "title": "Erich Fromm's The Art of Loving \u2014 explore love as an art tha",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "love",
@@ -1166,7 +1186,7 @@
     {
       "slug": "the-art-of-thinking-clearly",
       "title": "Rolf Dobelli's The Art of Thinking Clearly \u2014 field guide to ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "cognitive-biases",
@@ -1182,7 +1202,7 @@
     {
       "slug": "the-black-swan",
       "title": "Nassim Nicholas Taleb's The Black Swan \u2014 an executable toolk",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "uncertainty",
@@ -1197,7 +1217,7 @@
     {
       "slug": "the-butchering-art",
       "title": "Lindsey Fitzharris's The Butchering Art \u2014 learn how Joseph L",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "medical-history",
@@ -1215,7 +1235,7 @@
     {
       "slug": "the-checklist-manifesto",
       "title": "Atul Gawande's The Checklist Manifesto \u2014 manage complexity a",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.1",
       "tags": [
         "productivity",
@@ -1232,7 +1252,7 @@
     {
       "slug": "the-coddling-of-the-american-mind",
       "title": "Greg Lukianoff and Jonathan Haidt's The Coddling of the Amer",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "resilience",
@@ -1250,7 +1270,7 @@
     {
       "slug": "the-cold-war-new-history",
       "title": "John Lewis Gaddis The Cold War: A New History \u2014 an executabl",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "cold-war",
@@ -1265,7 +1285,7 @@
     {
       "slug": "the-computer-always-wins",
       "title": "Elliot Lichtman's The Computer Always Wins \u2014 an executable t",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "algorithms",
@@ -1284,7 +1304,7 @@
     {
       "slug": "the-creative-act",
       "title": "Rick Rubin's The Creative Act \u2014 access your innate creativit",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "creativity",
@@ -1302,7 +1322,7 @@
     {
       "slug": "the-creative-habit",
       "title": "Twyla Tharp's The Creative Habit \u2014 build creativity as a dai",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "creativity",
@@ -1320,7 +1340,7 @@
     {
       "slug": "the-crowd",
       "title": "Gustave Le Bon's The Crowd \u2014 understand how individuals chan",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "psychology",
@@ -1338,7 +1358,7 @@
     {
       "slug": "the-education-of-a-value-investor",
       "title": "Guy Spier's The Education of a Value Investor \u2014 apply value ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "investing",
@@ -1356,7 +1376,7 @@
     {
       "slug": "the-element",
       "title": "Ken Robinson's The Element \u2014 find where your talent and pass",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "creativity",
@@ -1373,7 +1393,7 @@
     {
       "slug": "the-essential-drucker",
       "title": "Peter Drucker's The Essential Drucker \u2014 apply Drucker's six ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "management",
@@ -1391,7 +1411,7 @@
     {
       "slug": "the-fire-next-time",
       "title": "James Baldwin The Fire Next Time \u2014 an executable toolkit for",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "race",
@@ -1406,7 +1426,7 @@
     {
       "slug": "the-first-days-of-school",
       "title": "Harry and Rosemary Wong's The First Days of School \u2014 proven ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "teaching",
@@ -1423,7 +1443,7 @@
     {
       "slug": "the-four-foundations-of-golf",
       "title": "Jon Sherman's The Four Foundations of Golf \u2014 lower your scor",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "golf",
@@ -1440,7 +1460,7 @@
     {
       "slug": "the-four-steps-to-the-epiphany",
       "title": "Steve Blank's The Four Steps to the Epiphany \u2014 apply the Cus",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "startup",
@@ -1457,7 +1477,7 @@
     {
       "slug": "the-go-giver-influencer",
       "title": "Bob Burg and John David Mann's The Go-Giver Influencer \u2014 bui",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "influence",
@@ -1474,7 +1494,7 @@
     {
       "slug": "the-grand-design",
       "title": "Stephen Hawking and Leonard Mlodinow's The Grand Design \u2014 ex",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "cosmology",
@@ -1492,7 +1512,7 @@
     {
       "slug": "the-great-displacement",
       "title": "Jake Bittle's The Great Displacement \u2014 understand how climat",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "climate-change",
@@ -1510,7 +1530,7 @@
     {
       "slug": "the-happiness-advantage",
       "title": "Shawn Achor's The Happiness Advantage \u2014 use positive psychol",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "happiness",
@@ -1526,7 +1546,7 @@
     {
       "slug": "the-lords-of-easy-money",
       "title": "Christopher Leonard's The Lords of Easy Money \u2014 understand h",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "federal-reserve",
@@ -1543,7 +1563,7 @@
     {
       "slug": "the-miracle-of-mindfulness",
       "title": "Thich Nhat Hanh's The Miracle of Mindfulness \u2014 learn the pra",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "mindfulness",
@@ -1561,7 +1581,7 @@
     {
       "slug": "the-moment-of-lift",
       "title": "Melinda French Gates' The Moment of Lift \u2014 understand how em",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "women-empowerment",
@@ -1578,7 +1598,7 @@
     {
       "slug": "the-mountain-is-you",
       "title": "Brianna Wiest's The Mountain Is You \u2014 transform self-sabotag",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "self-sabotage",
@@ -1595,7 +1615,7 @@
     {
       "slug": "the-new-jim-crow",
       "title": "Michelle Alexander's The New Jim Crow \u2014 an executable toolki",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "social-justice",
@@ -1613,7 +1633,7 @@
     {
       "slug": "the-outsiders",
       "title": "William N. Thorndike's The Outsiders \u2014 learn from eight unco",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "business",
@@ -1630,7 +1650,7 @@
     {
       "slug": "the-paradox-of-choice",
       "title": "Barry Schwartz's The Paradox of Choice \u2014 an executable toolk",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "choice",
@@ -1645,7 +1665,7 @@
     {
       "slug": "the-pleasure-of-finding-things-out",
       "title": "Richard P. Feynman's The Pleasure of Finding Things Out \u2014 an",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "science",
@@ -1663,7 +1683,7 @@
     {
       "slug": "the-power-of-now",
       "title": "Eckhart Tolle's The Power of Now \u2014 break free from mind iden",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "mindfulness",
@@ -1681,7 +1701,7 @@
     {
       "slug": "the-power-of-your-subconscious-mind",
       "title": "Joseph Murphy's The Power of Your Subconscious Mind \u2014 an exe",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "subconscious-mind",
@@ -1699,7 +1719,7 @@
     {
       "slug": "the-price-of-inequality",
       "title": "Joseph E. Stiglitz's The Price of Inequality \u2014 an executable",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "inequality",
@@ -1717,7 +1737,7 @@
     {
       "slug": "the-prize",
       "title": "Daniel Yergin's The Prize \u2014 an executable toolkit exploring ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "oil",
@@ -1735,7 +1755,7 @@
     {
       "slug": "the-psychology-of-selling",
       "title": "Brian Tracy's The Psychology of Selling \u2014 an executable tool",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "sales",
@@ -1753,7 +1773,7 @@
     {
       "slug": "the-richest-man-in-babylon",
       "title": "George S. Clason's The Richest Man in Babylon \u2014 timeless wea",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.1",
       "tags": [
         "personal-finance",
@@ -1769,7 +1789,7 @@
     {
       "slug": "the-servant",
       "title": "James C. Hunter's The Servant \u2014 lead through authority and s",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -1785,7 +1805,7 @@
     {
       "slug": "the-slight-edge",
       "title": "Jeff Olson's The Slight Edge \u2014 understand how small daily ac",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "self-improvement",
@@ -1801,7 +1821,7 @@
     {
       "slug": "the-soul-of-america",
       "title": "Jon Meacham The Soul of America \u2014 an executable toolkit for ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "american-history",
@@ -1816,7 +1836,7 @@
     {
       "slug": "the-tragedy-of-great-power-politics",
       "title": "John Mearsheimer's The Tragedy of Great Power Politics \u2014 an ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "international-relations",
@@ -1834,7 +1854,7 @@
     {
       "slug": "the-truth-about-financial-freedom",
       "title": "David Chilton's The Wealthy Barber Returns (also known as Th",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "personal-finance",
@@ -1853,7 +1873,7 @@
     {
       "slug": "the-tyranny-of-big-tech",
       "title": "Josh Hawley The Tyranny of Big Tech \u2014 an executable toolkit ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "big-tech",
@@ -1868,7 +1888,7 @@
     {
       "slug": "the-war-of-art",
       "title": "Steven Pressfield's The War of Art \u2014 an executable toolkit f",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "creativity",
@@ -1887,7 +1907,7 @@
     {
       "slug": "the-way-to-wealth",
       "title": "Benjamin Franklin's The Way to Wealth \u2014 an executable toolki",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "benjamin-franklin",
@@ -1907,7 +1927,7 @@
     {
       "slug": "the-womanly-art-of-breastfeeding",
       "title": "La Leche League International's The Womanly Art of Breastfee",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "breastfeeding",
@@ -1928,7 +1948,7 @@
     {
       "slug": "the-year-of-living-danishly",
       "title": "Helen Russell's The Year of Living Danishly \u2014 uncover the se",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "happiness",
@@ -1946,7 +1966,7 @@
     {
       "slug": "thermoinfocomplexity",
       "title": "thermoinfocomplexity",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [],
       "score": 9.8,
@@ -1955,7 +1975,7 @@
     {
       "slug": "think-and-grow-rich",
       "title": "Napoleon Hill's Think and Grow Rich \u2014 harness the power of t",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "wealth",
@@ -1971,7 +1991,7 @@
     {
       "slug": "thomas-jefferson",
       "title": "Jon Meacham's Thomas Jefferson: The Art of Power \u2014 an execut",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -1991,7 +2011,7 @@
     {
       "slug": "tiny-habits",
       "title": "BJ Fogg's Tiny Habits \u2014 behavior design system using B=MAP: ",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.1",
       "tags": [
         "habits",
@@ -2006,7 +2026,7 @@
     {
       "slug": "vagabonding",
       "title": "Rolf Potts's Vagabonding \u2014 an executable toolkit for long-te",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "travel",
@@ -2026,7 +2046,7 @@
     {
       "slug": "what-do-you-care-what-other-people-think",
       "title": "Richard Feynman's \"What Do You Care What Other People Think?",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "feynman",
@@ -2046,7 +2066,7 @@
     {
       "slug": "what-to-expect-when-youre-expecting",
       "title": "The ultimate month-by-month pregnancy guide covering preconc",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "pregnancy",
@@ -2066,7 +2086,7 @@
     {
       "slug": "what-your-adhd-child-wishes-you-knew",
       "title": "Dr. Sharon Saline's What Your ADHD Child Wishes You Knew \u2014 a",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "ADHD",
@@ -2086,7 +2106,7 @@
     {
       "slug": "where-tomorrows-arent-promised",
       "title": "where-tomorrows-arent-promised",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "memoir",
@@ -2114,7 +2134,7 @@
     {
       "slug": "who-gets-to-be-indian",
       "title": "Dina Gilio-Whitaker's Who Gets to Be Indian? \u2014 an executable",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "native-american",
@@ -2132,7 +2152,7 @@
     {
       "slug": "why-are-all-the-black-kids-sitting-together-in-the-cafeteria",
       "title": "why-are-all-the-black-kids-sitting-together-in-the-cafeteria",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [],
       "score": 9.8,
@@ -2141,7 +2161,7 @@
     {
       "slug": "winning",
       "title": "Jack Welch's Winning \u2014 an executable toolkit for business le",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "leadership",
@@ -2161,7 +2181,7 @@
     {
       "slug": "work-rules",
       "title": "Laszlo Bock's Work Rules! \u2014 an executable toolkit based on G",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "google",
@@ -2181,7 +2201,7 @@
     {
       "slug": "world-order",
       "title": "Henry Kissinger's World Order \u2014 an executable toolkit for un",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "geopolitics",
@@ -2199,7 +2219,7 @@
     {
       "slug": "zen-mind-beginners-mind",
       "title": "Shunryu Suzuki's Zen Mind, Beginner's Mind \u2014 an executable t",
-      "author": "heardlyapp",
+      "author": "Dr. Joe Dispenza",
       "version": "1.0.0",
       "tags": [
         "zen",

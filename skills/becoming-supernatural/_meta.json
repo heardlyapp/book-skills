@@ -1,0 +1,19 @@
+{
+ "name": "becoming-supernatural",
+ "version": "1.0.0",
+ "description": "Dr. Joe Dispenza's 'Becoming Supernatural: How Common People Are Doing the Uncommon' — a science-based toolkit for transcending ordinary reality by changing brain waves, heart coherence, and energy to heal, transform, and create a new life.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/becoming-supernatural",
+ "useCase": "Heal chronic conditions, break deeply ingrained patterns, and manifest a new reality by combining neuroscience, quantum physics, and meditation practices.",
+ "knownRisks": [
+  "Dispenza's work blends empirical science with claims that go beyond mainstream scientific consensus — present the science and the mysticism accurately",
+  "The practices require significant time commitment (30-60 min daily) — casual attempts may not produce results",
+  "Not a substitute for medical treatment — frame as complementary practice alongside professional healthcare"
+ ],
+ "tags": ["joe-dispenza", "quantum-healing", "meditation", "neuroscience", "epigenetics", "heart-coherence", "personal-transformation", "consciousness", "self-healing", "mind-body"],
+ "openclaw": {
+  "emoji": "🌟",
+  "category": "health"
+ }
+}
