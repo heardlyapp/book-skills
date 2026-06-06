@@ -1,0 +1,17 @@
+{
+  "skill": {
+    "name": "reentry",
+    "title": "Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age",
+    "author": "Eric Berger",
+    "version": "1.0.0",
+    "license": "MIT",
+    "published": "2024",
+    "tags": ["spacex", "elon-musk", "rockets", "aerospace", "technology", "entrepreneurship", "innovation"],
+    "score": 9.8,
+    "summary": "The inside story of how SpaceX built the world's first reusable rockets — from Falcon 9's first test-fire through Starship's debut — told through the engineers, the failures, and the relentless push that launched a second space age.",
+    "read_time_minutes": 30,
+    "reference_count": 5,
+    "difficulty": "intermediate",
+    "category": "nonfiction"
+  }
+}
