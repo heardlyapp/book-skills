@@ -1,0 +1,19 @@
+{
+ "name": "oath-and-honor",
+ "version": "1.0.0",
+ "description": "Liz Cheney's 'Oath and Honor: A Memoir and a Warning' — a firsthand account of the January 6th investigation from the Republican Congresswoman who put her oath to the Constitution above her party.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/oath-and-honor",
+ "useCase": "Understand the January 6th investigation, learn about constitutional principles and political courage, and find hope for defending American democracy.",
+ "knownRisks": [
+  "Strongly political — primarily relevant to U.S. politics and January 6th",
+  "May be polarizing — Cheney is a controversial figure within the Republican Party",
+  "Focuses on a specific moment in U.S. history — may not age well as a reference"
+ ],
+ "tags": ["liz-cheney", "january-6th", "capitol-attack", "democracy", "constitution", "jan-6-committee", "political-courage", "bipartisanship", "rule-of-law", "american-democracy"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "politics"
+ }
+}
