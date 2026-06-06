@@ -1,0 +1,19 @@
+{
+ "name": "everybody-always",
+ "version": "1.0.0",
+ "description": "Bob Goff's 'Everybody, Always: Becoming Love in a World Full of Setbacks and Difficult People' — a story-driven guide to loving the hardest-to-love people through extravagant grace, bold action, and fearless faith.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/everybody-always",
+ "useCase": "Learn to love difficult people, overcome fear of rejection, take bold loving action, and handle setbacks with extravagant grace.",
+ "knownRisks": [
+  "Christian faith-based perspective — may not resonate with non-Christian readers",
+  "Story-driven, not system-driven — principles are embedded in narratives, not frameworks",
+  "Goff's 'love everybody always' is intentionally provocative — not a license to tolerate abuse, but a call to radical grace"
+ ],
+ "tags": ["bob-goff", "love", "christianity", "grace", "kindness", "forgiveness", "relationships", "compassion", "generosity", "faith-in-action"],
+ "openclaw": {
+  "emoji": "❤️",
+  "category": "spirituality"
+ }
+}
