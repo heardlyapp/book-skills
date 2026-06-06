@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 117,
+  "total_skills": 118,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1916,6 +1916,20 @@
       "emoji": "\ud83e\uddec",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/thermoinfocomplexity"
+    },
+    "great-power-diplomacy": {
+      "title": "Great Power Diplomacy",
+      "slug": "great-power-diplomacy",
+      "tags": [
+        "diplomacy",
+        "statecraft",
+        "geopolitics",
+        "history",
+        "international-relations"
+      ],
+      "emoji": "\ud83c\udf0d",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/great-power-diplomacy"
     }
   }
 }
