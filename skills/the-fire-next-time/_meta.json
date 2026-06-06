@@ -1,0 +1,19 @@
+{
+  "name": "the-fire-next-time",
+  "version": "1.0.0",
+  "description": "James Baldwin The Fire Next Time \u2014 an executable toolkit for understanding race, justice, and the moral crisis of America.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-fire-next-time",
+  "tags": [
+    "race",
+    "civil-rights",
+    "baldwin",
+    "justice",
+    "american-history"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udd25",
+    "category": "education"
+  }
+}

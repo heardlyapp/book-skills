@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 126,
+  "total_skills": 127,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -2042,6 +2042,20 @@
       "emoji": "\ud83c\udff4",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-anatomy-of-the-state"
+    },
+    "the-fire-next-time": {
+      "title": "The Fire Next Time",
+      "slug": "the-fire-next-time",
+      "tags": [
+        "race",
+        "civil-rights",
+        "baldwin",
+        "justice",
+        "american-history"
+      ],
+      "emoji": "\ud83d\udd25",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-fire-next-time"
     }
   }
 }
