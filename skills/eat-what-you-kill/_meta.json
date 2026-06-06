@@ -1,0 +1,19 @@
+{
+ "name": "eat-what-you-kill",
+ "version": "1.0.0",
+ "description": "Sam Taggart's 'Eat What You Kill: Becoming a Sales Carnivore' — a sales system that transforms you from a passive lead-waiting herbivore into a hunter who finds, pursues, and closes deals on your own terms.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/eat-what-you-kill",
+ "useCase": "Develop a hunter's sales mindset, master prospecting and cold outreach, handle objections like a pro, and close more deals with confidence.",
+ "knownRisks": [
+  "Aggressive 'carnivore' language may conflict with consultative/mission-driven sales approaches",
+  "Door-to-door and cold-calling focus — less directly applicable to account-based or relationship-sales roles",
+  "Results require high activity volume — not a 'hack' or shortcut system"
+ ],
+ "tags": ["sam-taggart", "sales", "prospecting", "closing", "mindset", "door-to-door", "cold-calling", "negotiation", "business-development", "entrepreneurship"],
+ "openclaw": {
+  "emoji": "🦁",
+  "category": "business"
+ }
+}
