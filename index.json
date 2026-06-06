@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 110,
+  "total_skills": 111,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1826,6 +1826,20 @@
       "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/21-lessons-for-the-21st-century"
+    },
+    "homo-deus": {
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "slug": "homo-deus",
+      "tags": [
+        "harari",
+        "future",
+        "humanity",
+        "technology",
+        "philosophy"
+      ],
+      "emoji": "\ud83d\udd2e",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/homo-deus"
     }
   }
 }
