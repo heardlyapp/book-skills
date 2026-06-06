@@ -1,8 +1,12 @@
 ---
+
 name: the-power-of-now
 description: >-
   Eckhart Tolle's The Power of Now — an executable toolkit for breaking free from
   mind identification, dissolving the pain-body, and living in the present moment.
+version: 1.0.0
+license: MIT
+tags: ["mindfulness", "spirituality", "presence", "meditation", "ego", "consciousness", "healing", "inner-peace"]
 
   Covers 5 use cases:
   ① Mind Identification — recognize you are not your thoughts ("I can't stop thinking" "My mind won't shut up")
@@ -17,6 +21,7 @@ description: >-
   or mention: Eckhart Tolle / the power of now / present moment / pain-body / ego / consciousness /
   surrender / being / stillness / enlightenment / inner body / acceptance.
   Also triggers on install.
+
 ---
 
 # The Power of Now · PON

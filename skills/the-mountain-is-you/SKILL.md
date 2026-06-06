@@ -1,10 +1,14 @@
 ---
+
 name: the-mountain-is-you
 description: >-
   Brianna Wiest's The Mountain Is You — an executable toolkit that transforms
   self-sabotage into self-mastery by uncovering the unconscious needs behind
   self-defeating behaviors and building emotional intelligence to redesign
   your life from the inside out.
+version: 1.0.0
+license: MIT
+tags: ["self-sabotage", "emotional-intelligence", "personal-development", "self-mastery", "psychology", "transformation", "limiting-beliefs"]
 
   Covers 6 use cases:
   ① Self-Sabotage Diagnosis — identify why you keep getting in your own way ("Why do I always quit when things get hard?" "I keep doing the opposite of what I know I should do")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: atomic-habits (habit systems), tiny-habits (micro-behaviors), the-power-of-now (emotional presence),
   cant-hurt-me (mental resilience), nonviolent-communication (processing conflict emotions).
+
 ---
 
 ## Quick Start (Onboarding)

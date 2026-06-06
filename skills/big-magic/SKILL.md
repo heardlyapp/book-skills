@@ -1,10 +1,14 @@
 ---
+
 name: big-magic
 description: >-
   Elizabeth Gilbert's Big Magic — an executable toolkit for creative living
   that addresses the five key challenges: overcoming fear, working with
   inspiration, giving yourself permission, persisting through difficulty,
   and trusting the creative process.
+version: 1.0.0
+license: MIT
+tags: ["creativity", "inspiration", "art", "writing", "courage", "perfectionism", "creative-block", "self-expression"]
 
   Covers 5 use cases:
   ① Fear Management — stop fear from blocking your creativity ("I'm terrified of putting my work out there" "Impostor syndrome is killing my creativity")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: creative-confidence (unlocking creative potential), the-element (finding your passion),
   the-mountain-is-you (overcoming self-sabotage), atomic-habits (daily creative discipline).
+
 ---
 
 ## Quick Start (Onboarding)

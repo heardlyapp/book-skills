@@ -1,4 +1,5 @@
 ---
+
 name: crashed
 description: >-
   Adam Tooze's Crashed — How a Decade of Financial Crises Changed the World.
@@ -13,6 +14,10 @@ description: >-
   Trigger when users say: "explain the 2008 crisis" "what happened in 2008" "how did the financial crisis start" "tell me about Lehman Brothers" "why did the housing market crash" "what caused the eurozone crisis" "why is Greece in debt" "how did the Fed save the banks" "what are dollar swap lines" "why did Trump win" "how did Brexit happen" "what is the global financial system" "explain subprime mortgages" "how did the Great Recession happen" "what was the banking crisis"
   or mention: 2008 crisis / financial crisis / Great Recession / eurozone / subprime / global finance / Lehman / Tooze.
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
+version: 1.0.0
+license: MIT
+tags: ["2008 crisis", "financial crisis", "global finance", "eurozone", "economics", "history", "Tooze"]
+
 ---
 
 # Crashed: How a Decade of Financial Crises Changed the World 🏦

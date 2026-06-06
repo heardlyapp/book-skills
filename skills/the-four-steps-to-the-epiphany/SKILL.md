@@ -1,10 +1,14 @@
 ---
+
 name: the-four-steps-to-the-epiphany
 description: >-
   Steve Blank's The Four Steps to the Epiphany — an executable toolkit
   that applies the Customer Development model: Customer Discovery,
   Customer Validation, Customer Creation, and Company Building — replacing
   traditional product development with a customer-first approach.
+version: 1.0.0
+license: MIT
+tags: ["startup", "customer-development", "lean-startup", "entrepreneurship", "product-management", "innovation", "business-model"]
 
   Covers 5 use cases:
   ① Customer Discovery — find if there's a market before building ("Does anyone want this" "How to test my business idea")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: inspired (product management), the-essential-drucker (management),
   the-millionaire-fastlane (entrepreneurship).
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,10 +1,14 @@
 ---
+
 name: hidden-valley-road
 description: >-
   Robert Kolker's Hidden Valley Road — an executable toolkit that extracts
   lessons from the Galvin family's story of mental illness: understanding
   schizophrenia, the genetics of psychiatric disorders, the impact on
   families, and the evolution of mental health treatment and research.
+version: 1.0.0
+license: MIT
+tags: ["mental-health", "schizophrenia", "family", "genetics", "psychiatry", "caregiving", "trauma", "neuroscience"]
 
   Covers 5 use cases:
   ① Understanding Schizophrenia — recognize the signs, symptoms, and realities of severe mental illness ("What is schizophrenia" "How to understand someone with schizophrenia")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-mountain-is-you (self-awareness and transformation), the-power-of-now (presence in difficulty),
   nonviolent-communication (family communication), the-road-less-traveled (growth through suffering).
+
 ---
 
 ## Quick Start (Onboarding)

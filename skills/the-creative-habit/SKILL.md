@@ -1,10 +1,14 @@
 ---
+
 name: the-creative-habit
 description: >-
   Twyla Tharp's The Creative Habit — an executable toolkit that shows
   creativity is not a mystical gift but a daily habit you can learn,
   practice, and master through rituals, preparation, and relentless
   consistent work.
+version: 1.0.0
+license: MIT
+tags: ["creativity", "habit", "discipline", "art", "daily-practice", "ritual", "choreography", "self-discipline"]
 
   Covers 5 use cases:
   ① The Creative Routine — build daily rituals that support creativity ("How to make creativity a habit" "I only create when inspiration strikes")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-creative-act (creative philosophy), big-magic (creative living),
   atomic-habits (habit building), the-slight-edge (daily discipline).
+
 ---
 
 ## Quick Start (Onboarding)

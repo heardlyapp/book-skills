@@ -1,10 +1,14 @@
 ---
+
 name: how-to-enjoy-your-life-and-your-job
 description: >-
   Dale Carnegie's How to Enjoy Your Life and Your Job — an executable toolkit
   that applies Carnegie's timeless principles for building positive
   relationships, reducing worry, finding meaning in work, and living with
   greater enthusiasm and purpose.
+version: 1.0.0
+license: MIT
+tags: ["relationships", "happiness", "work-satisfaction", "worry", "enthusiasm", "communication", "personal-development", "dale-carnegie"]
 
   Covers 5 use cases:
   ① Positive Relationships — build rapport and genuine connection ("People don't seem to like me" "How to make friends at work")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: how-to-win-friends (relationship mastery), atomic-habits (daily habits),
   the-happiness-advantage (positive psychology), how-to-stop-worrying (if published).
+
 ---
 
 ## Quick Start (Onboarding)

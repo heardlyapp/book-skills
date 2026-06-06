@@ -1,10 +1,14 @@
 ---
+
 name: nonviolent-communication
 description: >-
   Marshall Rosenberg's Nonviolent Communication (NVC/Giraffe Language) — an
   executable toolkit that translates any message (your own or others') into the
   Observation-Feeling-Need-Request (OFNR) framework, reconnecting with universal
   human needs for compassionate communication.
+version: 1.0.0
+license: MIT
+tags: ["communication", "psychology", "nvc", "conflict-resolution", "empathy", "self-help"]
 
   Covers 6 use cases:
   ① Message Rewriting — reframe blame/judgment into NVC ("Help me say this better" "Rewrite this so it doesn't sound harsh")
@@ -24,6 +28,7 @@ description: >-
 
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
+
 ---
 
 # Nonviolent Communication · NVC

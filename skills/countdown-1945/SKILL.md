@@ -1,4 +1,5 @@
 ---
+
 name: countdown-1945
 description: >-
   Chris Wallace and Mitch Weiss's Countdown 1945 — a leadership and
@@ -6,6 +7,9 @@ description: >-
   atomic bombing of Hiroshima: how President Truman inherited the most
   consequential decision in modern history and made it with incomplete
   information.
+version: 1.0.0
+license: MIT
+tags: ["history", "leadership", "decision-making", "wwii", "truman", "atomic-bomb", "crisis-management", "manhattan-project", "ethics", "project-management"]
 
   Covers 7 use cases:
   ① Leadership Transition — step into a role you weren't prepared for and make decisions that change everything ("I just got promoted into a role I wasn't ready for" "How to lead when you inherit a crisis")
@@ -20,6 +24,7 @@ description: >-
   or mention: Chris Wallace / Countdown 1945 / Truman / Hiroshima / atomic bomb / Manhattan Project / Oppenheimer / Los Alamos / FDR / Potsdam / Trinity test / Enola Gay / Tibbets / Groves / Stimson / Okinawa / Little Boy / Fat Man / 116 days / crisis decision-making / leadership inheritance / nuclear ethics / Operation Silverplate.
 
   Related skills: clear-thinking-book (cognitive biases in decisions), the-checklist-manifesto (process and oversight), the-servant (leadership principles), cant-hurt-me (resilience under pressure).
+
 ---
 
 ## Quick Start (Onboarding)

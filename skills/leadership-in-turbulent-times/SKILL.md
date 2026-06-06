@@ -1,10 +1,14 @@
 ---
+
 name: leadership-in-turbulent-times
 description: >-
   Doris Kearns Goodwin's Leadership — an executable toolkit that extracts
   leadership lessons from four US presidents (Lincoln, TR, FDR, LBJ) in
   turbulent times: how they developed through adversity, navigated crises,
   built teams, and communicated their visions.
+version: 1.0.0
+license: MIT
+tags: ["leadership", "history", "presidents", "crisis-management", "team-building", "resilience", "communication"]
 
   Covers 5 use cases:
   ① Leadership Development — grow through adversity ("How do I become a better leader" "What makes a great leader")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: the-servant (servant leadership), 7-habits (leadership principles),
   chimpanzee-politics (power dynamics), the-mountain-is-you (personal growth).
+
 ---
 
 ## Quick Start (Onboarding)

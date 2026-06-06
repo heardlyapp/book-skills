@@ -1,7 +1,11 @@
 ---
+
 name: winning
 description: >-
   Jack Welch's Winning — an executable toolkit for business leadership: how to build a culture of candor, differentiate your people, manage talent rigorously, and drive your organization to outperform.
+version: 1.0.0
+license: MIT
+tags: ["leadership", "management", "business", "strategy", "talent", "candor", "ge", "welch", "execution", "organizational-culture"]
 
   Covers 5 use cases:
   ① Building a Culture of Candor — create an environment where people speak openly, feedback flows freely, and the best ideas win ("People don't tell me the truth" "My team avoids hard conversations" "How to get honest feedback")
@@ -16,6 +20,7 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 
   Related skills: the-essential-drucker (management fundamentals), leadership-in-turbulent-times (crisis leadership), the-four-steps-to-the-epiphany (customer development), the-outsiders (CEO decision-making), clear-thinking-book (strategic thinking).
+
 ---
 
 ## Quick Start (Onboarding)

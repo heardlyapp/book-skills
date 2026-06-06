@@ -1,10 +1,14 @@
 ---
+
 name: one-up-on-wall-street
 description: >-
   Peter Lynch's One Up On Wall Street — an executable toolkit that applies
   Lynch's legendary investing framework: invest in what you know, identify
   tenbaggers, categorize companies by type, and build a winning portfolio
   using the edge that individual investors have over professionals.
+version: 1.0.0
+license: MIT
+tags: ["investing", "stocks", "stock-picking", "value-investing", "peter-lynch", "tenbagger", "portfolio", "finance"]
 
   Covers 5 use cases:
   ① Stock Picking Fundamentals — use everyday knowledge to find great investments ("How do I pick winning stocks" "I want to invest in what I know")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: broken-money (monetary system), rich-dad-poor-dad (money mindset),
   the-millionaire-fastlane (wealth building), financial-feminist (personal finance).
+
 ---
 
 ## Quick Start (Onboarding)

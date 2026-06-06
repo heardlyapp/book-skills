@@ -1,9 +1,13 @@
 ---
+
 name: failing-forward
 description: >-
   John C. Maxwell's Failing Forward — an executable toolkit that transforms
   how you relate to failure: learning to treat mistakes as stepping stones
   rather than stop signs, and building the resilience to keep moving forward.
+version: 1.0.0
+license: MIT
+tags: ["failure", "resilience", "persistence", "growth-mindset", "leadership", "learning", "confidence"]
 
   Covers 5 use cases:
   ① Failure Reframing — shift from seeing failure as final to seeing it as feedback ("I'm afraid of failing" "How do I handle rejection")
@@ -21,6 +25,7 @@ description: >-
 
   Related skills: cant-hurt-me (mental toughness), the-mountain-is-you (self-sabotage patterns),
   atomic-habits (small steps forward), the-slight-edge (daily persistence).
+
 ---
 
 ## Quick Start (Onboarding)

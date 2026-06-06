@@ -1,4 +1,5 @@
 ---
+
 name: battle-for-the-american-mind
 description: >-
   Pete Hegseth and David Goodwin's Battle for the American Mind — an executable
@@ -6,6 +7,9 @@ description: >-
   (paideia) and the four towers of Reason, Virtue, Wonder, and Beauty to
   understand what education should be and how parents can reclaim their
   children's formation.
+version: 1.0.0
+license: MIT
+tags: ["education", "classical-education", "parenting", "philosophy", "curriculum", "school-choice", "paideia", "trivium"]
 
   Covers 5 use cases:
   ① Educational Philosophy Analysis — understand the difference between progressive and classical education ("What's wrong with modern education" "How did schools change so much")
@@ -24,6 +28,7 @@ description: >-
 
   Related skills: the-checklist-manifesto (process and standards), atomic-habits (habit formation for learning),
   make-it-stick (effective learning techniques), the-element (finding passion and creativity in education).
+
 ---
 
 ## Quick Start (Onboarding)

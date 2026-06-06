@@ -1,10 +1,14 @@
 ---
+
 name: the-lords-of-easy-money
 description: >-
   Christopher Leonard's The Lords of Easy Money — an executable toolkit
   that explores how the Federal Reserve's quantitative easing policies
   transformed the U.S. economy after 2008, creating winners and losers,
   inflating asset prices, and setting the stage for inflation.
+version: 1.0.0
+license: MIT
+tags: ["federal-reserve", "quantitative-easing", "monetary-policy", "economics", "inflation", "central-banking", "finance"]
 
   Covers 5 use cases:
   ① Understanding the Fed — how the Fed works ("How does the Federal Reserve work" "What is monetary policy")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: broken-money (monetary system), the-education-of-a-value-investor (investing),
   the-millionaire-fastlane (personal finance).
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,9 +1,13 @@
 ---
+
 name: the-alter-ego-effect
 description: >-
   Todd Herman's The Alter Ego Effect — an executable toolkit that uses the
   power of secret identities (alter egos) to overcome self-doubt, step into
   your best self, and perform at your peak when it matters most.
+version: 1.0.0
+license: MIT
+tags: ["confidence", "performance", "psychology", "persona", "peak-performance", "identity", "self-improvement", "mental-toughness"]
 
   Covers 5 use cases:
   ① Creating an Alter Ego — design a secret identity that brings out your best ("How to create an alter ego" "I need to be more confident in certain situations")
@@ -21,6 +25,7 @@ description: >-
 
   Related skills: cant-hurt-me (mental toughness), creative-confidence (overcoming fear),
   the-mountain-is-you (self-sabotage), talk-like-ted (performance presence).
+
 ---
 
 ## Quick Start (Onboarding)

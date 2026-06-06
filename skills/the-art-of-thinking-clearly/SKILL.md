@@ -1,8 +1,12 @@
 ---
+
 name: the-art-of-thinking-clearly
 description: >-
   Rolf Dobelli's The Art of Thinking Clearly — an executable toolkit for recognizing
   cognitive biases and making better decisions in life, work, and money.
+version: 1.0.0
+license: MIT
+tags: ["cognitive-biases", "decision-making", "psychology", "rationality", "thinking", "self-improvement"]
 
   Covers 5 use cases:
   ① Bias Awareness — spot common thinking errors ("Why do I keep making the same bad decisions?")
@@ -17,6 +21,7 @@ description: >-
   or mention: Rolf Dobelli / art of thinking clearly / cognitive biases / social proof /
   confirmation bias / hindsight bias / sunk cost fallacy / survivorship bias / overconfidence effect.
   Also triggers on install.
+
 ---
 
 # The Art of Thinking Clearly · ATC

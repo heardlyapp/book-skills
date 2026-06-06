@@ -1,10 +1,14 @@
 ---
+
 name: financial-feminist
 description: >-
   Tori Dunlap's Financial Feminist — an executable toolkit that combines
   practical money management (budgeting, debt, investing, earning) with
   the psychological and systemic awareness needed to take control of your
   finances and build a life you love.
+version: 1.0.0
+license: MIT
+tags: ["personal-finance", "money", "investing", "budgeting", "women", "feminism", "debt", "financial-independence"]
 
   Covers 5 use cases:
   ① Money Mindset — understand your emotional relationship with money and rewrite limiting beliefs ("I feel guilty spending money on myself" "Why am I so anxious about finances")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: rich-dad-poor-dad (money mindset), the-millionaire-fastlane (wealth building),
   the-richest-man-in-babylon (saving and investing principles).
+
 ---
 
 ## Quick Start (Onboarding)

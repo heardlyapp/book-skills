@@ -1,10 +1,14 @@
 ---
+
 name: old-school-grit
 description: >-
   Darrin Donnelly's Old School Grit — an executable toolkit that applies
   nine timeless rules for success based on the principles of hard work,
   perseverance, discipline, mental toughness, and positive attitude —
   rules that never change no matter the era.
+version: 1.0.0
+license: MIT
+tags: ["grit", "perseverance", "discipline", "mental-toughness", "success", "motivation", "work-ethic", "resilience"]
 
   Covers 5 use cases:
   ① Grit & Perseverance — develop the ability to keep going when things get hard ("I give up too easily" "How do I keep going when I want to quit")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: cant-hurt-me (mental toughness), atomic-habits (habit building),
   the-slight-edge (daily discipline), the-mountain-is-you (self-sabotage).
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,4 +1,5 @@
 ---
+
 name: black-edge
 description: >-
   Sheelah Kolhatkar's Black Edge — an executable toolkit that extracts
@@ -6,6 +7,9 @@ description: >-
   works, how aggressive hedge fund culture blurs ethical lines, how
   regulators build cases, and how to recognize when the pursuit of
   "edge" crosses into illegality.
+version: 1.0.0
+license: MIT
+tags: ["finance", "insider-trading", "hedge-fund", "compliance", "white-collar-crime", "investigation", "wall-street"]
 
   Covers 5 use cases:
   ① Insider Trading Awareness — recognize the patterns of illegal information flow ("What is insider trading" "How do people get away with it")
@@ -24,6 +28,7 @@ description: >-
 
   Related skills: bad-blood (fraud investigation patterns), clear-thinking-book (cognitive biases),
   the-checklist-manifesto (process and compliance).
+
 ---
 
 ## Quick Start (Onboarding)

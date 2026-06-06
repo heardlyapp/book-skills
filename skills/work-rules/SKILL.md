@@ -1,7 +1,11 @@
 ---
+
 name: work-rules
 description: >-
   Laszlo Bock's Work Rules! — an executable toolkit based on Google's people operations: how to hire exceptional talent, build a culture of trust and freedom, manage performance effectively, and create a workplace where people do their best work.
+version: 1.0.0
+license: MIT
+tags: ["google", "hr", "people-operations", "hiring", "culture", "leadership", "management", "talent", "performance-management", "organizational-development"]
 
   Covers 5 use cases:
   ① Hiring Exceptional Talent — set a high bar, assess objectively, find candidates proactively, build a hiring machine ("How to hire better" "Our hiring process is broken" "How to find great candidates")
@@ -16,6 +20,7 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 
   Related skills: the-essential-drucker (management fundamentals), winning (Welch's leadership), inspired (product management culture), the-four-steps-to-the-epiphany (innovation), the-outsiders (CEO perspective).
+
 ---
 
 ## Quick Start (Onboarding)

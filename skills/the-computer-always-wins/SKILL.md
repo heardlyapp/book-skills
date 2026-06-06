@@ -1,7 +1,11 @@
 ---
+
 name: the-computer-always-wins
 description: >-
   Elliot Lichtman's The Computer Always Wins — an executable toolkit that teaches algorithmic thinking through puzzles, strategy games, and AI concepts. Learn how computers solve problems, make decisions, and defeat human opponents.
+version: 1.0.0
+license: MIT
+tags: ["algorithms", "computer-science", "AI", "machine-learning", "games", "puzzles", "programming", "coding", "education"]
 
   Covers 5 use cases:
   ① Algorithmic Thinking — understand how computers approach problems systematically, from binary search to sorting algorithms ("How do computers think" "How to solve problems like a programmer" "What is an algorithm")
@@ -14,6 +18,7 @@ description: >-
   or mention: Elliot Lichtman / The Computer Always Wins / algorithms / game AI / machine learning / search trees / minimax / Monte Carlo / neural networks / computational thinking / puzzles / strategy games.
 
   Related skills: a-mind-for-numbers (learning math/science), the-pleasure-of-finding-things-out (scientific thinking), clear-thinking-book (decision frameworks), make-it-stick (effective learning), the-creative-act (creative problem solving).
+
 ---
 
 ## Quick Start (Onboarding)

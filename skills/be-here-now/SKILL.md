@@ -1,10 +1,14 @@
 ---
+
 name: be-here-now
 description: >-
   Ram Dass's Be Here Now — an executable toolkit that applies the core
   spiritual teaching of being fully present: moving from ego-driven seeking
   to conscious awareness through meditation, service, love, and the
   recognition that the only moment that exists is this one.
+version: 1.0.0
+license: MIT
+tags: ["spirituality", "meditation", "presence", "consciousness", "yoga", "love", "self-discovery", "mindfulness", "ram-dass"]
 
   Covers 5 use cases:
   ① Presence Practice — cultivate the ability to be fully in the here and now ("My mind is always in the future or past" "How do I be present")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-power-of-now (presence and spiritual awakening), the-happiness-advantage (positive psychology),
   addicted-to-the-monkey-mind (quieting the inner voice).
+
 ---
 
 ## Quick Start (Onboarding)

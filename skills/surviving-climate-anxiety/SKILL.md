@@ -1,7 +1,11 @@
 ---
+
 name: surviving-climate-anxiety
 description: >-
   Thomas Doherty's Surviving Climate Anxiety — an executable toolkit for coping with climate-related distress: manage eco-anxiety, find meaning in a warming world, build resilience, and move from fear to empowered action.
+version: 1.0.0
+license: MIT
+tags: ["climate", "anxiety", "mental-health", "environment", "coping", "resilience", "eco-anxiety", "sustainability", "psychology", "hope"]
 
   Covers 5 use cases:
   ① Managing Climate Anxiety — understand eco-anxiety as a normal response, develop coping strategies for climate-related fear and worry ("I can't stop thinking about climate change" "The news is overwhelming" "I feel hopeless about the future")
@@ -14,6 +18,7 @@ description: >-
   or mention: Thomas Doherty / climate anxiety / eco-anxiety / climate grief / environmental psychology / climate resilience / sustainable living / climate mental health / climate coping.
 
   Related skills: the-happiness-advantage (positive psychology), the-power-of-now (presence and acceptance), the-miracle-of-mindfulness (mindfulness practice), radically-happy (Buddhist psychology), atomic-habits (behavior change).
+
 ---
 
 ## Quick Start (Onboarding)

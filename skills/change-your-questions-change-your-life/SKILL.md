@@ -1,10 +1,14 @@
 ---
+
 name: change-your-questions-change-your-life
 description: >-
   Marilee Adams's Change Your Questions, Change Your Life — an executable
   toolkit based on Question Thinking (QT) that uses the Choice Map
   framework to shift from Judger mindset to Learner mindset by changing
   the questions you ask yourself.
+version: 1.0.0
+license: MIT
+tags: ["mindset", "questions", "leadership", "coaching", "self-awareness", "communication", "transformation"]
 
   Covers 5 use cases:
   ① Mindset Diagnosis — identify when you're in Judger vs Learner ("Why do I always react negatively" "How do I get out of a bad mood")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: clear-thinking-book (cognitive biases), nonviolent-communication (inquiry),
   the-mountain-is-you (self-awareness), the-art-of-thinking-clearly (thinking patterns).
+
 ---
 
 ## Quick Start (Onboarding)

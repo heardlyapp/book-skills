@@ -1,10 +1,14 @@
 ---
+
 name: the-advice-trap
 description: >-
   Michael Bungay Stanier's The Advice Trap — an executable toolkit that
   helps leaders tame their "Advice Monster," stay curious longer, and
   transform their leadership by shifting from advice-giving to coaching
   conversations.
+version: 1.0.0
+license: MIT
+tags: ["coaching", "leadership", "management", "questions", "communication", "curiosity", "psychological-safety"]
 
   Covers 5 use cases:
   ① Taming the Advice Monster — recognize when you're jumping to solutions ("I keep giving advice when people need to be heard" "How to stop fixing and start listening")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: nonviolent-communication (empathetic listening), how-to-win-friends (relationships),
   everyone-communicates-few-connect (connection), change-your-questions-change-your-life (questioning).
+
 ---
 
 ## Quick Start (Onboarding)

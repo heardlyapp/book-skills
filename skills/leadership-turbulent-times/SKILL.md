@@ -1,4 +1,5 @@
 ---
+
 name: leadership
 description: >-
   Doris Kearns Goodwin's Leadership: In Turbulent Times — a historical case-study toolkit for understanding how great leaders emerge, grow through adversity, and align with the moment.
@@ -12,6 +13,10 @@ description: >-
   Trigger when users say: "I need to step up as a leader" "how do I handle adversity" "I want to become a better leader" "lead me" "guide my team" "navigate this crisis" "learn from great leaders" "leadership lessons" "grow through difficulty" "lead under pressure" "how to inspire people" "building resilience" "what makes a good leader" "leader or manager" "ambition and leadership"
   or mention: leadership / turbulent times / Doris Kearns Goodwin / Lincoln / FDR / Teddy Roosevelt / LBJ / transformational leadership / crisis management / crucible of adversity.
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
+version: 1.0.0
+license: MIT
+tags: ["leadership", "history", "presidents", "adversity", "crisis-management", "transformational-leadership", "doris-kearns-goodwin"]
+
 ---
 
 ## Quick Start (Onboarding)

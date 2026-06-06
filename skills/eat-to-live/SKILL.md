@@ -1,10 +1,14 @@
 ---
+
 name: eat-to-live
 description: >-
   Dr. Joel Fuhrman's Eat to Live — an executable toolkit that applies the
   Nutritarian approach to transform your health through nutrient density:
   eating for maximum nutrition per calorie, reversing disease, losing weight,
   and achieving lifelong vitality.
+version: 1.0.0
+license: MIT
+tags: ["nutrition", "health", "weight-loss", "plant-based", "disease-prevention", "nutrient-density", "wellness", "diet"]
 
   Covers 5 use cases:
   ① Weight Loss — lose weight rapidly and sustainably without counting calories ("I've tried every diet and nothing works" "How do I lose weight and keep it off")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-slight-edge (daily health habits), atomic-habits (building healthy routines),
   the-mountain-is-you (emotional eating patterns), tiny-habits (micro-changes).
+
 ---
 
 ## Quick Start (Onboarding)

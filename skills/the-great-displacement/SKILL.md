@@ -1,10 +1,14 @@
 ---
+
 name: the-great-displacement
 description: >-
   Jake Bittle's The Great Displacement — an executable toolkit that
   explores how climate change is reshaping America through forced
   migration: communities displaced by wildfires, floods, sea-level rise,
   and extreme weather, and the human stories behind the statistics.
+version: 1.0.0
+license: MIT
+tags: ["climate-change", "migration", "environment", "displacement", "disaster", "adaptation", "community", "policy"]
 
   Covers 5 use cases:
   ① Climate Migration Understanding — how climate change displaces Americans ("How does climate change cause migration" "Where are climate refugees going")
@@ -21,6 +25,7 @@ description: >-
   climate adaptation / community resilience / environmental justice / climate policy.
 
   Related skills: blowout (energy/environment), blood-and-oil (geopolitics).
+
 ---
 
 ## Quick Start (Onboarding)

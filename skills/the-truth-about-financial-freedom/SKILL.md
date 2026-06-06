@@ -1,7 +1,11 @@
 ---
+
 name: the-truth-about-financial-freedom
 description: >-
   David Chilton's The Wealthy Barber Returns (also known as The Truth About Financial Freedom) — an executable toolkit that applies common-sense principles to saving, spending, borrowing, and investing. Cuts through the complexity of personal finance with psychological insight, behavioral economics, and practical habits anyone can follow.
+version: 1.0.0
+license: MIT
+tags: ["personal-finance", "saving", "investing", "debt", "behavioral-finance", "financial-freedom", "wealth", "money-management", "budgeting"]
 
   Covers 5 use cases:
   ① Saving & Spending — build a sustainable savings habit without deprivation, understand the psychological traps leading to overspending ("I can never save money" "Why do I keep spending on things I don't need" "How do I live within my means")
@@ -16,6 +20,7 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 
   Related skills: rich-dad-poor-dad, i-will-teach-you-to-be-rich, the-millionaire-fastlane, atomic-habits, the-slight-edge, the-richest-man-in-babylon.
+
 ---
 
 ## Quick Start (Onboarding)

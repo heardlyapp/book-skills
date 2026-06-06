@@ -1,9 +1,13 @@
 ---
+
 name: as-a-man-thinketh
 description: >-
   James Allen's As a Man Thinketh — an executable toolkit that applies the
   foundational law that your thoughts shape your character, circumstances,
   health, achievements, and peace of mind.
+version: 1.0.0
+license: MIT
+tags: ["mindset", "self-mastery", "character-development", "positive-thinking", "personal-development", "philosophy", "classic"]
 
   Covers 5 use cases:
   ① Mindset Foundation — understand how thoughts create character and destiny ("I feel like my life is out of my control" "How do I change who I am")
@@ -21,6 +25,7 @@ description: >-
 
   Related skills: the-power-of-now (presence and peace), think-and-grow-rich (thought as creative force),
   atomic-habits (thought leads to action leads to habit), the-slight-edge (small daily disciplines).
+
 ---
 
 ## Quick Start (Onboarding)

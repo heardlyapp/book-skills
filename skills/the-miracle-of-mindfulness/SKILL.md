@@ -1,9 +1,13 @@
 ---
+
 name: the-miracle-of-mindfulness
 description: >-
   Thich Nhat Hanh's The Miracle of Mindfulness — an executable toolkit
   that teaches the practice of mindfulness meditation: how to be present
   in every moment, transform suffering, and find peace in daily life.
+version: 1.0.0
+license: MIT
+tags: ["mindfulness", "meditation", "zen", "thich-nhat-hanh", "breathing", "presence", "spirituality", "peace"]
 
   Covers 5 use cases:
   ① Core Mindfulness — what mindfulness is ("What is mindfulness" "How to be mindful" "What is meditation")
@@ -20,6 +24,7 @@ description: >-
   peace / calm / awareness / compassion / suffering / happiness.
 
   Related skills: be-here-now, the-power-of-now, radically-happy, the-mountain-is-you.
+
 ---
 
 ## Quick Start (Onboarding)

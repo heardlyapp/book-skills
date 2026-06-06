@@ -1,8 +1,12 @@
 ---
+
 name: how-to-win-friends
 description: >-
   Dale Carnegie's How to Win Friends and Influence People — an executable toolkit
   for building relationships, handling people, and leading without resistance.
+version: 1.0.0
+license: MIT
+tags: ["communication", "relationships", "leadership", "persuasion", "social-skills", "career"]
 
   Covers 5 use cases:
   ① Building Rapport — make people like you instantly ("How do I make friends?" "How to start a conversation")
@@ -19,6 +23,7 @@ description: >-
 
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
+
 ---
 
 # How to Win Friends and Influence People · HTWF

@@ -1,10 +1,14 @@
 ---
+
 name: the-education-of-a-value-investor
 description: >-
   Guy Spier's The Education of a Value Investor — an executable toolkit
   that applies value investing principles to both money and life: think
   independently, stay within your circle of competence, avoid cognitive
   biases, and cultivate the temperament for long-term success.
+version: 1.0.0
+license: MIT
+tags: ["investing", "value-investing", "buffett", "graham", "psychology", "finance", "long-term", "stocks"]
 
   Covers 5 use cases:
   ① Value Investing Mindset — adopt Graham and Buffett principles ("How to think like a value investor" "What is the Buffett approach")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: one-up-on-wall-street (stock picking), broken-money (monetary system),
   rich-dad-poor-dad (money mindset), the-millionaire-fastlane (wealth building).
+
 ---
 
 ## Quick Start (Onboarding)

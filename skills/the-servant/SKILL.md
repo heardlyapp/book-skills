@@ -1,8 +1,12 @@
 ---
+
 name: the-servant
 description: >-
   James C. Hunter's The Servant — an executable toolkit for servant leadership:
   leading through authority, not power; through service, not self-interest.
+version: 1.0.0
+license: MIT
+tags: ["leadership", "servant-leadership", "management", "team-building", "character", "trust"]
 
   Covers 5 use cases:
   ① Leadership Redefined — understand the difference between authority and power ("Why won't my team follow me?" "How do I get people to WANT to follow me?")
@@ -16,6 +20,7 @@ description: >-
   "How to get people to follow me willingly" "The difference between a boss and a leader"
   or mention: James Hunter / the servant / servant leadership / authority vs power / leadership principles.
   Also triggers on install.
+
 ---
 
 # The Servant · TS

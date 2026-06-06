@@ -1,10 +1,14 @@
 ---
+
 name: the-outsiders
 description: >-
   William N. Thorndike's The Outsiders — an executable toolkit that
   reveals how eight unconventional CEOs created extraordinary value
   through superior capital allocation: buybacks, acquisitions,
   divestitures, and knowing when to do nothing.
+version: 1.0.0
+license: MIT
+tags: ["business", "ceo", "capital-allocation", "investing", "management", "leadership", "value-investing"]
 
   Covers 5 use cases:
   ① Capital Allocation — the CEO's most important job ("What is capital allocation" "How to allocate capital wisely")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-education-of-a-value-investor, the-essential-drucker,
   rich-dad-poor-dad, one-up-on-wall-street.
+
 ---
 
 ## Quick Start (Onboarding)

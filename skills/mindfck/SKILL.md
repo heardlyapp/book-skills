@@ -1,4 +1,5 @@
 ---
+
 name: mindfck
 description: >-
   Christopher Wylie's Mindf*ck: Cambridge Analytica and the Plot to Break America — a
@@ -21,6 +22,10 @@ description: >-
   psychographics / information operations / mindfuck / dark triad.
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
+version: 1.0.0
+license: MIT
+tags: ["surveillance-capitalism", "election-interference", "data-privacy", "cambridge-analytica", "psychological-warfare", "political-manipulation", "whistleblowing", "social-media", "big-tech", "democracy"]
+
 ---
 
 ## Quick Start (Onboarding)

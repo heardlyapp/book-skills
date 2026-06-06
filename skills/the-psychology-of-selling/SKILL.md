@@ -1,9 +1,13 @@
 ---
+
 name: the-psychology-of-selling
 description: >-
   Brian Tracy's The Psychology of Selling — the science and art of
   selling: prospecting, presenting, handling objections, closing, and
   building customer relationships.
+version: 1.0.0
+license: MIT
+tags: ["sales", "selling", "business", "psychology", "persuasion", "closing", "prospecting", "communication"]
 
   Covers 5 use cases:
   ① Prospecting — finding qualified leads ("How to find prospects" "What is prospecting")
@@ -19,6 +23,7 @@ description: >-
   consultative selling / features and benefits / trial close / assumptive close.
 
   Related skills: how-to-win-friends, talk-like-ted, the-go-giver-influencer.
+
 ---
 
 ## Quick Start (Onboarding)

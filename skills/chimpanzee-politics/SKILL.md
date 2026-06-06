@@ -1,10 +1,14 @@
 ---
+
 name: chimpanzee-politics
 description: >-
   Frans de Waal's Chimpanzee Politics — an executable toolkit that
   analyzes power dynamics, coalition-building, leadership styles,
   and conflict resolution through the lens of chimpanzee social
   behavior, revealing the biological roots of human politics.
+version: 1.0.0
+license: MIT
+tags: ["primatology", "power", "leadership", "social-dynamics", "evolution", "psychology", "organizational-behavior"]
 
   Covers 5 use cases:
   ① Power Dynamics Analysis — understand how hierarchies form and shift ("Who really has power in my organization" "How do power struggles work")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: clear-thinking-book (understanding human cognitive biases),
   the-servant (servant leadership), how-to-win-friends (social influence).
+
 ---
 
 ## Quick Start (Onboarding)

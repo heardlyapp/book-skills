@@ -1,10 +1,14 @@
 ---
+
 name: power-sex-suicide
 description: >-
   Nick Lane's Power, Sex, Suicide — an executable toolkit that explains
   how mitochondria, the power plants of our cells, shape the most profound
   aspects of life: the origin of complex organisms, the evolution of sex,
   the mechanisms of aging, and the process of programmed cell death.
+version: 1.0.0
+license: MIT
+tags: ["mitochondria", "biology", "evolution", "aging", "cell-biology", "health", "science", "dna"]
 
   Covers 5 use cases:
   ① Mitochondria Basics — understand these cellular power plants ("What are mitochondria" "How do cells produce energy")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: eat-to-live (cellular health), the-happiness-advantage (positive psychology),
   the-road-less-traveled (growth through understanding life).
+
 ---
 
 ## Quick Start (Onboarding)

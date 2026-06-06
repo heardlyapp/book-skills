@@ -1,4 +1,5 @@
 ---
+
 name: blood-and-oil
 description: >-
   Bradley Hope and Justin Scheck's Blood and Oil — an executable toolkit
@@ -6,6 +7,9 @@ description: >-
   Salman's rise to power: how oil wealth enables authoritarian ambition,
   how top-down reform coexists with brutal repression, and how to
   analyze political risk in petrostates.
+version: 1.0.0
+license: MIT
+tags: ["geopolitics", "saudi-arabia", "oil", "mbs", "middle-east", "political-risk", "authoritarianism", "investigative-journalism"]
 
   Covers 5 use cases:
   ① Geopolitical Analysis — understand the intersection of oil, power, and authoritarian rule ("How does Saudi Arabia actually work" "Who is MBS and how did he rise")
@@ -24,6 +28,7 @@ description: >-
 
   Related skills: black-edge (power and information), bad-blood (investigative patterns),
   blowout (when published — energy industry investigation).
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,4 +1,5 @@
 ---
+
 name: mind-magic
 description: >-
   James R. Doty's Mind Magic — The neuroscience-backed 6-step system for
@@ -26,6 +27,10 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't
   know how to start — the AI MUST proactively present the Quick Start guide
   below.
+version: 1.0.1
+license: MIT
+tags: ["manifestation", "neuroscience", "visualization", "intention-setting", "habit", "mindfulness", "self-improvement", "neuroplasticity", "personal-development", "james-doty"]
+
 ---
 
 # Mind Magic 🧠✨

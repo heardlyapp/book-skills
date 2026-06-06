@@ -1,7 +1,11 @@
 ---
+
 name: vagabonding
 description: >-
   Rolf Potts's Vagabonding — an executable toolkit for long-term world travel: how to break free from the conventional path, save money for extended travel, embrace uncertainty on the road, and turn travel into a way of life rather than a brief escape.
+version: 1.0.0
+license: MIT
+tags: ["travel", "vagabonding", "backpacking", "solo-travel", "budget-travel", "adventure", "lifestyle-design", "digital-nomad", "world-travel", "travel-tips"]
 
   Covers 5 use cases:
   ① Breaking Free — overcome the myths that keep you from extended travel, reframe your relationship with time and work ("I want to travel long-term but I'm scared" "How do I quit my job to travel" "I'll do it when I retire")
@@ -16,6 +20,7 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 
   Related skills: the-millionaire-fastlane (financial independence), the-slight-edge (small daily choices), the-happiness-advantage (positive psychology), the-art-of-loving (relationships), clear-thinking-book (decision-making under uncertainty).
+
 ---
 
 ## Quick Start (Onboarding)

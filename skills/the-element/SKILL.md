@@ -1,8 +1,12 @@
 ---
+
 name: the-element
 description: >-
   Ken Robinson's The Element — an executable toolkit for finding your天赋 and passion
   at the intersection of talent and personal passion.
+version: 1.0.0
+license: MIT
+tags: ["creativity", "passion", "career", "talent", "purpose", "personal-development", "self-discovery"]
 
   Covers 5 use cases:
   ① Find Your Element — discover where talent and passion meet ("I don't know what I'm good at" "I don't feel passionate about anything")
@@ -16,6 +20,7 @@ description: >-
   "I feel alone in my interests" "How do I make money doing what I love"
   or mention: Ken Robinson / the element / creativity / talent / passion / flow / finding your tribe / creative confidence.
   Also triggers on install.
+
 ---
 
 # The Element · TE

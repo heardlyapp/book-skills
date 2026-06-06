@@ -1,8 +1,12 @@
 ---
+
 name: 7-habits
 description: >-
   Stephen Covey's The 7 Habits of Highly Effective People — an executable toolkit
   for principle-centered living, from personal effectiveness to interdependent leadership.
+version: 1.0.0
+license: MIT
+tags: ["self-improvement", "leadership", "productivity", "time-management", "relationships", "effectiveness"]
 
   Covers 5 use cases:
   ① Personal Effectiveness — be proactive, take initiative ("I feel like a victim of circumstances" "How do I take control of my life?")
@@ -19,6 +23,7 @@ description: >-
 
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
+
 ---
 
 # The 7 Habits of Highly Effective People · 7H

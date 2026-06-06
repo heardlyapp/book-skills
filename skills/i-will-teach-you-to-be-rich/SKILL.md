@@ -1,10 +1,14 @@
 ---
+
 name: i-will-teach-you-to-be-rich
 description: >-
   Ramit Sethi's I Will Teach You to Be Rich — an executable toolkit that
   guides you through the 6-week program to optimize credit cards, open
   high-interest accounts, automate investments, create a Conscious
   Spending Plan, and design your Rich Life.
+version: 1.0.0
+license: MIT
+tags: ["personal-finance", "money", "investing", "credit-cards", "budgeting", "wealth", "ramit-sethi"]
 
   Covers 5 use cases:
   ① Credit Card Optimization — pick the best cards, negotiate fees, earn rewards ("How to pick a credit card" "I have credit card debt — help")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: rich-dad-poor-dad (money mindset), financial-feminist (personal finance),
   the-millionaire-fastlane (wealth building), broken-money (monetary system).
+
 ---
 
 ## Quick Start (Onboarding)

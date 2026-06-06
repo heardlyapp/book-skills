@@ -1,10 +1,14 @@
 ---
+
 name: radically-happy
 description: >-
   Phakchok Rinpoche and Erric Solomon's Radically Happy — an executable
   toolkit that combines Buddhist wisdom with practical psychology to help
   you understand your mind, overcome negative patterns, and cultivate
   genuine, lasting happiness through meditation and mind training.
+version: 1.0.0
+license: MIT
+tags: ["happiness", "meditation", "mindfulness", "buddhism", "mental-health", "emotions", "compassion", "psychology"]
 
   Covers 5 use cases:
   ① Understanding the Mind — recognize how the mind creates suffering and happiness ("Why am I never satisfied" "How does my mind create unhappiness")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: the-power-of-now (presence), be-here-now (spiritual practice),
   the-happiness-advantage (positive psychology), nonviolent-communication.
+
 ---
 
 ## Quick Start (Onboarding)

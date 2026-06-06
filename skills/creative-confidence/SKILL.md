@@ -1,9 +1,13 @@
 ---
+
 name: creative-confidence
 description: >-
   David & Tom Kelley's Creative Confidence — an executable toolkit for unleashing
   the creative potential within everyone, overcoming fear of judgment, and generating
   innovative ideas.
+version: 1.0.0
+license: MIT
+tags: ["creativity", "innovation", "design-thinking", "confidence", "ideation", "psychology"]
 
   Covers 5 use cases:
   ① Unlock Creativity — overcome the "I'm not creative" myth ("I've never been creative" "Creativity is for artists, not me")
@@ -17,6 +21,7 @@ description: >-
   "I freeze up when asked to be creative" "Design thinking techniques" "How to build confidence in my creativity"
   or mention: David Kelley / Tom Kelley / creative confidence / design thinking / creativity / innovation / IDEO / Stanford d.school.
   Also triggers on install.
+
 ---
 
 # Creative Confidence · CC

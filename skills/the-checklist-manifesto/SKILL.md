@@ -1,8 +1,12 @@
 ---
+
 name: the-checklist-manifesto
 description: >-
   Atul Gawande's The Checklist Manifesto — an executable toolkit for managing complexity,
   preventing errors, and getting things right in high-stakes environments.
+version: 1.0.1
+license: MIT
+tags: ["productivity", "systems", "quality", "leadership", "healthcare", "aviation", "engineering"]
 
   Covers 5 use cases:
   ① Complexity Management — handle tasks too complex for memory alone ("I keep missing steps in complex tasks" "How do I avoid forgetting critical steps")
@@ -17,6 +21,7 @@ description: >-
   or mention: Atul Gawande / checklist manifesto / surgical checklist / aviation checklist / complexity /
   error prevention / do-confirm checklist / read-do checklist / the problem of extreme complexity / master builder.
   Also triggers on install.
+
 ---
 
 # The Checklist Manifesto · TCM

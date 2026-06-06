@@ -1,10 +1,14 @@
 ---
+
 name: the-first-days-of-school
 description: >-
   Harry and Rosemary Wong's The First Days of School — an executable
   toolkit that applies proven classroom management and teaching techniques
   to help educators start the school year effectively, establish procedures,
   manage student behavior, and maximize learning.
+version: 1.0.0
+license: MIT
+tags: ["teaching", "education", "classroom-management", "teacher", "school", "pedagogy", "procedures"]
 
   Covers 5 use cases:
   ① Classroom Management — establish procedures that create productive learning ("How to manage a classroom" "My students are out of control")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: the-checklist-manifesto (procedures), atomic-habits (habit building),
   nonviolent-communication (parent communication), everyone-communicates-few-connect (connection).
+
 ---
 
 ## Quick Start (Onboarding)

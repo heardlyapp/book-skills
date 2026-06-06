@@ -1,10 +1,14 @@
 ---
+
 name: the-crowd
 description: >-
   Gustave Le Bon's The Crowd — an executable toolkit that applies the
   classic study of crowd psychology to understand how individuals change
   in groups, how crowds form and act, and how leaders influence collective
   behavior.
+version: 1.0.0
+license: MIT
+tags: ["psychology", "crowds", "social-psychology", "group-behavior", "influence", "persuasion", "propaganda", "mob"]
 
   Covers 5 use cases:
   ① Crowd Psychology — understand how individuals change in a crowd ("Why do people act differently in groups" "What is mob mentality")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: chimpanzee-politics (group dynamics), the-coddling-of-the-american-mind (social trends),
   clear-thinking-book (cognitive biases).
+
 ---
 
 ## Quick Start (Onboarding)

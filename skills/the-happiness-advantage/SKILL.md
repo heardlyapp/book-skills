@@ -1,8 +1,12 @@
 ---
+
 name: the-happiness-advantage
 description: >-
   Shawn Achor's The Happiness Advantage — an executable toolkit for using positive
   psychology to fuel success and performance at work and in life.
+version: 1.0.0
+license: MIT
+tags: ["happiness", "positive-psychology", "resilience", "productivity", "gratitude", "workplace-wellbeing"]
 
   Covers 5 use cases:
   ① Mindset Shift — reverse the "success first, happiness later" formula ("I'll be happy when I succeed" "I'm waiting for XYZ to be happy")
@@ -17,6 +21,7 @@ description: >-
   or mention: Shawn Achor / happiness advantage / positive psychology / gratitude / Tetris effect / Zorro circle /
   20-second rule / happiness / optimism / resilience / social investment.
   Also triggers on install.
+
 ---
 
 # The Happiness Advantage · HA

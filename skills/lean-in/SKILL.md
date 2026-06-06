@@ -1,8 +1,12 @@
 ---
+
 name: lean-in
 description: >-
   Sheryl Sandberg's Lean In — an executable toolkit for women and men to build
   leadership ambitions, overcome internal barriers, and create more equal workplaces.
+version: 1.0.0
+license: MIT
+tags: ["leadership", "women-in-business", "career", "mentorship", "negotiation", "gender-equality"]
 
   Covers 5 use cases:
   ① Build Ambition — overcome the confidence gap ("I don't feel qualified enough" "I hesitate to speak up")
@@ -17,6 +21,7 @@ description: >-
   or mention: Sheryl Sandberg / lean in / women in leadership / confidence gap / mentorship /
   career advancement / work-life balance / gender equality at work.
   Also triggers on install.
+
 ---
 
 # Lean In · LI

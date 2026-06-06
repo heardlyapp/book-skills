@@ -1,10 +1,14 @@
 ---
+
 name: the-go-giver-influencer
 description: >-
   Bob Burg and John David Mann's The Go-Giver Influencer — an executable
   toolkit that applies the Go-Giver principles to influence, negotiation,
   and persuasion: building genuine influence by focusing on adding value,
   finding the "third way" beyond win-lose, and leading through service.
+version: 1.0.0
+license: MIT
+tags: ["influence", "persuasion", "negotiation", "leadership", "servant-leadership", "relationships", "communication"]
 
   Covers 5 use cases:
   ① Influence Through Service — gain influence by giving value first ("How to influence without manipulation" "How to get people to listen")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: how-to-win-friends (building relationships), the-servant (servant leadership),
   nonviolent-communication (empathetic communication), everyone-communicates-few-connect (connection).
+
 ---
 
 ## Quick Start (Onboarding)

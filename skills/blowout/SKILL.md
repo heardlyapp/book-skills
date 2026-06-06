@@ -1,10 +1,14 @@
 ---
+
 name: blowout
 description: >-
   Rachel Maddow's Blowout — an executable toolkit that exposes how the oil
   and gas industry corrupts democracy, empowers authoritarian regimes, and
   drives environmental destruction, with lessons from Russia, the US, and
   across the developing world.
+version: 1.0.0
+license: MIT
+tags: ["oil", "corruption", "russia", "geopolitics", "democracy", "environment", "kleptocracy", "energy", "investigative-journalism"]
 
   Covers 5 use cases:
   ① Petro-State Analysis — understand how oil wealth enables authoritarian rule ("How does oil corrupt democracy" "Why are oil-rich countries often dictatorships")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: bad-blood (investigative journalism), blood-and-oil (geopolitics),
   black-edge (financial crimes), clear-thinking-book (critical thinking).
+
 ---
 
 ## Quick Start (Onboarding)

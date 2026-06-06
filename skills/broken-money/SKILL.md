@@ -1,10 +1,14 @@
 ---
+
 name: broken-money
 description: >-
   Lyn Alden's Broken Money — an executable toolkit that explains how the
   global monetary system works, why fiat money loses value over time, and
   what alternatives exist for preserving purchasing power and building
   financial resilience.
+version: 1.0.0
+license: MIT
+tags: ["money", "inflation", "banking", "bitcoin", "gold", "monetary-system", "finance", "economics"]
 
   Covers 5 use cases:
   ① Monetary System Basics — understand how money works, from gold to fiat to crypto ("How does money actually work" "Why does inflation happen")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: rich-dad-poor-dad (money mindset), the-millionaire-fastlane (wealth building),
   financial-feminist (personal finance), the-richest-man-in-babylon (saving principles).
+
 ---
 
 ## Quick Start (Onboarding)

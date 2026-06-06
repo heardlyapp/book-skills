@@ -1,10 +1,14 @@
 ---
+
 name: the-four-foundations-of-golf
 description: >-
   Jon Sherman's The Four Foundations of Golf — an executable toolkit that
   applies the four foundations (managing expectations, course strategy,
   purposeful practice, and the mental game) to lower scores, enjoy the
   game more, and build a game that lasts a lifetime.
+version: 1.0.0
+license: MIT
+tags: ["golf", "sports", "improvement", "strategy", "practice", "mental-game", "course-management"]
 
   Covers 5 use cases:
   ① Managing Expectations — stop letting unrealistic expectations ruin your round ("I should be better than this" "Why can't I play as well as I practice")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: the-slight-edge (daily discipline), atomic-habits (habit building),
   cant-hurt-me (mental toughness), clear-thinking-book (cognitive biases).
+
 ---
 
 ## Quick Start (Onboarding)

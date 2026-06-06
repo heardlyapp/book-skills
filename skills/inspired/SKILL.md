@@ -1,8 +1,12 @@
 ---
+
 name: inspired
 description: >-
   Marty Cagan's Inspired — an executable toolkit for building tech products customers
   love, covering product strategy, discovery, delivery, and culture.
+version: 1.0.0
+license: MIT
+tags: ["product-management", "product-discovery", "tech", "startup", "leadership", "innovation"]
 
   Covers 5 use cases:
   ① Product Vision — define a compelling product strategy ("How do I decide what to build?" "What's our product vision?")
@@ -16,6 +20,7 @@ description: >-
   or mention: Marty Cagan / Inspired / product management / product discovery / product strategy /
   empowered product teams / product vision / product delivery / SVPG.
   Also triggers on install.
+
 ---
 
 # Inspired · INS

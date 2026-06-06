@@ -1,9 +1,13 @@
 ---
+
 name: atomic-habits
 description: >-
   James Clear's Atomic Habits — an executable toolkit that translates any behavior
   change goal into the 4-step model (Cue → Craving → Response → Reward) and applies
   the 4 Laws to make good habits easy and bad habits hard.
+version: 1.0.0
+license: MIT
+tags: ["self-improvement", "habits", "productivity", "psychology", "behavior-change", "discipline"]
 
   Covers 5 use cases:
   ① Habit Diagnosis — why a habit won't stick / why you keep falling off ("Why can't I stick with it?" "I always give up halfway")
@@ -21,6 +25,7 @@ description: >-
 
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
+
 ---
 
 # Atomic Habits · AH

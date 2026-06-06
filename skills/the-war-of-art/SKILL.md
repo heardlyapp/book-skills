@@ -1,7 +1,11 @@
 ---
+
 name: the-war-of-art
 description: >-
   Steven Pressfield's The War of Art — an executable toolkit for overcoming creative resistance, defeating procrastination, and doing the work that matters most.
+version: 1.0.0
+license: MIT
+tags: ["creativity", "writing", "procrastination", "resistance", "art", "discipline", "productivity", "inspiration", "self-help"]
 
   Covers 5 use cases:
   ① Overcoming Resistance — recognize and defeat the internal force that stops you from doing your creative work ("Why can't I start" "I keep procrastinating" "Something is blocking me")
@@ -14,6 +18,7 @@ description: >-
   or mention: Steven Pressfield / War of Art / Resistance / turning pro / creative block / muse / procrastination / self-sabotage / inner critic.
 
   Related skills: the-creative-act (creativity), big-magic (creative living), the-happiness-advantage (positive psychology), atomic-habits (daily practice), the-slight-edge (small daily actions).
+
 ---
 
 ## Quick Start (Onboarding)

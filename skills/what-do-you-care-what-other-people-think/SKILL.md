@@ -1,7 +1,11 @@
 ---
+
 name: what-do-you-care-what-other-people-think
 description: >-
   Richard Feynman's "What Do You Care What Other People Think?" — an executable toolkit that captures Feynman's approach to curiosity, scientific thinking, integrity under pressure, and living a life unconstrained by others' opinions.
+version: 1.0.0
+license: MIT
+tags: ["feynman", "curiosity", "learning", "science", "critical-thinking", "integrity", "authenticity", "education", "challenger", "physics"]
 
   Covers 5 use cases:
   ① Cultivating Curiosity — develop a relentless, playful curiosity about how the world works ("How do I become more curious" "I want to think like a scientist" "How to ask better questions")
@@ -16,6 +20,7 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 
   Related skills: the-pleasure-of-finding-things-out (Feynman's other book), clear-thinking-book (avoiding cognitive biases), make-it-stick (effective learning), the-art-of-thinking-clearly (clear reasoning), the-creative-act (creative thinking).
+
 ---
 
 ## Quick Start (Onboarding)

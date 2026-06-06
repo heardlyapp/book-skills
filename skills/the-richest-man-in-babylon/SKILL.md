@@ -1,8 +1,12 @@
 ---
+
 name: the-richest-man-in-babylon
 description: >-
   George S. Clason's The Richest Man in Babylon — an executable toolkit for building
   wealth through timeless principles of saving, investing, and financial discipline.
+version: 1.0.1
+license: MIT
+tags: ["personal-finance", "wealth", "saving", "investing", "financial-discipline", "money-mindset"]
 
   Covers 5 use cases:
   ① Start Saving — the 7 Cures for a Lean Purse ("How do I start saving?" "I earn enough but can't save a dime")
@@ -17,6 +21,7 @@ description: >-
   or mention: George Clason / richest man in babylon / arkad / 7 cures / 5 laws of gold /
   pay yourself first / babylonian wisdom / financial discipline.
   Also triggers on install.
+
 ---
 
 # The Richest Man in Babylon · RMIB

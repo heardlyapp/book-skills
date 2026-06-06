@@ -1,10 +1,14 @@
 ---
+
 name: the-moment-of-lift
 description: >-
   Melinda French Gates' The Moment of Lift — an executable toolkit that
   explores how empowering women transforms families, communities, and
   the world: family planning, education, economic empowerment, and
   gender equality in global development.
+version: 1.0.0
+license: MIT
+tags: ["women-empowerment", "gender-equality", "global-development", "philanthropy", "family-planning", "education", "microfinance"]
 
   Covers 5 use cases:
   ① Women's Empowerment — understanding the power of lifting women ("Why empowering women changes the world" "What is the moment of lift")
@@ -22,6 +26,7 @@ description: >-
   child marriage / poverty / global development / philanthropy.
 
   Related skills: lean-in, financial-feminist, ten-women-who-changed-science.
+
 ---
 
 ## Quick Start (Onboarding)

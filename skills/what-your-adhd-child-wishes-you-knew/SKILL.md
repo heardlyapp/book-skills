@@ -1,7 +1,11 @@
 ---
+
 name: what-your-adhd-child-wishes-you-knew
 description: >-
   Dr. Sharon Saline's What Your ADHD Child Wishes You Knew — an executable toolkit for parenting kids with ADHD using the Five C's framework: Self-Control, Compassion, Collaboration, Consistency, and Celebration.
+version: 1.0.0
+license: MIT
+tags: ["ADHD", "parenting", "children", "executive-function", "neurodiversity", "school", "behavior", "special-needs", "mental-health", "family"]
 
   Covers 5 use cases:
   ① Understanding the ADHD Brain — learn how ADHD actually works, separate the condition from the child, reduce blame and frustration ("Why does my child act this way" "Is it ADHD or bad behavior" "I don't understand what's going on in their head")
@@ -16,6 +20,7 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 
   Related skills: the-first-days-of-school (classroom management), the-happiness-advantage (positive psychology), nonviolent-communication (communication with children), the-mountain-is-you (self-sabotage patterns), atomic-habits (behavior change).
+
 ---
 
 ## Quick Start (Onboarding)

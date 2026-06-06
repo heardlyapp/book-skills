@@ -1,4 +1,5 @@
 ---
+
 name: lean-thinking
 description: >-
   James P. Womack & Daniel T. Jones' Lean Thinking — a systematic
@@ -24,6 +25,10 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't
   know how to start — the AI MUST proactively present the Quick Start
   guide below.
+version: 1.0.0
+license: MIT
+tags: ["lean", "operations", "manufacturing", "waste-reduction", "kaizen", "toyota", "value-stream", "continuous-improvement", "business", "management"]
+
 ---
 
 ## Quick Start (Onboarding)

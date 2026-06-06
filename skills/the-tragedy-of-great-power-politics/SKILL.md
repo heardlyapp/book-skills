@@ -1,9 +1,13 @@
 ---
+
 name: the-tragedy-of-great-power-politics
 description: >-
   John Mearsheimer's The Tragedy of Great Power Politics — offensive
   realism: why great powers inevitably compete for regional hegemony
   and how the international system drives conflict.
+version: 1.0.0
+license: MIT
+tags: ["international-relations", "geopolitics", "realism", "war", "power", "strategy", "political-science", "mearsheimer"]
 
   Covers 5 use cases:
   ① Offensive Realism — the theory ("What is offensive realism" "Why do great powers compete")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: leadership-in-turbulent-times, the-prize,
   richard-nixon, blood-and-oil.
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,10 +1,14 @@
 ---
+
 name: the-essential-drucker
 description: >-
   Peter Drucker's The Essential Drucker — an executable toolkit that
   applies Drucker's six decades of management wisdom: the five deadly
   business sins, management by objectives, innovation, the knowledge
   worker, the effective executive, and leading change.
+version: 1.0.0
+license: MIT
+tags: ["management", "leadership", "business", "innovation", "strategy", "drucker", "executive", "organization"]
 
   Covers 5 use cases:
   ① Management Fundamentals — core principles of effective management ("How to be a better manager" "What does management actually mean")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-servant (leadership), 7-habits (personal effectiveness),
   leadership-in-turbulent-times (crisis leadership).
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,8 +1,12 @@
 ---
+
 name: the-slight-edge
 description: >-
   Jeff Olson's The Slight Edge — an executable toolkit for understanding how small,
   daily, seemingly insignificant actions compound into massive success or failure.
+version: 1.0.0
+license: MIT
+tags: ["self-improvement", "habits", "success", "mindset", "consistency", "compound-effect"]
 
   Covers 5 use cases:
   ① Philosophy Shift — understand the power of small daily choices ("I know what to do but I don't do it")
@@ -14,6 +18,7 @@ description: >-
   Trigger when users say: "I know what to do but I don't do it" "Small daily actions feel pointless" "I've been trying for months with no results" "Success principles are simple but I can't execute"
   or mention: the slight edge / Jeff Olson / daily disciplines / compound effect / philosophy of success / simple daily actions.
   Also triggers on install.
+
 ---
 
 # The Slight Edge · SE

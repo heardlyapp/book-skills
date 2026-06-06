@@ -1,10 +1,14 @@
 ---
+
 name: ten-women-who-changed-science-and-the-world
 description: >-
   Catherine Whitlock and Rhodri Evans's Ten Women Who Changed Science and
   the World — an executable toolkit that extracts lessons from ten
   pioneering women scientists: their discoveries, their struggles against
   systemic barriers, and their enduring impact.
+version: 1.0.0
+license: MIT
+tags: ["women-in-science", "stem", "science", "biography", "inspiration", "history-of-science", "diversity"]
 
   Covers 5 use cases:
   ① Scientific Discovery — understand breakthroughs of ten women ("What did Marie Curie discover" "Who were the most influential women in science")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-element (finding your passion), creative-confidence (overcoming fear),
   inspired (innovation), the-mountain-is-you (self-sabotage).
+
 ---
 
 ## Quick Start (Onboarding)

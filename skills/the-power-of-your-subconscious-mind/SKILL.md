@@ -1,9 +1,13 @@
 ---
+
 name: the-power-of-your-subconscious-mind
 description: >-
   Joseph Murphy's The Power of Your Subconscious Mind — an executable
   toolkit on using the subconscious mind to transform your life through
   affirmations, visualization, belief change, and mental healing.
+version: 1.0.0
+license: MIT
+tags: ["subconscious-mind", "affirmations", "visualization", "self-help", "mind-power", "belief", "success", "personal-transformation"]
 
   Covers 5 use cases:
   ① Subconscious Power — understanding how the subconscious works ("What is the subconscious mind" "How to use my subconscious power")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: as-a-man-thinketh, think-and-grow-rich,
   the-alter-ego-effect, the-miracle-of-mindfulness.
+
 ---
 
 ## Quick Start (Onboarding)

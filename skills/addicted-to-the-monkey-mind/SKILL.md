@@ -1,10 +1,14 @@
 ---
+
 name: addicted-to-the-monkey-mind
 description: >-
   J.F. Benoist's Addicted to the Monkey Mind — an executable toolkit that
   identifies the programmed, reactive "Monkey Mind" driving your patterns
   of self-sabotage, and activates the "Observing Mind" to rewrite the beliefs
   that run your life.
+version: 1.0.0
+license: MIT
+tags: ["monkey-mind", "self-awareness", "childhood-programming", "limiting-beliefs", "inner-critic", "overthinking", "personal-development", "psychology"]
 
   Covers 5 use cases:
   ① Monkey Mind Awareness — recognize when the Monkey Mind is running your life ("I keep repeating the same mistakes" "Why do I always react this way")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-mountain-is-you (self-sabotage patterns), nonviolent-communication (observing without judgment),
   the-power-of-now (presence and awareness), clear-thinking-book (overcoming cognitive biases).
+
 ---
 
 ## Quick Start (Onboarding)

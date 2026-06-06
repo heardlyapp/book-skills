@@ -1,10 +1,14 @@
 ---
+
 name: the-pleasure-of-finding-things-out
 description: >-
   Richard P. Feynman's The Pleasure of Finding Things Out — an
   executable toolkit on the joy of scientific discovery, the value of
   doubt, the nature of physics, and Feynman's unique approach to
   understanding the world through curiosity and evidence.
+version: 1.0.0
+license: MIT
+tags: ["science", "physics", "feynman", "curiosity", "critical-thinking", "discovery", "learning", "education"]
 
   Covers 5 use cases:
   ① Scientific Curiosity — the joy of discovery ("How to be more curious like Feynman" "What is the pleasure of finding things out")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: the-grand-design, clear-thinking-book,
   the-art-of-thinking-clearly, a-mind-for-numbers.
+
 ---
 
 ## Quick Start (Onboarding)

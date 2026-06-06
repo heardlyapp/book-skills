@@ -1,8 +1,12 @@
 ---
+
 name: make-it-stick
 description: >-
   Roediger & McDaniel's Make It Stick — an executable toolkit for effective learning
   based on cognitive science. Stop re-reading and highlighting. Start retrieving and spacing.
+version: 1.0.0
+license: MIT
+tags: ["learning", "education", "memory", "study-skills", "cognitive-science", "productivity"]
 
   Covers 5 use cases:
   ① Study Smarter — replace passive review with active recall ("I study for hours but forget everything")
@@ -14,6 +18,7 @@ description: >-
   Trigger when users say: "I study hard but forget everything" "How do I learn effectively" "I re-read my notes but it doesn't stick" "How do I prepare for an exam" "How to remember what I read"
   or mention: make it stick / retrieval practice / spacing / interleaving / active recall / desirable difficulties / cognitive science of learning.
   Also triggers on install.
+
 ---
 
 # Make It Stick · MIS

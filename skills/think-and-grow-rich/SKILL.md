@@ -1,8 +1,12 @@
 ---
+
 name: think-and-grow-rich
 description: >-
   Napoleon Hill's Think and Grow Rich — an executable toolkit for harnessing the
   power of thought, desire, and persistence to achieve wealth and success.
+version: 1.0.0
+license: MIT
+tags: ["wealth", "success", "mindset", "goal-setting", "motivation", "self-help"]
 
   Covers 5 use cases:
   ① Mindset Shift — turn burning desire into reality ("I don't know what I want" "How do I set a compelling goal?")
@@ -16,6 +20,7 @@ description: >-
   or mention: Napoleon Hill / think and grow rich / burning desire / mastermind /
   definite purpose / faith / persistence / autosuggestion / the 13 steps.
   Also triggers on install.
+
 ---
 
 # Think and Grow Rich · TAGR

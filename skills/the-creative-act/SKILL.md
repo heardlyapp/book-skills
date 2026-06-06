@@ -1,10 +1,14 @@
 ---
+
 name: the-creative-act
 description: >-
   Rick Rubin's The Creative Act — an executable toolkit that applies
   Rubin's philosophy of creativity as a way of being: tuning into the
   universe, overcoming blocks, collaborating effectively, and making
   art that matters.
+version: 1.0.0
+license: MIT
+tags: ["creativity", "art", "music", "inspiration", "creative-process", "rick-rubin", "self-expression", "philosophy"]
 
   Covers 5 use cases:
   ① Creative Mindset — shift from "making art" to "being creative" as a way of life ("I don't feel creative" "How to access my creativity")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: big-magic (creative living), the-element (finding your passion),
   inspired (innovation), creative-confidence (unleashing creativity).
+
 ---
 
 ## Quick Start (Onboarding)

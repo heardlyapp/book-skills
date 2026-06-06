@@ -1,10 +1,14 @@
 ---
+
 name: richard-nixon
 description: >-
   John A. Farrell's Richard Nixon: The Life — an executable toolkit that
   extracts leadership, resilience, and cautionary lessons from Nixon's
   rise and fall: how the most resilient president in American history
   was also undone by his own character flaws.
+version: 1.0.0
+license: MIT
+tags: ["nixon", "president", "politics", "leadership", "watergate", "resilience", "history", "biography"]
 
   Covers 5 use cases:
   ① Resilience & Comeback — learn from Nixon's remarkable political comebacks ("How to bounce back from defeat" "Never count yourself out")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: leadership-in-turbulent-times (presidential leadership), 
   chimpanzee-politics (power dynamics), clear-thinking-book (cognitive biases).
+
 ---
 
 ## Quick Start (Onboarding)

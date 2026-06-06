@@ -1,10 +1,14 @@
 ---
+
 name: everyone-communicates-few-connect
 description: >-
   John C. Maxwell's Everyone Communicates, Few Connect — an executable
   toolkit that applies the 5 principles and 5 practices of connecting to
   transform how you communicate: moving from merely sending information
   to genuinely connecting with people.
+version: 1.0.0
+license: MIT
+tags: ["communication", "leadership", "connection", "rapport", "public-speaking", "influence", "relationships"]
 
   Covers 5 use cases:
   ① Connection Mindset — shift from self-focus to other-focus ("People don't seem to listen to me" "I want to be more engaging")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: how-to-win-friends (building relationships), talk-like-ted (presentation mastery),
   nonviolent-communication (empathetic listening).
+
 ---
 
 ## Quick Start (Onboarding)

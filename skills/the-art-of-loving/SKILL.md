@@ -1,10 +1,14 @@
 ---
+
 name: the-art-of-loving
 description: >-
   Erich Fromm's The Art of Loving — an executable toolkit that explores
   love not as a feeling but as an art that requires knowledge, effort,
   and practice, covering the different forms of love and how to cultivate
   genuine, mature love in modern society.
+version: 1.0.0
+license: MIT
+tags: ["love", "relationships", "psychology", "philosophy", "self-love", "personal-development", "fromm"]
 
   Covers 5 use cases:
   ① Love as an Art — understand that love is a skill, not a feeling ("Why do relationships fail" "Is love something you fall into or something you practice")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: nonviolent-communication (empathetic connection), the-road-less-traveled (growth through love),
   the-happiness-advantage (positive relationships), how-to-win-friends (building connection).
+
 ---
 
 ## Quick Start (Onboarding)

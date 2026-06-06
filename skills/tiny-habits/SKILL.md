@@ -1,8 +1,12 @@
 ---
+
 name: tiny-habits
 description: >-
   BJ Fogg's Tiny Habits — an executable toolkit for behavior design using the B=MAP model:
   make any habit tiny, anchor it, and celebrate.
+version: 1.0.1
+license: MIT
+tags: ["habits", "behavior-design", "self-improvement", "psychology", "productivity"]
 
   Covers 5 use cases:
   ① Behavior Design — build any habit using the B=MAP framework ("How do I make a habit that actually sticks")
@@ -16,6 +20,7 @@ description: >-
   or mention: BJ Fogg / tiny habits / B=MAP / behavior design / Fogg behavior model /
   motivation / ability / prompt / celebration / golden behavior / anchor moment.
   Also triggers on install.
+
 ---
 
 # Tiny Habits · TH

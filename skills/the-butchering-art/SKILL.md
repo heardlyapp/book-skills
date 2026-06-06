@@ -1,10 +1,14 @@
 ---
+
 name: the-butchering-art
 description: >-
   Lindsey Fitzharris's The Butchering Art — an executable toolkit that
   extracts lessons from Joseph Lister's quest to transform Victorian
   surgery through antiseptic technique: how one determined individual
   overcame entrenched opposition to revolutionize medicine.
+version: 1.0.0
+license: MIT
+tags: ["medical-history", "surgery", "innovation", "lister", "science", "antiseptic", "hygiene", "victorian"]
 
   Covers 5 use cases:
   ① Scientific Breakthrough — how Lister discovered antisepsis ("How was antiseptic surgery discovered" "What did Joseph Lister do")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: the-checklist-manifesto (process and standards), blowout (systems corruption),
   bad-blood (investigative approach), clear-thinking-book (challenging assumptions).
+
 ---
 
 ## Quick Start (Onboarding)

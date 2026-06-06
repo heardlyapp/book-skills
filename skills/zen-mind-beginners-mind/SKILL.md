@@ -1,7 +1,11 @@
 ---
+
 name: zen-mind-beginners-mind
 description: >-
   Shunryu Suzuki's Zen Mind, Beginner's Mind — an executable toolkit for Zen meditation and mindful living: how to cultivate a beginner's mind, establish a meditation practice, and bring Zen awareness into every aspect of daily life.
+version: 1.0.0
+license: MIT
+tags: ["zen", "meditation", "buddhism", "mindfulness", "spirituality", "beginner-mind", "zazen", "suzuki", "presence", "awareness"]
 
   Covers 5 use cases:
   ① Establishing a Meditation Practice — learn proper posture, breathing, and how to sit with a clear mind ("How to meditate" "My mind won't stop racing" "How to sit in zazen")
@@ -16,6 +20,7 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 
   Related skills: the-power-of-now (presence and mindfulness), be-here-now (spiritual awakening), the-miracle-of-mindfulness (mindful living), the-happiness-advantage (positive psychology), radical-happy (Buddhist happiness).
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,8 +1,12 @@
 ---
+
 name: rich-dad-poor-dad
 description: >-
   Robert Kiyosaki's Rich Dad Poor Dad — an executable toolkit that reframes how
   you think about money, assets, and financial freedom using the 6 Lessons framework.
+version: 1.0.0
+license: MIT
+tags: ["finance", "wealth", "investing", "financial-literacy", "money-mindset", "personal-finance"]
 
   Covers 5 use cases:
   ① Mindset Diagnosis — identify whether you're thinking like a poor/middle-class/rich person ("I can't afford it" vs "How can I afford it?")
@@ -19,6 +23,7 @@ description: >-
 
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
+
 ---
 
 # Rich Dad Poor Dad · RDPD

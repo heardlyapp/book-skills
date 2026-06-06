@@ -1,10 +1,14 @@
 ---
+
 name: the-grand-design
 description: >-
   Stephen Hawking and Leonard Mlodinow's The Grand Design — an executable
   toolkit that explores the nature of the universe: the laws of physics,
   quantum mechanics, M-theory, the origin of the cosmos, and why the
   universe doesn't need a creator.
+version: 1.0.0
+license: MIT
+tags: ["cosmology", "physics", "hawking", "universe", "quantum-mechanics", "m-theory", "big-bang", "science"]
 
   Covers 5 use cases:
   ① Origin of the Universe — how the universe began ("How did the universe start" "What was before the Big Bang")
@@ -21,6 +25,7 @@ description: >-
   cosmology / black holes / string theory / time / creation / reality / multiverse.
 
   Related skills: power-sex-suicide (science), clear-thinking-book (rational thinking).
+
 ---
 
 ## Quick Start (Onboarding)

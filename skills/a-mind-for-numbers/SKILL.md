@@ -1,10 +1,14 @@
 ---
+
 name: a-mind-for-numbers
 description: >-
   Barbara Oakley's A Mind for Numbers — an executable toolkit that applies
   the science of effective learning (focused/diffuse modes, chunking,
   recall, and procrastination management) to master math, science, and any
   technical subject.
+version: 1.0.0
+license: MIT
+tags: ["learning", "study-skills", "math", "science", "memory", "procrastination", "education", "chunking", "recall"]
 
   Covers 6 use cases:
   ① Learning Strategy Design — build a study system that actually works ("I study for hours but don't retain anything" "How do I learn math/science effectively")
@@ -25,6 +29,7 @@ description: >-
 
   Related skills: atomic-habits (habit systems for study routines), tiny-habits (micro-study behaviors),
   make-it-stick (retrieval practice and learning science), the-slight-edge (daily discipline).
+
 ---
 
 ## Quick Start (Onboarding)

@@ -1,4 +1,5 @@
 ---
+
 name: bad-blood
 description: >-
   John Carreyrou's Bad Blood — an executable toolkit that extracts the
@@ -6,6 +7,9 @@ description: >-
   Silicon Valley, how charismatic founders deceive smart people, which red
   flags to watch for, and how whistleblowers and journalists exposed the
   truth.
+version: 1.0.0
+license: MIT
+tags: ["theranos", "fraud", "silicon-valley", "startup", "whistleblowing", "investigative-journalism", "corporate-governance", "due-diligence"]
 
   Covers 5 use cases:
   ① Fraud Pattern Recognition — spot warning signs in startups making bold claims ("I'm worried my company is cutting corners" "Is this startup too good to be true")
@@ -25,6 +29,7 @@ description: >-
 
   Related skills: clear-thinking-book (critical thinking and cognitive biases),
   the-checklist-manifesto (process and oversight), the-mountain-is-you (self-deception awareness).
+
 ---
 
 ## Quick Start (Onboarding)

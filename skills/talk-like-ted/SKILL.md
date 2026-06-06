@@ -1,9 +1,13 @@
 ---
+
 name: talk-like-ted
 description: >-
   Carmine Gallo's Talk Like TED — an executable toolkit that applies the 9
   public-speaking secrets of the world's most popular TED talks to craft
   presentations that are emotional, novel, and memorable.
+version: 1.0.0
+license: MIT
+tags: ["public-speaking", "presentation-skills", "ted-talks", "storytelling", "communication", "leadership", "pitch"]
 
   Covers 6 use cases:
   ① Message Crafting — find your core message and lead with passion ("I have to give a big presentation and don't know where to start" "How do I make my pitch more compelling")
@@ -22,6 +26,7 @@ description: >-
 
   Related skills: creative-confidence (overcoming fear), how-to-win-friends (connecting with people),
   convinced (persuasion — if published), atomic-habits (practice and rehearsal discipline).
+
 ---
 
 ## Quick Start (Onboarding)

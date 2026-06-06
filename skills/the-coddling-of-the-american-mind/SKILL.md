@@ -1,10 +1,14 @@
 ---
+
 name: the-coddling-of-the-american-mind
 description: >-
   Greg Lukianoff and Jonathan Haidt's The Coddling of the American Mind —
   an executable toolkit that applies CBT principles to understand the
   "Three Great Untruths" weakening resilience, explains the rise of
   safetyism, and offers strategies for fostering antifragility.
+version: 1.0.0
+license: MIT
+tags: ["resilience", "psychology", "education", "free-speech", "cbt", "polarization", "mental-health", "parenting"]
 
   Covers 5 use cases:
   ① The Three Great Untruths — understand why these beliefs weaken resilience ("What is safetyism" "Why are young people less resilient")
@@ -23,6 +27,7 @@ description: >-
 
   Related skills: clear-thinking-book (cognitive biases), the-happiness-advantage (positive psychology),
   nonviolent-communication (disagreeing productively), cant-hurt-me (mental toughness).
+
 ---
 
 ## Quick Start (Onboarding)
