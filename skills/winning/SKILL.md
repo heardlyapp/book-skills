@@ -5,7 +5,17 @@ description: >-
   Jack Welch's Winning — an executable toolkit for business leadership: how to build a culture of candor, differentiate your people, manage talent rigorously, and drive your organization to outperform.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "management", "business", "strategy", "talent", "candor", "ge", "welch", "execution", "organizational-culture"]
+tags:
+  - leadership
+  - management
+  - business
+  - strategy
+  - talent
+  - candor
+  - ge
+  - welch
+  - execution
+  - organizational-culture
 
   Covers 5 use cases:
   ① Building a Culture of Candor — create an environment where people speak openly, feedback flows freely, and the best ideas win ("People don't tell me the truth" "My team avoids hard conversations" "How to get honest feedback")

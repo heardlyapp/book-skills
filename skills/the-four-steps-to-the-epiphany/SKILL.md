@@ -8,7 +8,14 @@ description: >-
   traditional product development with a customer-first approach.
 version: 1.0.0
 license: MIT
-tags: ["startup", "customer-development", "lean-startup", "entrepreneurship", "product-management", "innovation", "business-model"]
+tags:
+  - startup
+  - customer-development
+  - lean-startup
+  - entrepreneurship
+  - product-management
+  - innovation
+  - business-model
 
   Covers 5 use cases:
   ① Customer Discovery — find if there's a market before building ("Does anyone want this" "How to test my business idea")

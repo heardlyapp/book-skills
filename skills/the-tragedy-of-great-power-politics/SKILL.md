@@ -7,7 +7,15 @@ description: >-
   and how the international system drives conflict.
 version: 1.0.0
 license: MIT
-tags: ["international-relations", "geopolitics", "realism", "war", "power", "strategy", "political-science", "mearsheimer"]
+tags:
+  - international-relations
+  - geopolitics
+  - realism
+  - war
+  - power
+  - strategy
+  - political-science
+  - mearsheimer
 
   Covers 5 use cases:
   ① Offensive Realism — the theory ("What is offensive realism" "Why do great powers compete")

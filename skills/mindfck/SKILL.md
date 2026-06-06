@@ -24,7 +24,17 @@ description: >-
   the AI MUST proactively present the Quick Start guide below.
 version: 1.0.0
 license: MIT
-tags: ["surveillance-capitalism", "election-interference", "data-privacy", "cambridge-analytica", "psychological-warfare", "political-manipulation", "whistleblowing", "social-media", "big-tech", "democracy"]
+tags:
+  - surveillance-capitalism
+  - election-interference
+  - data-privacy
+  - cambridge-analytica
+  - psychological-warfare
+  - political-manipulation
+  - whistleblowing
+  - social-media
+  - big-tech
+  - democracy
 
 ---
 

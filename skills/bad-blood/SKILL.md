@@ -9,7 +9,15 @@ description: >-
   truth.
 version: 1.0.0
 license: MIT
-tags: ["theranos", "fraud", "silicon-valley", "startup", "whistleblowing", "investigative-journalism", "corporate-governance", "due-diligence"]
+tags:
+  - theranos
+  - fraud
+  - silicon-valley
+  - startup
+  - whistleblowing
+  - investigative-journalism
+  - corporate-governance
+  - due-diligence
 
   Covers 5 use cases:
   ① Fraud Pattern Recognition — spot warning signs in startups making bold claims ("I'm worried my company is cutting corners" "Is this startup too good to be true")

@@ -7,7 +7,15 @@ description: >-
   building customer relationships.
 version: 1.0.0
 license: MIT
-tags: ["sales", "selling", "business", "psychology", "persuasion", "closing", "prospecting", "communication"]
+tags:
+  - sales
+  - selling
+  - business
+  - psychology
+  - persuasion
+  - closing
+  - prospecting
+  - communication
 
   Covers 5 use cases:
   ① Prospecting — finding qualified leads ("How to find prospects" "What is prospecting")

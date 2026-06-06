@@ -5,7 +5,15 @@ description: >-
   Dina Gilio-Whitaker's Who Gets to Be Indian? — an executable toolkit exploring the complex landscape of Native American identity: ethnic fraud, tribal enrollment and disenrollment, cultural appropriation, and what it means to be Indian in contemporary America.
 version: 1.0.0
 license: MIT
-tags: ["native-american", "identity", "ethnic-fraud", "tribal-sovereignty", "cultural-appropriation", "indigenous", "decolonial", "social-justice"]
+tags:
+  - native-american
+  - identity
+  - ethnic-fraud
+  - tribal-sovereignty
+  - cultural-appropriation
+  - indigenous
+  - decolonial
+  - social-justice
 
   Covers 5 use cases:
   ① Understanding Native Identity — learn the difference between political citizenship, racial identity, and cultural belonging in Native communities ("What makes someone Native American" "How is tribal membership determined" "Am I Native if I have an ancestor")

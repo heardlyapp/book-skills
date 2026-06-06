@@ -8,7 +8,14 @@ description: >-
   systemic barriers, and their enduring impact.
 version: 1.0.0
 license: MIT
-tags: ["women-in-science", "stem", "science", "biography", "inspiration", "history-of-science", "diversity"]
+tags:
+  - women-in-science
+  - stem
+  - science
+  - biography
+  - inspiration
+  - history-of-science
+  - diversity
 
   Covers 5 use cases:
   ① Scientific Discovery — understand breakthroughs of ten women ("What did Marie Curie discover" "Who were the most influential women in science")

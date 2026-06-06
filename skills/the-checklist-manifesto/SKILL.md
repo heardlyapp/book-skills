@@ -6,7 +6,14 @@ description: >-
   preventing errors, and getting things right in high-stakes environments.
 version: 1.0.1
 license: MIT
-tags: ["productivity", "systems", "quality", "leadership", "healthcare", "aviation", "engineering"]
+tags:
+  - productivity
+  - systems
+  - quality
+  - leadership
+  - healthcare
+  - aviation
+  - engineering
 
   Covers 5 use cases:
   ① Complexity Management — handle tasks too complex for memory alone ("I keep missing steps in complex tasks" "How do I avoid forgetting critical steps")

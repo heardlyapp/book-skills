@@ -8,7 +8,16 @@ description: >-
   recognition that the only moment that exists is this one.
 version: 1.0.0
 license: MIT
-tags: ["spirituality", "meditation", "presence", "consciousness", "yoga", "love", "self-discovery", "mindfulness", "ram-dass"]
+tags:
+  - spirituality
+  - meditation
+  - presence
+  - consciousness
+  - yoga
+  - love
+  - self-discovery
+  - mindfulness
+  - ram-dass
 
   Covers 5 use cases:
   ① Presence Practice — cultivate the ability to be fully in the here and now ("My mind is always in the future or past" "How do I be present")

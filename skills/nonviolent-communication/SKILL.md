@@ -8,7 +8,13 @@ description: >-
   human needs for compassionate communication.
 version: 1.0.0
 license: MIT
-tags: ["communication", "psychology", "nvc", "conflict-resolution", "empathy", "self-help"]
+tags:
+  - communication
+  - psychology
+  - nvc
+  - conflict-resolution
+  - empathy
+  - self-help
 
   Covers 6 use cases:
   ① Message Rewriting — reframe blame/judgment into NVC ("Help me say this better" "Rewrite this so it doesn't sound harsh")

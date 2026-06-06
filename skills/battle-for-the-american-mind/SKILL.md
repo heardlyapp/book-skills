@@ -9,7 +9,15 @@ description: >-
   children's formation.
 version: 1.0.0
 license: MIT
-tags: ["education", "classical-education", "parenting", "philosophy", "curriculum", "school-choice", "paideia", "trivium"]
+tags:
+  - education
+  - classical-education
+  - parenting
+  - philosophy
+  - curriculum
+  - school-choice
+  - paideia
+  - trivium
 
   Covers 5 use cases:
   ① Educational Philosophy Analysis — understand the difference between progressive and classical education ("What's wrong with modern education" "How did schools change so much")

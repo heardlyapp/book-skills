@@ -8,7 +8,16 @@ description: >-
   technical subject.
 version: 1.0.0
 license: MIT
-tags: ["learning", "study-skills", "math", "science", "memory", "procrastination", "education", "chunking", "recall"]
+tags:
+  - learning
+  - study-skills
+  - math
+  - science
+  - memory
+  - procrastination
+  - education
+  - chunking
+  - recall
 
   Covers 6 use cases:
   ① Learning Strategy Design — build a study system that actually works ("I study for hours but don't retain anything" "How do I learn math/science effectively")

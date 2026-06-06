@@ -8,7 +8,14 @@ description: >-
   your life from the inside out.
 version: 1.0.0
 license: MIT
-tags: ["self-sabotage", "emotional-intelligence", "personal-development", "self-mastery", "psychology", "transformation", "limiting-beliefs"]
+tags:
+  - self-sabotage
+  - emotional-intelligence
+  - personal-development
+  - self-mastery
+  - psychology
+  - transformation
+  - limiting-beliefs
 
   Covers 6 use cases:
   ① Self-Sabotage Diagnosis — identify why you keep getting in your own way ("Why do I always quit when things get hard?" "I keep doing the opposite of what I know I should do")

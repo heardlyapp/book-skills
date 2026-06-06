@@ -7,7 +7,15 @@ description: >-
   your best self, and perform at your peak when it matters most.
 version: 1.0.0
 license: MIT
-tags: ["confidence", "performance", "psychology", "persona", "peak-performance", "identity", "self-improvement", "mental-toughness"]
+tags:
+  - confidence
+  - performance
+  - psychology
+  - persona
+  - peak-performance
+  - identity
+  - self-improvement
+  - mental-toughness
 
   Covers 5 use cases:
   ① Creating an Alter Ego — design a secret identity that brings out your best ("How to create an alter ego" "I need to be more confident in certain situations")

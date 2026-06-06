@@ -5,7 +5,15 @@ description: >-
   Michelle Alexander's The New Jim Crow — an executable toolkit for understanding mass incarceration as a racial caste system in America: its history, mechanisms, human impact, and what can be done about it.
 version: 1.0.0
 license: MIT
-tags: ["social-justice", "mass-incarceration", "racial-justice", "criminal-justice", "prison", "civil-rights", "law", "activism"]
+tags:
+  - social-justice
+  - mass-incarceration
+  - racial-justice
+  - criminal-justice
+  - prison
+  - civil-rights
+  - law
+  - activism
 
   Covers 5 use cases:
   ① Understanding Mass Incarceration — grasp how the War on Drugs created a system that locks up Black and brown Americans at unprecedented rates ("Why are so many Black men in prison" "How did the War on Drugs create mass incarceration" "What is the New Jim Crow")

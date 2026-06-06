@@ -8,7 +8,15 @@ description: >-
   rules that never change no matter the era.
 version: 1.0.0
 license: MIT
-tags: ["grit", "perseverance", "discipline", "mental-toughness", "success", "motivation", "work-ethic", "resilience"]
+tags:
+  - grit
+  - perseverance
+  - discipline
+  - mental-toughness
+  - success
+  - motivation
+  - work-ethic
+  - resilience
 
   Covers 5 use cases:
   ① Grit & Perseverance — develop the ability to keep going when things get hard ("I give up too easily" "How do I keep going when I want to quit")

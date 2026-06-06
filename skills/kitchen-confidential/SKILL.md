@@ -5,7 +5,16 @@ description: >-
   Anthony Bourdain's Kitchen Confidential — an executable toolkit for leadership, resilience, and high-performance culture drawn from the brutal, beautiful world of professional kitchens.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "cooking", "restaurant", "high-performance", "kitchen-culture", "bourdain", "management", "team-culture", "hospitality"]
+tags:
+  - leadership
+  - cooking
+  - restaurant
+  - high-performance
+  - kitchen-culture
+  - bourdain
+  - management
+  - team-culture
+  - hospitality
 
   Covers 5 use cases:
   ① Building High-Performance Culture — create a team that operates with precision, pride, and accountability under pressure ("How to build a strong team culture" "My team cuts corners" "How to create accountability")

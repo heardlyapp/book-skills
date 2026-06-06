@@ -8,7 +8,15 @@ description: >-
   and extreme weather, and the human stories behind the statistics.
 version: 1.0.0
 license: MIT
-tags: ["climate-change", "migration", "environment", "displacement", "disaster", "adaptation", "community", "policy"]
+tags:
+  - climate-change
+  - migration
+  - environment
+  - displacement
+  - disaster
+  - adaptation
+  - community
+  - policy
 
   Covers 5 use cases:
   ① Climate Migration Understanding — how climate change displaces Americans ("How does climate change cause migration" "Where are climate refugees going")

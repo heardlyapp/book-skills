@@ -5,7 +5,16 @@ description: >-
   Alex Hormozi's $100M Offers — an executable toolkit for creating offers so compelling that people feel stupid saying no. Master the value equation, pricing psychology, and offer design to transform your business.
 version: 1.0.0
 license: MIT
-tags: ["business", "sales", "marketing", "pricing", "offers", "entrepreneurship", "value", "conversion", "high-ticket"]
+tags:
+  - business
+  - sales
+  - marketing
+  - pricing
+  - offers
+  - entrepreneurship
+  - value
+  - conversion
+  - high-ticket
 
   Covers 5 use cases:
   ① The Value Equation — understand the four levers that drive perceived value: Dream Outcome, Problem Awareness, Time Delay, Effort/Sacrifice ("Why aren't people buying my product" "How to make my offer irresistible" "What drives customer decisions")

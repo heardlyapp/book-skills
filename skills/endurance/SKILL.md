@@ -5,7 +5,16 @@ description: >-
   Alfred Lansing's Endurance — an executable toolkit for leadership under extreme adversity, drawn from the harrowing true story of Ernest Shackleton's 1914 Antarctic expedition and the survival of his entire crew against impossible odds.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "survival", "crisis", "shackleton", "antarctica", "adventure", "teamwork", "resilience", "history"]
+tags:
+  - leadership
+  - survival
+  - crisis
+  - shackleton
+  - antarctica
+  - adventure
+  - teamwork
+  - resilience
+  - history
 
   Covers 5 use cases:
   ① Leadership in Crisis — how Shackleton kept his crew alive, united, and hopeful through nearly two years of unimaginable hardship ("How to lead when everything goes wrong" "Keeping a team motivated through crisis" "Leadership lessons from Shackleton")

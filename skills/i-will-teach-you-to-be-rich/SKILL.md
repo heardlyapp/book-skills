@@ -8,7 +8,14 @@ description: >-
   Spending Plan, and design your Rich Life.
 version: 1.0.0
 license: MIT
-tags: ["personal-finance", "money", "investing", "credit-cards", "budgeting", "wealth", "ramit-sethi"]
+tags:
+  - personal-finance
+  - money
+  - investing
+  - credit-cards
+  - budgeting
+  - wealth
+  - ramit-sethi
 
   Covers 5 use cases:
   ① Credit Card Optimization — pick the best cards, negotiate fees, earn rewards ("How to pick a credit card" "I have credit card debt — help")

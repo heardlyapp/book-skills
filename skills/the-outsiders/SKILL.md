@@ -8,7 +8,14 @@ description: >-
   divestitures, and knowing when to do nothing.
 version: 1.0.0
 license: MIT
-tags: ["business", "ceo", "capital-allocation", "investing", "management", "leadership", "value-investing"]
+tags:
+  - business
+  - ceo
+  - capital-allocation
+  - investing
+  - management
+  - leadership
+  - value-investing
 
   Covers 5 use cases:
   ① Capital Allocation — the CEO's most important job ("What is capital allocation" "How to allocate capital wisely")

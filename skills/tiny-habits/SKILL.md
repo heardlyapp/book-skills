@@ -6,7 +6,12 @@ description: >-
   make any habit tiny, anchor it, and celebrate.
 version: 1.0.1
 license: MIT
-tags: ["habits", "behavior-design", "self-improvement", "psychology", "productivity"]
+tags:
+  - habits
+  - behavior-design
+  - self-improvement
+  - psychology
+  - productivity
 
   Covers 5 use cases:
   ① Behavior Design — build any habit using the B=MAP framework ("How do I make a habit that actually sticks")

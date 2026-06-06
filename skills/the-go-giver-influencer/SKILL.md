@@ -8,7 +8,14 @@ description: >-
   finding the "third way" beyond win-lose, and leading through service.
 version: 1.0.0
 license: MIT
-tags: ["influence", "persuasion", "negotiation", "leadership", "servant-leadership", "relationships", "communication"]
+tags:
+  - influence
+  - persuasion
+  - negotiation
+  - leadership
+  - servant-leadership
+  - relationships
+  - communication
 
   Covers 5 use cases:
   ① Influence Through Service — gain influence by giving value first ("How to influence without manipulation" "How to get people to listen")

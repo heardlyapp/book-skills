@@ -29,7 +29,17 @@ description: >-
   below.
 version: 1.0.1
 license: MIT
-tags: ["manifestation", "neuroscience", "visualization", "intention-setting", "habit", "mindfulness", "self-improvement", "neuroplasticity", "personal-development", "james-doty"]
+tags:
+  - manifestation
+  - neuroscience
+  - visualization
+  - intention-setting
+  - habit
+  - mindfulness
+  - self-improvement
+  - neuroplasticity
+  - personal-development
+  - james-doty
 
 ---
 

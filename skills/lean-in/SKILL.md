@@ -6,7 +6,13 @@ description: >-
   leadership ambitions, overcome internal barriers, and create more equal workplaces.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "women-in-business", "career", "mentorship", "negotiation", "gender-equality"]
+tags:
+  - leadership
+  - women-in-business
+  - career
+  - mentorship
+  - negotiation
+  - gender-equality
 
   Covers 5 use cases:
   ① Build Ambition — overcome the confidence gap ("I don't feel qualified enough" "I hesitate to speak up")

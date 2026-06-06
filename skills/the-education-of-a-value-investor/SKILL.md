@@ -8,7 +8,15 @@ description: >-
   biases, and cultivate the temperament for long-term success.
 version: 1.0.0
 license: MIT
-tags: ["investing", "value-investing", "buffett", "graham", "psychology", "finance", "long-term", "stocks"]
+tags:
+  - investing
+  - value-investing
+  - buffett
+  - graham
+  - psychology
+  - finance
+  - long-term
+  - stocks
 
   Covers 5 use cases:
   ① Value Investing Mindset — adopt Graham and Buffett principles ("How to think like a value investor" "What is the Buffett approach")

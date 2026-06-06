@@ -15,7 +15,14 @@ description: >-
   Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "history", "presidents", "adversity", "crisis-management", "transformational-leadership", "doris-kearns-goodwin"]
+tags:
+  - leadership
+  - history
+  - presidents
+  - adversity
+  - crisis-management
+  - transformational-leadership
+  - doris-kearns-goodwin
 
 ---
 

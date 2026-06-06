@@ -8,7 +8,14 @@ description: >-
   gender equality in global development.
 version: 1.0.0
 license: MIT
-tags: ["women-empowerment", "gender-equality", "global-development", "philanthropy", "family-planning", "education", "microfinance"]
+tags:
+  - women-empowerment
+  - gender-equality
+  - global-development
+  - philanthropy
+  - family-planning
+  - education
+  - microfinance
 
   Covers 5 use cases:
   ① Women's Empowerment — understanding the power of lifting women ("Why empowering women changes the world" "What is the moment of lift")

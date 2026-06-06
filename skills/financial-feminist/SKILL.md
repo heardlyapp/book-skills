@@ -8,7 +8,15 @@ description: >-
   finances and build a life you love.
 version: 1.0.0
 license: MIT
-tags: ["personal-finance", "money", "investing", "budgeting", "women", "feminism", "debt", "financial-independence"]
+tags:
+  - personal-finance
+  - money
+  - investing
+  - budgeting
+  - women
+  - feminism
+  - debt
+  - financial-independence
 
   Covers 5 use cases:
   ① Money Mindset — understand your emotional relationship with money and rewrite limiting beliefs ("I feel guilty spending money on myself" "Why am I so anxious about finances")

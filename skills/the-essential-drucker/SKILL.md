@@ -8,7 +8,15 @@ description: >-
   worker, the effective executive, and leading change.
 version: 1.0.0
 license: MIT
-tags: ["management", "leadership", "business", "innovation", "strategy", "drucker", "executive", "organization"]
+tags:
+  - management
+  - leadership
+  - business
+  - innovation
+  - strategy
+  - drucker
+  - executive
+  - organization
 
   Covers 5 use cases:
   ① Management Fundamentals — core principles of effective management ("How to be a better manager" "What does management actually mean")

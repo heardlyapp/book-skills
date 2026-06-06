@@ -6,7 +6,15 @@ description: >-
   wars, economies, and geopolitics from the 19th century to the Gulf War.
 version: 1.0.0
 license: MIT
-tags: ["oil", "energy", "history", "geopolitics", "economy", "petroleum", "energy-policy", "middle-east"]
+tags:
+  - oil
+  - energy
+  - history
+  - geopolitics
+  - economy
+  - petroleum
+  - energy-policy
+  - middle-east
 
   Covers 5 use cases:
   ① Oil History — rise of the industry ("How did oil start" "Who founded Standard Oil")

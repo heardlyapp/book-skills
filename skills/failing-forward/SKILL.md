@@ -7,7 +7,14 @@ description: >-
   rather than stop signs, and building the resilience to keep moving forward.
 version: 1.0.0
 license: MIT
-tags: ["failure", "resilience", "persistence", "growth-mindset", "leadership", "learning", "confidence"]
+tags:
+  - failure
+  - resilience
+  - persistence
+  - growth-mindset
+  - leadership
+  - learning
+  - confidence
 
   Covers 5 use cases:
   ① Failure Reframing — shift from seeing failure as final to seeing it as feedback ("I'm afraid of failing" "How do I handle rejection")

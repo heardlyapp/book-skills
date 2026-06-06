@@ -8,7 +8,15 @@ description: >-
   understanding the world through curiosity and evidence.
 version: 1.0.0
 license: MIT
-tags: ["science", "physics", "feynman", "curiosity", "critical-thinking", "discovery", "learning", "education"]
+tags:
+  - science
+  - physics
+  - feynman
+  - curiosity
+  - critical-thinking
+  - discovery
+  - learning
+  - education
 
   Covers 5 use cases:
   ① Scientific Curiosity — the joy of discovery ("How to be more curious like Feynman" "What is the pleasure of finding things out")

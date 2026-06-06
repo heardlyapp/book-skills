@@ -6,7 +6,13 @@ description: >-
   wealth through timeless principles of saving, investing, and financial discipline.
 version: 1.0.1
 license: MIT
-tags: ["personal-finance", "wealth", "saving", "investing", "financial-discipline", "money-mindset"]
+tags:
+  - personal-finance
+  - wealth
+  - saving
+  - investing
+  - financial-discipline
+  - money-mindset
 
   Covers 5 use cases:
   ① Start Saving — the 7 Cures for a Lean Purse ("How do I start saving?" "I earn enough but can't save a dime")

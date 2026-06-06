@@ -8,7 +8,14 @@ description: >-
   manage student behavior, and maximize learning.
 version: 1.0.0
 license: MIT
-tags: ["teaching", "education", "classroom-management", "teacher", "school", "pedagogy", "procedures"]
+tags:
+  - teaching
+  - education
+  - classroom-management
+  - teacher
+  - school
+  - pedagogy
+  - procedures
 
   Covers 5 use cases:
   ① Classroom Management — establish procedures that create productive learning ("How to manage a classroom" "My students are out of control")

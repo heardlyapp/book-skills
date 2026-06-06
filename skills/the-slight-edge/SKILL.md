@@ -6,7 +6,13 @@ description: >-
   daily, seemingly insignificant actions compound into massive success or failure.
 version: 1.0.0
 license: MIT
-tags: ["self-improvement", "habits", "success", "mindset", "consistency", "compound-effect"]
+tags:
+  - self-improvement
+  - habits
+  - success
+  - mindset
+  - consistency
+  - compound-effect
 
   Covers 5 use cases:
   ① Philosophy Shift — understand the power of small daily choices ("I know what to do but I don't do it")

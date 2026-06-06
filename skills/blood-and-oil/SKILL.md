@@ -9,7 +9,15 @@ description: >-
   analyze political risk in petrostates.
 version: 1.0.0
 license: MIT
-tags: ["geopolitics", "saudi-arabia", "oil", "mbs", "middle-east", "political-risk", "authoritarianism", "investigative-journalism"]
+tags:
+  - geopolitics
+  - saudi-arabia
+  - oil
+  - mbs
+  - middle-east
+  - political-risk
+  - authoritarianism
+  - investigative-journalism
 
   Covers 5 use cases:
   ① Geopolitical Analysis — understand the intersection of oil, power, and authoritarian rule ("How does Saudi Arabia actually work" "Who is MBS and how did he rise")

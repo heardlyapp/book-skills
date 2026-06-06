@@ -8,7 +8,15 @@ description: >-
   and trusting the creative process.
 version: 1.0.0
 license: MIT
-tags: ["creativity", "inspiration", "art", "writing", "courage", "perfectionism", "creative-block", "self-expression"]
+tags:
+  - creativity
+  - inspiration
+  - art
+  - writing
+  - courage
+  - perfectionism
+  - creative-block
+  - self-expression
 
   Covers 5 use cases:
   ① Fear Management — stop fear from blocking your creativity ("I'm terrified of putting my work out there" "Impostor syndrome is killing my creativity")

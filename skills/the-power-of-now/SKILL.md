@@ -6,7 +6,15 @@ description: >-
   mind identification, dissolving the pain-body, and living in the present moment.
 version: 1.0.0
 license: MIT
-tags: ["mindfulness", "spirituality", "presence", "meditation", "ego", "consciousness", "healing", "inner-peace"]
+tags:
+  - mindfulness
+  - spirituality
+  - presence
+  - meditation
+  - ego
+  - consciousness
+  - healing
+  - inner-peace
 
   Covers 5 use cases:
   ① Mind Identification — recognize you are not your thoughts ("I can't stop thinking" "My mind won't shut up")

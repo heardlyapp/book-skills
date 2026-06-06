@@ -7,7 +7,15 @@ description: >-
   in every moment, transform suffering, and find peace in daily life.
 version: 1.0.0
 license: MIT
-tags: ["mindfulness", "meditation", "zen", "thich-nhat-hanh", "breathing", "presence", "spirituality", "peace"]
+tags:
+  - mindfulness
+  - meditation
+  - zen
+  - thich-nhat-hanh
+  - breathing
+  - presence
+  - spirituality
+  - peace
 
   Covers 5 use cases:
   ① Core Mindfulness — what mindfulness is ("What is mindfulness" "How to be mindful" "What is meditation")

@@ -8,7 +8,15 @@ description: >-
   families, and the evolution of mental health treatment and research.
 version: 1.0.0
 license: MIT
-tags: ["mental-health", "schizophrenia", "family", "genetics", "psychiatry", "caregiving", "trauma", "neuroscience"]
+tags:
+  - mental-health
+  - schizophrenia
+  - family
+  - genetics
+  - psychiatry
+  - caregiving
+  - trauma
+  - neuroscience
 
   Covers 5 use cases:
   ① Understanding Schizophrenia — recognize the signs, symptoms, and realities of severe mental illness ("What is schizophrenia" "How to understand someone with schizophrenia")

@@ -8,7 +8,15 @@ description: >-
   was also undone by his own character flaws.
 version: 1.0.0
 license: MIT
-tags: ["nixon", "president", "politics", "leadership", "watergate", "resilience", "history", "biography"]
+tags:
+  - nixon
+  - president
+  - politics
+  - leadership
+  - watergate
+  - resilience
+  - history
+  - biography
 
   Covers 5 use cases:
   ① Resilience & Comeback — learn from Nixon's remarkable political comebacks ("How to bounce back from defeat" "Never count yourself out")

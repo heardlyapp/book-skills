@@ -6,7 +6,13 @@ description: >-
   psychology to fuel success and performance at work and in life.
 version: 1.0.0
 license: MIT
-tags: ["happiness", "positive-psychology", "resilience", "productivity", "gratitude", "workplace-wellbeing"]
+tags:
+  - happiness
+  - positive-psychology
+  - resilience
+  - productivity
+  - gratitude
+  - workplace-wellbeing
 
   Covers 5 use cases:
   ① Mindset Shift — reverse the "success first, happiness later" formula ("I'll be happy when I succeed" "I'm waiting for XYZ to be happy")

@@ -8,7 +8,14 @@ description: >-
   behavior, revealing the biological roots of human politics.
 version: 1.0.0
 license: MIT
-tags: ["primatology", "power", "leadership", "social-dynamics", "evolution", "psychology", "organizational-behavior"]
+tags:
+  - primatology
+  - power
+  - leadership
+  - social-dynamics
+  - evolution
+  - psychology
+  - organizational-behavior
 
   Covers 5 use cases:
   ① Power Dynamics Analysis — understand how hierarchies form and shift ("Who really has power in my organization" "How do power struggles work")

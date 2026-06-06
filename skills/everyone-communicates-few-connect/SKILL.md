@@ -8,7 +8,14 @@ description: >-
   to genuinely connecting with people.
 version: 1.0.0
 license: MIT
-tags: ["communication", "leadership", "connection", "rapport", "public-speaking", "influence", "relationships"]
+tags:
+  - communication
+  - leadership
+  - connection
+  - rapport
+  - public-speaking
+  - influence
+  - relationships
 
   Covers 5 use cases:
   ① Connection Mindset — shift from self-focus to other-focus ("People don't seem to listen to me" "I want to be more engaging")

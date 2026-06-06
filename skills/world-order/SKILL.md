@@ -5,7 +5,15 @@ description: >-
   Henry Kissinger's World Order — an executable toolkit for understanding global geopolitics: how nations interact, the balance of power, diplomatic strategy, and the forces shaping international order.
 version: 1.0.0
 license: MIT
-tags: ["geopolitics", "international-relations", "diplomacy", "kissinger", "world-order", "balance-of-power", "foreign-policy", "history"]
+tags:
+  - geopolitics
+  - international-relations
+  - diplomacy
+  - kissinger
+  - world-order
+  - balance-of-power
+  - foreign-policy
+  - history
 
   Covers 5 use cases:
   ① Understanding Geopolitics — grasp the fundamental forces that shape relations between nations: power, legitimacy, sovereignty ("How does the world really work" "Why do countries act the way they do" "What drives international relations")

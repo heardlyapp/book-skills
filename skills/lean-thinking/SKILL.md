@@ -27,7 +27,17 @@ description: >-
   guide below.
 version: 1.0.0
 license: MIT
-tags: ["lean", "operations", "manufacturing", "waste-reduction", "kaizen", "toyota", "value-stream", "continuous-improvement", "business", "management"]
+tags:
+  - lean
+  - operations
+  - manufacturing
+  - waste-reduction
+  - kaizen
+  - toyota
+  - value-stream
+  - continuous-improvement
+  - business
+  - management
 
 ---
 

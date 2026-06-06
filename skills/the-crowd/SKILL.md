@@ -8,7 +8,15 @@ description: >-
   behavior.
 version: 1.0.0
 license: MIT
-tags: ["psychology", "crowds", "social-psychology", "group-behavior", "influence", "persuasion", "propaganda", "mob"]
+tags:
+  - psychology
+  - crowds
+  - social-psychology
+  - group-behavior
+  - influence
+  - persuasion
+  - propaganda
+  - mob
 
   Covers 5 use cases:
   ① Crowd Psychology — understand how individuals change in a crowd ("Why do people act differently in groups" "What is mob mentality")

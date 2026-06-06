@@ -8,7 +8,15 @@ description: >-
   universe doesn't need a creator.
 version: 1.0.0
 license: MIT
-tags: ["cosmology", "physics", "hawking", "universe", "quantum-mechanics", "m-theory", "big-bang", "science"]
+tags:
+  - cosmology
+  - physics
+  - hawking
+  - universe
+  - quantum-mechanics
+  - m-theory
+  - big-bang
+  - science
 
   Covers 5 use cases:
   ① Origin of the Universe — how the universe began ("How did the universe start" "What was before the Big Bang")

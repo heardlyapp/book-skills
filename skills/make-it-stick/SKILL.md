@@ -6,7 +6,13 @@ description: >-
   based on cognitive science. Stop re-reading and highlighting. Start retrieving and spacing.
 version: 1.0.0
 license: MIT
-tags: ["learning", "education", "memory", "study-skills", "cognitive-science", "productivity"]
+tags:
+  - learning
+  - education
+  - memory
+  - study-skills
+  - cognitive-science
+  - productivity
 
   Covers 5 use cases:
   ① Study Smarter — replace passive review with active recall ("I study for hours but forget everything")

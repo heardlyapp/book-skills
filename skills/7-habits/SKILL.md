@@ -6,7 +6,13 @@ description: >-
   for principle-centered living, from personal effectiveness to interdependent leadership.
 version: 1.0.0
 license: MIT
-tags: ["self-improvement", "leadership", "productivity", "time-management", "relationships", "effectiveness"]
+tags:
+  - self-improvement
+  - leadership
+  - productivity
+  - time-management
+  - relationships
+  - effectiveness
 
   Covers 5 use cases:
   ① Personal Effectiveness — be proactive, take initiative ("I feel like a victim of circumstances" "How do I take control of my life?")

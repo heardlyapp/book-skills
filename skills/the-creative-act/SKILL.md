@@ -8,7 +8,15 @@ description: >-
   art that matters.
 version: 1.0.0
 license: MIT
-tags: ["creativity", "art", "music", "inspiration", "creative-process", "rick-rubin", "self-expression", "philosophy"]
+tags:
+  - creativity
+  - art
+  - music
+  - inspiration
+  - creative-process
+  - rick-rubin
+  - self-expression
+  - philosophy
 
   Covers 5 use cases:
   ① Creative Mindset — shift from "making art" to "being creative" as a way of life ("I don't feel creative" "How to access my creativity")

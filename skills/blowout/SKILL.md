@@ -8,7 +8,16 @@ description: >-
   across the developing world.
 version: 1.0.0
 license: MIT
-tags: ["oil", "corruption", "russia", "geopolitics", "democracy", "environment", "kleptocracy", "energy", "investigative-journalism"]
+tags:
+  - oil
+  - corruption
+  - russia
+  - geopolitics
+  - democracy
+  - environment
+  - kleptocracy
+  - energy
+  - investigative-journalism
 
   Covers 5 use cases:
   ① Petro-State Analysis — understand how oil wealth enables authoritarian rule ("How does oil corrupt democracy" "Why are oil-rich countries often dictatorships")

@@ -8,7 +8,15 @@ description: >-
   consistent work.
 version: 1.0.0
 license: MIT
-tags: ["creativity", "habit", "discipline", "art", "daily-practice", "ritual", "choreography", "self-discipline"]
+tags:
+  - creativity
+  - habit
+  - discipline
+  - art
+  - daily-practice
+  - ritual
+  - choreography
+  - self-discipline
 
   Covers 5 use cases:
   ① The Creative Routine — build daily rituals that support creativity ("How to make creativity a habit" "I only create when inspiration strikes")

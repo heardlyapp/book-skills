@@ -8,7 +8,14 @@ description: >-
   inflating asset prices, and setting the stage for inflation.
 version: 1.0.0
 license: MIT
-tags: ["federal-reserve", "quantitative-easing", "monetary-policy", "economics", "inflation", "central-banking", "finance"]
+tags:
+  - federal-reserve
+  - quantitative-easing
+  - monetary-policy
+  - economics
+  - inflation
+  - central-banking
+  - finance
 
   Covers 5 use cases:
   ① Understanding the Fed — how the Fed works ("How does the Federal Reserve work" "What is monetary policy")

@@ -6,7 +6,13 @@ description: >-
   love, covering product strategy, discovery, delivery, and culture.
 version: 1.0.0
 license: MIT
-tags: ["product-management", "product-discovery", "tech", "startup", "leadership", "innovation"]
+tags:
+  - product-management
+  - product-discovery
+  - tech
+  - startup
+  - leadership
+  - innovation
 
   Covers 5 use cases:
   ① Product Vision — define a compelling product strategy ("How do I decide what to build?" "What's our product vision?")

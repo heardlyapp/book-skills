@@ -8,7 +8,14 @@ description: >-
   game more, and build a game that lasts a lifetime.
 version: 1.0.0
 license: MIT
-tags: ["golf", "sports", "improvement", "strategy", "practice", "mental-game", "course-management"]
+tags:
+  - golf
+  - sports
+  - improvement
+  - strategy
+  - practice
+  - mental-game
+  - course-management
 
   Covers 5 use cases:
   ① Managing Expectations — stop letting unrealistic expectations ruin your round ("I should be better than this" "Why can't I play as well as I practice")

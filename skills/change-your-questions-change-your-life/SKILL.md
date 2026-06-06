@@ -8,7 +8,14 @@ description: >-
   the questions you ask yourself.
 version: 1.0.0
 license: MIT
-tags: ["mindset", "questions", "leadership", "coaching", "self-awareness", "communication", "transformation"]
+tags:
+  - mindset
+  - questions
+  - leadership
+  - coaching
+  - self-awareness
+  - communication
+  - transformation
 
   Covers 5 use cases:
   ① Mindset Diagnosis — identify when you're in Judger vs Learner ("Why do I always react negatively" "How do I get out of a bad mood")

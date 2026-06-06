@@ -6,7 +6,13 @@ description: >-
   leading through authority, not power; through service, not self-interest.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "servant-leadership", "management", "team-building", "character", "trust"]
+tags:
+  - leadership
+  - servant-leadership
+  - management
+  - team-building
+  - character
+  - trust
 
   Covers 5 use cases:
   ① Leadership Redefined — understand the difference between authority and power ("Why won't my team follow me?" "How do I get people to WANT to follow me?")

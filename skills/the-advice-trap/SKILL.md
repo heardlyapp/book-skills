@@ -8,7 +8,14 @@ description: >-
   conversations.
 version: 1.0.0
 license: MIT
-tags: ["coaching", "leadership", "management", "questions", "communication", "curiosity", "psychological-safety"]
+tags:
+  - coaching
+  - leadership
+  - management
+  - questions
+  - communication
+  - curiosity
+  - psychological-safety
 
   Covers 5 use cases:
   ① Taming the Advice Monster — recognize when you're jumping to solutions ("I keep giving advice when people need to be heard" "How to stop fixing and start listening")

@@ -5,7 +5,17 @@ description: >-
   Shunryu Suzuki's Zen Mind, Beginner's Mind — an executable toolkit for Zen meditation and mindful living: how to cultivate a beginner's mind, establish a meditation practice, and bring Zen awareness into every aspect of daily life.
 version: 1.0.0
 license: MIT
-tags: ["zen", "meditation", "buddhism", "mindfulness", "spirituality", "beginner-mind", "zazen", "suzuki", "presence", "awareness"]
+tags:
+  - zen
+  - meditation
+  - buddhism
+  - mindfulness
+  - spirituality
+  - beginner-mind
+  - zazen
+  - suzuki
+  - presence
+  - awareness
 
   Covers 5 use cases:
   ① Establishing a Meditation Practice — learn proper posture, breathing, and how to sit with a clear mind ("How to meditate" "My mind won't stop racing" "How to sit in zazen")

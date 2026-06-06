@@ -8,7 +8,15 @@ description: >-
   that run your life.
 version: 1.0.0
 license: MIT
-tags: ["monkey-mind", "self-awareness", "childhood-programming", "limiting-beliefs", "inner-critic", "overthinking", "personal-development", "psychology"]
+tags:
+  - monkey-mind
+  - self-awareness
+  - childhood-programming
+  - limiting-beliefs
+  - inner-critic
+  - overthinking
+  - personal-development
+  - psychology
 
   Covers 5 use cases:
   ① Monkey Mind Awareness — recognize when the Monkey Mind is running your life ("I keep repeating the same mistakes" "Why do I always react this way")

@@ -5,7 +5,16 @@ description: >-
   Michael E. Martinez's Future Bright — an executable toolkit for understanding and enhancing human intelligence: how fluid intelligence, crystallized knowledge, and effective character work together, and the strategies to improve all three.
 version: 1.0.1
 license: MIT
-tags: ["intelligence", "cognitive-enhancement", "psychology", "learning", "brain", "education", "iq", "self-improvement", "neuroscience"]
+tags:
+  - intelligence
+  - cognitive-enhancement
+  - psychology
+  - learning
+  - brain
+  - education
+  - iq
+  - self-improvement
+  - neuroscience
 
   Covers 5 use cases:
   ① Understanding Intelligence — learn what intelligence is, how it's measured, and why it matters more than almost anything else for success ("Is IQ fixed" "Can I get smarter" "What does intelligence really mean")

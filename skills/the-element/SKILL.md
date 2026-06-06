@@ -6,7 +6,14 @@ description: >-
   at the intersection of talent and personal passion.
 version: 1.0.0
 license: MIT
-tags: ["creativity", "passion", "career", "talent", "purpose", "personal-development", "self-discovery"]
+tags:
+  - creativity
+  - passion
+  - career
+  - talent
+  - purpose
+  - personal-development
+  - self-discovery
 
   Covers 5 use cases:
   ① Find Your Element — discover where talent and passion meet ("I don't know what I'm good at" "I don't feel passionate about anything")

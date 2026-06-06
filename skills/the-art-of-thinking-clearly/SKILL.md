@@ -6,7 +6,13 @@ description: >-
   cognitive biases and making better decisions in life, work, and money.
 version: 1.0.0
 license: MIT
-tags: ["cognitive-biases", "decision-making", "psychology", "rationality", "thinking", "self-improvement"]
+tags:
+  - cognitive-biases
+  - decision-making
+  - psychology
+  - rationality
+  - thinking
+  - self-improvement
 
   Covers 5 use cases:
   ① Bias Awareness — spot common thinking errors ("Why do I keep making the same bad decisions?")

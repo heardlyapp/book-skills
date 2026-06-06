@@ -8,7 +8,15 @@ description: >-
   and achieving lifelong vitality.
 version: 1.0.0
 license: MIT
-tags: ["nutrition", "health", "weight-loss", "plant-based", "disease-prevention", "nutrient-density", "wellness", "diet"]
+tags:
+  - nutrition
+  - health
+  - weight-loss
+  - plant-based
+  - disease-prevention
+  - nutrient-density
+  - wellness
+  - diet
 
   Covers 5 use cases:
   ① Weight Loss — lose weight rapidly and sustainably without counting calories ("I've tried every diet and nothing works" "How do I lose weight and keep it off")

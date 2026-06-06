@@ -8,7 +8,15 @@ description: >-
   genuine, lasting happiness through meditation and mind training.
 version: 1.0.0
 license: MIT
-tags: ["happiness", "meditation", "mindfulness", "buddhism", "mental-health", "emotions", "compassion", "psychology"]
+tags:
+  - happiness
+  - meditation
+  - mindfulness
+  - buddhism
+  - mental-health
+  - emotions
+  - compassion
+  - psychology
 
   Covers 5 use cases:
   ① Understanding the Mind — recognize how the mind creates suffering and happiness ("Why am I never satisfied" "How does my mind create unhappiness")

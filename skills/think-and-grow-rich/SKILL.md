@@ -6,7 +6,13 @@ description: >-
   power of thought, desire, and persistence to achieve wealth and success.
 version: 1.0.0
 license: MIT
-tags: ["wealth", "success", "mindset", "goal-setting", "motivation", "self-help"]
+tags:
+  - wealth
+  - success
+  - mindset
+  - goal-setting
+  - motivation
+  - self-help
 
   Covers 5 use cases:
   ① Mindset Shift — turn burning desire into reality ("I don't know what I want" "How do I set a compelling goal?")

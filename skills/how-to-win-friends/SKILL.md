@@ -6,7 +6,13 @@ description: >-
   for building relationships, handling people, and leading without resistance.
 version: 1.0.0
 license: MIT
-tags: ["communication", "relationships", "leadership", "persuasion", "social-skills", "career"]
+tags:
+  - communication
+  - relationships
+  - leadership
+  - persuasion
+  - social-skills
+  - career
 
   Covers 5 use cases:
   ① Building Rapport — make people like you instantly ("How do I make friends?" "How to start a conversation")

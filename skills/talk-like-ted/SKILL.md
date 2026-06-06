@@ -7,7 +7,14 @@ description: >-
   presentations that are emotional, novel, and memorable.
 version: 1.0.0
 license: MIT
-tags: ["public-speaking", "presentation-skills", "ted-talks", "storytelling", "communication", "leadership", "pitch"]
+tags:
+  - public-speaking
+  - presentation-skills
+  - ted-talks
+  - storytelling
+  - communication
+  - leadership
+  - pitch
 
   Covers 6 use cases:
   ① Message Crafting — find your core message and lead with passion ("I have to give a big presentation and don't know where to start" "How do I make my pitch more compelling")

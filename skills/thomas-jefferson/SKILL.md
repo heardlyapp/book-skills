@@ -5,7 +5,17 @@ description: >-
   Jon Meacham's Thomas Jefferson: The Art of Power — an executable toolkit that extracts leadership lessons from Jefferson's remarkable life: how to balance idealism with pragmatism, build influence through quiet persistence, navigate political opposition, and lead through times of division.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "thomas-jefferson", "politics", "influence", "history", "biography", "strategy", "legacy", "american-history", "management"]
+tags:
+  - leadership
+  - thomas-jefferson
+  - politics
+  - influence
+  - history
+  - biography
+  - strategy
+  - legacy
+  - american-history
+  - management
 
   Covers 5 use cases:
   ① The Art of Quiet Influence — build power through patience, strategic silence, and personal relationships rather than confrontation ("How do I gain influence without being aggressive" "How to persuade without fighting" "I want to be heard but I'm not loud")

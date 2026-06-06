@@ -8,7 +8,15 @@ description: >-
   safetyism, and offers strategies for fostering antifragility.
 version: 1.0.0
 license: MIT
-tags: ["resilience", "psychology", "education", "free-speech", "cbt", "polarization", "mental-health", "parenting"]
+tags:
+  - resilience
+  - psychology
+  - education
+  - free-speech
+  - cbt
+  - polarization
+  - mental-health
+  - parenting
 
   Covers 5 use cases:
   ① The Three Great Untruths — understand why these beliefs weaken resilience ("What is safetyism" "Why are young people less resilient")

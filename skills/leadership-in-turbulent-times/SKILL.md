@@ -8,7 +8,14 @@ description: >-
   built teams, and communicated their visions.
 version: 1.0.0
 license: MIT
-tags: ["leadership", "history", "presidents", "crisis-management", "team-building", "resilience", "communication"]
+tags:
+  - leadership
+  - history
+  - presidents
+  - crisis-management
+  - team-building
+  - resilience
+  - communication
 
   Covers 5 use cases:
   ① Leadership Development — grow through adversity ("How do I become a better leader" "What makes a great leader")

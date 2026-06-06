@@ -8,7 +8,14 @@ description: >-
   genuine, mature love in modern society.
 version: 1.0.0
 license: MIT
-tags: ["love", "relationships", "psychology", "philosophy", "self-love", "personal-development", "fromm"]
+tags:
+  - love
+  - relationships
+  - psychology
+  - philosophy
+  - self-love
+  - personal-development
+  - fromm
 
   Covers 5 use cases:
   ① Love as an Art — understand that love is a skill, not a feeling ("Why do relationships fail" "Is love something you fall into or something you practice")

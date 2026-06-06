@@ -8,7 +8,15 @@ description: >-
   using the edge that individual investors have over professionals.
 version: 1.0.0
 license: MIT
-tags: ["investing", "stocks", "stock-picking", "value-investing", "peter-lynch", "tenbagger", "portfolio", "finance"]
+tags:
+  - investing
+  - stocks
+  - stock-picking
+  - value-investing
+  - peter-lynch
+  - tenbagger
+  - portfolio
+  - finance
 
   Covers 5 use cases:
   ① Stock Picking Fundamentals — use everyday knowledge to find great investments ("How do I pick winning stocks" "I want to invest in what I know")

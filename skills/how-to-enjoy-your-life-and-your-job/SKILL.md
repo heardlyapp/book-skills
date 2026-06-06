@@ -8,7 +8,15 @@ description: >-
   greater enthusiasm and purpose.
 version: 1.0.0
 license: MIT
-tags: ["relationships", "happiness", "work-satisfaction", "worry", "enthusiasm", "communication", "personal-development", "dale-carnegie"]
+tags:
+  - relationships
+  - happiness
+  - work-satisfaction
+  - worry
+  - enthusiasm
+  - communication
+  - personal-development
+  - dale-carnegie
 
   Covers 5 use cases:
   ① Positive Relationships — build rapport and genuine connection ("People don't seem to like me" "How to make friends at work")

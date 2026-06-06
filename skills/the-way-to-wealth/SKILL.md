@@ -5,7 +5,17 @@ description: >-
   Benjamin Franklin's The Way to Wealth — an executable toolkit of timeless financial and life wisdom from Poor Richard's Almanack. Distills Franklin's principles on industry, frugality, prudence, and integrity into actionable habits for building wealth and character.
 version: 1.0.0
 license: MIT
-tags: ["benjamin-franklin", "wealth", "frugality", "industry", "wisdom", "personal-finance", "character", "self-discipline", "life-advice", "productivity"]
+tags:
+  - benjamin-franklin
+  - wealth
+  - frugality
+  - industry
+  - wisdom
+  - personal-finance
+  - character
+  - self-discipline
+  - life-advice
+  - productivity
 
   Covers 5 use cases:
   ① Frugality & Smart Spending — live within your means, distinguish needs from wants, avoid the "whistle" trap of overpaying for things ("I spend too much on things I don't need" "How do I stop wasting money" "I want to save but can't")

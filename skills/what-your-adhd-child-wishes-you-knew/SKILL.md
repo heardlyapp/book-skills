@@ -5,7 +5,17 @@ description: >-
   Dr. Sharon Saline's What Your ADHD Child Wishes You Knew — an executable toolkit for parenting kids with ADHD using the Five C's framework: Self-Control, Compassion, Collaboration, Consistency, and Celebration.
 version: 1.0.0
 license: MIT
-tags: ["ADHD", "parenting", "children", "executive-function", "neurodiversity", "school", "behavior", "special-needs", "mental-health", "family"]
+tags:
+  - ADHD
+  - parenting
+  - children
+  - executive-function
+  - neurodiversity
+  - school
+  - behavior
+  - special-needs
+  - mental-health
+  - family
 
   Covers 5 use cases:
   ① Understanding the ADHD Brain — learn how ADHD actually works, separate the condition from the child, reduce blame and frustration ("Why does my child act this way" "Is it ADHD or bad behavior" "I don't understand what's going on in their head")

@@ -7,7 +7,15 @@ description: >-
   the causes, consequences, and what can be done about it.
 version: 1.0.0
 license: MIT
-tags: ["inequality", "economics", "stiglitz", "wealth-gap", "economic-policy", "social-justice", "poverty", "democracy"]
+tags:
+  - inequality
+  - economics
+  - stiglitz
+  - wealth-gap
+  - economic-policy
+  - social-justice
+  - poverty
+  - democracy
 
   Covers 5 use cases:
   ① Understanding Inequality — how inequality works ("What is economic inequality" "How bad is inequality in America")

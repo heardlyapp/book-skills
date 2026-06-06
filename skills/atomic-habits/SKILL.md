@@ -7,7 +7,13 @@ description: >-
   the 4 Laws to make good habits easy and bad habits hard.
 version: 1.0.0
 license: MIT
-tags: ["self-improvement", "habits", "productivity", "psychology", "behavior-change", "discipline"]
+tags:
+  - self-improvement
+  - habits
+  - productivity
+  - psychology
+  - behavior-change
+  - discipline
 
   Covers 5 use cases:
   ① Habit Diagnosis — why a habit won't stick / why you keep falling off ("Why can't I stick with it?" "I always give up halfway")

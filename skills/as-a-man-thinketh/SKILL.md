@@ -7,7 +7,14 @@ description: >-
   health, achievements, and peace of mind.
 version: 1.0.0
 license: MIT
-tags: ["mindset", "self-mastery", "character-development", "positive-thinking", "personal-development", "philosophy", "classic"]
+tags:
+  - mindset
+  - self-mastery
+  - character-development
+  - positive-thinking
+  - personal-development
+  - philosophy
+  - classic
 
   Covers 5 use cases:
   ① Mindset Foundation — understand how thoughts create character and destiny ("I feel like my life is out of my control" "How do I change who I am")

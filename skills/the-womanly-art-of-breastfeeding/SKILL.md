@@ -5,7 +5,18 @@ description: >-
   La Leche League International's The Womanly Art of Breastfeeding — an executable toolkit for new and expecting mothers covering the complete breastfeeding journey: preparation, latching, milk supply, pumping, storage, weaning, and troubleshooting.
 version: 1.0.0
 license: MIT
-tags: ["breastfeeding", "parenting", "newborn", "lactation", "pregnancy", "motherhood", "baby", "nursing", "pumping", "la-leche-league", "milk-supply"]
+tags:
+  - breastfeeding
+  - parenting
+  - newborn
+  - lactation
+  - pregnancy
+  - motherhood
+  - baby
+  - nursing
+  - pumping
+  - la-leche-league
+  - milk-supply
 
   Covers 5 use cases:
   ① Preparation & Birth — get mentally and physically ready, understand how birth affects breastfeeding, build your support network ("How do I prepare for breastfeeding" "Will I have enough milk" "What stuff do I need")

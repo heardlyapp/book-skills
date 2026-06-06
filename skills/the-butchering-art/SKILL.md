@@ -8,7 +8,15 @@ description: >-
   overcame entrenched opposition to revolutionize medicine.
 version: 1.0.0
 license: MIT
-tags: ["medical-history", "surgery", "innovation", "lister", "science", "antiseptic", "hygiene", "victorian"]
+tags:
+  - medical-history
+  - surgery
+  - innovation
+  - lister
+  - science
+  - antiseptic
+  - hygiene
+  - victorian
 
   Covers 5 use cases:
   ① Scientific Breakthrough — how Lister discovered antisepsis ("How was antiseptic surgery discovered" "What did Joseph Lister do")

@@ -7,7 +7,13 @@ description: >-
   innovative ideas.
 version: 1.0.0
 license: MIT
-tags: ["creativity", "innovation", "design-thinking", "confidence", "ideation", "psychology"]
+tags:
+  - creativity
+  - innovation
+  - design-thinking
+  - confidence
+  - ideation
+  - psychology
 
   Covers 5 use cases:
   ① Unlock Creativity — overcome the "I'm not creative" myth ("I've never been creative" "Creativity is for artists, not me")

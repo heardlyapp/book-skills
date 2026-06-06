@@ -8,7 +8,15 @@ description: >-
   the mechanisms of aging, and the process of programmed cell death.
 version: 1.0.0
 license: MIT
-tags: ["mitochondria", "biology", "evolution", "aging", "cell-biology", "health", "science", "dna"]
+tags:
+  - mitochondria
+  - biology
+  - evolution
+  - aging
+  - cell-biology
+  - health
+  - science
+  - dna
 
   Covers 5 use cases:
   ① Mitochondria Basics — understand these cellular power plants ("What are mitochondria" "How do cells produce energy")

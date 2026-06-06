@@ -7,7 +7,15 @@ description: >-
   affirmations, visualization, belief change, and mental healing.
 version: 1.0.0
 license: MIT
-tags: ["subconscious-mind", "affirmations", "visualization", "self-help", "mind-power", "belief", "success", "personal-transformation"]
+tags:
+  - subconscious-mind
+  - affirmations
+  - visualization
+  - self-help
+  - mind-power
+  - belief
+  - success
+  - personal-transformation
 
   Covers 5 use cases:
   ① Subconscious Power — understanding how the subconscious works ("What is the subconscious mind" "How to use my subconscious power")

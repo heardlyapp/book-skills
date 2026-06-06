@@ -9,7 +9,17 @@ description: >-
   information.
 version: 1.0.0
 license: MIT
-tags: ["history", "leadership", "decision-making", "wwii", "truman", "atomic-bomb", "crisis-management", "manhattan-project", "ethics", "project-management"]
+tags:
+  - history
+  - leadership
+  - decision-making
+  - wwii
+  - truman
+  - atomic-bomb
+  - crisis-management
+  - manhattan-project
+  - ethics
+  - project-management
 
   Covers 7 use cases:
   ① Leadership Transition — step into a role you weren't prepared for and make decisions that change everything ("I just got promoted into a role I wasn't ready for" "How to lead when you inherit a crisis")
