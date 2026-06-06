@@ -1,0 +1,19 @@
+{
+ "name": "im-telling-the-truth-but-im-lying",
+ "version": "1.0.0",
+ "description": "Bassey Ikpi's 'I'm Telling the Truth, but I'm Lying: Essays' — a raw, poetic collection about growing up Nigerian-American, living with bipolar disorder, and learning to tell the truth even when it feels like lying.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/im-telling-the-truth-but-im-lying",
+ "useCase": "Navigate mental health challenges, understand the Nigerian-American experience, find your voice through creative writing, and learn that healing happens one truth at a time.",
+ "knownRisks": [
+  "Contains frank discussions of mental illness, hospitalization, and suicidal ideation",
+  "Memoir in essay form — not a clinical guide to bipolar disorder",
+  "Heavy emotional content — may be triggering for those in crisis"
+ ],
+ "tags": ["bassey-ikpi", "memoir", "essays", "mental-health", "bipolar-disorder", "nigerian-american", "immigrant-experience", "motherhood", "writing", "healing"],
+ "openclaw": {
+  "emoji": "📝",
+  "category": "health"
+ }
+}
