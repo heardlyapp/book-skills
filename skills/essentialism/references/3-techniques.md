@@ -130,3 +130,10 @@ Design routines that make the essential things automatic. The goal is to reduce 
 > Source: Essentialism, Chapter 19
 
 Don't worry about yesterday or tomorrow. Ask constantly: "What's important *right now*?" This present-centered question cuts through anxiety about the past and future, enabling clear execution in the moment.
+
+
+> **Case: The Escape Artist** (Chapter 5): McKeown describes a CEO who blocked two hours every Friday afternoon — no meetings, no calls, no interruptions. She used this time to think, reflect, and plan. At first, her team resisted. But within three months, she was making better decisions, the team was more aligned, and the company's direction was clearer. The protected time was the most productive two hours of her week.
+> **Key takeaway:** Deliberately protected time for thinking is not indulgent — it's essential. Without it, you react to the urgent instead of focusing on the important.
+
+> **Case: The No That Saved a Career** (Chapter 9): A young professional was offered a prestigious promotion that would require moving to a different city, traveling 80% of the time, and working with a boss known for being difficult. Everyone told her to take it. She said no. Instead, she accepted a different role that aligned with her values and strengths. Five years later, she was more successful than the person who took the "prestigious" job.
+> **Key takeaway:** A courageous no to a good opportunity creates space for a great one. The nonessentialist says yes to everything. The essentialist says yes only to what matters most.

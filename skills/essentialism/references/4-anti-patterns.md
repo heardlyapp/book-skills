@@ -135,3 +135,10 @@ A man spent his entire life savings ($2,600) on a carnival game trying to win an
 Geoff, a 36-year-old microcredit CEO, traveled 60–70% of the time and slept 4–6 hours nightly. His organs started shutting down. His heart rate became erratic. He had to blend his food. He couldn't stand up without blacking out. He spent two years recovering.
 
 **Essentialist antidote:** "Protect the asset." Sleep is not a luxury — it's a competitive advantage. Jeff Bezos, Bill Gates, and Mark Andreessen all publicly advocate for 7–8 hours of sleep. One hour more of sleep equals several more hours of much higher productivity.
+
+
+> **Case: The Sunk Cost Trap** (Chapter 11): McKeown describes a company that had spent three years and millions of dollars developing a product. The market had changed. The product was no longer viable. But the leadership couldn't bring themselves to kill it because of the investment already made. They poured more money in, trying to salvage it. The product failed spectacularly, and the company nearly went under. The initial investment was gone whether they continued or not. The question should have been: "Knowing what we know now, would we start this project today?"
+> **Key takeaway:** Sunk costs are gone. Past investment is not a reason to continue investing. The nonessentialist clings to the past. The essentialist asks: "Would I start this today?" If not, stop.
+
+> **Case: The Meeting That Should Have Died** (Chapter 12): A weekly team meeting had been running for three years. Everyone hated it. But no one canceled it because "it's always been on the calendar." When a new manager finally canceled it, no one complained. Not one person asked for it back. The meeting was pure inertia — continued only because it always had been.
+> **Key takeaway:** Inertia is a powerful force for the nonessentialist. Regularly audit your commitments. If something no longer serves its purpose, eliminate it.

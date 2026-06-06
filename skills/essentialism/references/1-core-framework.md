@@ -65,3 +65,10 @@ The tragedy: the pursuit of success can undermine the very clarity that produced
 - Essentialism is not about how to get more things done, but how to get the right things done
 - The disciplined pursuit of less requires constant pausing to ask: "Am I investing in the right activities?"
 - Living by design, not by default, is the path to control, meaning, and satisfaction
+
+
+> **Case: The Too-Busy Executive** (Introduction): McKeown describes a senior executive who came to him overwhelmed, working 80-hour weeks, missing his children's events, and feeling like he was failing at everything. McKeown asked: "If you could only do one thing well, what would it be?" The executive paused. He had never asked himself that question. The answer changed everything. He started eliminating, delegating, and focusing. Within six months, his company's performance improved, and he was home for dinner.
+> **Key takeaway:** The question "If I could only do one thing well, what would it be?" reveals what's truly essential. Everything else is distraction.
+
+> **Case: The Closet Analogy** (Chapter 1): McKeown uses the analogy of a crowded closet. The nonessentialist tries to rearrange everything to make more room. The essentialist removes what doesn't belong. Only after removing the non-essential can you see what's actually worth keeping. The same applies to priorities, commitments, and relationships.
+> **Key takeaway:** Don't try to organize your clutter. Remove it. Clarity comes from elimination, not rearrangement.

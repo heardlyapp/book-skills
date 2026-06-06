@@ -94,3 +94,10 @@ McKeown introduces the concept of "buffer" — preparing for the unexpected by b
 After implementing the Explore-Eliminate-Execute cycle, the book's opening character Sam Elliot transformed his work life: he went home at a decent time, shut down his phone, went to the gym, ate out with his wife. His performance ratings went up. His work became fulfilling again. Not because he did more — because he did less but better.
 
 **Key insight:** Don't ask "How can I force this to happen?" Ask "What obstacles can I remove to make this happen naturally?"
+
+
+> **Case: The Journalist's Pile** (Chapter 6): McKeown tells of a journalist who kept a pile of "interesting articles" that grew to over 2,000 items. He spent hours each week filing, organizing, and categorizing them. He never read any of them. The pile was a monument to his inability to select what mattered. When he finally threw the entire pile away, he felt liberated. He learned that selection is not about what to keep — it's about what to throw away.
+> **Key takeaway:** If you're not selecting, you're just accumulating. Selection requires the courage to discard. Every "keep" should be a conscious choice, not a default.
+
+> **Case: The Investment Banker's Sabbath** (Chapter 8): An investment banker, known for working 24/7, decided to protect one day per week as completely work-free. He didn't check email, take calls, or think about deals. Initially, it felt impossible. Within a month, his productivity on other days increased, his decision-making improved, and he felt more energetic. Protecting space for rest and thinking made him more effective, not less.
+> **Key takeaway:** Space is not a luxury — it's a productivity tool. The busiest people need it most.
