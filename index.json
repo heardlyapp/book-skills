@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 112,
+  "total_skills": 113,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1854,6 +1854,20 @@
       "emoji": "\ud83e\udda2",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-swan"
+    },
+    "antifragile": {
+      "title": "Antifragile: Things That Gain from Disorder",
+      "slug": "antifragile",
+      "tags": [
+        "taleb",
+        "antifragile",
+        "uncertainty",
+        "risk",
+        "philosophy"
+      ],
+      "emoji": "\ud83e\uddf1",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/antifragile"
     }
   }
 }
