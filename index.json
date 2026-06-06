@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 111,
+  "total_skills": 112,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1840,6 +1840,20 @@
       "emoji": "\ud83d\udd2e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/homo-deus"
+    },
+    "the-black-swan": {
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "slug": "the-black-swan",
+      "tags": [
+        "uncertainty",
+        "randomness",
+        "taleb",
+        "risk",
+        "probability"
+      ],
+      "emoji": "\ud83e\udda2",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-swan"
     }
   }
 }
