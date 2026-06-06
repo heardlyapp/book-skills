@@ -1,0 +1,18 @@
+{
+ "name": "beyonce-biography",
+ "version": "1.0.0",
+ "description": "Lavaille Lavette's 'Beyoncé: A Little Golden Book Biography' — an inspiring introduction to Beyoncé's life story for young readers, showing how hard work and perseverance turned a girl from Houston into a global icon.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/beyonce-biography",
+ "useCase": "Inspire children with Beyoncé's journey from sweeping floors at her mom's salon to becoming a 28-time Grammy winner and philanthropist.",
+ "knownRisks": [
+  "Children's book — content is simplified for ages 3-7, lacks depth for older audiences",
+  "Brief biography — limited to major milestones, not a comprehensive life story"
+ ],
+ "tags": ["beyonce", "biography", "music", "children", "inspiration", "black-history", "women-in-music", "destiny-child", "little-golden-book", "role-model"],
+ "openclaw": {
+  "emoji": "🌟",
+  "category": "children"
+ }
+}
