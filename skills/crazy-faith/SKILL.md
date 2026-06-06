@@ -1,6 +1,6 @@
 ---
 title: "Crazy Faith: It's Only Crazy Until It Happens"
-version: 1.0.0
+version: 1.0.1
 license: MIT
 author: "Michael Todd"
 published: 2021

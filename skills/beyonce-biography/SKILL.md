@@ -1,6 +1,6 @@
 ---
 title: "Beyoncé: A Little Golden Book Biography"
-version: 1.0.0
+version: 1.0.2
 license: MIT
 author: "Lavaille Lavette"
 published: 2023

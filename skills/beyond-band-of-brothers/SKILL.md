@@ -1,6 +1,6 @@
 ---
 title: "Beyond Band of Brothers: The War Memoirs of Major Dick Winters"
-version: 1.0.0
+version: 1.0.1
 license: MIT
 author: "Major Dick Winters"
 published: 2006
