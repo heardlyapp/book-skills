@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 119,
+  "total_skills": 120,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1944,6 +1944,20 @@
       "emoji": "\ud83d\udc67\ud83c\udfff",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/little-leaders"
+    },
+    "the-american-presidency": {
+      "title": "The American Presidency",
+      "slug": "the-american-presidency",
+      "tags": [
+        "presidency",
+        "government",
+        "politics",
+        "us-history",
+        "constitution"
+      ],
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-american-presidency"
     }
   }
 }

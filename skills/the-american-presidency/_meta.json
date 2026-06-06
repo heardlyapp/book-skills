@@ -1,0 +1,25 @@
+{
+  "name": "the-american-presidency",
+  "title": "The American Presidency",
+  "slug": "the-american-presidency",
+  "author": "Charles O. Jones",
+  "publisher": "heardlyapp",
+  "version": "1.0.0",
+  "license": "MIT",
+  "tags": [
+    "presidency",
+    "government",
+    "politics",
+    "us-history",
+    "constitution"
+  ],
+  "emoji": "🏛️",
+  "description": "A concise exploration of the American presidency — how the Founders invented the office, how it evolved, and the enduring tension between expectations and constitutional constraints in a separated powers system.",
+  "clawhub_url": "https://clawhub.ai/heardlyapp/the-american-presidency",
+  "related_skills": [
+    "world-order",
+    "great-power-diplomacy",
+    "richard-nixon",
+    "leadership-in-turbulent-times"
+  ]
+}
