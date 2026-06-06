@@ -1,0 +1,28 @@
+{
+  "name": "what-to-expect-when-youre-expecting",
+  "title": "What to Expect When You're Expecting",
+  "author": "Heidi Murkoff and Sharon Mazel",
+  "publisher": "heardlyapp",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "The ultimate month-by-month pregnancy guide covering preconception, prenatal nutrition, symptom management, labor and delivery, postpartum recovery, and baby care.",
+  "tags": [
+    "pregnancy",
+    "parenting",
+    "health",
+    "baby",
+    "guide",
+    "childbirth",
+    "nutrition",
+    "wellness",
+    "postpartum",
+    "breastfeeding"
+  ],
+  "emoji": "👶",
+  "related_skills": [
+    "eat-to-live",
+    "the-vaccine-book",
+    "spiritual-midwifery",
+    "the-checklist-manifesto"
+  ]
+}

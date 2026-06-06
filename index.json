@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 121,
+  "total_skills": 122,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -18,7 +18,7 @@
         "conversion",
         "high-ticket"
       ],
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/100m-offers"
     },
@@ -33,7 +33,7 @@
         "relationships",
         "effectiveness"
       ],
-      "emoji": "🌳",
+      "emoji": "\ud83c\udf33",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/7-habits"
     },
@@ -51,7 +51,7 @@
         "chunking",
         "recall"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/a-mind-for-numbers"
     },
@@ -68,7 +68,7 @@
         "personal-development",
         "psychology"
       ],
-      "emoji": "🐒",
+      "emoji": "\ud83d\udc12",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/addicted-to-the-monkey-mind"
     },
@@ -84,7 +84,7 @@
         "philosophy",
         "classic"
       ],
-      "emoji": "🌿",
+      "emoji": "\ud83c\udf3f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/as-a-man-thinketh"
     },
@@ -99,7 +99,7 @@
         "behavior-change",
         "discipline"
       ],
-      "emoji": "🔄",
+      "emoji": "\ud83d\udd04",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/atomic-habits"
     },
@@ -116,7 +116,7 @@
         "corporate-governance",
         "due-diligence"
       ],
-      "emoji": "🩸",
+      "emoji": "\ud83e\ude78",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/bad-blood"
     },
@@ -133,7 +133,7 @@
         "paideia",
         "trivium"
       ],
-      "emoji": "📚",
+      "emoji": "\ud83d\udcda",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/battle-for-the-american-mind"
     },
@@ -151,7 +151,7 @@
         "mindfulness",
         "ram-dass"
       ],
-      "emoji": "🕉️",
+      "emoji": "\ud83d\udd49\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/be-here-now"
     },
@@ -168,7 +168,7 @@
         "creative-block",
         "self-expression"
       ],
-      "emoji": "✨",
+      "emoji": "\u2728",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/big-magic"
     },
@@ -184,7 +184,7 @@
         "investigation",
         "wall-street"
       ],
-      "emoji": "📈",
+      "emoji": "\ud83d\udcc8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/black-edge"
     },
@@ -201,7 +201,7 @@
         "authoritarianism",
         "investigative-journalism"
       ],
-      "emoji": "🛢️",
+      "emoji": "\ud83d\udee2\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/blood-and-oil"
     },
@@ -219,7 +219,7 @@
         "energy",
         "investigative-journalism"
       ],
-      "emoji": "🛢️",
+      "emoji": "\ud83d\udee2\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/blowout"
     },
@@ -236,7 +236,7 @@
         "finance",
         "economics"
       ],
-      "emoji": "💵",
+      "emoji": "\ud83d\udcb5",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/broken-money"
     },
@@ -252,7 +252,7 @@
         "communication",
         "transformation"
       ],
-      "emoji": "❓",
+      "emoji": "\u2753",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/change-your-questions-change-your-life"
     },
@@ -268,7 +268,7 @@
         "psychology",
         "organizational-behavior"
       ],
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/chimpanzee-politics"
     },
@@ -287,7 +287,7 @@
         "ethics",
         "project-management"
       ],
-      "emoji": "☢️",
+      "emoji": "\u2622\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/countdown-1945"
     },
@@ -303,7 +303,7 @@
         "history",
         "Tooze"
       ],
-      "emoji": "🏦",
+      "emoji": "\ud83c\udfe6",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/crashed"
     },
@@ -318,7 +318,7 @@
         "ideation",
         "psychology"
       ],
-      "emoji": "🎨",
+      "emoji": "\ud83c\udfa8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/creative-confidence"
     },
@@ -335,7 +335,7 @@
         "wellness",
         "diet"
       ],
-      "emoji": "🥗",
+      "emoji": "\ud83e\udd57",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/eat-to-live"
     },
@@ -349,7 +349,7 @@
         "expedition",
         "adversity"
       ],
-      "emoji": "🧊",
+      "emoji": "\ud83e\uddca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/endurance"
     },
@@ -365,7 +365,7 @@
         "influence",
         "relationships"
       ],
-      "emoji": "🔗",
+      "emoji": "\ud83d\udd17",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/everyone-communicates-few-connect"
     },
@@ -381,7 +381,7 @@
         "learning",
         "confidence"
       ],
-      "emoji": "💪",
+      "emoji": "\ud83d\udcaa",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/failing-forward"
     },
@@ -398,7 +398,7 @@
         "debt",
         "financial-independence"
       ],
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/financial-feminist"
     },
@@ -416,7 +416,7 @@
         "self-improvement",
         "neuroscience"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/future-bright"
     },
@@ -433,7 +433,7 @@
         "trauma",
         "neuroscience"
       ],
-      "emoji": "🏠",
+      "emoji": "\ud83c\udfe0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/hidden-valley-road"
     },
@@ -450,7 +450,7 @@
         "personal-development",
         "dale-carnegie"
       ],
-      "emoji": "😊",
+      "emoji": "\ud83d\ude0a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-enjoy-your-life-and-your-job"
     },
@@ -465,7 +465,7 @@
         "social-skills",
         "career"
       ],
-      "emoji": "🤝",
+      "emoji": "\ud83e\udd1d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-win-friends"
     },
@@ -481,7 +481,7 @@
         "wealth",
         "ramit-sethi"
       ],
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/i-will-teach-you-to-be-rich"
     },
@@ -496,7 +496,7 @@
         "leadership",
         "innovation"
       ],
-      "emoji": "🚀",
+      "emoji": "\ud83d\ude80",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/inspired"
     },
@@ -514,7 +514,7 @@
         "team-culture",
         "hospitality"
       ],
-      "emoji": "🔪",
+      "emoji": "\ud83d\udd2a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/kitchen-confidential"
     },
@@ -530,7 +530,7 @@
         "resilience",
         "communication"
       ],
-      "emoji": "🏛️",
+      "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/leadership-in-turbulent-times"
     },
@@ -546,7 +546,7 @@
         "transformational-leadership",
         "doris-kearns-goodwin"
       ],
-      "emoji": "🏛️",
+      "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/leadership-turbulent-times"
     },
@@ -561,7 +561,7 @@
         "negotiation",
         "gender-equality"
       ],
-      "emoji": "💪",
+      "emoji": "\ud83d\udcaa",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/lean-in"
     },
@@ -580,7 +580,7 @@
         "business",
         "management"
       ],
-      "emoji": "🏭",
+      "emoji": "\ud83c\udfed",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/lean-thinking"
     },
@@ -595,7 +595,7 @@
         "cognitive-science",
         "productivity"
       ],
-      "emoji": "📚",
+      "emoji": "\ud83d\udcda",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/make-it-stick"
     },
@@ -614,7 +614,7 @@
         "personal-development",
         "james-doty"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/mind-magic"
     },
@@ -633,7 +633,7 @@
         "big-tech",
         "democracy"
       ],
-      "emoji": "🔮",
+      "emoji": "\ud83d\udd2e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/mindfck"
     },
@@ -648,7 +648,7 @@
         "empathy",
         "self-help"
       ],
-      "emoji": "🦒",
+      "emoji": "\ud83e\udd92",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/nonviolent-communication"
     },
@@ -665,7 +665,7 @@
         "work-ethic",
         "resilience"
       ],
-      "emoji": "💪",
+      "emoji": "\ud83d\udcaa",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/old-school-grit"
     },
@@ -682,7 +682,7 @@
         "portfolio",
         "finance"
       ],
-      "emoji": "📈",
+      "emoji": "\ud83d\udcc8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/one-up-on-wall-street"
     },
@@ -699,7 +699,7 @@
         "science",
         "dna"
       ],
-      "emoji": "🔬",
+      "emoji": "\ud83d\udd2c",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/power-sex-suicide"
     },
@@ -716,7 +716,7 @@
         "compassion",
         "psychology"
       ],
-      "emoji": "☸️",
+      "emoji": "\u2638\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/radically-happy"
     },
@@ -731,7 +731,7 @@
         "money-mindset",
         "personal-finance"
       ],
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/rich-dad-poor-dad"
     },
@@ -748,7 +748,7 @@
         "history",
         "biography"
       ],
-      "emoji": "🏛️",
+      "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/richard-nixon"
     },
@@ -767,7 +767,7 @@
         "psychology",
         "hope"
       ],
-      "emoji": "🌱",
+      "emoji": "\ud83c\udf31",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/surviving-climate-anxiety"
     },
@@ -783,7 +783,7 @@
         "leadership",
         "pitch"
       ],
-      "emoji": "🎤",
+      "emoji": "\ud83c\udfa4",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/talk-like-ted"
     },
@@ -799,7 +799,7 @@
         "history-of-science",
         "diversity"
       ],
-      "emoji": "🔬",
+      "emoji": "\ud83d\udd2c",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/ten-women-who-changed-science-and-the-world"
     },
@@ -815,7 +815,7 @@
         "curiosity",
         "psychological-safety"
       ],
-      "emoji": "🦁",
+      "emoji": "\ud83e\udd81",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-advice-trap"
     },
@@ -832,7 +832,7 @@
         "self-improvement",
         "mental-toughness"
       ],
-      "emoji": "🦸",
+      "emoji": "\ud83e\uddb8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-alter-ego-effect"
     },
@@ -848,7 +848,7 @@
         "personal-development",
         "fromm"
       ],
-      "emoji": "❤️",
+      "emoji": "\u2764\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-loving"
     },
@@ -863,7 +863,7 @@
         "thinking",
         "self-improvement"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-thinking-clearly"
     },
@@ -880,7 +880,7 @@
         "hygiene",
         "victorian"
       ],
-      "emoji": "🏥",
+      "emoji": "\ud83c\udfe5",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-butchering-art"
     },
@@ -896,7 +896,7 @@
         "aviation",
         "engineering"
       ],
-      "emoji": "✅",
+      "emoji": "\u2705",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-checklist-manifesto"
     },
@@ -913,7 +913,7 @@
         "mental-health",
         "parenting"
       ],
-      "emoji": "🎓",
+      "emoji": "\ud83c\udf93",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-coddling-of-the-american-mind"
     },
@@ -927,7 +927,7 @@
         "strategy",
         "computational-thinking"
       ],
-      "emoji": "💻",
+      "emoji": "\ud83d\udcbb",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-computer-always-wins"
     },
@@ -944,7 +944,7 @@
         "self-expression",
         "philosophy"
       ],
-      "emoji": "🎨",
+      "emoji": "\ud83c\udfa8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-creative-act"
     },
@@ -961,7 +961,7 @@
         "choreography",
         "self-discipline"
       ],
-      "emoji": "💃",
+      "emoji": "\ud83d\udc83",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-creative-habit"
     },
@@ -978,7 +978,7 @@
         "propaganda",
         "mob"
       ],
-      "emoji": "👥",
+      "emoji": "\ud83d\udc65",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-crowd"
     },
@@ -995,7 +995,7 @@
         "long-term",
         "stocks"
       ],
-      "emoji": "📚",
+      "emoji": "\ud83d\udcda",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-education-of-a-value-investor"
     },
@@ -1011,7 +1011,7 @@
         "personal-development",
         "self-discovery"
       ],
-      "emoji": "🔥",
+      "emoji": "\ud83d\udd25",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-element"
     },
@@ -1028,7 +1028,7 @@
         "executive",
         "organization"
       ],
-      "emoji": "📊",
+      "emoji": "\ud83d\udcca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-essential-drucker"
     },
@@ -1044,7 +1044,7 @@
         "pedagogy",
         "procedures"
       ],
-      "emoji": "🍎",
+      "emoji": "\ud83c\udf4e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-first-days-of-school"
     },
@@ -1060,7 +1060,7 @@
         "mental-game",
         "course-management"
       ],
-      "emoji": "⛳",
+      "emoji": "\u26f3",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-four-foundations-of-golf"
     },
@@ -1076,7 +1076,7 @@
         "innovation",
         "business-model"
       ],
-      "emoji": "🚀",
+      "emoji": "\ud83d\ude80",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-four-steps-to-the-epiphany"
     },
@@ -1092,7 +1092,7 @@
         "relationships",
         "communication"
       ],
-      "emoji": "🤝",
+      "emoji": "\ud83e\udd1d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-go-giver-influencer"
     },
@@ -1109,7 +1109,7 @@
         "big-bang",
         "science"
       ],
-      "emoji": "🌌",
+      "emoji": "\ud83c\udf0c",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-grand-design"
     },
@@ -1126,7 +1126,7 @@
         "community",
         "policy"
       ],
-      "emoji": "🌊",
+      "emoji": "\ud83c\udf0a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-great-displacement"
     },
@@ -1141,7 +1141,7 @@
         "gratitude",
         "workplace-wellbeing"
       ],
-      "emoji": "😊",
+      "emoji": "\ud83d\ude0a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-happiness-advantage"
     },
@@ -1157,7 +1157,7 @@
         "central-banking",
         "finance"
       ],
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-lords-of-easy-money"
     },
@@ -1174,7 +1174,7 @@
         "spirituality",
         "peace"
       ],
-      "emoji": "🧘",
+      "emoji": "\ud83e\uddd8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-miracle-of-mindfulness"
     },
@@ -1190,7 +1190,7 @@
         "education",
         "microfinance"
       ],
-      "emoji": "🌍",
+      "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-moment-of-lift"
     },
@@ -1206,7 +1206,7 @@
         "transformation",
         "limiting-beliefs"
       ],
-      "emoji": "🏔️",
+      "emoji": "\ud83c\udfd4\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-mountain-is-you"
     },
@@ -1223,7 +1223,7 @@
         "law",
         "activism"
       ],
-      "emoji": "⛓️",
+      "emoji": "\u26d3\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-jim-crow"
     },
@@ -1239,7 +1239,7 @@
         "leadership",
         "value-investing"
       ],
-      "emoji": "🏢",
+      "emoji": "\ud83c\udfe2",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-outsiders"
     },
@@ -1256,7 +1256,7 @@
         "learning",
         "education"
       ],
-      "emoji": "🔬",
+      "emoji": "\ud83d\udd2c",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-pleasure-of-finding-things-out"
     },
@@ -1273,7 +1273,7 @@
         "healing",
         "inner-peace"
       ],
-      "emoji": "🧘",
+      "emoji": "\ud83e\uddd8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-power-of-now"
     },
@@ -1290,7 +1290,7 @@
         "success",
         "personal-transformation"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-power-of-your-subconscious-mind"
     },
@@ -1307,7 +1307,7 @@
         "poverty",
         "democracy"
       ],
-      "emoji": "📊",
+      "emoji": "\ud83d\udcca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-price-of-inequality"
     },
@@ -1324,7 +1324,7 @@
         "energy-policy",
         "middle-east"
       ],
-      "emoji": "🛢️",
+      "emoji": "\ud83d\udee2\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-prize"
     },
@@ -1341,7 +1341,7 @@
         "prospecting",
         "communication"
       ],
-      "emoji": "📞",
+      "emoji": "\ud83d\udcde",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-psychology-of-selling"
     },
@@ -1356,7 +1356,7 @@
         "financial-discipline",
         "money-mindset"
       ],
-      "emoji": "🏛️",
+      "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-richest-man-in-babylon"
     },
@@ -1371,7 +1371,7 @@
         "character",
         "trust"
       ],
-      "emoji": "👑",
+      "emoji": "\ud83d\udc51",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-servant"
     },
@@ -1386,7 +1386,7 @@
         "consistency",
         "compound-effect"
       ],
-      "emoji": "🌱",
+      "emoji": "\ud83c\udf31",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-slight-edge"
     },
@@ -1403,7 +1403,7 @@
         "political-science",
         "mearsheimer"
       ],
-      "emoji": "🌐",
+      "emoji": "\ud83c\udf10",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-tragedy-of-great-power-politics"
     },
@@ -1421,7 +1421,7 @@
         "money-management",
         "budgeting"
       ],
-      "emoji": "💰",
+      "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-truth-about-financial-freedom"
     },
@@ -1436,7 +1436,7 @@
         "art",
         "discipline"
       ],
-      "emoji": "⚔️",
+      "emoji": "\u2694\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-war-of-art"
     },
@@ -1455,7 +1455,7 @@
         "life-advice",
         "productivity"
       ],
-      "emoji": "💡",
+      "emoji": "\ud83d\udca1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-way-to-wealth"
     },
@@ -1475,7 +1475,7 @@
         "la-leche-league",
         "milk-supply"
       ],
-      "emoji": "🤱",
+      "emoji": "\ud83e\udd31",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-womanly-art-of-breastfeeding"
     },
@@ -1490,7 +1490,7 @@
         "motivation",
         "self-help"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/think-and-grow-rich"
     },
@@ -1509,7 +1509,7 @@
         "american-history",
         "management"
       ],
-      "emoji": "📜",
+      "emoji": "\ud83d\udcdc",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/thomas-jefferson"
     },
@@ -1523,7 +1523,7 @@
         "psychology",
         "productivity"
       ],
-      "emoji": "🌱",
+      "emoji": "\ud83c\udf31",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/tiny-habits"
     },
@@ -1542,7 +1542,7 @@
         "world-travel",
         "travel-tips"
       ],
-      "emoji": "🌍",
+      "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/vagabonding"
     },
@@ -1561,7 +1561,7 @@
         "challenger",
         "physics"
       ],
-      "emoji": "🔬",
+      "emoji": "\ud83d\udd2c",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/what-do-you-care-what-other-people-think"
     },
@@ -1580,7 +1580,7 @@
         "mental-health",
         "family"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/what-your-adhd-child-wishes-you-knew"
     },
@@ -1597,7 +1597,7 @@
         "decolonial",
         "social-justice"
       ],
-      "emoji": "🌎",
+      "emoji": "\ud83c\udf0e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/who-gets-to-be-indian"
     },
@@ -1616,7 +1616,7 @@
         "execution",
         "organizational-culture"
       ],
-      "emoji": "🏆",
+      "emoji": "\ud83c\udfc6",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/winning"
     },
@@ -1635,7 +1635,7 @@
         "performance-management",
         "organizational-development"
       ],
-      "emoji": "🏢",
+      "emoji": "\ud83c\udfe2",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/work-rules"
     },
@@ -1652,7 +1652,7 @@
         "foreign-policy",
         "history"
       ],
-      "emoji": "🌐",
+      "emoji": "\ud83c\udf10",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/world-order"
     },
@@ -1671,7 +1671,7 @@
         "presence",
         "awareness"
       ],
-      "emoji": "🧘",
+      "emoji": "\ud83e\uddd8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/zen-mind-beginners-mind"
     },
@@ -1686,7 +1686,7 @@
         "distraction",
         "concentration"
       ],
-      "emoji": "🎯",
+      "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/deep-work"
     },
@@ -1700,7 +1700,7 @@
         "minimalism",
         "prioritization"
       ],
-      "emoji": "🎯",
+      "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/essentialism"
     },
@@ -1714,7 +1714,7 @@
         "success",
         "psychology"
       ],
-      "emoji": "🏔️",
+      "emoji": "\ud83c\udfd4\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/grit-the-power-of-passion-and-perseverance"
     },
@@ -1729,7 +1729,7 @@
         "philosophy",
         "self-improvement"
       ],
-      "emoji": "⚔️",
+      "emoji": "\u2694\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/ego-is-the-enemy"
     },
@@ -1744,7 +1744,7 @@
         "philosophy",
         "purpose"
       ],
-      "emoji": "🕯️",
+      "emoji": "\ud83d\udd6f\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/mans-search-for-meaning"
     },
@@ -1758,7 +1758,7 @@
         "education",
         "social-justice"
       ],
-      "emoji": "🤝",
+      "emoji": "\ud83e\udd1d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/why-are-all-the-black-kids-sitting-together-in-the-cafeteria"
     },
@@ -1773,7 +1773,7 @@
         "history",
         "hierarchy"
       ],
-      "emoji": "🏛️",
+      "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/caste"
     },
@@ -1787,7 +1787,7 @@
         "practice",
         "opportunity"
       ],
-      "emoji": "📊",
+      "emoji": "\ud83d\udcca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/outliers"
     },
@@ -1801,7 +1801,7 @@
         "biases",
         "dan-ariely"
       ],
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/predictably-irrational"
     },
@@ -1815,7 +1815,7 @@
         "society",
         "philosophy"
       ],
-      "emoji": "🌍",
+      "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/21-lessons-for-the-21st-century"
     },
@@ -1829,7 +1829,7 @@
         "technology",
         "philosophy"
       ],
-      "emoji": "🔮",
+      "emoji": "\ud83d\udd2e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/homo-deus"
     },
@@ -1843,7 +1843,7 @@
         "risk",
         "probability"
       ],
-      "emoji": "🦢",
+      "emoji": "\ud83e\udda2",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-swan"
     },
@@ -1857,7 +1857,7 @@
         "risk",
         "philosophy"
       ],
-      "emoji": "🧱",
+      "emoji": "\ud83e\uddf1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/antifragile"
     },
@@ -1871,7 +1871,7 @@
         "psychology",
         "behavioral-economics"
       ],
-      "emoji": "🛍️",
+      "emoji": "\ud83d\udecd\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-paradox-of-choice"
     },
@@ -1885,7 +1885,7 @@
         "work-life-balance",
         "culture"
       ],
-      "emoji": "🇩🇰",
+      "emoji": "\ud83c\udde9\ud83c\uddf0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-year-of-living-danishly"
     },
@@ -1899,7 +1899,7 @@
         "autobiography",
         "resilience"
       ],
-      "emoji": "✊🏿",
+      "emoji": "\u270a\ud83c\udfff",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/long-walk-to-freedom"
     },
@@ -1913,7 +1913,7 @@
         "science",
         "thermodynamics"
       ],
-      "emoji": "🧬",
+      "emoji": "\ud83e\uddec",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/thermoinfocomplexity"
     },
@@ -1927,7 +1927,7 @@
         "history",
         "international-relations"
       ],
-      "emoji": "🌍",
+      "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/great-power-diplomacy"
     },
@@ -1941,7 +1941,7 @@
         "black-history",
         "role-models"
       ],
-      "emoji": "👧🏿",
+      "emoji": "\ud83d\udc67\ud83c\udfff",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/little-leaders"
     },
@@ -1955,7 +1955,7 @@
         "us-history",
         "constitution"
       ],
-      "emoji": "🏛️",
+      "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-american-presidency"
     },
@@ -1969,9 +1969,23 @@
         "russia",
         "courage"
       ],
-      "emoji": "🇷🇺",
+      "emoji": "\ud83c\uddf7\ud83c\uddfa",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/patriot-a-memoir"
+    },
+    "what-to-expect-when-youre-expecting": {
+      "title": "What to Expect When You are Expecting",
+      "slug": "what-to-expect-when-youre-expecting",
+      "tags": [
+        "pregnancy",
+        "parenting",
+        "health",
+        "baby",
+        "guide"
+      ],
+      "emoji": "\ud83d\udc76",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/what-to-expect-when-youre-expecting"
     }
   }
 }
