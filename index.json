@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 116,
+  "total_skills": 117,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1902,6 +1902,20 @@
       "emoji": "\u270a\ud83c\udfff",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/long-walk-to-freedom"
+    },
+    "thermoinfocomplexity": {
+      "title": "Thermoinfocomplexity",
+      "slug": "thermoinfocomplexity",
+      "tags": [
+        "complexity",
+        "evolution",
+        "life-origin",
+        "science",
+        "thermodynamics"
+      ],
+      "emoji": "\ud83e\uddec",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/thermoinfocomplexity"
     }
   }
 }
