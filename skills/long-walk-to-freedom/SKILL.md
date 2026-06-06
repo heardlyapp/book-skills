@@ -75,7 +75,7 @@ Mandela kept his family separate from the struggle when possible. He wrote lette
 
 ## Rules
 
-### Language Rule #1
+1. **Language**
 
 This skill uses English exclusively. All quotes, references, and examples are in English. No Chinese text appears anywhere in this document.
 
