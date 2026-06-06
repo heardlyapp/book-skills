@@ -2,7 +2,7 @@
   "name": "Heardly Book Skills",
   "description": "Executable AI skill toolkits for books",
   "source": "https://github.com/heardlyapp/book-skills",
-  "total_skills": 115,
+  "total_skills": 116,
   "skills": {
     "100m-offers": {
       "title": "$100M Offers",
@@ -1888,6 +1888,20 @@
       "emoji": "\ud83c\udde9\ud83c\uddf0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-year-of-living-danishly"
+    },
+    "long-walk-to-freedom": {
+      "title": "Long Walk to Freedom",
+      "slug": "long-walk-to-freedom",
+      "tags": [
+        "mandela",
+        "leadership",
+        "freedom",
+        "autobiography",
+        "resilience"
+      ],
+      "emoji": "\u270a\ud83c\udfff",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/long-walk-to-freedom"
     }
   }
 }
