@@ -1683,21 +1683,6 @@
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/zen-mind-beginners-mind"
     },
-    "angela-duckworth-grit": {
-      "title": "Grit: The Power of Passion and Perseverance",
-      "slug": "angela-duckworth-grit",
-      "tags": [
-        "grit",
-        "perseverance",
-        "passion",
-        "success",
-        "psychology",
-        "motivation"
-      ],
-      "emoji": "\ud83c\udfd4\ufe0f",
-      "publisher": "heardlyapp",
-      "clawhub_url": "https://clawhub.ai/heardlyapp/angela-duckworth-grit"
-    },
     "deep-work": {
       "title": "Deep Work: Rules for Focused Success in a Distracted World",
       "slug": "deep-work",
@@ -1726,6 +1711,20 @@
       "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/essentialism"
+    },
+    "grit-the-power-of-passion-and-perseverance": {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "slug": "grit-the-power-of-passion-and-perseverance",
+      "tags": [
+        "grit",
+        "perseverance",
+        "passion",
+        "success",
+        "psychology"
+      ],
+      "emoji": "\ud83c\udfd4\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/grit-the-power-of-passion-and-perseverance"
     }
   }
 }

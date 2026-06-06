@@ -1,10 +1,10 @@
 {
-  "name": "angela-duckworth-grit",
+  "name": "grit-the-power-of-passion-and-perseverance",
   "version": "1.0.0",
   "description": "Angela Duckworth's Grit \u2014 an executable toolkit for developing the power of passion and perseverance: how talent alone isn't enough, effort counts twice, and grit can be grown from the inside out.\n\nCovers 5 use cases:\n\u2460 Understanding Grit \u2014 the science of passion and perseverance\n\u2461 The Effort Equation \u2014 Talent \u00d7 Effort = Skill, Skill \u00d7 Effort = Achievement\n\u2462 Developing Passion \u2014 discover and deepen interests over time\n\u2463 Deliberate Practice \u2014 practice that actually improves skill\n\u2464 Cultivating Hope & Resilience \u2014 the mindset that keeps you going.\n\nTrigger when users say: \"Grit\" \"Angela Duckworth\" \"Passion and perseverance\" \"How to be more persistent\" \"I give up too easily\" \"How to develop grit\" \"Talent vs hard work\" \"Deliberate practice\" \"Growth mindset\" \"How to stay motivated\" \"Never give up\" \"Resilience\" \"How to achieve long-term goals\"\nor mention: Angela Duckworth / Grit / passion / perseverance / effort counts twice / deliberate practice / purpose / hope.\n\nAlso triggers when the user says they just installed this skill or doesn't know how to start \u2014 the AI MUST proactively present the Quick Start guide below.\n\nRelated skills: atomic-habits, the-slight-edge, cant-hurt-me, make-it-stick, the-happiness-advantage.",
   "publisher": "heardlyapp",
   "license": "MIT",
-  "homepage": "https://clawhub.ai/heardlyapp/angela-duckworth-grit",
+  "homepage": "https://clawhub.ai/heardlyapp/grit-the-power-of-passion-and-perseverance",
   "useCase": "Helps anyone develop the passion and perseverance to achieve long-term goals \u2014 backed by decades of research on what really drives high achievement.",
   "knownRisks": [
     "Grit research has been criticized for overemphasizing individual effort over systemic barriers; this skill presents the research findings without dismissing structural factors."
