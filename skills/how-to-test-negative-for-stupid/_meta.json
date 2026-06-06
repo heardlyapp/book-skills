@@ -1,0 +1,19 @@
+{
+ "name": "how-to-test-negative-for-stupid",
+ "version": "1.0.0",
+ "description": "Senator John Kennedy's 'How to Test Negative for Stupid: And Why Washington Never Will' — a hilarious, brutally honest look inside Washington D.C. from a U.S. Senator who refuses to take himself too seriously.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/how-to-test-negative-for-stupid",
+ "useCase": "Understand how Washington really works, laugh at the absurdity of D.C., and learn what it takes to fix our broken political system.",
+ "knownRisks": [
+  "Strongly partisan from a conservative/Louisiana perspective — may not appeal across the political spectrum",
+  "Satirical and humorous — not a serious policy analysis",
+  "Specific to U.S. federal government — limited relevance outside America"
+ ],
+ "tags": ["john-kennedy", "politics", "washington-dc", "humor", "senate", "congress", "government", "conservative", "louisiana", "satire"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "politics"
+ }
+}
