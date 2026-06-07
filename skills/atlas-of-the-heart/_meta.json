@@ -1,0 +1,19 @@
+{
+ "name": "atlas-of-the-heart",
+ "version": "1.0.0",
+ "description": "Brené Brown's 'Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience' — a comprehensive exploration of 87 emotions organized into 14 'places,' building emotional literacy and the language of connection, vulnerability, and wholehearted living.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/atlas-of-the-heart",
+ "useCase": "Build emotional literacy by understanding 87 emotions mapped into 14 emotional 'places,' improve connection with others, and develop the courage for vulnerable, wholehearted living.",
+ "knownRisks": [
+  "Research-based but not a replacement for professional mental health treatment",
+  "Some readers may find Brené's personal style less academic than expected",
+  "The 87 emotions framework is comprehensive but may feel overwhelming"
+ ],
+ "tags": ["brene-brown", "atlas-of-the-heart", "emotions", "vulnerability", "shame", "connection", "emotional-literacy", "psychology", "self-help", "human-experience"],
+ "openclaw": {
+  "emoji": "\ud83d\udc96",
+  "category": "psychology"
+ }
+}
