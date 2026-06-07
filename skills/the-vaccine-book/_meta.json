@@ -1,0 +1,19 @@
+{
+ "name": "the-vaccine-book",
+ "version": "1.0.0",
+ "description": "Dr. Robert W. Sears' 'The Vaccine Book: Making the Right Decision for Your Child' — a comprehensive guide to childhood vaccines that helps parents understand risks, benefits, ingredients, and alternative schedules to make informed vaccination decisions.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-vaccine-book",
+ "useCase": "Understand each childhood vaccine, evaluate vaccine ingredients and safety, explore alternative schedules, and make an informed vaccination decision for your child.",
+ "knownRisks": [
+  "Controversial topic — Sears' alternative schedules and autism discussion are disputed by mainstream medical organizations",
+  "Medicine evolves — some specific vaccine data may have changed since the book's publication",
+  "Not a substitute for medical advice — always consult your pediatrician before making vaccination decisions"
+ ],
+ "tags": ["robert-sears", "vaccine-book", "childhood-vaccines", "immunization", "vaccine-safety", "pediatrics", "parenting", "public-health", "alternative-schedule", "vaccine-ingredients"],
+ "openclaw": {
+  "emoji": "💉",
+  "category": "health"
+ }
+}
