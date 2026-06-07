@@ -1,0 +1,19 @@
+{
+ "name": "american-marxism",
+ "version": "1.0.0",
+ "description": "Mark R. Levin's 'American Marxism' — a conservative critique of how Marxist ideology has infiltrated American institutions from universities and media to government and culture, and what it means for the future of the Republic.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/american-marxism",
+ "useCase": "Understand how Marxist ideology has evolved and infiltrated American institutions through the Frankfurt School, critical theory, and the Gramscian long march through institutions.",
+ "knownRisks": [
+  "Strongly partisan perspective — Levin is a conservative commentator",
+  "Controversial claims about Marxist infiltration that are disputed",
+  "Some critics argue the book conflates legitimate progressive reform with Marxism"
+ ],
+ "tags": ["mark-levin", "american-marxism", "marxism", "critical-theory", "politics", "conservatism", "cultural-marxism", "critical-race-theory", "ideology", "america"],
+ "openclaw": {
+  "emoji": "\ud83c\uddfa\ud83c\uddf8",
+  "category": "politics"
+ }
+}
