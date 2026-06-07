@@ -1,0 +1,19 @@
+{
+ "name": "al-franken-giant-of-the-senate",
+ "version": "1.0.0",
+ "description": "Al Franken's 'Al Franken, Giant of the Senate' — a witty, insider memoir of how a comedian and SNL writer became a US Senator, offering a behind-the-scenes look at American politics, the historic 2008 Minnesota recount, and how government actually works.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/al-franken-giant-of-the-senate",
+ "useCase": "Understand how American politics really works through the eyes of a comedian-turned-Senator, learn about the 2008 recount, and find inspiration for civic engagement.",
+ "knownRisks": [
+  "Highly partisan perspective — Franken is a Democrat and the book reflects that viewpoint",
+  "Written in 2017 — does not cover post-2017 political developments",
+  "Very US-specific — limited relevance for non-American audiences"
+ ],
+ "tags": ["al-franken", "al-franken-giant-of-the-senate", "memoir", "politics", "us-senate", "minnesota", "political-humor", "snl", "government", "election-recount"],
+ "openclaw": {
+  "emoji": "\ud83c\udfdb\ufe0f",
+  "category": "politics"
+ }
+}
