@@ -1,0 +1,19 @@
+{
+ "name": "psychological-types",
+ "version": "1.0.0",
+ "description": "C.G. Jung's 'Psychological Types' — the foundational work of modern personality theory, introducing extraversion and introversion, the four functions, and the concept of psychological type.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/psychological-types",
+ "useCase": "Understand yourself and others through Jung's type theory — explore introversion/extraversion, cognitive functions, relationships, and personal growth.",
+ "knownRisks": [
+  "Dense academic text — the skill distills key concepts but cannot replace reading Jung's original work",
+  "Jung's framework differs from MBTI in important ways — don't conflate them",
+  "Some concepts (anima, animus, shadow) are complex — simplified explanations may miss nuance"
+ ],
+ "tags": ["carl-jung", "psychological-types", "introversion", "extraversion", "cognitive-functions", "personality", "psychology", "myers-briggs", "self-awareness", "analytical-psychology"],
+ "openclaw": {
+  "emoji": "🧠",
+  "category": "psychology"
+ }
+}
