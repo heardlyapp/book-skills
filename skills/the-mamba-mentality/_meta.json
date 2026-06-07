@@ -1,0 +1,19 @@
+{
+ "name": "the-mamba-mentality",
+ "version": "1.0.0",
+ "description": "Kobe Bryant's 'The Mamba Mentality: How I Play' — Kobe's personal account of his approach to basketball, revealing the mindset, preparation, and work ethic that made him an NBA legend.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-mamba-mentality",
+ "useCase": "Develop a champion's mindset, learn Kobe's training habits, study his approach to the game, and apply his relentless work ethic to your own goals.",
+ "knownRisks": [
+  "Short book — primarily photographs with captions, limited text",
+  "Very basketball-specific — the mentality can be applied broadly but examples are sport-focused",
+  "Kobe's intensity is not for everyone — his approach may not suit all personalities or contexts"
+ ],
+ "tags": ["kobe-bryant", "mamba-mentality", "basketball", "mindset", "work-ethic", "sports", "leadership", "training", "excellence", "nba"],
+ "openclaw": {
+  "emoji": "🐍",
+  "category": "sports"
+ }
+}
