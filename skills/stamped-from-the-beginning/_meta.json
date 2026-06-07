@@ -1,0 +1,19 @@
+{
+ "name": "stamped-from-the-beginning",
+ "version": "1.0.0",
+ "description": "Ibram X. Kendi's 'Stamped from the Beginning: The Definitive History of Racist Ideas in America' — a sweeping history arguing that racist ideas were created to justify discriminatory policies.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/stamped-from-the-beginning",
+ "useCase": "Understand the history of racism in America, learn the three camps framework, and apply antiracist thinking to contemporary issues.",
+ "knownRisks": [
+  "Challenging content — directly confronts deeply held beliefs about American history and equality",
+  "Academic in scope — dense reading, the skill distills key arguments",
+  "Some may find Kendi's framework reductive — the three-camp model simplifies complex reality"
+ ],
+ "tags": ["ibram-x-kendi", "racism", "antiracism", "history", "american-history", "civil-rights", "social-justice", "race", "segregation", "slavery"],
+ "openclaw": {
+  "emoji": "📚",
+  "category": "history"
+ }
+}
