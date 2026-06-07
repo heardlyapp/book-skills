@@ -1,0 +1,19 @@
+{
+ "name": "becoming-a-person-of-influence",
+ "version": "1.0.0",
+ "description": "John C. Maxwell and Jim Dornan's 'Becoming a Person of Influence: How to Positively Impact the Lives of Others' — a practical guide to building genuine influence through integrity, nurturing, faith in people, listening, and generosity.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/becoming-a-person-of-influence",
+ "useCase": "Develop the five qualities of positive influence — integrity, nurturing, faith in people, listening, and generosity — to become a leader who genuinely impacts others.",
+ "knownRisks": [
+  "Christian faith perspective woven throughout — may not resonate with all readers",
+  "Primarily focused on individual influence, not systemic or positional power",
+  "Some examples and references are from the 1990s business context"
+ ],
+ "tags": ["john-maxwell-jim-dornan", "becoming-a-person-of-influence", "leadership", "influence", "personal-development", "integrity", "mentoring", "service", "communication", "impact"],
+ "openclaw": {
+  "emoji": "\u2b50",
+  "category": "self-help"
+ }
+}
