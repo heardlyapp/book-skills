@@ -3178,7 +3178,26 @@
       "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/when-the-air-hits-your-brain"
+    },
+    {
+      "slug": "unix-a-history-and-a-memoir",
+      "title": "Brian Kernighan's UNIX: A History and a Memoir \u2014 a toolkit for engineering culture, simplicity, and building through constraints",
+      "author": "Brian W. Kernighan",
+      "version": "1.0.0",
+      "tags": [
+        "software-engineering",
+        "engineering-culture",
+        "simplicity",
+        "history-of-computing",
+        "bell-labs",
+        "unix",
+        "automation",
+        "craftsmanship"
+      ],
+      "emoji": "\ud83d\udda5\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/unix-a-history-and-a-memoir"
     }
   ],
-  "total_skills": 177
+  "total_skills": 178
 }

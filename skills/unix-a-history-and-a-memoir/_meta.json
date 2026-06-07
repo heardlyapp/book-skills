@@ -1,0 +1,19 @@
+{
+  "name": "unix-a-history-and-a-memoir",
+  "version": "1.0.0",
+  "description": "Brian Kernighan's memoir of Unix and Bell Labs — engineering principles, organizational lessons, and creative constraints behind one of the most influential software systems ever built.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/unix-a-history-and-a-memoir",
+  "useCase": "Engineering culture design, fighting product complexity, building through constraints, tool investment decisions, knowledge work craftsmanship.",
+  "knownRisks": [
+    "The book is a memoir from a participant's perspective — not a neutral history",
+    "Bell Labs was a unique institutional context that may not be replicable today",
+    "Some technical depth in the book requires basic programming knowledge"
+  ],
+  "tags": ["software-engineering", "engineering-culture", "simplicity", "history-of-computing", "bell-labs", "unix", "automation", "craftsmanship"],
+  "openclaw": {
+    "emoji": "🖥️",
+    "category": "professional-development"
+  }
+}
