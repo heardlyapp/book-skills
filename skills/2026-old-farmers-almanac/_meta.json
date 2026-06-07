@@ -1,0 +1,19 @@
+{
+ "name": "2026-old-farmers-almanac",
+ "version": "1.0.0",
+ "description": "The 2026 Old Farmer's Almanac — America's oldest continuously published periodical, offering weather forecasts, gardening advice, astronomy, recipes, and useful tips.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/2026-old-farmers-almanac",
+ "useCase": "Plan your year around weather forecasts, gardening calendars, astronomical events, and seasonal living tips.",
+ "knownRisks": [
+  "Time-sensitive content — weather forecasts and astronomical data for 2026 only",
+  "Weather accuracy not guaranteed — use alongside modern forecasts",
+  "US/Canada focused — gardening and weather data specific to North America"
+ ],
+ "tags": ["old-farmers-almanac", "weather", "gardening", "astronomy", "recipes", "folklore", "reference", "outdoors", "homesteading", "seasonal-living"],
+ "openclaw": {
+  "emoji": "🌽",
+  "category": "reference"
+ }
+}
