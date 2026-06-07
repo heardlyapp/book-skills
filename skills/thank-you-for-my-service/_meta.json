@@ -1,0 +1,19 @@
+{
+ "name": "thank-you-for-my-service",
+ "version": "1.0.0",
+ "description": "Mat Best's 'Thank You for My Service' — a brutally honest, darkly hilarious memoir from a former Army Ranger about service, combat, PTSD, brotherhood, and coming home.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/thank-you-for-my-service",
+ "useCase": "Understand military service from a Ranger's perspective, cope with PTSD and transition, and find humor and hope in veteran experiences.",
+ "knownRisks": [
+  "Contains profanity, dark humor, and graphic descriptions of combat — not for all readers",
+  "One veteran's perspective — not representative of all military experiences",
+  "Humor may be offensive to those who prefer a more reverent tone about military service"
+ ],
+ "tags": ["mat-best", "military", "army-ranger", "veteran", "combat", "ptsd", "memoir", "humor", "special-forces", "mental-health"],
+ "openclaw": {
+  "emoji": "🎖️",
+  "category": "biography"
+ }
+}
