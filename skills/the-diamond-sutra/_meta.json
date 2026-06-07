@@ -1,0 +1,19 @@
+{
+ "name": "the-diamond-sutra",
+ "version": "1.0.0",
+ "description": "The Diamond Sutra and the Sutra of Hui-neng — two of the most treasured works of Buddhist literature, offering profound teachings on emptiness, non-attachment, and the direct realization of enlightenment.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-diamond-sutra",
+ "useCase": "Study the Diamond Sutra's teachings on emptiness, understand Hui-neng's path to sudden enlightenment, and practice non-attachment in daily life.",
+ "knownRisks": [
+  "Ancient Buddhist texts — require careful reading; teachings can be misconstrued as nihilism",
+  "Translations vary — different editions interpret key terms differently",
+  "Zen teachings resist intellectual analysis — the skill provides context but cannot replace direct practice"
+ ],
+ "tags": ["diamond-sutra", "platform-sutra", "hui-neng", "zen", "buddhism", "emptiness", "non-attachment", "enlightenment", "mahayana", "sutra"],
+ "openclaw": {
+  "emoji": "💎",
+  "category": "spirituality"
+ }
+}
