@@ -3080,6 +3080,22 @@
       ],
       "score": 9.8,
       "summary": "Shunryu Suzuki's Zen Mind, Beginner's Mind \u2014 an executable toolkit for Zen meditation and mindful living: how to cultivate a beginner's mind, establish a meditation practice, and bring Zen awareness into every aspect of daily life.\n\nCovers 5 use cases:\n\u2460 Establishing a Meditation Practice \u2014 learn proper posture, breathing, and how to sit with a clear mind\n\u2461 Cultivating Beginner's Mind \u2014 approach every experience with openness, curiosity, and no preconceptions\n\u2462 Working with Thoughts \u2014 handle mind-wandering, emotional turbulence, and mental noise with compassion\n\u2463 Bringing Zen into Daily Life \u2014 practice mindfulness in ordinary activities: eating, walking, working\n\u2464 Understanding Non-Attachment \u2014 let go of expectations, goals, and the need to get somewhere in practice.\n\nTrigger when users say: \"Zen meditation\" \"How to meditate\" \"Beginner's mind\" \"Shunryu Suzuki\" \"Zazen\" \"Mindfulness\" \"Zen Buddhism\" \"How to be present\" \"Meditation for beginners\" \"Stop overthinking\" \"Let go of attachment\" \"Just sitting\" \"Buddhist meditation\" \"Zen practice\"\nor mention: Shunryu Suzuki / Zen Mind / Beginner's Mind / zazen / meditation / Zen / Buddhism / mindfulness / beginner's mind.\n\nRelated skills: the-power-of-now, be-here-now, the-miracle-of-mindfulness, the-happiness-advantage, radically-happy."
+    },
+    {
+      "slug": "human-machine",
+      "title": "Paul R. Daugherty and H. James Wilson's Human + Machine \u2014 an executable toolkit that maps any AI-transformation challenge onto the Missing Middle framework (MELDS)",
+      "author": "Paul R. Daugherty / H. James Wilson",
+      "version": "1.0.0",
+      "tags": [
+        "ai",
+        "business-strategy",
+        "future-of-work",
+        "leadership",
+        "digital-transformation"
+      ],
+      "score": 9.7,
+      "summary": "Paul R. Daugherty and H. James Wilson's Human + Machine \u2014 an executable toolkit that maps any AI-transformation challenge onto the Missing Middle framework (MELDS: Mindset \u2192 Experimentation \u2192 Leadership \u2192 Data \u2192 Skills), revealing where humans and machines collaborate, not compete.\n\nCovers 5 use cases:\n\u2460 AI Strategy Diagnosis \u2014 assess where your organization stands\n\u2461 Missing Middle Design \u2014 redesign a process for human-machine collaboration\n\u2462 Fusion Skills Roadmap \u2014 identify which of 8 fusion skills your team needs\n\u2463 Responsible AI Audit \u2014 check for bias, explainability, and guardrails\n\u2464 MELDS Implementation \u2014 apply the 5-part framework to any transformation\n\nTrigger when users say: \"AI strategy\" \"human-machine collaboration\" \"missing middle\" \"How do I start with AI\" \"future of work\" \"fusion skills\" \"MELDS framework\"\nor mention: Paul Daugherty / Jim Wilson / Human + Machine / third wave / augmentation vs automation / cobots / data supply chain / responsible AI."
     }
-  ]
+  ],
+  "total_skills": 172
 }

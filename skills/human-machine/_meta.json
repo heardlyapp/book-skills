@@ -1,0 +1,19 @@
+{
+ "name": "human-machine",
+ "version": "1.0.0",
+ "description": "Paul R. Daugherty and H. James Wilson's Human + Machine — an executable toolkit that maps any AI-transformation challenge onto the Missing Middle framework (MELDS: Mindset → Experimentation → Leadership → Data → Skills), revealing where humans and machines collaborate, not compete.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/human-machine",
+ "useCase": "AI strategy design, human-machine collaboration planning, fusion skills development, responsible AI audit, and MELDS-based organizational transformation",
+ "knownRisks": [
+  "May oversimplify complex organizational transformation — MELDS is a framework, not a step-by-step recipe",
+  "The Missing Middle framework assumes organizational willingness to redesign processes, which may face resistance",
+  "Case studies are primarily large enterprises — small organizations may need to adapt the model"
+ ],
+ "tags": ["ai", "business-strategy", "future-of-work", "leadership", "digital-transformation"],
+ "openclaw": {
+  "emoji": "🔮",
+  "category": "business"
+ }
+}
