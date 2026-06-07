@@ -1,0 +1,19 @@
+{
+ "name": "the-food-lab",
+ "version": "1.0.0",
+ "description": "J. Kenji López-Alt's 'The Food Lab: Better Home Cooking Through Science' — the definitive guide to understanding the science behind cooking, with rigorously tested recipes and techniques that explain why they work.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-food-lab",
+ "useCase": "Master cooking techniques through science, from perfect eggs and steak to roasted vegetables, soups, and pan sauces.",
+ "knownRisks": [
+  "Massive book (1300+ pages) — the skill covers key highlights, not every recipe",
+  "Food science focus — some readers may prefer simpler recipe collections",
+  "Requires basic kitchen equipment — some techniques need thermometer, cast iron, etc."
+ ],
+ "tags": ["j-kenji-lopez-alt", "food-lab", "cooking", "food-science", "recipes", "techniques", "serious-eats", "kitchen-tips", "cookbook", "culinary"],
+ "openclaw": {
+  "emoji": "🔬",
+  "category": "food"
+ }
+}
