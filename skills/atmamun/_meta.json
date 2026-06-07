@@ -1,0 +1,19 @@
+{
+ "name": "atmamun",
+ "version": "1.0.0",
+ "description": "Kapil Gupta's 'Atmamun: The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God.' — a direct, uncompromising spiritual guide to enlightenment that cuts through spiritual platitudes and points directly to the truth of liberation beyond all practices and methods.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/atmamun",
+ "useCase": "Understand the direct path to enlightenment, recognize the mind as the obstacle, and see through the illusion of the spiritual seeker to the freedom that has always been present.",
+ "knownRisks": [
+  "Radically dismissive of all spiritual practices — may be unsettling for committed meditators",
+  "The direct path approach is not suitable for everyone",
+  "Gupta's teaching challenges nearly all mainstream spiritual frameworks"
+ ],
+ "tags": ["kapil-gupta", "atmamun", "enlightenment", "spirituality", "non-duality", "self-realization", "consciousness", "liberation", "advaita", "awakening"],
+ "openclaw": {
+  "emoji": "\ud83e\uddd8",
+  "category": "spirituality"
+ }
+}
