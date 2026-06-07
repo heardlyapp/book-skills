@@ -1,0 +1,19 @@
+{
+ "name": "american-prometheus",
+ "version": "1.0.0",
+ "description": "Kai Bird and Martin J. Sherwin's 'American Prometheus' — the Pulitzer Prize-winning biography of J. Robert Oppenheimer, the father of the atomic bomb, chronicling his rise, his role in the Manhattan Project, the security hearing that destroyed him, and the moral weight of the nuclear age.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/american-prometheus",
+ "useCase": "Understand the life of J. Robert Oppenheimer through the definitive biography, from his early genius through the Manhattan Project to the security hearing that destroyed his career.",
+ "knownRisks": [
+  "Comprehensive but very long — 700+ pages, may be overwhelming",
+  "The security hearing sections are deeply critical of the government",
+  "Some scientific details may be dense for non-technical readers"
+ ],
+ "tags": ["kai-bird-martin-sherwin", "american-prometheus", "oppenheimer", "manhattan-project", "atomic-bomb", "biography", "nuclear-weapons", "physics", "los-alamos", "cold-war"],
+ "openclaw": {
+  "emoji": "\ud83d\udd25",
+  "category": "history"
+ }
+}
