@@ -1,0 +1,19 @@
+{
+ "name": "the-body-a-guide-for-occupants",
+ "version": "1.0.0",
+ "description": "Bill Bryson's The Body: A Guide for Occupants — a captivating tour of the 37.2 trillion cells that make you, revealing how little we actually know about the 'warm wobble of flesh' we inhabit, with wit, wonder, and jaw-dropping science.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-body-a-guide-for-occupants",
+ "useCase": "Human biology understanding, science communication, health education, curious exploration of the body's mysteries",
+ "knownRisks": [
+  "Bryson writes for popular consumption — some complexities are simplified",
+  "The book focuses on wonder and mystery rather than clinical recommendations",
+  "Some facts and figures are based on ongoing science that may evolve"
+ ],
+ "tags": ["science", "biology", "health", "human-body", "popular-science"],
+ "openclaw": {
+  "emoji": "🫀",
+  "category": "science"
+ }
+}
