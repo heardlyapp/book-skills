@@ -1,0 +1,19 @@
+{
+ "name": "why-we-get-sick",
+ "version": "1.0.0",
+ "description": "Benjamin Bikman's 'Why We Get Sick' — the science of insulin resistance as the root cause of most chronic diseases, including heart disease, Alzheimer's, cancer, NAFLD, and PCOS, with practical strategies for reversal.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/why-we-get-sick",
+ "useCase": "Understand how insulin resistance drives chronic disease and learn evidence-based strategies to reverse it through diet, exercise, and lifestyle changes.",
+ "knownRisks": [
+  "Some claims about LDL cholesterol and statins contradict mainstream medical guidelines",
+  "Dietary recommendations (low-carb, keto, intermittent fasting) may not be suitable for everyone",
+  "Always consult a doctor before making significant dietary changes, especially if on medication"
+ ],
+ "tags": ["benjamin-bikman", "why-we-get-sick", "insulin-resistance", "metabolic-health", "chronic-disease", "heart-disease", "alzheimers", "diabetes", "nutrition", "health-science"],
+ "openclaw": {
+  "emoji": "\ud83c\udf4f",
+  "category": "health"
+ }
+}
