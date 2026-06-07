@@ -1,0 +1,19 @@
+{
+ "name": "ask-and-it-is-given",
+ "version": "1.0.0",
+ "description": "Esther and Jerry Hicks's 'Ask and It Is Given: Learning to Manifest Your Desires' — the foundational Law of Attraction guide based on the Teachings of Abraham, presenting 22 practical processes for shifting vibration, aligning with Source energy, and manifesting desires.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/ask-and-it-is-given",
+ "useCase": "Learn the Law of Attraction through Abraham's teachings, understand your emotional guidance system, and use 22 practical processes to align your vibration and manifest your desires.",
+ "knownRisks": [
+  "Channeled material — some readers may find the metaphysical claims unconvincing",
+  "The Law of Attraction is not scientifically validated",
+  "Some critics argue the teachings can lead to victim-blaming (attracting negative experiences)"
+ ],
+ "tags": ["esther-hicks-jerry-hicks", "ask-and-it-is-given", "law-of-attraction", "manifestation", "abraham-hicks", "spiritual-growth", "vibration", "self-help", "emotional-guidance", "new-age"],
+ "openclaw": {
+  "emoji": "\u2728",
+  "category": "spirituality"
+ }
+}
