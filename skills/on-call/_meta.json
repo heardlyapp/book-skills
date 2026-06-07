@@ -1,0 +1,19 @@
+{
+  "name": "on-call",
+  "version": "1.0.0",
+  "description": "Dr. Anthony Fauci's memoir — navigating the tension between science, politics, and public health through the lens of a physician who served six presidents across 50+ years of epidemics.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/on-call",
+  "useCase": "Crisis leadership, truth-telling to power, career mission design in public service, pandemic messaging strategy, resilience under attack.",
+  "knownRisks": [
+    "Fauci remains a polarizing figure; some users may react strongly to his name",
+    "The book is an autobiography — perspectives are inevitably from one point of view",
+    "Government/public health contexts may not map cleanly to private-sector situations"
+  ],
+  "tags": ["public-service", "crisis-leadership", "science-communication", "medicine", "biography", "pandemic", "resilience", "truth-to-power"],
+  "openclaw": {
+    "emoji": "🩺",
+    "category": "professional-development"
+  }
+}

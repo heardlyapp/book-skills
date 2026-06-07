@@ -3140,7 +3140,26 @@
       ],
       "score": 9.7,
       "summary": "Research-backed toolkit revealing why 91% of divorces can be predicted from a 15-minute conversation. Sound Relationship House framework: love maps, fondness & admiration, turning toward, influence, problem solving, gridlock, shared meaning. Magic Six Hours weekly maintenance routine."
+    },
+    {
+      "slug": "on-call",
+      "title": "Anthony Fauci's On Call \u2014 a toolkit for navigating the tension between science, politics, and public health",
+      "author": "Dr. Anthony Fauci",
+      "version": "1.0.0",
+      "tags": [
+        "public-service",
+        "crisis-leadership",
+        "science-communication",
+        "medicine",
+        "biography",
+        "pandemic",
+        "resilience",
+        "truth-to-power"
+      ],
+      "emoji": "\ud83e\ude7a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/on-call"
     }
   ],
-  "total_skills": 175
+  "total_skills": 176
 }
