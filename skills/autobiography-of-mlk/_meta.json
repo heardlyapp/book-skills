@@ -1,0 +1,19 @@
+{
+ "name": "autobiography-of-mlk",
+ "version": "1.0.0",
+ "description": "Dr. Martin Luther King Jr.'s 'The Autobiography of Martin Luther King, Jr.' — his life story in his own words, edited by Clayborne Carson, covering the Civil Rights Movement, nonviolence, and his enduring vision of justice.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/autobiography-of-mlk",
+ "useCase": "Understand the Civil Rights Movement, MLK's philosophy of nonviolence, key speeches and writings, and apply his leadership lessons today.",
+ "knownRisks": [
+  "Compiled from MLK's writings — not an autobiography in the traditional sense, a composite work",
+  "Covers complex historical events — some simplification inevitable in a skill format",
+  "MLK's legacy is complex — scholars differ on aspects of his politics and philosophy"
+ ],
+ "tags": ["martin-luther-king", "civil-rights", "nonviolence", "american-history", "biography", "racial-justice", "leadership", "social-change", "inspirational", "black-history"],
+ "openclaw": {
+  "emoji": "✊",
+  "category": "history"
+ }
+}
