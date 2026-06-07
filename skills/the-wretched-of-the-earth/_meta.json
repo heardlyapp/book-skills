@@ -1,0 +1,19 @@
+{
+ "name": "the-wretched-of-the-earth",
+ "version": "1.0.0",
+ "description": "Frantz Fanon's 'The Wretched of the Earth' — the classic work on decolonization, the psychology of colonialism, and the struggle for liberation, with a preface by Jean-Paul Sartre.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-wretched-of-the-earth",
+ "useCase": "Understand colonial oppression, the psychology of the colonized, the role of violence in liberation, and the pitfalls of post-independence nationalism.",
+ "knownRisks": [
+  "Contains controversial arguments about violence that are frequently debated",
+  "Written in the context of the Algerian War — some analysis is specific to that historical moment",
+  "Fanon's Marxist framework may not resonate with all readers"
+ ],
+ "tags": ["frantz-fanon", "the-wretched-of-the-earth", "colonialism", "decolonization", "postcolonial-theory", "violence", "national-liberation", "african-history", "philosophy", "political-theory"],
+ "openclaw": {
+  "emoji": "🌍",
+  "category": "politics"
+ }
+}
