@@ -1,0 +1,19 @@
+{
+ "name": "auschwitz-34207",
+ "version": "1.0.0",
+ "description": "Nancy Sprowell Geise's 'Auschwitz #34207: The Joe Rubinstein Story' — the remarkable true story of Holocaust survivor Joe Rubinstein, who survived Auschwitz, Nazi death camps, and a death march, and went on to live a full life of triumph, resilience, and testimony.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/auschwitz-34207",
+ "useCase": "Bear witness to the Holocaust through one survivor's testimony — understand the camps, the death march, the liberation, and the power of resilience and memory.",
+ "knownRisks": [
+  "Contains graphic descriptions of Holocaust atrocities",
+  "May be emotionally difficult for sensitive readers",
+  "One survivor's story cannot represent the full range of Holocaust experiences"
+ ],
+ "tags": ["nancy-sprowell-geise", "auschwitz-34207", "holocaust", "survival", "WWII", "biography", "jewish-history", "resilience", "auschwitz", "testimony"],
+ "openclaw": {
+  "emoji": "\ud83d\udd4a\ufe0f",
+  "category": "history"
+ }
+}
