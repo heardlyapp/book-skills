@@ -3235,7 +3235,26 @@
       "emoji": "\ud83c\udfad",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/crime-and-punishment"
+    },
+    {
+      "slug": "the-intellectual-life",
+      "title": "Sertillanges' The Intellectual Life \u2014 a toolkit for organizing mind, body, and soul around the pursuit of knowledge",
+      "author": "A. D. Sertillanges, O.P.",
+      "version": "1.0.0",
+      "tags": [
+        "scholarship",
+        "study",
+        "deep-work",
+        "intellectual-life",
+        "philosophy",
+        "vocation",
+        "productivity",
+        "contemplative"
+      ],
+      "emoji": "\ud83d\udcda",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-intellectual-life"
     }
   ],
-  "total_skills": 180
+  "total_skills": 181
 }

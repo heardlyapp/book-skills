@@ -1,0 +1,19 @@
+{
+  "name": "the-intellectual-life",
+  "version": "1.0.0",
+  "description": "A. D. Sertillanges' classic guide to building a life of serious study — organizing the mind, body, and soul for sustained intellectual work.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-intellectual-life",
+  "useCase": "Discerning intellectual vocation, organizing a study system, digesting reading, sustaining creative output, handling solitude and burnout.",
+  "knownRisks": [
+    "Written from a Catholic/Thomistic perspective — secular readers may need to translate the religious framing",
+    "The book's historical context (1920s France) includes class and gender assumptions that feel dated",
+    "Some practical advice (note-taking, classification) predates digital tools"
+  ],
+  "tags": ["scholarship", "study", "deep-work", "intellectual-life", "philosophy", "vocation", "productivity", "contemplative"],
+  "openclaw": {
+    "emoji": "📚",
+    "category": "personal-development"
+  }
+}
