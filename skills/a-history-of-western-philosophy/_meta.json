@@ -1,0 +1,19 @@
+{
+ "name": "a-history-of-western-philosophy",
+ "version": "1.0.0",
+ "description": "Bertrand Russell's 'A History of Western Philosophy' — a sweeping survey of Western thought from the pre-Socratics to the 20th century, covering ancient, medieval, Catholic, and modern philosophy with Russell's characteristic wit and clarity.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/a-history-of-western-philosophy",
+ "useCase": "Understand the development of Western philosophy from its Greek origins through the modern era, with historical context and Russell's insightful commentary on each major philosopher.",
+ "knownRisks": [
+  "Russell's strong personal opinions shape the narrative — not a neutral history",
+  "The book was published in 1945 and does not cover late 20th-century philosophy",
+  "Some critics argue Russell's treatment of certain philosophers (Nietzsche, Hegel) is unfair"
+ ],
+ "tags": ["bertrand-russell", "a-history-of-western-philosophy", "philosophy", "western-philosophy", "ancient-philosophy", "modern-philosophy", "intellectual-history", "plato", "aristotle", "enlightenment"],
+ "openclaw": {
+  "emoji": "\ud83d\udcda",
+  "category": "philosophy"
+ }
+}
