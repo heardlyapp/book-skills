@@ -1,0 +1,19 @@
+{
+ "name": "tell-your-children",
+ "version": "1.0.0",
+ "description": "Alex Berenson's 'Tell Your Children: The Truth About Marijuana, Mental Illness, and Violence' — an investigation into the links between high-THC marijuana and serious mental illness, challenging the narrative that pot is harmless.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/tell-your-children",
+ "useCase": "Understand the evidence on high-THC marijuana, psychosis risk, addiction, and the public health consequences of legalization.",
+ "knownRisks": [
+  "Controversial topic — Berenson's conclusions are disputed by some researchers and legalization advocates",
+  "One perspective — readers should seek out multiple sources on this contentious issue",
+  "May be triggering for those with family members affected by substance use or mental illness"
+ ],
+ "tags": ["alex-berenson", "marijuana", "cannabis", "mental-health", "psychosis", "addiction", "drug-policy", "public-health", "psychology", "neuroscience"],
+ "openclaw": {
+  "emoji": "🌿",
+  "category": "current-events"
+ }
+}
