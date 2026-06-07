@@ -1,0 +1,19 @@
+{
+ "name": "autobiography-of-a-yogi",
+ "version": "1.0.0",
+ "description": "Paramahansa Yogananda's 'Autobiography of a Yogi: The Original 1946 Edition plus Bonus Material' — the spiritual classic that introduced millions of Westerners to yoga and meditation, chronicling Yogananda's life, his search for his guru Sri Yukteswar, and the science of Kriya Yoga for self-realization.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/autobiography-of-a-yogi",
+ "useCase": "Understand the foundational text of modern yoga in the West, the guru-disciple relationship, the science of Kriya Yoga meditation, and the unity behind the world's spiritual traditions.",
+ "knownRisks": [
+  "Contains accounts of supernatural phenomena that may challenge skeptical readers",
+  "Some historical claims are disputed by scholars",
+  "The 1946 edition reflects a pre-modern worldview"
+ ],
+ "tags": ["paramahansa-yogananda", "autobiography-of-a-yogi", "yoga", "meditation", "kriya-yoga", "spirituality", "india", "guru", "self-realization", "eastern-philosophy"],
+ "openclaw": {
+  "emoji": "\ud83d\ude4f",
+  "category": "spirituality"
+ }
+}
