@@ -1,0 +1,19 @@
+{
+ "name": "adhd-an-a-z",
+ "version": "1.0.0",
+ "description": "Leanne Maskell's 'ADHD an A-Z: Figuring it Out Step by Step' — a practical, accessible guide to navigating adult ADHD, from diagnosis and medication to executive function, rejection sensitivity, burnout, and building a life that works with your brain.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/adhd-an-a-z",
+ "useCase": "Understand adult ADHD, navigate diagnosis and treatment, manage executive dysfunction, regulate emotions, and build practical strategies for thriving at work and in life.",
+ "knownRisks": [
+  "UK-focused — healthcare and diagnosis pathways differ by country",
+  "General advice — not a substitute for professional medical guidance",
+  "Individual experiences with ADHD vary widely — strategies that work for one person may not work for another"
+ ],
+ "tags": ["leanne-maskell", "adhd-an-a-z", "ADHD", "neurodiversity", "adult-adhd", "mental-health", "executive-function", "self-help", "adhd-diagnosis", "adhd-strategies"],
+ "openclaw": {
+  "emoji": "\ud83d\udca1",
+  "category": "self-help"
+ }
+}
