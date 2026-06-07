@@ -1,0 +1,19 @@
+{
+ "name": "ralph-ellison-a-biography",
+ "version": "1.0.0",
+ "description": "Arnold Rampersad's Ralph Ellison: A Biography — maps the tragic life and towering achievement of the author of Invisible Man onto the arc of African-American cultural history, revealing how a poor, fatherless boy from Oklahoma City forged a masterpiece from the blues, jazz, literature, and radical politics.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/ralph-ellison-a-biography",
+ "useCase": "Literature study, biography analysis, African-American literary history, creative process analysis, cultural theory exploration",
+ "knownRisks": [
+  "Cannot substitute for reading Invisible Man or Ellison's essays — this is a biography of the man, not a study guide to his work",
+  "Ellison's life is complex and contradictory — the skill may oversimplify his intellectual evolution",
+  "Some users may disagree with Ellison's integrationist politics — present his views accurately without endorsing or condemning"
+ ],
+ "tags": ["biography", "literature", "african-american", "american-literature", "writing-craft"],
+ "openclaw": {
+  "emoji": "📚",
+  "category": "literature"
+ }
+}

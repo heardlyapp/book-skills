@@ -3095,7 +3095,22 @@
       ],
       "score": 9.7,
       "summary": "Paul R. Daugherty and H. James Wilson's Human + Machine \u2014 an executable toolkit that maps any AI-transformation challenge onto the Missing Middle framework (MELDS: Mindset \u2192 Experimentation \u2192 Leadership \u2192 Data \u2192 Skills), revealing where humans and machines collaborate, not compete.\n\nCovers 5 use cases:\n\u2460 AI Strategy Diagnosis \u2014 assess where your organization stands\n\u2461 Missing Middle Design \u2014 redesign a process for human-machine collaboration\n\u2462 Fusion Skills Roadmap \u2014 identify which of 8 fusion skills your team needs\n\u2463 Responsible AI Audit \u2014 check for bias, explainability, and guardrails\n\u2464 MELDS Implementation \u2014 apply the 5-part framework to any transformation\n\nTrigger when users say: \"AI strategy\" \"human-machine collaboration\" \"missing middle\" \"How do I start with AI\" \"future of work\" \"fusion skills\" \"MELDS framework\"\nor mention: Paul Daugherty / Jim Wilson / Human + Machine / third wave / augmentation vs automation / cobots / data supply chain / responsible AI."
+    },
+    {
+      "slug": "ralph-ellison-a-biography",
+      "title": "Arnold Rampersad's Ralph Ellison: A Biography \u2014 an executable toolkit that maps the tragic life and towering achievement of the author of Invisible Man",
+      "author": "Arnold Rampersad",
+      "version": "1.0.0",
+      "tags": [
+        "biography",
+        "literature",
+        "african-american",
+        "american-literature",
+        "writing-craft"
+      ],
+      "score": 9.7,
+      "summary": "Arnold Rampersad's Ralph Ellison: A Biography \u2014 maps the tragic life and towering achievement of the author of Invisible Man onto the arc of African-American cultural history, revealing how a poor, fatherless boy from Oklahoma City forged a masterpiece from the blues, jazz, literature, and radical politics.\n\nCovers 5 use cases:\n\u2460 Author Context \u2014 understand Ellison's life when studying Invisible Man\n\u2461 Creative Process Study \u2014 trace how Ellison wrote, revised, and published\n\u2462 Literary History Analysis \u2014 contextualize Ellison within African-American letters\n\u2463 Cultural Theory \u2014 apply Ellison's ideas about invisibility, the blues, and American identity\n\u2464 Biography as Method \u2014 how Rampersad constructed this definitive biography\n\nTrigger when users say: \"Ralph Ellison biography\" \"Invisible Man background\" \"Ellison and Wright\" \"Ellison Tuskegee\" \"How Invisible Man was written\" \"Ellison jazz and blues\" \"Arnold Rampersad biography\"\nor mention: Ralph Ellison / Invisible Man / Arnold Rampersad / Shadow and Act / Juneteenth / invisibility metaphor / Richard Wright / Langston Hughes / blues as cultural theory / Kenneth Burke / National Book Award."
     }
   ],
-  "total_skills": 172
+  "total_skills": 173
 }
