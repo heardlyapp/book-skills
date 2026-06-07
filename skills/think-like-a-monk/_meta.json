@@ -1,0 +1,19 @@
+{
+ "name": "think-like-a-monk",
+ "version": "1.0.0",
+ "description": "Jay Shetty's 'Think Like a Monk: Train Your Mind for Peace and Purpose Every Day' — a practical guide to applying ancient monastic wisdom to modern life, helping you find clarity, purpose, and inner peace.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/think-like-a-monk",
+ "useCase": "Find purpose, manage negative thoughts, build daily habits, develop a growth mindset, and live a life of service — using monk wisdom from Jay Shetty.",
+ "knownRisks": [
+  "Simplified spiritual advice — some may find it less rigorous than traditional monastic teachings",
+  "Strong self-help approach — may not appeal to readers seeking depth or nuance",
+  "Shetty's approach blends multiple traditions — not strictly from one school"
+ ],
+ "tags": ["jay-shetty", "think-like-a-monk", "mindfulness", "meditation", "purpose", "self-improvement", "habits", "mindset", "spirituality", "personal-growth"],
+ "openclaw": {
+  "emoji": "🧘",
+  "category": "spirituality"
+ }
+}
