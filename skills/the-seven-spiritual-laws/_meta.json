@@ -1,0 +1,19 @@
+{
+ "name": "the-seven-spiritual-laws",
+ "version": "1.0.0",
+ "description": "Deepak Chopra's 'The Seven Spiritual Laws of Success' — 7 laws for achieving success and fulfillment by aligning with the natural principles of the universe, from pure potentiality to dharma.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-seven-spiritual-laws",
+ "useCase": "Find purpose, reduce stress, manifest desires, practice detachment, and experience true abundance through spiritual principles.",
+ "knownRisks": [
+  "Spiritual framework — may not resonate with strictly materialist perspectives",
+  "Some concepts (quantum field, pure potentiality) are poetic rather than scientific",
+  "Could be interpreted as passive or fatalistic if detachment is misunderstood"
+ ],
+ "tags": ["deepak-chopra", "seven-spiritual-laws", "success", "spirituality", "purpose", "abundance", "dharma", "manifestation", "self-help", "personal-growth"],
+ "openclaw": {
+  "emoji": "✨",
+  "category": "spirituality"
+ }
+}
