@@ -1,0 +1,19 @@
+{
+ "name": "the-seven-principles-for-making-marriage-work",
+ "version": "1.0.0",
+ "description": "John Gottman and Nan Silver's The Seven Principles for Making Marriage Work — a research-backed toolkit that reveals why 91% of divorces can be predicted from a 15-minute conversation, and how to build an 'emotionally intelligent marriage' through the Sound Relationship House framework.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-seven-principles-for-making-marriage-work",
+ "useCase": "Marriage improvement, relationship diagnosis, conflict resolution, friendship building, premarital preparation",
+ "knownRisks": [
+  "Gottman's research is based on heterosexual couples primarily; same-sex couple data is newer",
+  "The 91% prediction rate is for the studies conducted — not a guarantee for any individual couple",
+  "Some exercises require both partners' participation; may not be suitable for relationships with severe mental illness or abuse"
+ ],
+ "tags": ["relationships", "marriage", "psychology", "communication", "self-help"],
+ "openclaw": {
+  "emoji": "💑",
+  "category": "relationships"
+ }
+}

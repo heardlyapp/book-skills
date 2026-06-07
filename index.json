@@ -3125,7 +3125,22 @@
       ],
       "score": 9.7,
       "summary": "Bill Bryson tour of 37.2 trillion cells covering body wonder, science communication, medical history, health perspective, and mystery mining."
+    },
+    {
+      "slug": "the-seven-principles-for-making-marriage-work",
+      "title": "John Gottman and Nan Silver's The Seven Principles for Making Marriage Work",
+      "author": "John Gottman / Nan Silver",
+      "version": "1.0.0",
+      "tags": [
+        "relationships",
+        "marriage",
+        "psychology",
+        "communication",
+        "self-help"
+      ],
+      "score": 9.7,
+      "summary": "Research-backed toolkit revealing why 91% of divorces can be predicted from a 15-minute conversation. Sound Relationship House framework: love maps, fondness & admiration, turning toward, influence, problem solving, gridlock, shared meaning. Magic Six Hours weekly maintenance routine."
     }
   ],
-  "total_skills": 174
+  "total_skills": 175
 }
