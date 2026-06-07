@@ -1,0 +1,19 @@
+{
+ "name": "the-color-of-money",
+ "version": "1.0.0",
+ "description": "Mehrsa Baradaran's 'The Color of Money: Black Banks and the Racial Wealth Gap' — a history showing how Black banks were promoted as a solution to inequality but could never succeed because they were asked to fix a problem created by systemic discrimination.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-color-of-money",
+ "useCase": "Understand the racial wealth gap, the history of Black banking, how government policy created inequality, and what actually works to close the gap.",
+ "knownRisks": [
+  "Academic work — dense reading, focused on US history",
+  "Strongly argued thesis — Baradaran is critical of self-help and entrepreneurship solutions",
+  "May challenge readers who believe in colorblind economics or bootstrap narratives"
+ ],
+ "tags": ["mehrsa-baradaran", "racial-wealth-gap", "black-banks", "economic-history", "banking", "systemic-racism", "financial-inclusion", "inequality", "public-policy", "social-justice"],
+ "openclaw": {
+  "emoji": "💰",
+  "category": "current-events"
+ }
+}
