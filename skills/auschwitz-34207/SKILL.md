@@ -1,5 +1,5 @@
 ---
-title: "Auschwitz #34207"
+title: "Auschwitz #34207: The Joe Rubinstein Story"
 version: 1.0.0
 license: MIT
 author: "Nancy Sprowell Geise"
