@@ -1,0 +1,20 @@
+{
+ "name": "and-the-band-played-on",
+ "version": "1.0.0",
+ "description": "Randy Shilts's 'And the Band Played On: Politics, People, and the AIDS Epidemic' — the landmark investigative history of the early AIDS crisis, exposing how political indifference, bureaucratic infighting, homophobia, and scientific rivalries allowed a deadly epidemic to spiral out of control.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/and-the-band-played-on",
+ "useCase": "Understand the early AIDS epidemic, the government failures that allowed it to spread, the community response that saved lives, and the enduring lessons for public health emergencies.",
+ "knownRisks": [
+  "Contains graphic descriptions of illness and death",
+  "The Patient Zero narrative has been scientifically contested",
+  "Strongly critical of government and scientific institutions",
+  "Written in 1987 — does not cover later treatment developments"
+ ],
+ "tags": ["randy-shilts", "and-the-band-played-on", "AIDS", "hiv", "epidemic", "public-health", "lgbtq-history", "journalism", "san-francisco", "government-failure"],
+ "openclaw": {
+  "emoji": "\ud83c\udfb6",
+  "category": "history"
+ }
+}
