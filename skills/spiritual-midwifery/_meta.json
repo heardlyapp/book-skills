@@ -1,0 +1,19 @@
+{
+ "name": "spiritual-midwifery",
+ "version": "1.0.0",
+ "description": "Ina May Gaskin's 'Spiritual Midwifery' — the classic guide to natural childbirth that transformed how we understand birth, with principles, techniques, and real birth stories from The Farm Midwifery Center.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/spiritual-midwifery",
+ "useCase": "Prepare for natural childbirth, understand the fear-tension-pain cycle, learn labor techniques, and gain inspiration from real birth stories.",
+ "knownRisks": [
+  "Not a substitute for medical advice — always consult a healthcare provider",
+  "Strong preference for natural/home birth — may not suit high-risk pregnancies",
+  "Published 1977 — some information may be dated; supplement with current resources"
+ ],
+ "tags": ["ina-may-gaskin", "midwifery", "natural-childbirth", "pregnancy", "birth", "breastfeeding", "women-health", "parenting", "home-birth", "prenatal-care"],
+ "openclaw": {
+  "emoji": "🌿",
+  "category": "health"
+ }
+}
