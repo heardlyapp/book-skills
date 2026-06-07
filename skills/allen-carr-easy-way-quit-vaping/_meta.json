@@ -1,0 +1,19 @@
+{
+ "name": "allen-carr-easy-way-quit-vaping",
+ "version": "1.0.0",
+ "description": "John Dicey's adaptation of 'Allen Carr's Easy Way to Quit Vaping' — the world-famous Easyway method applied to vape and nicotine addiction, helping users quit without willpower, substitutes, or fear by understanding and dismantling the nicotine trap.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/allen-carr-easy-way-quit-vaping",
+ "useCase": "Quit vaping permanently using the Allen Carr Easyway method — without willpower, nicotine substitutes, or fear — by understanding the nicotine trap and the illusion of pleasure.",
+ "knownRisks": [
+  "The Easyway method contradicts mainstream medical advice on nicotine replacement therapy",
+  "Not a substitute for professional medical treatment for severe addiction",
+  "Individual results vary — some people may need additional support"
+ ],
+ "tags": ["allen-carr", "easy-way-quit-vaping", "quit-vaping", "nicotine-addiction", "vaping", "addiction-recovery", "self-help", "easyway-method", "health", "quitting"],
+ "openclaw": {
+  "emoji": "\ud83d\udead",
+  "category": "health"
+ }
+}
