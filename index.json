@@ -3197,7 +3197,26 @@
       "emoji": "\ud83d\udda5\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/unix-a-history-and-a-memoir"
+    },
+    {
+      "slug": "the-book-of-life",
+      "title": "Krishnamurti's The Book of Life \u2014 daily meditations for self-inquiry and choiceless awareness",
+      "author": "Jiddu Krishnamurti",
+      "version": "1.0.0",
+      "tags": [
+        "self-inquiry",
+        "meditation",
+        "awareness",
+        "freedom",
+        "philosophy",
+        "psychology",
+        "spirituality",
+        "daily-meditations"
+      ],
+      "emoji": "\ud83e\udeb7",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-life"
     }
   ],
-  "total_skills": 178
+  "total_skills": 179
 }

@@ -1,0 +1,19 @@
+{
+  "name": "the-book-of-life",
+  "version": "1.0.0",
+  "description": "Jiddu Krishnamurti's daily meditations — a contemplative toolkit for self-inquiry, choiceless awareness, and freedom from psychological conditioning through direct perception.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-book-of-life",
+  "useCase": "Self-inquiry, ending psychological suffering, understanding the structure of the self, observing without judgment, meditation without method.",
+  "knownRisks": [
+    "Krishnamurti rejects all systems and methods — users seeking step-by-step guidance may be frustrated",
+    "The book is a collection of daily meditations, not a narrative or a structured course",
+    "Some may find Krishnamurti's radical negation disturbing or disorienting"
+  ],
+  "tags": ["self-inquiry", "meditation", "awareness", "freedom", "philosophy", "psychology", "spirituality", "daily-meditations"],
+  "openclaw": {
+    "emoji": "🪷",
+    "category": "personal-development"
+  }
+}
