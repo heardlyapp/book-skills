@@ -1,0 +1,19 @@
+{
+ "name": "13-things-mentally-strong-women-dont-do",
+ "version": "1.0.0",
+ "description": "Amy Morin's '13 Things Mentally Strong Women Don't Do' — a practical guide to building mental strength by giving up comparison, perfectionism, self-doubt, overthinking, and 9 other habits that hold women back.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/13-things-mentally-strong-women-dont-do",
+ "useCase": "Build mental strength by identifying and eliminating the 13 habits that undermine women's confidence, resilience, and authentic voice.",
+ "knownRisks": [
+  "General advice — not a substitute for professional mental health treatment",
+  "Some principles may oversimplify complex psychological issues",
+  "Women-focused framing — some principles apply universally but the examples center women's experiences"
+ ],
+ "tags": ["amy-morin", "13-things-mentally-strong-women-dont-do", "mental-strength", "women-empowerment", "self-help", "confidence", "perfectionism", "resilience", "self-improvement", "psychology"],
+ "openclaw": {
+  "emoji": "\ud83d\udcaa",
+  "category": "self-help"
+ }
+}
