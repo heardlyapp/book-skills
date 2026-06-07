@@ -3216,7 +3216,26 @@
       "emoji": "\ud83e\udeb7",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-life"
+    },
+    {
+      "slug": "crime-and-punishment",
+      "title": "Dostoevsky's Crime and Punishment \u2014 a toolkit for recognizing moral rationalization and finding redemption",
+      "author": "Fyodor Dostoevsky",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "ethics",
+        "psychology",
+        "redemption",
+        "classic-literature",
+        "dostoevsky",
+        "morality",
+        "self-deception"
+      ],
+      "emoji": "\ud83c\udfad",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/crime-and-punishment"
     }
   ],
-  "total_skills": 179
+  "total_skills": 180
 }

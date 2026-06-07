@@ -1,0 +1,19 @@
+{
+  "name": "crime-and-punishment",
+  "version": "1.0.0",
+  "description": "Fyodor Dostoevsky's classic novel — exposing the psychological architecture of rationalizing evil, self-deception, and the path of redemption through suffering, confession, and love.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/crime-and-punishment",
+  "useCase": "Identifying moral rationalization, understanding self-deception, deciding when and how to confess, transforming through suffering, recognizing self-destructive doubles.",
+  "knownRisks": [
+    "The novel presents a deeply Christian framework; readers of other traditions may need to translate the concepts",
+    "Raskolnikov's story is extreme; everyday ethical lapses may not require this level of analysis",
+    "The 'extraordinary man' theory can be misinterpreted as endorsement rather than critique"
+  ],
+  "tags": ["philosophy", "ethics", "psychology", "redemption", "classic-literature", "dostoevsky", "morality", "self-deception"],
+  "openclaw": {
+    "emoji": "🎭",
+    "category": "personal-development"
+  }
+}
