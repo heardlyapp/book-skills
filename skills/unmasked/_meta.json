@@ -1,6 +1,6 @@
 {
  "name": "unmasked",
- "version": "1.0.0",
+ "version": "1.0.1",
  "description": "Andy Ngo's 'Unmasked: Inside Antifa's Radical Plan to Destroy Democracy' — an investigative account of the Antifa movement, its origins, tactics, and the threat it poses to public order and democratic institutions.",
  "publisher": "heardlyapp",
  "license": "MIT",
@@ -13,7 +13,7 @@
  ],
  "tags": ["andy-ngo", "unmasked", "antifa", "far-left-extremism", "political-violence", "portland", "protest", "extremism", "journalism", "public-safety"],
  "openclaw": {
-  "emoji": "🎭",
+  "emoji": "\ud83c\udfad",
   "category": "current-events"
  }
 }
