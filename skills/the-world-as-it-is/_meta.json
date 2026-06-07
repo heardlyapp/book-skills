@@ -1,0 +1,19 @@
+{
+  "name": "the-world-as-it-is",
+  "version": "1.0.0",
+  "description": "Ben Rhodes' memoir of the Obama White House — navigating crisis decisions, bureaucratic resistance, disinformation, and the gap between ideals and reality in high-stakes leadership.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-world-as-it-is",
+  "useCase": "Crisis decision-making under uncertainty, navigating organizational resistance, defending against disinformation, staying grounded close to power.",
+  "knownRisks": [
+    "Rhodes was a partisan actor — the book reflects his perspective",
+    "White House experience may not translate directly to other contexts",
+    "Some may find the insider's perspective uncomfortably self-serving"
+  ],
+  "tags": ["leadership", "foreign-policy", "crisis-management", "storytelling", "bureaucracy", "white-house", "decision-making", "memoir"],
+  "openclaw": {
+    "emoji": "🌎",
+    "category": "professional-development"
+  }
+}

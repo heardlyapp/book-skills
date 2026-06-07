@@ -3254,7 +3254,26 @@
       "emoji": "\ud83d\udcda",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-intellectual-life"
+    },
+    {
+      "slug": "the-world-as-it-is",
+      "title": "Ben Rhodes' The World as It Is \u2014 a toolkit for navigating the gap between ideals and reality in high-stakes leadership",
+      "author": "Ben Rhodes",
+      "version": "1.0.0",
+      "tags": [
+        "leadership",
+        "foreign-policy",
+        "crisis-management",
+        "storytelling",
+        "bureaucracy",
+        "white-house",
+        "decision-making",
+        "memoir"
+      ],
+      "emoji": "\ud83c\udf0e",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-world-as-it-is"
     }
   ],
-  "total_skills": 181
+  "total_skills": 182
 }
