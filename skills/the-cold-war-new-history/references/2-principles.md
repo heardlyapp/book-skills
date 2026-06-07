@@ -1,35 +1,19 @@
-> Source: The Cold War, Chapters 3-5
+# 2 — Key Crises
 
-# Principles: Proxy Wars and Crisis Management
+> Source: "The Cold War: A New History" by John Lewis Gaddis
 
-## Principle 1: The Nuclear Paradox
+## The Flashpoints
 
-Nuclear weapons made direct war between the superpowers unthinkable. This paradox is the defining feature of the Cold War. Both sides built enough weapons to destroy each other many times over. The result was not war but a tense peace. Nuclear weapons prevented World War III by making it unwinnable.
+**Berlin Blockade (1948-49)**: Stalin tried to starve West Berlin. The US airlifted supplies for 11 months. Stalin blinked.
 
-## Principle 2: Proxy Wars Fill the Void
+**Korean War (1950-53)**: North Korea invaded the South. UN forces intervened. China entered. Stalemate. Still technically not over.
 
-Since direct conflict was too dangerous, the superpowers fought through proxies. Korea, Vietnam, and Afghanistan were the bloodiest. Millions died in these wars, even though the US and USSR never directly fought each other.
+**Cuban Missile Crisis (1962)**: The world came closest to nuclear war. Soviet missiles in Cuba. US blockade. A secret deal resolved it.
 
-> **Case: The Vietnam War** (Chapter 4): The US entered Vietnam to prevent a communist takeover. It was a textbook application of containment. But the US underestimated the nationalist character of the Vietnamese communist movement. After a decade of fighting and 58,000 American deaths, the US withdrew. Vietnam unified under communist rule. The lesson: containment through military intervention in nationalist movements is costly and often counterproductive.
-> **Key takeaway:** Proxy wars were cheaper than direct war, but they were not cheap. Vietnam traumatized America and weakened its global standing.
+**Vietnam War (1965-73)**: The longest proxy war. US containment in Asia. A tragic miscalculation.
 
-## Principle 3: Crises Test Leadership
+> **Case: The 13 Days** (Chapter 4): The Cuban Missile Crisis was 13 days of the most intense crisis in human history. Gaddis shows how close we came: a Soviet submarine commander almost launched a nuclear torpedo; nobody knows what would have happened if the US invaded Cuba. "We survived by accident as much as by design."
+> **Key takeaway**: The margin between peace and nuclear war was terrifyingly thin. We came closer to Armageddon than most people realize. The crisis led directly to arms control efforts.
 
-The Cuban Missile Crisis of 1962 was the closest the world came to nuclear war. Kennedy and Khrushchev both made decisions that brought the world to the brink and then stepped back. The crisis established a pattern: push to the edge, then negotiate.
-
-## Principle 4: Détente Provides Breathing Room
-
-By the 1970s, both sides recognized the need for reduced tensions. Détente produced arms control agreements (SALT I and II), cultural exchanges, and diplomatic recognition of China. It showed that the Cold War could be managed, not just fought.
-
-## Principle 5: The Third World Became the Battlefield
-
-The developing world became the arena for superpower competition. Africa, Asia, and Latin America saw coups, civil wars, and revolutions fueled by US and Soviet support. The superpowers armed factions, trained militaries, and propped up friendly governments. The human cost was enormous. Millions died in wars that were, at root, about the global balance of power.
-
-## Principle 6: Economics Matter More Than Ideology
-
-Ultimately, the Cold War was won by the economic system that worked better. The US economy, despite its flaws, outperformed the Soviet command economy. Western Europe and Japan recovered and thrived under US protection. The Soviet economy stagnated under the weight of military spending and central planning. Gaddis emphasizes that the Cold War was decided not on battlefields but in economic performance.
-
-The Cold War also had a cultural dimension. The US promoted jazz, abstract expressionism, and Hollywood films as symbols of Western freedom. The USSR promoted socialist realism and classical music as symbols of Soviet culture. Each side tried to prove the superiority of its system through cultural achievement. The cultural Cold War was fought in concert halls, art galleries, and movie theaters as much as in military headquarters.
-
-> **Case: The Hungarian Revolution of 1956** (Chapter 2): When Hungarians rose up against Soviet control, the US encouraged them but did not intervene. The USSR crushed the revolution, killing thousands. The case showed the limits of containment: the US would resist Soviet expansion but would not risk war to liberate countries already under Soviet control. This was a bitter lesson for Eastern Europeans who hoped for Western help.
-> **Key takeaway:** Containment was about preventing Soviet expansion, not rolling back Soviet control. Countries already under Soviet domination were on their own.
+> **Case: The Berlin Wall** (Chapter 4): The Wall was built in 1961 not to keep Westerners out, but to keep East Germans in. 3.5 million East Germans had fled to the West. The Wall stopped the hemorrhage. "The Wall was a monument to communist failure. They had to build a wall to keep their own people from leaving."
+> **Key takeaway**: The Berlin Wall was the ultimate symbol of the Cold War — and of communism's failure. People vote with their feet. They will always choose freedom when given the chance.

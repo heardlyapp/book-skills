@@ -1,35 +1,21 @@
-> Source: The Cold War, Chapter 5
+# 4 — Major Figures
 
-# Anti-Patterns: What Made the Cold War Worse
+> Source: "The Cold War: A New History" by John Lewis Gaddis
 
-## ❌ Overreaching
+## The Leaders
 
-Both sides overreached militarily. The US in Vietnam. The USSR in Afghanistan. Each intervention was supposed to be quick and decisive. Each became a quagmire that drained resources and morale.
+**Stalin**: Paranoid, ruthless, but cautious. He created the Soviet empire but didn't want war.
 
-> **Case: The Soviet War in Afghanistan** (Chapter 5): The USSR invaded Afghanistan in 1979 to prop up a communist government. The intervention was a disaster. Afghan mujahideen, armed and trained by the US, fought a guerrilla war that the Soviet military could not win. Ten years later, the USSR withdrew in defeat. The war cost billions, killed thousands, and destroyed the Soviet military's reputation. It was a major factor in the USSR's collapse.
-> **Key takeaway:** Military overreach is a strategic error regardless of ideology. Both superpowers learned this lesson the hard way.
+**Khrushchev**: Unpredictable. Brought the world to the brink over Cuba. Also began de-Stalinization.
 
-## ❌ McCarthyism
+**Kennedy**: Young, cool under pressure. His handling of the Cuban Missile Crisis was his finest hour.
 
-In the US, fear of communism led to domestic witch hunts. Senator Joseph McCarthy accused hundreds of government officials, artists, and academics of being communist spies. The accusations destroyed careers and lives, and almost none were proven.
+**Reagan**: Ideologue who built up the military and then negotiated. "Trust but verify."
 
-## ❌ The Domino Theory
+**Gorbachev**: The most important figure of the late Cold War. His reforms (glasnost, perestroika) ended the USSR.
 
-The belief that if one country fell to communism, its neighbors would inevitably follow. This theory justified US intervention in Vietnam and across the developing world. It was based on fear, not evidence.
+> **Case: Gorbachev's Gambit** (Chapter 7): Gorbachev inherited a failing system. He tried to reform it from within. "His tragedy: he wanted to save communism by reforming it. Instead, his reforms destroyed it." Gaddis argues Gorbachev was the most important figure of the late 20th century.
+> **Key takeaway**: Leaders can change history. Gorbachev chose peace over repression. He could have sent tanks into Eastern Europe in 1989. He didn't. That decision changed the world.
 
-## ❌ Secrecy and Paranoia
-
-Both sides operated in a fog of secrecy and mutual suspicion. This led to worst-case assumptions, arms races, and missed opportunities for peace.
-
-## ❌ The Space Race
-
-Both sides competed for prestige through space exploration. Sputnik in 1957 was a Soviet triumph that shocked America. The Apollo moon landing in 1969 was America response. The space race was a competition for ideological legitimacy as much as scientific achievement. It was also a cover for developing missile technology.
-
-## ❌ The Military-Industrial Complex
-
-Eisenhower warned about the military-industrial complex in his farewell address. The combination of a permanent defense industry, a large military establishment, and political interests created a powerful constituency for military spending. This made it difficult to reduce tensions even when both sides wanted to.
-
-> **Case: The Strategic Defense Initiative** (Chapter 6): Reagan announced SDI (Star Wars) in 1983, a missile defense system that would shoot down incoming nuclear missiles. The USSR feared SDI because it would negate their second-strike capability, undermining MAD. SDI was never fully developed, but it forced the USSR into an expensive technological competition it could not win. It was a brilliant strategic move: a weapons system that weakened the enemy before it was even built.
-> **Key takeaway:** Strategic innovation can change the terms of competition. SDI showed that technological imagination can be as powerful as actual weapons.
-
-The McCarthy era is another anti-pattern that damaged American democracy. Senator McCarthy claimed to have lists of communists in the State Department. His accusations ruined careers and created a climate of fear. The Army-McCarthy hearings in 1954 finally exposed his methods, and the Senate censured him. But the damage was done. The episode showed that fear of communism could threaten the very freedoms the US was defending.
+> **Case: Reagan the Octopus** (Chapter 6): Gaddis describes Reagan as underestimated by intellectuals. "He was an actor who understood the power of words. 'Mr. Gorbachev, tear down this wall.' He could have been a disaster. He turned out to be exactly what the situation required."
+> **Key takeaway**: Don't underestimate leaders. Reagan was dismissed as a lightweight. He turned out to be the right person at the right moment.

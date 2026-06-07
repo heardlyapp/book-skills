@@ -1,19 +1,19 @@
 {
-  "name": "the-cold-war-new-history",
-  "version": "1.0.0",
-  "description": "John Lewis Gaddis The Cold War: A New History \u2014 an executable toolkit for understanding the global struggle between the US and Soviet Union from 1945 to 1991.",
-  "publisher": "heardlyapp",
-  "license": "MIT",
-  "homepage": "https://clawhub.ai/heardlyapp/the-cold-war-new-history",
-  "tags": [
-    "cold-war",
-    "history",
-    "soviet-union",
-    "us-history",
-    "geopolitics"
-  ],
-  "openclaw": {
-    "emoji": "\ud83c\udf0d",
-    "category": "education"
-  }
+ "name": "the-cold-war-new-history",
+ "version": "1.0.0",
+ "description": "John Lewis Gaddis' 'The Cold War: A New History' — a concise, authoritative history of the Cold War from a Pulitzer Prize-winning historian, covering the ideological struggle that shaped the 20th century.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-cold-war-new-history",
+ "useCase": "Understand the origins, key crises, nuclear strategy, major figures, and legacy of the Cold War.",
+ "knownRisks": [
+  "Concise single volume — cannot cover every aspect in detail",
+  "Author has a specific interpretive framework — other historians disagree on some points",
+  "US/Western perspective — Soviet archives are not fully open"
+ ],
+ "tags": ["cold-war", "history", "john-lewis-gaddis", "soviet-union", "nuclear-weapons", "20th-century", "international-relations", "politics", "diplomacy", "military-history"],
+ "openclaw": {
+  "emoji": "🕊️",
+  "category": "history"
+ }
 }
