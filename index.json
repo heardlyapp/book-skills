@@ -3159,7 +3159,26 @@
       "emoji": "\ud83e\ude7a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/on-call"
+    },
+    {
+      "slug": "when-the-air-hits-your-brain",
+      "title": "Frank Vertosick's When the Air Hits Your Brain \u2014 a toolkit for facing irreversible decisions and learning through failure",
+      "author": "Dr. Frank Vertosick Jr.",
+      "version": "1.0.0",
+      "tags": [
+        "medicine",
+        "resilience",
+        "high-stakes",
+        "decision-making",
+        "failure",
+        "apprenticeship",
+        "humanity",
+        "memoir"
+      ],
+      "emoji": "\ud83e\udde0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/when-the-air-hits-your-brain"
     }
   ],
-  "total_skills": 176
+  "total_skills": 177
 }

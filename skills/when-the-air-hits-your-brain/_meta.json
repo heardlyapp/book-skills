@@ -1,0 +1,19 @@
+{
+  "name": "when-the-air-hits-your-brain",
+  "version": "1.0.0",
+  "description": "Frank Vertosick's memoir of neurosurgery training — facing irreversible decisions, learning through failure, and maintaining humanity under extreme pressure.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/when-the-air-hits-your-brain",
+  "useCase": "High-stakes decision making, recovering from costly mistakes, emotional survival under pressure, patient-first humanity, and enduring brutal apprenticeships.",
+  "knownRisks": [
+    "The book is a memoir from the 1990s — some medical practices have changed significantly since",
+    "Graphic medical descriptions may be distressing to some readers",
+    "The 'surgical psychopath' framework is metaphorical, not a clinical diagnosis"
+  ],
+  "tags": ["medicine", "resilience", "high-stakes", "decision-making", "failure", "apprenticeship", "humanity", "memoir"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "professional-development"
+  }
+}
