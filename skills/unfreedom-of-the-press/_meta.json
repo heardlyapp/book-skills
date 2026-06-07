@@ -1,0 +1,19 @@
+{
+ "name": "unfreedom-of-the-press",
+ "version": "1.0.0",
+ "description": "Mark Levin's 'Unfreedom of the Press' — a conservative critique of how the American news media has transformed from a free press into a tool of political activism and government propaganda.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/unfreedom-of-the-press",
+ "useCase": "Understand the history of the American press, media bias, the First Amendment, and how to consume news critically.",
+ "knownRisks": [
+  "Strongly partisan perspective — Levin is a conservative commentator",
+  "Controversial claims about media behavior that are disputed",
+  "Focuses primarily on American media — limited relevance outside the US"
+ ],
+ "tags": ["mark-levin", "unfreedom-of-the-press", "media-bias", "press-freedom", "first-amendment", "journalism", "propaganda", "media-criticism", "conservatism", "politics"],
+ "openclaw": {
+  "emoji": "📰",
+  "category": "politics"
+ }
+}
