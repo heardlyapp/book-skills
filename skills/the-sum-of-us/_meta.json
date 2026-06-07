@@ -1,0 +1,19 @@
+{
+ "name": "the-sum-of-us",
+ "version": "1.0.0",
+ "description": "Heather McGhee's 'The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together' — a groundbreaking look at how racism hurts everyone and how cross-racial solidarity creates prosperity for all.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-sum-of-us",
+ "useCase": "Understand how racism hurts people of all races, learn about the solidarity dividend, and find hope in stories of cross-racial cooperation.",
+ "knownRisks": [
+  "States a strong thesis about racism's economic costs — may challenge readers who disagree",
+  "Policy-focused — some readers may prefer more personal narratives",
+  "US-specific — primarily about American racial dynamics"
+ ],
+ "tags": ["heather-mcghee", "the-sum-of-us", "racism", "racial-inequality", "solidarity", "public-goods", "racial-justice", "economics", "policy", "zero-sum"],
+ "openclaw": {
+  "emoji": "🤝",
+  "category": "current-events"
+ }
+}
