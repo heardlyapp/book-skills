@@ -1,0 +1,20 @@
+{
+ "name": "american-kingpin",
+ "version": "1.0.0",
+ "description": "Nick Bilton's 'American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road' — the true story of Ross Ulbricht, his creation of the Silk Road dark web marketplace, and the federal investigation that brought him down.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/american-kingpin",
+ "useCase": "Understand the rise and fall of the Silk Road, the dark web's most infamous marketplace, and the cat-and-mouse game between its creator and federal investigators.",
+ "knownRisks": [
+  "Graphic descriptions of drug use and violence",
+  "Bilton's narrative style prioritizes drama over complete accuracy in some details",
+  "The book has been criticized by Ulbricht's supporters for bias",
+  "Contains details about illegal activities — informational purposes only"
+ ],
+ "tags": ["nick-bilton", "american-kingpin", "silk-road", "ross-ulbricht", "dark-web", "bitcoin", "cybercrime", "crime", "fbi", "true-crime"],
+ "openclaw": {
+  "emoji": "\ud83d\udd75\ufe0f",
+  "category": "true-crime"
+ }
+}
