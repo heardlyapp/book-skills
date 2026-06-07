@@ -1,0 +1,19 @@
+{
+ "name": "unmasked",
+ "version": "1.0.0",
+ "description": "Andy Ngo's 'Unmasked: Inside Antifa's Radical Plan to Destroy Democracy' — an investigative account of the Antifa movement, its origins, tactics, and the threat it poses to public order and democratic institutions.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/unmasked",
+ "useCase": "Understand Antifa's origins, ideology, tactics, the 2020 Portland protests, and the broader threat of far-left political violence.",
+ "knownRisks": [
+  "Controversial topic — Ngo's account is disputed by those who minimize Antifa's threat",
+  "Author was personally attacked by Antifa — some may question objectivity",
+  "Contains graphic descriptions of violence"
+ ],
+ "tags": ["andy-ngo", "unmasked", "antifa", "far-left-extremism", "political-violence", "portland", "protest", "extremism", "journalism", "public-safety"],
+ "openclaw": {
+  "emoji": "🎭",
+  "category": "current-events"
+ }
+}
