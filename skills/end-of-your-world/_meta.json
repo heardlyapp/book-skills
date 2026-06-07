@@ -1,0 +1,19 @@
+{
+ "name": "end-of-your-world",
+ "version": "1.0.0",
+ "description": "Adyashanti's 'The End of Your World: Uncensored Straight Talk on the Nature of Enlightenment' — a direct guide to spiritual awakening and the integration that follows, addressing the common traps and delusions on the path.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/end-of-your-world",
+ "useCase": "Navigate the spiritual awakening process, recognize common delusions and spiritual ego, and integrate realization into everyday life.",
+ "knownRisks": [
+  "Advanced spiritual teaching — may not be accessible to those new to the path",
+  "Direct and uncompromising — Adyashanti does not offer comfort or reassurance",
+  "Potential for misinterpretation — teachings on 'no-self' can be confused with nihilism"
+ ],
+ "tags": ["adyashanti", "enlightenment", "awakening", "non-duality", "spirituality", "meditation", "self-inquiry", "spiritual-teaching", "consciousness", "presence"],
+ "openclaw": {
+  "emoji": "🔥",
+  "category": "spirituality"
+ }
+}
