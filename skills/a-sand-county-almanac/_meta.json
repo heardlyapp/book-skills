@@ -1,0 +1,19 @@
+{
+ "name": "a-sand-county-almanac",
+ "version": "1.0.0",
+ "description": "Aldo Leopold's 'A Sand County Almanac' — the foundational text of modern conservation philosophy, blending lyrical nature writing with the revolutionary 'Land Ethic' that extended moral consideration to the natural world.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/a-sand-county-almanac",
+ "useCase": "Understand the philosophical foundations of conservation, develop ecological awareness through seasonal observation, and apply the Land Ethic to modern environmental challenges.",
+ "knownRisks": [
+  "Written in 1949 — some ecological specifics are outdated",
+  "Leopold's concept of the 'biotic community' can be interpreted differently by different environmental movements",
+  "The book is more philosophical than practical — it inspires rather than instructs"
+ ],
+ "tags": ["aldo-leopold", "a-sand-county-almanac", "conservation", "ecology", "land-ethic", "environmental-ethics", "nature-writing", "wilderness", "sustainability", "natural-history"],
+ "openclaw": {
+  "emoji": "\ud83c\udf33",
+  "category": "philosophy"
+ }
+}
