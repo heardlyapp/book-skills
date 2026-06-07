@@ -1,0 +1,19 @@
+{
+ "name": "a-brief-history-of-intelligence",
+ "version": "1.0.0",
+ "description": "Max Bennett's 'A Brief History of Intelligence' — the evolution of the brain through five breakthrough innovations, from the first nervous system to the human brain, with lessons for understanding and building artificial intelligence.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/a-brief-history-of-intelligence",
+ "useCase": "Understand how intelligence evolved over 600 million years through five key breakthroughs, and apply those lessons to AI development, neuroscience, and our understanding of consciousness.",
+ "knownRisks": [
+  "Simplifies complex neuroscience — not a replacement for academic study",
+  "AI comparisons are analogical, not proven mechanisms",
+  "Some claims about AI limitations may date quickly as the field advances"
+ ],
+ "tags": ["max-bennett", "a-brief-history-of-intelligence", "brain-evolution", "neuroscience", "AI", "artificial-intelligence", "cognitive-science", "evolution", "neocortex", "consciousness"],
+ "openclaw": {
+  "emoji": "\ud83e\udde0",
+  "category": "science"
+ }
+}
