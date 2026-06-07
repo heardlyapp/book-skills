@@ -1,0 +1,19 @@
+{
+ "name": "the-creature-from-jekyll-island",
+ "version": "1.0.0",
+ "description": "G. Edward Griffin's 'The Creature from Jekyll Island: A Second Look at the Federal Reserve' — a controversial investigation into the origins and operations of the Fed, arguing it was created in secret by private bankers.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-creature-from-jekyll-island",
+ "useCase": "Understand the Fed's secret origins, how it creates money, its role in inflation, and who really controls the monetary system.",
+ "knownRisks": [
+  "Highly controversial — Griffin's thesis is disputed by mainstream economists",
+  "Not a neutral source — polemical in tone and argument",
+  "Contains conspiracy-adjacent framing that some readers may find unconvincing"
+ ],
+ "tags": ["g-edward-griffin", "federal-reserve", "central-banking", "monetary-policy", "economics", "banking-history", "inflation", "gold-standard", "jekyll-island", "money-supply"],
+ "openclaw": {
+  "emoji": "🏦",
+  "category": "economics"
+ }
+}
