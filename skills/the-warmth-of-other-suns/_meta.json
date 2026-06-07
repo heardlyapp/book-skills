@@ -1,0 +1,19 @@
+{
+ "name": "the-warmth-of-other-suns",
+ "version": "1.0.0",
+ "description": "Isabel Wilkerson's 'The Warmth of Other Suns: The Epic Story of America's Great Migration' — the definitive account of 6 million African Americans who fled the Jim Crow South between 1915 and 1970, told through three unforgettable personal stories.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-warmth-of-other-suns",
+ "useCase": "Understand the Great Migration, the Jim Crow South, the journeys of migrants, and how this mass movement reshaped American cities, culture, and politics.",
+ "knownRisks": [
+  "Lengthy and detailed — the skill covers key narratives but cannot capture every story",
+  "Contains frank depictions of racial violence, lynching, and discrimination",
+  "Primarily focused on African American migration — does not cover other migrations in the same period"
+ ],
+ "tags": ["isabel-wilkerson", "great-migration", "african-american-history", "jim-crow", "migration", "american-history", "race", "sharecropping", "chicago", "diaspora"],
+ "openclaw": {
+  "emoji": "🌅",
+  "category": "history"
+ }
+}
