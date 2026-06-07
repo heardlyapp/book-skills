@@ -1,0 +1,19 @@
+{
+ "name": "across-that-bridge",
+ "version": "1.0.0",
+ "description": "John Lewis's 'Across That Bridge: A Vision for Change and the Future of America' — a philosophical guide to social change organized around eight principles: Faith, Patience, Study, Truth, Act, Peace, Love, and Reconciliation.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/across-that-bridge",
+ "useCase": "Understand the philosophy of nonviolent social change through the eight principles that guided the civil rights movement under John Lewis's leadership.",
+ "knownRisks": [
+  "Rooted in the American civil rights context — some principles may not translate directly to other struggles",
+  "Assumes a level of moral consensus that may not exist in deeply polarized environments",
+  "Lewis's approach requires discipline and training that may not be accessible to all activists"
+ ],
+ "tags": ["john-lewis", "across-that-bridge", "civil-rights", "social-change", "nonviolence", "activism", "justice", "peace", "leadership", "beloved-community"],
+ "openclaw": {
+  "emoji": "\ud83c\udf09",
+  "category": "politics"
+ }
+}
