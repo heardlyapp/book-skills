@@ -1,0 +1,19 @@
+{
+ "name": "what-to-expect-the-first-year",
+ "version": "1.0.0",
+ "description": "Heidi Murkoff's 'What to Expect the First Year' — the definitive month-by-month guide to a baby's first year of life, covering development, feeding, sleep, health, and safety.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/what-to-expect-the-first-year",
+ "useCase": "Navigate a baby's first year with confidence — from newborn care to 12-month milestones, feeding, sleep training, health, and baby-proofing.",
+ "knownRisks": [
+  "Western-centric medical advice — may differ from pediatric practices in other countries",
+  "Book is large — some users may find the level of detail overwhelming",
+  "Medical guidelines evolve — always verify with current local pediatrician recommendations"
+ ],
+ "tags": ["heidi-murkoff", "what-to-expect-the-first-year", "parenting", "baby-care", "newborn", "infant-development", "breastfeeding", "sleep-training", "baby-safety", "childcare"],
+ "openclaw": {
+  "emoji": "\ud83c\udf7c",
+  "category": "lifestyle"
+ }
+}
