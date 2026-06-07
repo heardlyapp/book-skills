@@ -1,0 +1,19 @@
+{
+ "name": "starting-strength",
+ "version": "1.0.0",
+ "description": "Mark Rippetoe's 'Starting Strength: Basic Barbell Training' — the definitive guide to barbell training, teaching the five fundamental lifts and linear progression for getting stronger.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/starting-strength",
+ "useCase": "Learn proper barbell technique, start a strength training program, fix form issues, and understand how to get stronger consistently.",
+ "knownRisks": [
+  "Requires access to a barbell, squat rack, and bumper plates — may not suit home gyms",
+  "Strong opinions about technique — other reputable coaches may disagree",
+  "Not a substitute for in-person coaching — form errors are hard to self-diagnose"
+ ],
+ "tags": ["mark-rippetoe", "starting-strength", "barbell-training", "weightlifting", "strength", "fitness", "squat", "deadlift", "bench-press", "exercise"],
+ "openclaw": {
+  "emoji": "🏋️",
+  "category": "health"
+ }
+}
