@@ -1,0 +1,19 @@
+{
+ "name": "the-only-plane-in-the-sky",
+ "version": "1.0.0",
+ "description": "Garrett M. Graff's 'The Only Plane in the Sky: An Oral History of 9/11' — the definitive minute-by-minute account of September 11, 2001, told in the voices of the people who lived it.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-only-plane-in-the-sky",
+ "useCase": "Understand what happened on 9/11 through first-hand accounts, from the morning timeline to first responders, Flight 93, the Pentagon, and the aftermath.",
+ "knownRisks": [
+  "Contains graphic descriptions of death, injury, and trauma — may be triggering",
+  "Emotionally heavy content — not suitable for all readers",
+  "Oral history format — some accounts may be incomplete or based on imperfect memory"
+ ],
+ "tags": ["9-11", "september-11", "garrett-graff", "oral-history", "world-trade-center", "pentagon", "flight-93", "first-responders", "terrorism", "american-history"],
+ "openclaw": {
+  "emoji": "🇺🇸",
+  "category": "history"
+ }
+}
