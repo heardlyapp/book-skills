@@ -1,0 +1,19 @@
+{
+ "name": "apocalypse-never",
+ "version": "1.0.0",
+ "description": "Michael Shellenberger's 'Apocalypse Never: Why Environmental Alarmism Hurts Us All' — a controversial critique of environmental alarmism, arguing that fear-based messaging distorts science, leads to bad policy, and makes real environmental progress harder to achieve.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/apocalypse-never",
+ "useCase": "Understand the case against environmental alarmism, the role of nuclear energy in decarbonization, and how pragmatic environmentalism can achieve better results than fear-based approaches.",
+ "knownRisks": [
+  "Highly controversial — many environmentalists strongly disagree with Shellenberger's arguments",
+  "Shellenberger has been accused of downplaying climate risks by some critics",
+  "Nuclear energy advocacy is disputed — concerns about waste and cost remain"
+ ],
+ "tags": ["michael-shellenberger", "apocalypse-never", "climate-change", "environmentalism", "nuclear-energy", "climate-alarmism", "energy-policy", "science", "environment", "pragmatism"],
+ "openclaw": {
+  "emoji": "\ud83c\udf0d",
+  "category": "science"
+ }
+}
