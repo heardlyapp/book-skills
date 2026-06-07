@@ -1,0 +1,19 @@
+{
+ "name": "the-russia-hoax",
+ "version": "1.0.0",
+ "description": "Gregg Jarrett's 'The Russia Hoax' — an investigative account arguing that the Trump-Russia collusion narrative was a politically motivated operation, covering the Steele Dossier, FISA warrants, and the Mueller investigation.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-russia-hoax",
+ "useCase": "Understand the Trump-Russia investigation from the perspective that it was based on flawed intelligence, biased officials, and a media narrative that outran the facts.",
+ "knownRisks": [
+  "Highly partisan topic — presents one side of a deeply contested narrative",
+  "Author is a Fox News commentator — not a neutral observer",
+  "Some claims are disputed by other investigations and journalists"
+ ],
+ "tags": ["gregg-jarrett", "trump-russia", "russia-hoax", "mueller-investigation", "steele-dossier", "fisa", "fbi", "political-investigation", "2016-election", "justice-department"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "politics"
+ }
+}
