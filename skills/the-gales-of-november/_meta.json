@@ -1,0 +1,19 @@
+{
+ "name": "the-gales-of-november",
+ "version": "1.0.0",
+ "description": "John U. Bacon's 'The Gales of November: The Untold Story of the Edmund Fitzgerald' — the definitive account of the Fitzgerald's final voyage and the enduring mystery of why the 'Big Fitz' sank on Lake Superior.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-gales-of-november",
+ "useCase": "Understand the Edmund Fitzgerald tragedy, the competing theories of its sinking, the human stories of the crew, and the legacy of the most famous Great Lakes shipwreck.",
+ "knownRisks": [
+  "No definitive conclusion about the cause of sinking — the book presents multiple theories",
+  "Some details may be disturbing to readers who have experienced maritime loss",
+  "The Fitzgerald's story is often romanticized — Bacon's account is factual and respectful"
+ ],
+ "tags": ["edmund-fitzgerald", "shipwreck", "great-lakes", "maritime-history", "lake-superior", "nautical-disaster", "1975", "merchant-marine", "history", "nonfiction"],
+ "openclaw": {
+  "emoji": "🚢",
+  "category": "history"
+ }
+}
