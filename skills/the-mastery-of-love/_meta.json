@@ -1,0 +1,19 @@
+{
+ "name": "the-mastery-of-love",
+ "version": "1.0.0",
+ "description": "Don Miguel Ruiz's 'The Mastery of Love: A Practical Guide to the Art of Relationship' — a Toltec wisdom guide to understanding love, healing emotional wounds, and building healthy relationships with yourself and others.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-mastery-of-love",
+ "useCase": "Understand real love vs conditional love, heal emotional wounds, build self-love, and improve relationships through Toltec wisdom.",
+ "knownRisks": [
+  "Simplified framework — some readers may find it too basic for complex relationship issues",
+  "Spiritual/Toltec perspective — may not resonate with all readers",
+  "Emotional work can be triggering for those with unprocessed trauma"
+ ],
+ "tags": ["don-miguel-ruiz", "mastery-of-love", "toltec", "relationships", "love", "self-love", "healing", "emotional-wounds", "spirituality", "personal-growth"],
+ "openclaw": {
+  "emoji": "❤️",
+  "category": "spirituality"
+ }
+}
