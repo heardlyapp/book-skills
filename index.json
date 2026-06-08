@@ -3539,7 +3539,26 @@
       "emoji": "\ud83e\udd85",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/black-elk-speaks"
+    },
+    {
+      "slug": "pedagogy-of-the-oppressed",
+      "title": "Paulo Freire's Pedagogy of the Oppressed \u2014 critical consciousness, banking model critique, and liberatory education through dialogue",
+      "author": "Paulo Freire",
+      "version": "1.0.0",
+      "tags": [
+        "education",
+        "philosophy",
+        "critical-pedagogy",
+        "liberation",
+        "social-justice",
+        "dialogue",
+        "consciousness",
+        "praxis"
+      ],
+      "emoji": "\ud83c\udf31",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/pedagogy-of-the-oppressed"
     }
   ],
-  "total_skills": 196
+  "total_skills": 197
 }

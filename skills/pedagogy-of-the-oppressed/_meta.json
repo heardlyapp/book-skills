@@ -1,0 +1,19 @@
+{
+  "name": "pedagogy-of-the-oppressed",
+  "version": "1.0.0",
+  "description": "Paulo Freire's foundational work of critical pedagogy — recognizing the banking model of education, developing critical consciousness, practicing liberatory dialogue, and transforming oppression through praxis.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/pedagogy-of-the-oppressed",
+  "useCase": "Identifying oppressive systems, learning dialogical teaching, developing critical consciousness, moving from reflection to transformative action.",
+  "knownRisks": [
+    "Freire's work is grounded in Marxist analysis — some readers may reject this framework",
+    "The language is dense and philosophical — beginners may struggle",
+    "Some critics argue Freire overemphasizes class at the expense of race and gender (though later work addresses this)"
+  ],
+  "tags": ["education", "philosophy", "critical-pedagogy", "liberation", "social-justice", "dialogue", "consciousness", "praxis"],
+  "openclaw": {
+    "emoji": "🌱",
+    "category": "education"
+  }
+}
