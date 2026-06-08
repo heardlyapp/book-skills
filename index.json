@@ -3912,7 +3912,28 @@
       "emoji": "\ud83d\udd34",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/red-notice"
+    },
+    {
+      "slug": "financial-intelligence",
+      "title": "Berman, Knight & Case's Financial Intelligence \u2014 a manager's guide to knowing what the numbers really mean",
+      "author": "Karen Berman / Joe Knight / John Case",
+      "version": "1.0.0",
+      "tags": [
+        "finance",
+        "accounting",
+        "management",
+        "financial-literacy",
+        "business",
+        "ratios",
+        "cash-flow",
+        "analysis",
+        "leadership",
+        "strategy"
+      ],
+      "emoji": "\ud83d\udcb0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/financial-intelligence"
     }
   ],
-  "total_skills": 215
+  "total_skills": 216
 }

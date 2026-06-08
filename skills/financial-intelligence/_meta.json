@@ -1,0 +1,19 @@
+{
+  "name": "financial-intelligence",
+  "version": "1.0.0",
+  "description": "Berman, Knight & Case's guide to financial literacy for non-financial managers — reading income statements, balance sheets, cash flow statements, ratios, ROI, and working capital management.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/financial-intelligence",
+  "useCase": "Understanding financial statements, analyzing profit vs cash, calculating ratios, managing working capital, evaluating ROI, building financially literate organizations.",
+  "knownRisks": [
+    "This is an introductory book — it covers fundamentals, not advanced corporate finance",
+    "GAAP vs non-GAAP and specific accounting rules can vary by country and jurisdiction",
+    "Some concepts (EBITDA, non-GAAP metrics) are controversial among accounting purists"
+  ],
+  "tags": ["finance", "accounting", "management", "financial-literacy", "business", "ratios", "cash-flow", "analysis", "leadership", "strategy"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "professional-development"
+  }
+}
