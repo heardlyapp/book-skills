@@ -1,0 +1,20 @@
+{
+  "name": "the-wealth-of-nations",
+  "version": "1.0.0",
+  "description": "Adam Smith's foundational work of classical economics — the division of labor, prices and value, wages-profit-rent, capital accumulation, and the progress of opulence from feudalism to commerce.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-wealth-of-nations",
+  "useCase": "Understanding the division of labor, price theory, income distribution, capital and investment, the historical progress of opulence, and the foundations of free-market economics.",
+  "knownRisks": [
+    "Books I-III only — Books IV-V (mercantilism, physiocracy, public finance) are not included in this edition",
+    "Smith's 18th-century context means some assumptions (e.g., the wage fund) are no longer accepted by modern economics",
+    "The Analytical Introduction is by Andrew Skinner, not Smith — it reflects a modern scholarly interpretation",
+    "The labor theory of value was later critiqued and refined by David Ricardo and Karl Marx"
+  ],
+  "tags": ["economics", "philosophy", "capitalism", "history", "labor", "markets", "trade", "value", "wealth", "enlightenment"],
+  "openclaw": {
+    "emoji": "📈",
+    "category": "professional-development"
+  }
+}

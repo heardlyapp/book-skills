@@ -4059,7 +4059,28 @@
       "emoji": "\ud83d\udc51",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-age-of-napoleon"
+    },
+    {
+      "slug": "the-wealth-of-nations",
+      "title": "Adam Smith's The Wealth of Nations (Books I-III) \u2014 the foundations of classical economics, specialization, and markets",
+      "author": "Adam Smith",
+      "version": "1.0.0",
+      "tags": [
+        "economics",
+        "philosophy",
+        "capitalism",
+        "history",
+        "labor",
+        "markets",
+        "trade",
+        "value",
+        "wealth",
+        "enlightenment"
+      ],
+      "emoji": "\ud83d\udcc8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-wealth-of-nations"
     }
   ],
-  "total_skills": 222
+  "total_skills": 223
 }
