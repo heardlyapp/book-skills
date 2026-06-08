@@ -4164,7 +4164,28 @@
       "emoji": "\ud83c\udfc0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/uncommon-favor"
+    },
+    {
+      "slug": "im-still-here",
+      "title": "Austin Channing Brown's I'm Still Here \u2014 Black dignity in a world made for whiteness",
+      "author": "Austin Channing Brown",
+      "version": "1.0.0",
+      "tags": [
+        "race",
+        "memoir",
+        "blackness",
+        "whiteness",
+        "identity",
+        "justice",
+        "dignity",
+        "community",
+        "faith",
+        "resistance"
+      ],
+      "emoji": "\u270a\ud83c\udffe",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/im-still-here"
     }
   ],
-  "total_skills": 227
+  "total_skills": 228
 }

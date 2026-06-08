@@ -1,0 +1,19 @@
+{
+  "name": "im-still-here",
+  "version": "1.0.0",
+  "description": "Austin Channing Brown's memoir of navigating white spaces as a Black woman — the exhaustion of code-switching, the search for Black dignity, the joy of Black community, and the declaration that 'we're still here.'",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/im-still-here",
+  "useCase": "Navigating white spaces as a person of color, understanding the exhaustion of code-switching, finding Black joy and community, advocating for racial justice without being silenced.",
+  "knownRisks": [
+    "This is a personal memoir and not a comprehensive guide to antiracism",
+    "Brown writes from a Christian perspective — religious readers may resonate more than secular ones",
+    "Some white readers may find the book challenging or uncomfortable, which is by design"
+  ],
+  "tags": ["race", "memoir", "blackness", "whiteness", "identity", "justice", "dignity", "community", "faith", "resistance"],
+  "openclaw": {
+    "emoji": "✊🏾",
+    "category": "professional-development"
+  }
+}
