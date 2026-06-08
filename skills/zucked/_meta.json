@@ -1,0 +1,20 @@
+{
+  "name": "zucked",
+  "version": "1.0.0",
+  "description": "Roger McNamee's insider account of how Facebook's business model created a catastrophe — undermining democracy, exploiting attention, eroding privacy, and harming mental health.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/zucked",
+  "useCase": "Understanding the attention economy, Facebook's role in disinformation and democracy, protecting digital privacy, addressing social media's mental health harms, and advocating for regulation.",
+  "knownRisks": [
+    "McNamee is a former Facebook insider — his perspective is shaped by personal experience and may lack objectivity",
+    "Some specific claims about Russian interference have been contested by Facebook and others",
+    "The book was published in 2019 — some details about regulation and platform changes may be dated",
+    "McNamee has financial interests (he still owns Facebook stock at the time of writing)"
+  ],
+  "tags": ["technology", "social-media", "democracy", "privacy", "addiction", "disinformation", "regulation", "activism", "ethics", "facebook"],
+  "openclaw": {
+    "emoji": "📱",
+    "category": "professional-development"
+  }
+}

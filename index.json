@@ -4017,7 +4017,28 @@
       "emoji": "\ud83d\udcbb",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/quantum-computing-for-everyone"
+    },
+    {
+      "slug": "zucked",
+      "title": "Roger McNamee's Zucked \u2014 waking up to the Facebook catastrophe and fighting for a better digital future",
+      "author": "Roger McNamee",
+      "version": "1.0.0",
+      "tags": [
+        "technology",
+        "social-media",
+        "democracy",
+        "privacy",
+        "addiction",
+        "disinformation",
+        "regulation",
+        "activism",
+        "ethics",
+        "facebook"
+      ],
+      "emoji": "\ud83d\udcf1",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/zucked"
     }
   ],
-  "total_skills": 220
+  "total_skills": 221
 }
