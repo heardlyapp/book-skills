@@ -3520,7 +3520,26 @@
       "emoji": "\ud83d\udd2c",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-demon-haunted-world"
+    },
+    {
+      "slug": "black-elk-speaks",
+      "title": "Black Elk Speaks \u2014 the vision of a Lakota holy man, the sacred hoop, and the resilience of a people",
+      "author": "John G. Neihardt / Black Elk",
+      "version": "1.0.0",
+      "tags": [
+        "native-american",
+        "spirituality",
+        "vision",
+        "ceremony",
+        "sacred-text",
+        "memoir",
+        "lakota",
+        "resilience"
+      ],
+      "emoji": "\ud83e\udd85",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/black-elk-speaks"
     }
   ],
-  "total_skills": 195
+  "total_skills": 196
 }

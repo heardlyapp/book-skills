@@ -1,0 +1,19 @@
+{
+  "name": "black-elk-speaks",
+  "version": "1.0.0",
+  "description": "The spiritual autobiography of Black Elk, a Lakota holy man — understanding vision, the sacred hoop, ceremony, and resilience in the face of cultural destruction.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/black-elk-speaks",
+  "useCase": "Vision integration, seeking spiritual connection to nature, maintaining faith through destruction, incorporating ceremony into daily life, bearing witness to truth.",
+  "knownRisks": [
+    "Black Elk's words were recorded and shaped by John Neihardt — a non-Native poet",
+    "The book has a complex relationship with Lakota tradition — some scholars critique Neihardt's literary intrusions",
+    "This is a spiritual text, not a therapeutic or academic guide"
+  ],
+  "tags": ["native-american", "spirituality", "vision", "ceremony", "sacred-text", "memoir", "lakota", "resilience"],
+  "openclaw": {
+    "emoji": "🦅",
+    "category": "personal-development"
+  }
+}
