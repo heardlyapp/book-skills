@@ -3691,7 +3691,26 @@
       "emoji": "\ud83d\udee1\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-road-to-unfreedom"
+    },
+    {
+      "slug": "the-code-breaker",
+      "title": "Walter Isaacson's The Code Breaker \u2014 CRISPR, Jennifer Doudna, and the future of human gene editing",
+      "author": "Walter Isaacson",
+      "version": "1.0.0",
+      "tags": [
+        "science",
+        "genetics",
+        "crispr",
+        "gene-editing",
+        "biography",
+        "bioethics",
+        "innovation",
+        "walter-isaacson"
+      ],
+      "emoji": "\ud83e\uddec",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-code-breaker"
     }
   ],
-  "total_skills": 204
+  "total_skills": 205
 }

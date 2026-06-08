@@ -1,0 +1,19 @@
+{
+  "name": "the-code-breaker",
+  "version": "1.0.0",
+  "description": "Walter Isaacson's biography of Jennifer Doudna — understanding CRISPR gene editing, the dynamics of scientific discovery, and the ethics of editing human DNA.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-code-breaker",
+  "useCase": "Understanding CRISPR science, navigating patent races, debating gene editing ethics, succeeding in science careers.",
+  "knownRisks": [
+    "The science of CRISPR is advancing rapidly — some specifics may have evolved since publication",
+    "The patent dispute details are complex and interpretations may differ",
+    "Some readers may disagree with Isaacson's framing of Doudna as the central figure"
+  ],
+  "tags": ["science", "genetics", "crispr", "gene-editing", "biography", "bioethics", "innovation", "walter-isaacson"],
+  "openclaw": {
+    "emoji": "🧬",
+    "category": "science"
+  }
+}
