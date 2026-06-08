@@ -4437,7 +4437,28 @@
       "emoji": "\u26ea",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-church"
+    },
+    {
+      "slug": "the-truths-we-hold",
+      "title": "Kamala Harris' The Truths We Hold \u2014 a memoir of justice, family, and the fight for America's ideals from a prosecutor, attorney general, and U.S. senator",
+      "author": "Kamala Harris",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "politics",
+        "justice",
+        "prosecutor",
+        "immigration",
+        "criminal-justice",
+        "biography",
+        "womens-rights",
+        "senate",
+        "democracy"
+      ],
+      "emoji": "\u2696\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-truths-we-hold"
     }
   ],
-  "total_skills": 240
+  "total_skills": 241
 }

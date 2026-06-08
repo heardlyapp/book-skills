@@ -1,0 +1,20 @@
+{
+  "name": "the-truths-we-hold",
+  "version": "1.0.0",
+  "description": "Kamala Harris' memoir of her journey from a biracial childhood in Oakland to the U.S. Senate — a story of justice, family, and the fight to make America live up to its ideals, told through the lens of her work as a prosecutor, attorney general, and senator.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-truths-we-hold",
+  "useCase": "Understanding Kamala Harris' personal story and political philosophy, the role of prosecutors in criminal justice reform, immigrant family experiences, and the fight for progressive causes in the Senate.",
+  "knownRisks": [
+    "Written before Harris became Vice President — does not cover her time in the White House",
+    "Campaign memoir — presents a curated, positive view of her record",
+    "Some passages are campaign-oriented rather than deeply reflective",
+    "Criticisms of her prosecutorial record (mass incarceration era) are not substantively addressed"
+  ],
+  "tags": ["memoir", "politics", "justice", "prosecutor", "immigration", "criminal-justice", "biography", "womens-rights", "senate", "democracy"],
+  "openclaw": {
+    "emoji": "⚖️",
+    "category": "professional-development"
+  }
+}
