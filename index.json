@@ -4227,7 +4227,28 @@
       "emoji": "\ud83c\udf7d\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/life-on-the-line"
+    },
+    {
+      "slug": "me-elton-john",
+      "title": "Elton John's Me \u2014 the official autobiography of a music legend's rise, fall, and redemption",
+      "author": "Elton John",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "music",
+        "addiction",
+        "creativity",
+        "sexuality",
+        "fame",
+        "philanthropy",
+        "resilience",
+        "love",
+        "biography"
+      ],
+      "emoji": "\ud83c\udfb9",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/me-elton-john"
     }
   ],
-  "total_skills": 230
+  "total_skills": 231
 }

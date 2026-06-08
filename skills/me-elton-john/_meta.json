@@ -1,0 +1,20 @@
+{
+  "name": "me-elton-john",
+  "version": "1.0.0",
+  "description": "Elton John's official autobiography — the creative partnership with Bernie Taupin, surviving addiction, coming out, founding the AIDS Foundation, and finding love with David Furnish.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/me-elton-john",
+  "useCase": "Understanding creative partnerships, surviving addiction, living authentically, using success for philanthropic impact, finding love after chaos.",
+  "knownRisks": [
+    "Elton's memory of events may be colored by decades of drug use and time",
+    "Some names and minor details have been changed for legal reasons",
+    "Elton's perspective on certain people (e.g., John Reid, his mother) may be influenced by their subsequent relationship breakdowns",
+    "Explicit content: drug use, sex, bulimia — may be triggering for some readers"
+  ],
+  "tags": ["memoir", "music", "addiction", "creativity", "sexuality", "fame", "philanthropy", "resilience", "love", "biography"],
+  "openclaw": {
+    "emoji": "🎹",
+    "category": "professional-development"
+  }
+}
