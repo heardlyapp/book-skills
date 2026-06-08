@@ -3577,7 +3577,26 @@
       "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-confessions-of-an-economic-hit-man"
+    },
+    {
+      "slug": "concise-guide-to-apa-style",
+      "title": "APA's Concise Guide to APA Style (7th ed.) \u2014 formatting, citations, and bias-free writing for academic papers",
+      "author": "American Psychological Association",
+      "version": "1.0.0",
+      "tags": [
+        "academic-writing",
+        "citation",
+        "style-guide",
+        "apa",
+        "research",
+        "formatting",
+        "higher-education",
+        "writing"
+      ],
+      "emoji": "\ud83d\udcdd",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/concise-guide-to-apa-style"
     }
   ],
-  "total_skills": 198
+  "total_skills": 199
 }

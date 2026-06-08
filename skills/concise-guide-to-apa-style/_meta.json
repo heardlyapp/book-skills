@@ -1,0 +1,19 @@
+{
+  "name": "concise-guide-to-apa-style",
+  "version": "1.0.0",
+  "description": "The APA's official style guide (7th ed.) — formatting academic papers, citing sources, writing without bias, and presenting scholarly work clearly and consistently.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/concise-guide-to-apa-style",
+  "useCase": "Paper formatting, in-text citations, reference lists, bias-free writing, scholarly grammar and style.",
+  "knownRisks": [
+    "This is a quick reference for the Concise Guide — it does not replace the full Publication Manual",
+    "APA Style is periodically updated — the current edition is the 7th (2020); rules may differ for 6th edition users",
+    "Some instructors or institutions may modify APA Style — always follow assignment-specific guidelines"
+  ],
+  "tags": ["academic-writing", "citation", "style-guide", "apa", "research", "formatting", "higher-education", "writing"],
+  "openclaw": {
+    "emoji": "📝",
+    "category": "education"
+  }
+}
