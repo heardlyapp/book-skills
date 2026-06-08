@@ -3933,7 +3933,28 @@
       "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/financial-intelligence"
+    },
+    {
+      "slug": "born-to-run",
+      "title": "Christopher McDougall's Born to Run \u2014 the Tarahumara, barefoot running, and discovering the human gift for endurance",
+      "author": "Christopher McDougall",
+      "version": "1.0.0",
+      "tags": [
+        "running",
+        "fitness",
+        "endurance",
+        "health",
+        "ultrarunning",
+        "barefoot",
+        "sports",
+        "human-potential",
+        "adventure",
+        "wellness"
+      ],
+      "emoji": "\ud83c\udfc3",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/born-to-run"
     }
   ],
-  "total_skills": 216
+  "total_skills": 217
 }
