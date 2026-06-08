@@ -1,0 +1,20 @@
+{
+  "name": "energy-and-civilization",
+  "version": "1.0.0",
+  "description": "Vaclav Smil's comprehensive history of energy in civilization — from foraging and farming to fossil fuels and renewables, with analysis of energy density, EROEI, power density, and energy transitions.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/energy-and-civilization",
+  "useCase": "Understanding energy as the basis of civilization, analyzing energy transitions, evaluating EROEI and power density, comprehending the biophysical foundations of society.",
+  "knownRisks": [
+    "Smil is deeply skeptical of rapid energy transitions — this may conflict with optimistic technological views",
+    "Some data (energy shares, specific efficiencies) has been updated since the 2017 publication",
+    "The academic density and data-heavy approach may be overwhelming for casual readers",
+    "Smil does not provide specific policy recommendations — he provides analytic frameworks"
+  ],
+  "tags": ["energy", "history", "civilization", "environment", "technology", "science", "sustainability", "economy", "future", "climate"],
+  "openclaw": {
+    "emoji": "⚡",
+    "category": "professional-development"
+  }
+}

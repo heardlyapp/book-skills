@@ -3975,7 +3975,28 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/letting-go"
+    },
+    {
+      "slug": "energy-and-civilization",
+      "title": "Vaclav Smil's Energy and Civilization \u2014 a history of how energy shapes everything",
+      "author": "Vaclav Smil",
+      "version": "1.0.0",
+      "tags": [
+        "energy",
+        "history",
+        "civilization",
+        "environment",
+        "technology",
+        "science",
+        "sustainability",
+        "economy",
+        "future",
+        "climate"
+      ],
+      "emoji": "\u26a1",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/energy-and-civilization"
     }
   ],
-  "total_skills": 218
+  "total_skills": 219
 }
