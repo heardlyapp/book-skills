@@ -4563,7 +4563,28 @@
       "emoji": "\ud83c\udf3f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-menopause"
+    },
+    {
+      "slug": "the-diabetes-code",
+      "title": "Dr. Jason Fung's The Diabetes Code \u2014 a groundbreaking guide to understanding the root cause of type 2 diabetes and reversing it through low-carb diets and intermittent fasting",
+      "author": "Dr. Jason Fung",
+      "version": "1.0.0",
+      "tags": [
+        "health",
+        "diabetes",
+        "nutrition",
+        "keto",
+        "fasting",
+        "insulin",
+        "metabolic-health",
+        "prevention",
+        "low-carb",
+        "wellness"
+      ],
+      "emoji": "\ud83e\ude78",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-diabetes-code"
     }
   ],
-  "total_skills": 246
+  "total_skills": 247
 }

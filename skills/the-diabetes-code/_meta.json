@@ -1,0 +1,21 @@
+{
+  "name": "the-diabetes-code",
+  "version": "1.0.0",
+  "description": "Dr. Jason Fung's groundbreaking guide to preventing and reversing type 2 diabetes naturally — the science of hyperinsulinemia, the fructose-insulin resistance connection, why standard treatments fail, and how low-carb diets and intermittent fasting can restore metabolic health.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-diabetes-code",
+  "useCase": "Understanding the root cause of type 2 diabetes, reversing insulin resistance, adopting low-carb dietary strategies, using intermittent fasting therapeutically, and preventing diabetic complications through lifestyle rather than medications.",
+  "knownRisks": [
+    "Controversial thesis — many mainstream medical organizations do not endorse dietary reversal of diabetes",
+    "Intermittent fasting and low-carb diets are not suitable for everyone, especially those on insulin or certain medications",
+    "The author is a nephrologist, not an endocrinologist — some endocrinologists dispute his claims",
+    "Dietary changes should be supervised by a physician, especially for those taking diabetes medications",
+    "Type 1 diabetes is a different disease entirely and cannot be reversed through diet"
+  ],
+  "tags": ["health", "diabetes", "nutrition", "keto", "fasting", "insulin", "metabolic-health", "prevention", "low-carb", "wellness"],
+  "openclaw": {
+    "emoji": "🩸",
+    "category": "professional-development"
+  }
+}
