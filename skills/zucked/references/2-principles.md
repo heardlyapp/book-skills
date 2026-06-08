@@ -4,32 +4,32 @@
 
 ## The 7 Principles
 
-### 1. If You're Not Paying, You're the Product
+### 1. If the Product Is Free, You Are the Product
 
-Facebook's users are not customers — they are the raw material. Your attention, personal data, and behavioral patterns are harvested and sold to advertisers. McNamee: "Users are fuel for Facebook's growth and, in some cases, the victims of it."
-
-> **Case: The Facebook Pixel (Chapter 7):** Facebook tracks users across the entire web through the Facebook Pixel — a piece of code embedded on most major websites. Even if you never click a Facebook ad, Facebook knows what sites you visit, what you search for, and what you buy. This surveillance is the foundation of Facebook's advertising business.
+Facebook's users are not customers — they are raw material. Your attention, personal data, and behavioral patterns are harvested, packaged, and sold to advertisers. Understanding this is the foundation of understanding everything else about the platform.
 
 ### 2. The Business Model Drives the Harm
 
-Facebook's advertising revenue depends on engagement. Algorithms are optimized to maximize time spent. Outrage, fear, and misinformation consistently outperform factual, positive content. The harm is not a bug — it's an inevitable consequence of the business model.
+> **Case: The Russia-as-Catalyst Effect (Prologue):** The Russian IRA did not create the problem. They exploited a system that was already optimized for maximal engagement. Algorithmic amplification of divisive content existed before Russian interference. The Russians just became the most skilled users of a weapon that Facebook had already built.
 
-### 3. Denial Is Facebook's Operating System
+### 3. The Algorithm Is Not Neutral
 
-Every time a crisis emerged, Facebook's response was the same: deny, delay, deflect. McNamee reached out privately — they denied. Cambridge Analytica was exposed — they delayed. Congress investigated — they deflected. Frances Haugen leaked internal documents — they attacked her character.
+Every algorithm is optimized for something. Facebook's algorithm is optimized for engagement. Outrage, fear, and sensationalism generate more engagement than truth, nuance, and joy. The algorithm learned this from our own behavior. It then amplified what we clicked — creating a feedback loop of polarization.
 
-### 4. Algorithmic Amplification Is the Weapon
+### 4. Facebook Had Every Chance to Reform
 
-> **Case: The Bernie Sanders Facebook Groups (Prologue):** The Russian IRA created Facebook Groups that appeared to be organic grassroots movements. The algorithm amplified their content because it generated high engagement. McNamee: "The rapid spread of images from these Sanders-associated pages did not appear to be organic." It was paid propaganda, algorithmically amplified.
+McNamee spent years trying to persuade the company privately. He wrote memos, made calls, enlisted allies. Facebook's response was always the same: deny the problem, delay action, deflect responsibility. The company had the resources, the talent, and the data to fix things. It chose not to.
 
-### 5. Self-Regulation Has Failed
+### 5. Self-Regulation Is a Proven Failure
 
-Facebook had years — from 2016 to 2023+ — and multiple opportunities to fix its problems. It chose cosmetic changes over systemic reform. The company spent billions on lobbying to prevent regulation while claiming it could regulate itself.
+After Cambridge Analytica, Facebook promised reform. After the 2018 Congressional hearings, Facebook promised reform. After the Facebook Papers, Facebook promised reform. Each cycle: crisis → apology → promises → minimal action → next crisis. The pattern is clear and intentional.
 
-### 6. Privacy Is Not Optional
+> **Case: The Memo to Zuck (Prologue):** In October 2016, McNamee sent Zuckerberg and Sandberg a two-page memo with specific examples of harm enabled by Facebook's design. He offered to help. They delegated him to Dan Rose, a PR handler whose job was to make his concerns go away. This response — private concerns deflected to a communications staffer — defined Facebook's approach to every subsequent crisis.
 
-In the digital age, privacy is a prerequisite for autonomy, dignity, and democracy. Without privacy, individuals can be manipulated without their knowledge or consent.
+### 6. Privacy Is a Collective Good
 
-### 7. Regulation Requires Citizen Action
+You cannot protect your privacy alone in a system designed to extract data at every interaction. The Facebook Pixel follows you across the web. Like buttons are embedded on 8 million websites. Even if you don't use Facebook, Facebook has a shadow profile on you. Legal protection is the only effective solution.
 
-Facebook will not reform itself. Change requires: (1) informed citizens, (2) political pressure, (3) privacy legislation, (4) algorithmic transparency, (5) antitrust enforcement, and (6) changes to liability protections for platforms.
+### 7. Systemic Problems Require Systemic Solutions
+
+Individual actions — quitting Facebook, installing ad blockers, using Signal — help individuals manage their own exposure. They do not change the system that enables disinformation to reach millions of voters, or that trains algorithms to amplify outrage. Regulation, antitrust, and algorithmic transparency are the only levers that can change the system.
