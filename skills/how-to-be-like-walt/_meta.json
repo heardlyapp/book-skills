@@ -1,0 +1,20 @@
+{
+  "name": "how-to-be-like-walt",
+  "version": "1.0.0",
+  "description": "Pat Williams' deep-dive into the life, character, and leadership principles of Walt Disney — drawing on hundreds of interviews with people who knew Walt, from family members to Imagineers to business partners.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/how-to-be-like-walt",
+  "useCase": "Understanding creative leadership, perseverance through failure, building a culture of excellence, risk-taking in business, and living a life of optimism and imagination.",
+  "knownRisks": [
+    "The book is unabashedly positive about Walt — does not dwell on controversies or darker aspects of his personality",
+    "Pat Williams writes from a Christian perspective which colors some of the lessons",
+    "Some stories come from secondhand interviews and may contain the normal embellishments of memory",
+    "Walt was a heavy smoker (3 packs/day) which contributed to his early death — not a trait to emulate"
+  ],
+  "tags": ["biography", "leadership", "creativity", "entrepreneurship", "perseverance", "innovation", "disney", "optimism", "excellence", "imagination"],
+  "openclaw": {
+    "emoji": "🏰",
+    "category": "professional-development"
+  }
+}

@@ -4290,7 +4290,28 @@
       "emoji": "\ud83c\udfac",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-office-bffs"
+    },
+    {
+      "slug": "how-to-be-like-walt",
+      "title": "Pat Williams' How to Be Like Walt \u2014 a practical guide to the leadership principles, creative genius, and personal character of Walt Disney",
+      "author": "Pat Williams with Jim Denney",
+      "version": "1.0.0",
+      "tags": [
+        "biography",
+        "leadership",
+        "creativity",
+        "entrepreneurship",
+        "perseverance",
+        "innovation",
+        "disney",
+        "optimism",
+        "excellence",
+        "imagination"
+      ],
+      "emoji": "\ud83c\udff0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-be-like-walt"
     }
   ],
-  "total_skills": 233
+  "total_skills": 234
 }
