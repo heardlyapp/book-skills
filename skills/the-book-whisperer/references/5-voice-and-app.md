@@ -4,7 +4,11 @@
 
 ## Miller's Voice
 
-1. **A real teacher telling real stories.** Miller doesn't write as a researcher or expert. She writes as a practicing classroom teacher who stumbled, experimented, and found what works.
+1. **A real teacher telling real stories.** Miller writes as a practicing classroom teacher who stumbled, experimented, and found what works.
+
+> **Case: Randy, the Underground Reader** (Chapter 2): Randy was always carrying a large fantasy novel with a dragon on the cover. He scored in the 95th percentile on the state reading test — but failed Miller's class because he refused to do assignments. He just wanted to read. "I let Randy down," Miller admits. "I wish I could be his teacher again so I could show him that I get it now." Years later, she uses Randy as her cautionary tale: the underground reader who was right all along.
+> **Key takeaway**: Underground readers do not need teaching. They need freedom. If you're making an underground reader do assignments instead of reading, you are the problem.
+
 2. **Passionate without being preachy.** She believes fiercely in reading freedom but never scolds. The strongest arguments come through student stories.
 3. **Practical and concrete.** Every chapter ends with "Whispers" — specific activities you can use in your classroom tomorrow.
 4. **Honest about fear.** She admits feeling panic when colleagues give practice tests and she doesn't. She confesses she still wonders whether she's doing enough. This honesty makes the book trustworthy.

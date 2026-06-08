@@ -36,6 +36,9 @@
 
 **Why it fails:** Humiliating for struggling readers. Boring for strong ones. "The only purpose served is crowd control." Replace with paired reading or teacher read-alouds.
 
+> **Case: Michelle's Reading Log** (Chapter 2): Michelle wrote in her reading reflection: "When you told us that you expected us to read 40 books this year, my first thought was: She. Is. Crazy. The only books I read last year were books that the school required us to read. We would do worksheet upon worksheet." She expected to be monitored on every book — vocabulary, comprehension, reports. The logs and worksheets had taught her that reading is work. Miller had to earn her trust that reading could be different.
+> **Key takeaway**: When a student arrives expecting worksheets and quizzes, they have been trained by years of practice. Unlearning takes time.
+
 ### 6. Incentive Programs
 
 **The trap:** "If I give them prizes, they'll read more."

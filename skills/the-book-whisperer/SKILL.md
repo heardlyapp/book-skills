@@ -19,7 +19,7 @@ description: >-
   or mention: Donalyn Miller / Book Whisperer / free voluntary reading / 40-book requirement / independent reading
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
-version: 1.0.0
+version: 1.1.0
 license: MIT
 tags:
   - education

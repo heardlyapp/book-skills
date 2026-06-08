@@ -32,6 +32,12 @@ Students stand up for 60 seconds and share something they're reading. Not a repo
 
 A simple notebook where students track what they're reading, write responses, and set goals. No formats. No required length. "A natural way to respond."
 
+> **Case: Kelsey's Interest Survey** (Chapter 2): Kelsey's survey revealed she loved animals, especially horses. Miller steered her toward the Animal Ark and Heartland series — books at a 3rd-grade level that Kelsey could read successfully. "As Kelsey developed experience as a reader, her confidence grew." A personalized book recommendation changed everything.
+> **Key takeaway**: The survey is worthless without follow-through. The magic is not the data — it's the personalized stack of books left on the desk.
+
+> **Case: The Book Frenzy** (Chapter 2): Jace was "not an enthusiastic reader" when he entered Miller's class. During the first-day Book Frenzy, he got caught up in the excitement — students waving books, calling out titles, trading recommendations. He walked out with three books. Years later, he told Miller: "They are still on my list of favorites."
+> **Key takeaway**: The Book Frenzy works because it harnesses social energy. Students recommend to students.
+
 ### 8. The Classroom Library System
 
 Books organized by genre in plastic shoe boxes. Stickers match books to bins. Students check out their own books. Class librarians help. Covers face out.

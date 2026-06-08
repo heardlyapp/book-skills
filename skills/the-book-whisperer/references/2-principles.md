@@ -33,6 +33,9 @@ Miller estimates her classroom library at several thousand books — all purchas
 
 Developing readers need volume at the right level. Dormant readers need discovery. Underground readers need freedom. One-size-fits-all instruction fails all three.
 
+> **Case: Hope, the Dormant Reader** (Chapter 2): Hope succeeded in schoolwork and excelled on state assessments — but did not see herself as a reader. Miller placed "book after book" in her hands. Some she read; others she "snuck back onto the shelf." Over time, Hope found books that spoke to her "eclectic spirit" — The Giver, Coraline. When Miller noticed Hope gravitated toward Greek mythology, a connection opened. Today, Hope is "a regular visitor to my library." The dormant reader woke up.
+> **Key takeaway**: Dormant readers don't need remediation. They need discovery. One book that matches their personal taste can unlock everything.
+
 ### 8. The Goal Is Lifelong Reading
 
 "If students walk out of our classrooms with internal motivation to read, they have gained something lasting." The test score is a byproduct, not the goal.
