@@ -3954,7 +3954,28 @@
       "emoji": "\ud83c\udfc3",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/born-to-run"
+    },
+    {
+      "slug": "letting-go",
+      "title": "David R. Hawkins' Letting Go \u2014 the pathway of surrender to release negative emotions and raise consciousness",
+      "author": "David R. Hawkins",
+      "version": "1.0.0",
+      "tags": [
+        "spirituality",
+        "emotions",
+        "psychology",
+        "self-help",
+        "consciousness",
+        "surrender",
+        "healing",
+        "mindfulness",
+        "acceptance",
+        "inner-peace"
+      ],
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/letting-go"
     }
   ],
-  "total_skills": 217
+  "total_skills": 218
 }

@@ -1,0 +1,20 @@
+{
+  "name": "letting-go",
+  "version": "1.0.0",
+  "description": "David R. Hawkins' guide to surrendering negative emotions — the letting go mechanism, the Scale of Consciousness, releasing fear/anger/grief/desire/pride, and achieving inner peace through surrender.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/letting-go",
+  "useCase": "Releasing negative emotions, moving up the Scale of Consciousness, overcoming suppression/expression/escape patterns, healing the past, achieving inner peace.",
+  "knownRisks": [
+    "Hawkins' calibration numbers are based on his own research method (kinesiology) which is not widely accepted in mainstream science",
+    "The Scale of Consciousness is a spiritual framework, not a clinically validated diagnostic tool",
+    "People with severe trauma or mental health conditions may need professional support alongside this practice",
+    "The book's claim that most of humanity calibrates below 200 may feel discouraging to some readers"
+  ],
+  "tags": ["spirituality", "emotions", "psychology", "self-help", "consciousness", "surrender", "healing", "mindfulness", "acceptance", "inner-peace"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "professional-development"
+  }
+}
