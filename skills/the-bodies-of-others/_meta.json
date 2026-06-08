@@ -1,0 +1,20 @@
+{
+  "name": "the-bodies-of-others",
+  "version": "1.0.0",
+  "description": "Naomi Wolf's investigation into authoritarianism during COVID-19 — emergency powers, fear-driven compliance, institutional mission failure, and the tools of resistance.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-bodies-of-others",
+  "useCase": "Spotting authoritarian drift in public health crises, understanding fear as a compliance tool, tracking power consolidation during emergencies, building effective resistance.",
+  "knownRisks": [
+    "Naomi Wolf is a controversial figure whose claims have been disputed by mainstream fact-checkers",
+    "This book critiques widely accepted public health measures — users should read other sources with opposing views",
+    "The 'Great Reset' conspiracy theory framing may not align with mainstream understanding of WEF intentions",
+    "Some claims about COVID-19 mortality and lockdown efficacy are contested by public health authorities"
+  ],
+  "tags": ["politics", "authoritarianism", "civil-liberties", "public-health", "freedom", "resistance", "emergency-powers", "critical-thinking", "power", "society"],
+  "openclaw": {
+    "emoji": "📕",
+    "category": "professional-development"
+  }
+}

@@ -3870,7 +3870,28 @@
       "emoji": "\ud83d\udd2e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/soul-retrieval"
+    },
+    {
+      "slug": "the-bodies-of-others",
+      "title": "Naomi Wolf's The Bodies of Others \u2014 how authoritarians use health crises to control, and how to resist",
+      "author": "Naomi Wolf",
+      "version": "1.0.0",
+      "tags": [
+        "politics",
+        "authoritarianism",
+        "civil-liberties",
+        "public-health",
+        "freedom",
+        "resistance",
+        "emergency-powers",
+        "critical-thinking",
+        "power",
+        "society"
+      ],
+      "emoji": "\ud83d\udcd5",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-bodies-of-others"
     }
   ],
-  "total_skills": 213
+  "total_skills": 214
 }
