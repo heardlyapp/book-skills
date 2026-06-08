@@ -1,0 +1,20 @@
+{
+  "name": "we-are-displaced",
+  "version": "1.0.0",
+  "description": "Malala Yousafzai's intimate account of displacement — her own story of fleeing the Taliban in Pakistan's Swat Valley, told alongside the voices of refugee girls from Yemen, Syria, Iraq, Colombia, Guatemala, Congo, and Myanmar.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/we-are-displaced",
+  "useCase": "Understanding the refugee experience, resilience after forced displacement, fighting for education under oppression, building a new life in a foreign country, and finding hope in the midst of crisis.",
+  "knownRisks": [
+    "Contains firsthand accounts of violence, death of family members, sexual assault references, and extreme trauma",
+    "Some names and identifying details have been changed to protect the individuals",
+    "May be emotionally triggering for readers with related personal experiences",
+    "The described situations continue to evolve; statistics are from 2017-2019 context"
+  ],
+  "tags": ["memoir", "refugee", "education", "resilience", "human-rights", "social-justice", "activism", "women", "war", "immigration"],
+  "openclaw": {
+    "emoji": "🌍",
+    "category": "social-impact"
+  }
+}

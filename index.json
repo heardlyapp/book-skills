@@ -4248,7 +4248,28 @@
       "emoji": "\ud83c\udfb9",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/me-elton-john"
+    },
+    {
+      "slug": "we-are-displaced",
+      "title": "Malala Yousafzai's We Are Displaced \u2014 an intimate account of displacement, told through her own story and the voices of refugee girls from around the world",
+      "author": "Malala Yousafzai",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "refugee",
+        "education",
+        "resilience",
+        "human-rights",
+        "social-justice",
+        "activism",
+        "women",
+        "war",
+        "immigration"
+      ],
+      "emoji": "\ud83c\udf0d",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/we-are-displaced"
     }
   ],
-  "total_skills": 231
+  "total_skills": 232
 }
