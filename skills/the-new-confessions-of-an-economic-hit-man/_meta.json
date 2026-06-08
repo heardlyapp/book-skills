@@ -1,0 +1,19 @@
+{
+  "name": "the-new-confessions-of-an-economic-hit-man",
+  "version": "1.0.0",
+  "description": "John Perkins' whistleblower account — how the global economic system uses debt to dominate nations, and how to transition from a death economy to a life economy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-new-confessions-of-an-economic-hit-man",
+  "useCase": "Understanding global debt traps, spotting corporatocracy, recognizing economic manipulation, building sustainable alternatives.",
+  "knownRisks": [
+    "Perkins' claims are disputed by some economists and institutions",
+    "The book's tone is confessional and conspiratorial — some readers may find it alarmist",
+    "Some specific claims about CIA involvement are difficult to verify independently"
+  ],
+  "tags": ["economics", "geopolitics", "whistleblower", "debt", "global-empire", "sustainability", "corporatocracy", "activism"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "professional-development"
+  }
+}

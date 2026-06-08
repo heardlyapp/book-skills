@@ -3558,7 +3558,26 @@
       "emoji": "\ud83c\udf31",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/pedagogy-of-the-oppressed"
+    },
+    {
+      "slug": "the-new-confessions-of-an-economic-hit-man",
+      "title": "John Perkins' The New Confessions of an Economic Hit Man \u2014 debt as a weapon, the corporatocracy, and the life economy",
+      "author": "John Perkins",
+      "version": "1.0.0",
+      "tags": [
+        "economics",
+        "geopolitics",
+        "whistleblower",
+        "debt",
+        "global-empire",
+        "sustainability",
+        "corporatocracy",
+        "activism"
+      ],
+      "emoji": "\ud83d\udcb0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-confessions-of-an-economic-hit-man"
     }
   ],
-  "total_skills": 197
+  "total_skills": 198
 }
