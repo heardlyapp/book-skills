@@ -32,6 +32,9 @@
 
 Women over 35 are routinely labeled "advanced maternal age" and treated as high-risk. Ina May's Farm mothers over 35 (like Bernadette at 38) had normal, unmedicated births. Age alone is not a medical condition.
 
+> **Case: Njeri's First-Time Birth Without Fear** (Part I, Njeri Emanuel's Story): Njeri was told labor would be "excruciatingly painful." She considered a C-section out of fear. But her mother had lived on The Farm. Njeri knew about natural birth. She walked during labor, refused to lie down, and used her midwife's mirror. Result: no tearing, no episiotomy, no intervention, an eight-hour labor. The fear was cultural, not biological.
+> **Key takeaway**: Your mother's experience shapes your expectations. Unlearn the fear. Learn the facts.
+
 ### 6. The "One Cesarean, Always Cesarean" Fallacy
 
 VBAC is safe for 70-80% of women who try. Many hospitals still ban VBAC or make it difficult. The evidence supports VBAC. The policy often does not.

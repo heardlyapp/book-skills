@@ -4,6 +4,9 @@
 
 ## Practical Tools
 
+> **Case: Kathryn's Bathtub Breakthrough** (Part I, Kathryn B. Van de Castle's Story, pages ~339-341): Kathryn labored for seven hours in a warm tub. She entered the tub at 1 centimeter dilation. She emerged seven hours later fully dilated at 10 centimeters. The water provided privacy, warmth, and support. Her body opened in conditions where it felt safe. Ina May notes: water births and long baths are powerful natural tools precisely because they satisfy the conditions of Sphincter Law.
+> **Key takeaway**: A warm bath is not just comfort — it's a physiological intervention that helps your cervix open.
+
 ### 1. The Sphincter Law Audit
 
 **Before you enter a birth environment, ask:**
@@ -47,3 +50,6 @@
 ### 7. The Placenta Check
 
 **The third stage of labor:** Don't rush the placenta. Ina May recommends waiting for signs of separation, gentle traction, and immediate breastfeeding to stimulate the final contraction. The cord should never be pulled hard — gentle patience is safer.
+
+> **Case: Karen's Unmedicated Third Stage** (Part I, Karen Lovell's James's Birth): After James was born, Karen felt the placenta slide out "like a squishy blob" with barely any effort. The midwives didn't pull. They didn't rush. They waited for her body to deliver the placenta naturally. The result: minimal blood loss, a comfortable mother, an unhurried welcome.
+> **Key takeaway**: The third stage of labor is a birth too. Patience and gentleness apply here as much as anywhere.

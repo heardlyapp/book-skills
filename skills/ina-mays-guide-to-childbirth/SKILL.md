@@ -19,7 +19,7 @@ description: >-
   or mention: Ina May Gaskin / The Farm / midwifery / natural birth / home birth / Sphincter Law / VBAC / birth stories
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
-version: 1.0.0
+version: 1.1.0
 license: MIT
 tags:
   - childbirth
