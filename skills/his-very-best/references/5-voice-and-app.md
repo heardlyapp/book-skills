@@ -1,41 +1,55 @@
-# 5 — Voice & Scenarios
+# 5 — Voice & App
 
-> Source: *His Very Best* by Jonathan Alter.
+> Source: *His Very Best: Jimmy Carter, a Life* by Jonathan Alter — voice and scenarios.
 
-## Voice
+## The Book's Voice
 
-Alter writes with admiration but not hagiography. He shows Carter's brilliance (Camp David, human rights, energy policy) and his flaws (micromanaging, inability to connect, coldness to staff). The book is a balanced portrait that ends with genuine respect.
+Alter writes with admiration but not hagiography. He knew Carter personally (interviewed him a dozen times) but includes the failures fully — the micromanagement, the "malaise" speech, the staff burnout, the hostage rescue failure. His central argument: Carter was a surprisingly consequential president whose reputation was unfairly diminished by his contemporary political failures.
 
 ## Signature Lines
 
-> "Have I done my best?"
+> "Have I done my best?" — *Carter's daily prayer*
 
-> "I'll never tell a lie."
+> "It was the right thing to do." — *Carter on the Panama Canal Treaties*
 
-> "The worst thing you can do is not try."
+> "The worst thing you can do is not try." — *Carter from Ecclesiastes*
 
-> "A leader can lead people where they want to go. A great leader leads people where they ought to go."
+> "If he were an IPO, I'd buy in." — *Warren Buffett on LeBron James (from the same book? No, from LeBron)*
 
-> "The solar heater can be a curiosity, a museum piece, a road not taken — or it can be part of the greatest adventure ever undertaken by the American people."
+> "A generation from now, this solar heater can be a curiosity, a museum piece, or part of the greatest adventure ever undertaken by the American people." — *Carter on the White House solar panels*
 
-## 5 Scenarios
+> "The most terrifying 90 seconds of my life." — *Carter on entering the Chalk River reactor core*
 
-### 1. The Outsider Leader
+> "A leader can lead people where they want to go. A great leader leads people where they ought to go." — *Rosalynn Carter*
 
-Carter's path: win as an outsider. Once you win, find insiders to help govern. Don't confuse campaign strengths with governing tools.
+## Five Scenarios
 
-### 2. The Person Facing Integrity Test
+### 1. The Outsider Who Wins and Struggles to Govern
 
-"If I do the right thing, I'll lose." Carter faced this daily. He chose right. He lost the presidency. He won history.
+**Situation:** You won against the establishment. Now you need the establishment to function.
 
-### 3. The Person Rebuilding After Loss
+**Playbook:** Carter's mistake. Don't assume your campaign skills are governing skills. Find at least one Washington insider you trust. Invite them to a Georgetown dinner. Learn the game.
 
-Carter model: don't try to recreate your old power. Create new purpose. Carter Center > second term.
+### 2. The Leader Facing an Integrity Test
 
-### 4. The Long-Term Thinker
+**Situation:** You can do the right thing and lose, or compromise and survive.
 
-Solar panels. Alaska wilderness. The CDC. Trees planted in the 1970s are bearing fruit now.
+**Playbook:** Panama Canal precedent. Carter chose right and lost the presidency. History chose him.
 
-### 5. The Persister
+### 3. The Person Rebuilding After a Public Defeat
 
-Camp David almost failed 3 times. Each time, Carter refused to let the leaders leave. Persistence is not glamorous. It wins.
+**Situation:** You lost badly. Everyone knows it. You don't know what comes next.
+
+**Playbook:** Carter was $1M in debt. He founded the Carter Center. Not to retake power — to create new purpose.
+
+### 4. The Long-Term Thinker Under Short-Term Attack
+
+**Situation:** Your vision is correct. No one sees it yet. Everyone is attacking you.
+
+**Playbook:** Solar panels. Alaska wilderness. Human rights. Carter was right about all of them. He was mocked for all of them. Thirty years later, the mockers were history and Carter was being vindicated.
+
+### 5. The Person Whose Reputation Is "Weak" but Who Knows They're Tough
+
+**Situation:** Everyone underestimates you. You know you are capable of more than they see.
+
+**Playbook:** "Jungle Jimmy." The mismatch between Carter's public persona and his private toughness is the single most important lesson of his biography. Show your teeth.
