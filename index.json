@@ -3425,7 +3425,26 @@
       "emoji": "\ud83c\udf31",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/his-very-best"
+    },
+    {
+      "slug": "lebron",
+      "title": "Jeff Benedict's LeBron \u2014 the untold story of building an inner circle, surviving the Decision, and becoming a billionaire",
+      "author": "Jeff Benedict",
+      "version": "1.0.0",
+      "tags": [
+        "biography",
+        "leadership",
+        "sports",
+        "inner-circle",
+        "loyalty",
+        "athlete",
+        "philanthropy",
+        "lebron-james"
+      ],
+      "emoji": "\ud83c\udfc0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/lebron"
     }
   ],
-  "total_skills": 190
+  "total_skills": 191
 }

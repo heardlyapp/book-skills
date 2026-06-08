@@ -1,0 +1,19 @@
+{
+  "name": "lebron",
+  "version": "1.0.0",
+  "description": "Jeff Benedict's biography — building an inner circle, turning instability into drive, and leveraging athletic success into a billion-dollar empire and social impact.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/lebron",
+  "useCase": "Building a loyal team, recovering from public backlash, leveraging a platform, turning origin story into fuel, building beyond your primary career.",
+  "knownRisks": [
+    "Benedict's biography is admiring — not a critical or investigative account",
+    "LeBron's specific circumstances (once-in-a-generation talent) may not generalize",
+    "The business and sports landscape has shifted since LeBron's early career"
+  ],
+  "tags": ["biography", "leadership", "sports", "inner-circle", "loyalty", "athlete", "philanthropy", "lebron-james"],
+  "openclaw": {
+    "emoji": "🏀",
+    "category": "professional-development"
+  }
+}
