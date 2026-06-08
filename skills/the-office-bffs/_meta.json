@@ -1,0 +1,21 @@
+{
+  "name": "the-office-bffs",
+  "version": "1.0.0",
+  "description": "Jenna Fischer and Angela Kinsey's behind-the-scenes scrapbook of The Office — the stories of how they were cast, their friendship, the Booze Cruise disaster, the Death Bus, Dwangela, and the creative genius of Greg Daniels.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-office-bffs",
+  "useCase": "Understanding creative collaboration, persistence in show business, friendship at work, behind-the-scenes of a hit TV show, and supporting coworkers through hard times.",
+  "knownRisks": [
+    "Memories may be colored by time and nostalgia — all stories from one perspective",
+    "Some names and minor details have been changed to protect privacy",
+    "Primarily focuses on positive experiences, not the show's criticism or controversy",
+    "Contains mild language and references to adult situations",
+    "The book is a curated love letter, not an expose"
+  ],
+  "tags": ["memoir", "television", "comedy", "friendship", "entertainment", "behind-the-scenes", "acting", "creative-process", "pop-culture", "collaboration"],
+  "openclaw": {
+    "emoji": "🎬",
+    "category": "professional-development"
+  }
+}

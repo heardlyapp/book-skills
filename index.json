@@ -4269,7 +4269,28 @@
       "emoji": "\ud83c\udf0d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/we-are-displaced"
+    },
+    {
+      "slug": "the-office-bffs",
+      "title": "Jenna Fischer and Angela Kinsey's The Office BFFs \u2014 a behind-the-scenes scrapbook of the hit show, the actresses' friendship, and the creative magic behind Dunder Mifflin",
+      "author": "Jenna Fischer / Angela Kinsey",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "television",
+        "comedy",
+        "friendship",
+        "entertainment",
+        "behind-the-scenes",
+        "acting",
+        "creative-process",
+        "pop-culture",
+        "collaboration"
+      ],
+      "emoji": "\ud83c\udfac",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-office-bffs"
     }
   ],
-  "total_skills": 232
+  "total_skills": 233
 }
