@@ -1,0 +1,19 @@
+{
+  "name": "zenith-man",
+  "version": "1.0.0",
+  "description": "McCracken Poston Jr.'s legal memoir — challenging public narratives, defending the unpopular, finding hidden truth, and the price of doing the right thing.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/zenith-man",
+  "useCase": "Challenging dominant narratives, defending unpopular clients, investigating beneath the surface, managing difficult clients, navigating small town justice.",
+  "knownRisks": [
+    "Poston writes from his perspective as the defense attorney — the book is not a neutral account",
+    "The legal strategies described may not apply in all jurisdictions",
+    "Some details have been changed for privacy"
+  ],
+  "tags": ["true-crime", "legal", "justice", "defense", "small-town", "prejudice", "narrative", "redemption"],
+  "openclaw": {
+    "emoji": "⚖️",
+    "category": "professional-development"
+  }
+}
