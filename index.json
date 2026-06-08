@@ -4332,7 +4332,28 @@
       "emoji": "\u2615",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/its-not-about-the-coffee"
+    },
+    {
+      "slug": "discipline-equals-freedom",
+      "title": "Jocko Willink's Discipline Equals Freedom: Field Manual \u2014 a no-compromise guide to building unbreakable self-discipline, mental toughness, and warrior leadership",
+      "author": "Jocko Willink",
+      "version": "1.0.0",
+      "tags": [
+        "discipline",
+        "mindset",
+        "leadership",
+        "mental-toughness",
+        "fitness",
+        "self-improvement",
+        "military",
+        "stoicism",
+        "productivity",
+        "extreme-ownership"
+      ],
+      "emoji": "\u2694\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/discipline-equals-freedom"
     }
   ],
-  "total_skills": 235
+  "total_skills": 236
 }

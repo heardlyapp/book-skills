@@ -1,0 +1,21 @@
+{
+  "name": "discipline-equals-freedom",
+  "version": "1.0.0",
+  "description": "Jocko Willink's battlefield-tested field manual for achieving freedom through discipline — covering mindset, physical training, leadership, nutrition, and the warrior ethos that turns weakness into strength.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/discipline-equals-freedom",
+  "useCase": "Building unshakeable self-discipline, overcoming procrastination, developing mental toughness, leading with extreme ownership, and transforming setbacks into opportunities.",
+  "knownRisks": [
+    "Written in an extreme, no-compromise style that may not suit everyone's temperament",
+    "The military/warrior perspective can feel overwhelming for non-combative contexts",
+    "Some advice is deliberately provocative and should be taken in context (e.g., 'poison' for donuts is hyperbolic)",
+    "Physical training recommendations assume good health — consult a doctor before starting any workout program",
+    "The 'every day is Monday' philosophy can lead to burnout without proper recovery management"
+  ],
+  "tags": ["discipline", "mindset", "leadership", "mental-toughness", "fitness", "self-improvement", "military", "stoicism", "productivity", "extreme-ownership"],
+  "openclaw": {
+    "emoji": "⚔️",
+    "category": "professional-development"
+  }
+}
