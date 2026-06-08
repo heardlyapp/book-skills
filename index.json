@@ -3330,7 +3330,26 @@
       "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/democracy-in-america"
+    },
+    {
+      "slug": "know-your-rights-and-claim-them",
+      "title": "Amnesty's Know Your Rights and Claim Them \u2014 a youth guide to understanding and claiming children's rights under the UN Convention",
+      "author": "Amnesty International / Angelina Jolie / Geraldine Van Bueren",
+      "version": "1.0.0",
+      "tags": [
+        "human-rights",
+        "child-rights",
+        "activism",
+        "social-justice",
+        "youth-empowerment",
+        "legal-knowledge",
+        "united-nations",
+        "advocacy"
+      ],
+      "emoji": "\u270a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/know-your-rights-and-claim-them"
     }
   ],
-  "total_skills": 185
+  "total_skills": 186
 }

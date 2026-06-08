@@ -1,0 +1,19 @@
+{
+  "name": "know-your-rights-and-claim-them",
+  "version": "1.0.0",
+  "description": "Amnesty International's guide for youth — understanding children's rights under the UN Convention on the Rights of the Child, identifying violations, and taking action through activism and legal channels.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/know-your-rights-and-claim-them",
+  "useCase": "Child rights education, identifying rights violations, safe activism for youth, legal navigation for young people, building campaigns for social change.",
+  "knownRisks": [
+    "Legal advice varies by country — the Convention is international law but enforcement differs",
+    "The US has not ratified the Convention, so youth in the US have a different legal landscape",
+    "Activist actions carry real risks in some countries — safety assessment is critical"
+  ],
+  "tags": ["human-rights", "child-rights", "activism", "social-justice", "youth-empowerment", "legal-knowledge", "united-nations", "advocacy"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "personal-development"
+  }
+}
