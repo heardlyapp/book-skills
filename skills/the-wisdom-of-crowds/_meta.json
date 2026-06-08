@@ -1,0 +1,19 @@
+{
+  "name": "the-wisdom-of-crowds",
+  "version": "1.0.0",
+  "description": "Joe Abercrombie's dark fantasy novel — a mirror for understanding revolutionary dynamics, crowd psychology, institutional collapse, and the gap between ideals and reality when the mob takes power.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-wisdom-of-crowds",
+  "useCase": "Revolutionary risk assessment, managing coalition decay, surviving institutional collapse, understanding mob psychology, recognizing personal motives in political movements.",
+  "knownRisks": [
+    "This is a work of dark fantasy fiction, not a political science text",
+    "Characters and events are metaphorical, not prescriptive",
+    "Some may find the cynical view of revolution discouraging rather than instructive"
+  ],
+  "tags": ["revolution", "politics", "power-dynamics", "social-change", "fantasy", "mob-psychology", "institutions", "justice"],
+  "openclaw": {
+    "emoji": "🎭",
+    "category": "professional-development"
+  }
+}

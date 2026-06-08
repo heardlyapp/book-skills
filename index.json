@@ -3273,7 +3273,26 @@
       "emoji": "\ud83c\udf0e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-world-as-it-is"
+    },
+    {
+      "slug": "the-wisdom-of-crowds",
+      "title": "Joe Abercrombie's The Wisdom of Crowds \u2014 a dark fantasy mirror for revolutionary dynamics and institutional collapse",
+      "author": "Joe Abercrombie",
+      "version": "1.0.0",
+      "tags": [
+        "revolution",
+        "politics",
+        "power-dynamics",
+        "social-change",
+        "fantasy",
+        "mob-psychology",
+        "institutions",
+        "justice"
+      ],
+      "emoji": "\ud83c\udfad",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-wisdom-of-crowds"
     }
   ],
-  "total_skills": 182
+  "total_skills": 183
 }
