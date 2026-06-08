@@ -3615,7 +3615,26 @@
       "emoji": "\ud83d\udeab",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/go-for-no"
+    },
+    {
+      "slug": "the-black-girls-guide-to-financial-freedom",
+      "title": "Paris Woods' Guide to Financial Freedom \u2014 debt elimination, FIRE, and wealth building for Black women",
+      "author": "Paris Woods",
+      "version": "1.0.0",
+      "tags": [
+        "personal-finance",
+        "investing",
+        "debt",
+        "fire",
+        "wealth-building",
+        "career",
+        "real-estate",
+        "black-women"
+      ],
+      "emoji": "\ud83d\udcb0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-girls-guide-to-financial-freedom"
     }
   ],
-  "total_skills": 200
+  "total_skills": 201
 }

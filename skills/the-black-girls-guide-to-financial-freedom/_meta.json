@@ -1,0 +1,19 @@
+{
+  "name": "the-black-girls-guide-to-financial-freedom",
+  "version": "1.0.0",
+  "description": "Paris Woods' guide for Black women — debt elimination, investing, career growth, real estate, and Financial Independence Retire Early (FIRE).",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-black-girls-guide-to-financial-freedom",
+  "useCase": "Getting out of debt, starting to invest, negotiating salary, buying real estate, planning for early retirement.",
+  "knownRisks": [
+    "Financial advice varies by individual circumstances — this is a guide, not personalized advice",
+    "FIRE requires high savings rates that may not be achievable for everyone",
+    "Some strategies (like house hacking) depend on local real estate markets and may not work everywhere"
+  ],
+  "tags": ["personal-finance", "investing", "debt", "fire", "wealth-building", "career", "real-estate", "black-women"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "personal-development"
+  }
+}
