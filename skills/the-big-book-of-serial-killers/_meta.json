@@ -1,0 +1,19 @@
+{
+  "name": "the-big-book-of-serial-killers",
+  "version": "1.0.0",
+  "description": "Jack Rosewood's encyclopedia of 150 serial killers — understanding criminal typologies, investigative patterns, victimology, and the psychology of serial murder.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-big-book-of-serial-killers",
+  "useCase": "Understanding serial killer typologies, learning investigative patterns, criminal psychology reference, forensic awareness.",
+  "knownRisks": [
+    "Contains graphic descriptions of violent crimes — not suitable for all readers",
+    "The book is an encyclopedia, not a narrative; each profile is relatively brief",
+    "Some readers may find the subject matter disturbing or triggering"
+  ],
+  "tags": ["true-crime", "psychology", "forensics", "criminal-behavior", "serial-killers", "profiling", "investigation", "reference"],
+  "openclaw": {
+    "emoji": "🔪",
+    "category": "education"
+  }
+}

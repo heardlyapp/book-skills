@@ -3653,7 +3653,26 @@
       "emoji": "\ud83d\udc96",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/love-yourself-first"
+    },
+    {
+      "slug": "the-big-book-of-serial-killers",
+      "title": "The Big Book of Serial Killers \u2014 150 profiles of the world's worst murderers, typologies and investigative lessons",
+      "author": "Jack Rosewood / Rebecca Lo",
+      "version": "1.0.0",
+      "tags": [
+        "true-crime",
+        "psychology",
+        "forensics",
+        "criminal-behavior",
+        "serial-killers",
+        "profiling",
+        "investigation",
+        "reference"
+      ],
+      "emoji": "\ud83d\udd2a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-big-book-of-serial-killers"
     }
   ],
-  "total_skills": 202
+  "total_skills": 203
 }
