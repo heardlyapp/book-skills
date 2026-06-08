@@ -1,0 +1,21 @@
+{
+  "name": "separated",
+  "version": "1.0.1",
+  "description": "Jacob Soboroff's deeply reported account of the Trump administration's family separation policy — from the policy's creation in Washington to the cages at the border, the traumatized children, and the failed reunification. Based on the author's firsthand reporting that helped end the policy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/separated",
+  "useCase": "Understanding the family separation policy, the human cost of zero tolerance immigration enforcement, the conditions in detention facilities, and the legal battle for reunification.",
+  "knownRisks": [
+    "Graphic descriptions of child trauma may be disturbing",
+    "The author was an MSNBC reporter covering the story — this is a journalistic account, not an academic history",
+    "Some details rely on the memories of sources with their own motivations",
+    "Strongly critical of the Trump administration — not a neutral account",
+    "Names of some individuals have been changed to protect their safety"
+  ],
+  "tags": ["journalism", "immigration", "politics", "human-rights", "trump", "border", "family-separation", "detention", "trauma", "justice"],
+  "openclaw": {
+    "emoji": "🌵",
+    "category": "social-impact"
+  }
+}

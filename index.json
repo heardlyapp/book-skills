@@ -4584,7 +4584,28 @@
       "emoji": "\ud83e\ude78",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-diabetes-code"
+    },
+    {
+      "slug": "separated",
+      "title": "Jacob Soboroff's Separated \u2014 an inside account of the Trump administration's family separation policy, from the cages at the border to the courts and the failed reunification",
+      "author": "Jacob Soboroff",
+      "version": "1.0.1",
+      "tags": [
+        "journalism",
+        "immigration",
+        "politics",
+        "human-rights",
+        "trump",
+        "border",
+        "family-separation",
+        "detention",
+        "trauma",
+        "justice"
+      ],
+      "emoji": "\ud83c\udf34",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/separated"
     }
   ],
-  "total_skills": 247
+  "total_skills": 248
 }
