@@ -3501,7 +3501,26 @@
       "emoji": "\ud83c\udfeb",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/dumbing-us-down"
+    },
+    {
+      "slug": "the-demon-haunted-world",
+      "title": "Carl Sagan's The Demon-Haunted World \u2014 a skeptical toolkit for spotting pseudoscience and reclaiming the wonder of science",
+      "author": "Carl Sagan",
+      "version": "1.0.0",
+      "tags": [
+        "science",
+        "skepticism",
+        "critical-thinking",
+        "philosophy",
+        "pseudoscience",
+        "rationality",
+        "education",
+        "carl-sagan"
+      ],
+      "emoji": "\ud83d\udd2c",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-demon-haunted-world"
     }
   ],
-  "total_skills": 194
+  "total_skills": 195
 }

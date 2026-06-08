@@ -1,0 +1,19 @@
+{
+  "name": "the-demon-haunted-world",
+  "version": "1.0.0",
+  "description": "Carl Sagan's classic defense of science — a toolkit for skeptical thinking, spotting pseudoscience, understanding the scientific method, and reclaiming the wonder of the cosmos.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-demon-haunted-world",
+  "useCase": "Baloney detection, evaluating dubious claims, understanding science vs. pseudoscience, dealing with conspiracy believers, finding wonder in scientific discovery.",
+  "knownRisks": [
+    "Sagan's views on religion and the supernatural are skeptical — some readers may find them dismissive",
+    "Some specific examples (Aum Shinrikyo, certain pseudosciences) reflect the 1990s context",
+    "The book's core tools work best in cultures where evidence is valued — they are less effective against motivated reasoning"
+  ],
+  "tags": ["science", "skepticism", "critical-thinking", "philosophy", "pseudoscience", "rationality", "education", "carl-sagan"],
+  "openclaw": {
+    "emoji": "🔬",
+    "category": "personal-development"
+  }
+}
