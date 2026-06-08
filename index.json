@@ -4626,7 +4626,28 @@
       "emoji": "\ud83d\udc18",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-elephant-whisperer"
+    },
+    {
+      "slug": "boundaries",
+      "title": "Dr. Henry Cloud and Dr. John Townsend's Boundaries \u2014 the essential guide to setting healthy limits, saying no without guilt, and taking control of your life",
+      "author": "Dr. Henry Cloud / Dr. John Townsend",
+      "version": "1.0.0",
+      "tags": [
+        "self-help",
+        "relationships",
+        "psychology",
+        "christian",
+        "boundaries",
+        "personal-development",
+        "mental-health",
+        "communication",
+        "family",
+        "work-life"
+      ],
+      "emoji": "\ud83d\udee1\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/boundaries"
     }
   ],
-  "total_skills": 249
+  "total_skills": 250
 }

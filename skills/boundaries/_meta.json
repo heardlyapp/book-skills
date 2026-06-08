@@ -1,0 +1,21 @@
+{
+  "name": "boundaries",
+  "version": "1.0.0",
+  "description": "Dr. Henry Cloud and Dr. John Townsend's classic guide to setting healthy boundaries in every area of life — understanding what you are responsible for, saying no to what drains you, and taking control of your time, energy, and relationships.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/boundaries",
+  "useCase": "Setting healthy limits in relationships, overcoming guilt about saying no, recognizing boundary problems (compliant/avoidant/controller), applying the 10 Laws of Boundaries to family, friends, work, and self.",
+  "knownRisks": [
+    "Explicitly Christian perspective — uses biblical references throughout",
+    "Some readers may find the tone prescriptive or moralistic",
+    "The Sherrie case study at the start is deliberately exaggerated for effect",
+    "The 10 Laws of Boundaries are conceptual frameworks, not clinical diagnoses",
+    "Some advice may be difficult to apply in abusive situations without professional support"
+  ],
+  "tags": ["self-help", "relationships", "psychology", "christian", "boundaries", "personal-development", "mental-health", "communication", "family", "work-life"],
+  "openclaw": {
+    "emoji": "🛡️",
+    "category": "professional-development"
+  }
+}
