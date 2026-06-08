@@ -1,0 +1,20 @@
+{
+  "name": "walking-with-the-wind",
+  "version": "1.0.0",
+  "description": "John Lewis' deeply personal memoir of the Civil Rights Movement — from his childhood as a sharecropper's son in rural Alabama, through the Nashville sit-ins, Freedom Rides, SNCC leadership, the March on Washington, Bloody Sunday in Selma, and a lifetime of service in Congress.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/walking-with-the-wind",
+  "useCase": "Understanding the Civil Rights Movement from the inside, learning nonviolent protest philosophy, leadership under existential threat, the power of disciplined action, and the Beloved Community ideal.",
+  "knownRisks": [
+    "Written from Lewis' perspective as a committed integrationist and nonviolent adherent — does not represent the more militant/separatist views that emerged later",
+    "Some names and events are recalled from memory decades later; minor historical discrepancies are possible",
+    "Explicit violence: beatings, bombings, lynchings, and police brutality are described in detail",
+    "Lewis' religious perspective (Christian nonviolence) shapes the entire narrative"
+  ],
+  "tags": ["memoir", "civil-rights", "history", "nonviolence", "politics", "activism", "social-justice", "biography", "american-history", "congress"],
+  "openclaw": {
+    "emoji": "🗽",
+    "category": "social-impact"
+  }
+}

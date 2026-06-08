@@ -4374,7 +4374,28 @@
       "emoji": "\ud83c\udfc0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-basketball"
+    },
+    {
+      "slug": "walking-with-the-wind",
+      "title": "John Lewis' Walking with the Wind \u2014 a profound memoir of the Civil Rights Movement from the front lines of Nashville, Selma, and the halls of Congress",
+      "author": "John Lewis with Michael D'Orso",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "civil-rights",
+        "history",
+        "nonviolence",
+        "politics",
+        "activism",
+        "social-justice",
+        "biography",
+        "american-history",
+        "congress"
+      ],
+      "emoji": "\ud83d\uddfd",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/walking-with-the-wind"
     }
   ],
-  "total_skills": 237
+  "total_skills": 238
 }
