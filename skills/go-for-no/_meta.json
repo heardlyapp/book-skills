@@ -1,0 +1,19 @@
+{
+  "name": "go-for-no",
+  "version": "1.0.0",
+  "description": "Richard Fenton & Andrea Waltz's Go for No! — embracing rejection as progress, setting no-goals to achieve yeses, and building your failure quotient.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/go-for-no",
+  "useCase": "Overcoming fear of rejection, setting rejection-based goals, building failure tolerance, recovering from past failure conditioning.",
+  "knownRisks": [
+    "The fable format may feel too simplistic for some readers",
+    "The 'go for no' strategy works best in high-volume sales and outbound prospecting",
+    "The approach may not translate to contexts where multiple rejections damage relationships"
+  ],
+  "tags": ["sales", "rejection", "mindset", "resilience", "motivation", "failure", "entrepreneurship", "success"],
+  "openclaw": {
+    "emoji": "🚫",
+    "category": "professional-development"
+  }
+}

@@ -3596,7 +3596,26 @@
       "emoji": "\ud83d\udcdd",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/concise-guide-to-apa-style"
+    },
+    {
+      "slug": "go-for-no",
+      "title": "Go for No! \u2014 reframing rejection as progress, setting no-goals, and building your failure quotient",
+      "author": "Richard Fenton / Andrea Waltz",
+      "version": "1.0.0",
+      "tags": [
+        "sales",
+        "rejection",
+        "mindset",
+        "resilience",
+        "motivation",
+        "failure",
+        "entrepreneurship",
+        "success"
+      ],
+      "emoji": "\ud83d\udeab",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/go-for-no"
     }
   ],
-  "total_skills": 199
+  "total_skills": 200
 }
