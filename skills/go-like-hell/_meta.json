@@ -1,0 +1,19 @@
+{
+  "name": "go-like-hell",
+  "version": "1.0.0",
+  "description": "A. J. Baime's story of Ford vs Ferrari — the rivalry, the engineering, the culture clash, and the drivers who risked everything to win Le Mans.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/go-like-hell",
+  "useCase": "Rivalry-driven innovation, bridging organizational cultures, making high-stakes bets, performing under pressure, hiring game-changing talent.",
+  "knownRisks": [
+    "The motorsport context is specific — automotive racing dynamics may not translate to all industries",
+    "Some characters and events have been dramatized for narrative effect",
+    "1960s corporate culture is not a model for modern leadership in all aspects"
+  ],
+  "tags": ["motorsport", "competition", "leadership", "innovation", "culture-clash", "bravery", "business-rivalry", "history"],
+  "openclaw": {
+    "emoji": "🏎️",
+    "category": "professional-development"
+  }
+}

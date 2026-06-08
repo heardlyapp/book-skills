@@ -3710,7 +3710,26 @@
       "emoji": "\ud83e\uddec",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-code-breaker"
+    },
+    {
+      "slug": "go-like-hell",
+      "title": "Ford vs Ferrari at Le Mans \u2014 rivalry, culture clash, and the M bet that changed racing",
+      "author": "A. J. Baime",
+      "version": "1.0.0",
+      "tags": [
+        "motorsport",
+        "competition",
+        "leadership",
+        "innovation",
+        "culture-clash",
+        "bravery",
+        "business-rivalry",
+        "history"
+      ],
+      "emoji": "\ud83c\udfce\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/go-like-hell"
     }
   ],
-  "total_skills": 205
+  "total_skills": 206
 }
