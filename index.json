@@ -4500,7 +4500,28 @@
       "emoji": "\ud83c\udf21\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/unsettled"
+    },
+    {
+      "slug": "the-little-book-of-common-sense-investing",
+      "title": "John C. Bogle's The Little Book of Common Sense Investing \u2014 the definitive case for index fund investing: low costs, broad diversification, and the relentless rules of humble arithmetic",
+      "author": "John C. Bogle",
+      "version": "1.0.0",
+      "tags": [
+        "investing",
+        "finance",
+        "index-funds",
+        "retirement",
+        "wealth",
+        "stock-market",
+        "personal-finance",
+        "bogleheads",
+        "low-cost",
+        "compound-interest"
+      ],
+      "emoji": "\ud83d\udcc8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-little-book-of-common-sense-investing"
     }
   ],
-  "total_skills": 243
+  "total_skills": 244
 }

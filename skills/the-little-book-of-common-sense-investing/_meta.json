@@ -1,0 +1,21 @@
+{
+  "name": "the-little-book-of-common-sense-investing",
+  "version": "1.0.0",
+  "description": "John C. Bogle's investing classic — the case for index fund investing through the relentless rules of humble arithmetic: costs compound, active managers lose, and owning the entire market at low cost is the only way to guarantee your fair share of stock market returns.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-little-book-of-common-sense-investing",
+  "useCase": "Understanding why index funds outperform active management, the true cost of Wall Street fees, the power of compounding, asset allocation, and how to build a simple, low-cost, long-term investment portfolio.",
+  "knownRisks": [
+    "Bogle founded Vanguard and created the first index fund — he has a vested interest in the argument",
+    "The book is repetitive by design (Bogle hammers the same point)",
+    "Data and examples are US-centric (S&P 500, Vanguard products)",
+    "The 10th anniversary edition (2017) does not cover post-2020 market events or new fund types",
+    "Some investors may find the 'buy and hold forever' strategy too passive for their goals"
+  ],
+  "tags": ["investing", "finance", "index-funds", "retirement", "wealth", "stock-market", "personal-finance", "bogleheads", "low-cost", "compound-interest"],
+  "openclaw": {
+    "emoji": "📈",
+    "category": "professional-development"
+  }
+}
