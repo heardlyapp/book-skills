@@ -3634,7 +3634,26 @@
       "emoji": "\ud83d\udcb0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-girls-guide-to-financial-freedom"
+    },
+    {
+      "slug": "love-yourself-first",
+      "title": "Marc Reklau's Love Yourself First \u2014 30 days to boost self-esteem and stop the inner critic",
+      "author": "Marc Reklau",
+      "version": "1.1.0",
+      "tags": [
+        "self-esteem",
+        "self-love",
+        "personal-growth",
+        "confidence",
+        "mental-health",
+        "mindset",
+        "authenticity",
+        "happiness"
+      ],
+      "emoji": "\ud83d\udc96",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/love-yourself-first"
     }
   ],
-  "total_skills": 201
+  "total_skills": 202
 }

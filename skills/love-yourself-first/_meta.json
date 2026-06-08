@@ -1,0 +1,19 @@
+{
+  "name": "love-yourself-first",
+  "version": "1.1.0",
+  "description": "Marc Reklau's 30-day guide to self-esteem — overcoming insecurity, silencing the inner critic, and choosing happiness through self-acceptance and authenticity.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/love-yourself-first",
+  "useCase": "Building self-esteem, quieting negative self-talk, being authentic, choosing happiness, overcoming people-pleasing.",
+  "knownRisks": [
+    "The 30-day format is simple and may feel repetitive to experienced readers",
+    "Self-help advice is not a substitute for therapy or treating clinical depression",
+    "Some techniques (like the mirror practice) may feel uncomfortable for some readers"
+  ],
+  "tags": ["self-esteem", "self-love", "personal-growth", "confidence", "mental-health", "mindset", "authenticity", "happiness"],
+  "openclaw": {
+    "emoji": "💖",
+    "category": "personal-development"
+  }
+}
