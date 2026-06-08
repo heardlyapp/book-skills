@@ -3748,7 +3748,26 @@
       "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/truman"
+    },
+    {
+      "slug": "the-wide-wide-sea",
+      "title": "Hampton Sides' The Wide Wide Sea \u2014 Captain Cook's fatal third voyage and the tragedy of first contact",
+      "author": "Hampton Sides",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "exploration",
+        "cross-cultural",
+        "leadership",
+        "pacific",
+        "imperial-ambition",
+        "captain-cook",
+        "navigation"
+      ],
+      "emoji": "\ud83c\udf0a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-wide-wide-sea"
     }
   ],
-  "total_skills": 207
+  "total_skills": 208
 }

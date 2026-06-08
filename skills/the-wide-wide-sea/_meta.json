@@ -1,0 +1,19 @@
+{
+  "name": "the-wide-wide-sea",
+  "version": "1.0.0",
+  "description": "Hampton Sides' narrative of Captain Cook's fatal third voyage — cross-cultural first contact, expedition leadership, overstaying a welcome, and the tragedy of imperial ambition.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-wide-wide-sea",
+  "useCase": "Cross-cultural navigation, long-term expedition leadership, recognizing overstaying, balancing mission with conscience, resisting personal mythology.",
+  "knownRisks": [
+    "Sides is a narrative historian — some interpretations (especially the Lono theory) are debated by scholars",
+    "18th century naval context may not translate directly to modern leadership",
+    "The cultural contact dynamics of the Pacific in the 1770s are historically specific"
+  ],
+  "tags": ["history", "exploration", "cross-cultural", "leadership", "pacific", "imperial-ambition", "captain-cook", "navigation"],
+  "openclaw": {
+    "emoji": "🌊",
+    "category": "professional-development"
+  }
+}
