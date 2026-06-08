@@ -3767,7 +3767,26 @@
       "emoji": "\ud83c\udf0a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-wide-wide-sea"
+    },
+    {
+      "slug": "zenith-man",
+      "title": "McCracken Poston's Zenith Man \u2014 defending the unpopular, challenging public narratives, and finding hidden truth",
+      "author": "McCracken Poston Jr.",
+      "version": "1.0.0",
+      "tags": [
+        "true-crime",
+        "legal",
+        "justice",
+        "defense",
+        "small-town",
+        "prejudice",
+        "narrative",
+        "redemption"
+      ],
+      "emoji": "\u2696\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/zenith-man"
     }
   ],
-  "total_skills": 208
+  "total_skills": 209
 }
