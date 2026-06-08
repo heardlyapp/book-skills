@@ -4101,7 +4101,28 @@
       "emoji": "\ud83d\udcaa",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/my-next-breath"
+    },
+    {
+      "slug": "overcoming-unwanted-intrusive-thoughts",
+      "title": "Winston & Seif's Overcoming Unwanted Intrusive Thoughts \u2014 a CBT-based guide to getting over frightening, obsessive, or disturbing thoughts",
+      "author": "Sally M. Winston / Martin N. Seif",
+      "version": "1.0.0",
+      "tags": [
+        "cbt",
+        "anxiety",
+        "ocd",
+        "psychology",
+        "mental-health",
+        "self-help",
+        "mindfulness",
+        "therapy",
+        "acceptance",
+        "thoughts"
+      ],
+      "emoji": "\ud83e\udde0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/overcoming-unwanted-intrusive-thoughts"
     }
   ],
-  "total_skills": 224
+  "total_skills": 225
 }

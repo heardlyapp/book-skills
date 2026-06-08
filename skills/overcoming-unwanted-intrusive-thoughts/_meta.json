@@ -1,0 +1,20 @@
+{
+  "name": "overcoming-unwanted-intrusive-thoughts",
+  "version": "1.0.0",
+  "description": "Winston & Seif's CBT-based guide to managing unwanted intrusive thoughts — normalizing the experience, breaking the fighting cycle, changing your relationship with thoughts, and reducing the distress they cause.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/overcoming-unwanted-intrusive-thoughts",
+  "useCase": "Managing intrusive thoughts, breaking the suppression cycle, understanding the three voices (Worried/False Comfort/Wise Mind), accepting uncertainty, reducing thought-related distress.",
+  "knownRisks": [
+    "This is a self-help book and not a substitute for professional therapy",
+    "Some severe cases of OCD or intrusive thoughts require professional help (discussed in Chapter 10)",
+    "The techniques require practice — they may not work immediately on first attempt",
+    "People with suicidal thoughts should seek immediate professional help"
+  ],
+  "tags": ["cbt", "anxiety", "ocd", "psychology", "mental-health", "self-help", "mindfulness", "therapy", "acceptance", "thoughts"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "professional-development"
+  }
+}
