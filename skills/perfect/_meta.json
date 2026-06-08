@@ -1,0 +1,19 @@
+{
+  "name": "perfect",
+  "version": "1.0.0",
+  "description": "Ellen Hopkins' verse novel — recognizing perfectionist self-destruction, body image struggles, parental pressure, coming out, and responding to suicide risk in young people.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/perfect",
+  "useCase": "Diagnosing perfectionist patterns, supporting someone with an eating disorder, navigating coming out, dealing with performance pressure, responding to suicide concerns.",
+  "knownRisks": [
+    "Contains triggering content about eating disorders, suicide, and self-harm",
+    "The verse novel format means themes are emotionally intense, not clinical",
+    "This is fiction — while emotionally true, specific situations are dramatized"
+  ],
+  "tags": ["perfectionism", "body-image", "eating-disorders", "teen-issues", "identity", "mental-health", "lgbtq", "ya-fiction"],
+  "openclaw": {
+    "emoji": "🎭",
+    "category": "personal-development"
+  }
+}

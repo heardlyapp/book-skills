@@ -3387,7 +3387,26 @@
       "emoji": "\ud83c\udf31",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/on-becoming-a-person"
+    },
+    {
+      "slug": "perfect",
+      "title": "Ellen Hopkins' Perfect \u2014 recognizing perfectionist self-destruction in young people through four interlocking POVs",
+      "author": "Ellen Hopkins",
+      "version": "1.0.0",
+      "tags": [
+        "perfectionism",
+        "body-image",
+        "eating-disorders",
+        "teen-issues",
+        "identity",
+        "mental-health",
+        "lgbtq",
+        "ya-fiction"
+      ],
+      "emoji": "\ud83c\udfad",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/perfect"
     }
   ],
-  "total_skills": 188
+  "total_skills": 189
 }
