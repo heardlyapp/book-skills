@@ -1,0 +1,19 @@
+{
+  "name": "democracy-in-america",
+  "version": "1.0.0",
+  "description": "Alexis de Tocqueville's classic — understanding the dynamics of democratic societies, the tyranny of the majority, the tension between liberty and equality, and the institutions that protect freedom.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/democracy-in-america",
+  "useCase": "Diagnosing groupthink, building civic associations, balancing liberty and equality, recognizing soft despotism, understanding democratic risk.",
+  "knownRisks": [
+    "Tocqueville wrote about 1830s America — some observations may not apply directly to contemporary contexts",
+    "The book is deeply rooted in 19th century European political philosophy",
+    "Tocqueville's views on women, race, and colonialism reflect his time and can be problematic"
+  ],
+  "tags": ["democracy", "political-philosophy", "liberty", "equality", "civil-society", "sociology", "institutions", "tocqueville"],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "professional-development"
+  }
+}

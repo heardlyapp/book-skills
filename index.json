@@ -3311,7 +3311,26 @@
       "emoji": "\ud83c\udfc3",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/born-a-crime"
+    },
+    {
+      "slug": "democracy-in-america",
+      "title": "Tocqueville's Democracy in America \u2014 a toolkit for understanding democratic dynamics, majority tyranny, and the institutions that protect liberty",
+      "author": "Alexis de Tocqueville",
+      "version": "1.0.0",
+      "tags": [
+        "democracy",
+        "political-philosophy",
+        "liberty",
+        "equality",
+        "civil-society",
+        "sociology",
+        "institutions",
+        "tocqueville"
+      ],
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/democracy-in-america"
     }
   ],
-  "total_skills": 184
+  "total_skills": 185
 }
