@@ -1,0 +1,19 @@
+{
+  "name": "born-a-crime",
+  "version": "1.0.0",
+  "description": "Trevor Noah's memoir of a South African childhood — surviving apartheid as a mixed-race child, using language as armor, defying the system's limits, and the unbreakable partnership with his rebel mother.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/born-a-crime",
+  "useCase": "Navigating identity across cultures, code-switching for survival, breaking the cycle of abuse, escaping the trap of assigned limits, building an intergenerational partnership.",
+  "knownRisks": [
+    "Contains graphic descriptions of domestic violence that may be triggering",
+    "The context of apartheid South Africa is specific and may not translate directly",
+    "Trevor's humor about painful subjects may not work for all readers"
+  ],
+  "tags": ["identity", "survival", "family", "resilience", "memoir", "south-africa", "abuse", "mother-son"],
+  "openclaw": {
+    "emoji": "🏃",
+    "category": "personal-development"
+  }
+}

@@ -3292,7 +3292,26 @@
       "emoji": "\ud83c\udfad",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-wisdom-of-crowds"
+    },
+    {
+      "slug": "born-a-crime",
+      "title": "Trevor Noah's Born a Crime \u2014 surviving apartheid as a mixed-race child, language as armor, and the unbreakable mother-son partnership",
+      "author": "Trevor Noah",
+      "version": "1.0.0",
+      "tags": [
+        "identity",
+        "survival",
+        "family",
+        "resilience",
+        "memoir",
+        "south-africa",
+        "abuse",
+        "mother-son"
+      ],
+      "emoji": "\ud83c\udfc3",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/born-a-crime"
     }
   ],
-  "total_skills": 183
+  "total_skills": 184
 }
