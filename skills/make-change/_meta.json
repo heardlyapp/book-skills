@@ -1,0 +1,19 @@
+{
+  "name": "make-change",
+  "version": "1.0.0",
+  "description": "Shaun King's practical guide to activism and organizing — making the choice to act, building movements, using your gift, learning from failure, and sustaining yourself for the long fight.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/make-change",
+  "useCase": "Starting activism, building social movements, organizing for justice, finding your contribution, rebounding from failure, preventing burnout.",
+  "knownRisks": [
+    "Shaun King has been a controversial figure with disputed claims about his background",
+    "The book focuses on US-based activism and may not translate to other political contexts",
+    "Some organizing strategies (social media, digital activism) may have changed since publication"
+  ],
+  "tags": ["activism", "organizing", "social-justice", "change", "movements", "leadership", "community", "strategy", "resilience", "justice"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "professional-development"
+  }
+}

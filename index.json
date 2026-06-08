@@ -4185,7 +4185,28 @@
       "emoji": "\u270a\ud83c\udffe",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/im-still-here"
+    },
+    {
+      "slug": "make-change",
+      "title": "Shaun King's Make Change \u2014 how to fight injustice, dismantle systemic oppression, and own our future",
+      "author": "Shaun King",
+      "version": "1.0.0",
+      "tags": [
+        "activism",
+        "organizing",
+        "social-justice",
+        "change",
+        "movements",
+        "leadership",
+        "community",
+        "strategy",
+        "resilience",
+        "justice"
+      ],
+      "emoji": "\u270a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/make-change"
     }
   ],
-  "total_skills": 228
+  "total_skills": 229
 }
