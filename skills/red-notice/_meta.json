@@ -1,0 +1,20 @@
+{
+  "name": "red-notice",
+  "version": "1.0.0",
+  "description": "Bill Browder's true story of investing in Russia, battling corruption, losing his lawyer Sergei Magnitsky to state murder, and creating the Magnitsky Act to sanction human rights abusers.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/red-notice",
+  "useCase": "Navigating corrupt regimes, shareholder activism against crony capitalism, exposing state-sponsored crime, pursuing justice after murder, building international human rights campaigns.",
+  "knownRisks": [
+    "Browder's perspective is from one side of an extremely polarized conflict with the Russian government",
+    "Russia has denied all allegations regarding the Magnitsky case and has charged Browder in absentia with fraud",
+    "The Magnitsky Act has been criticized by some as a tool of geopolitical pressure rather than pure human rights advocacy",
+    "This is a memoir — events are presented from Browder's personal perspective"
+  ],
+  "tags": ["finance", "corruption", "human-rights", "activism", "russia", "justice", "law", "business", "politics", "memoir"],
+  "openclaw": {
+    "emoji": "🔴",
+    "category": "professional-development"
+  }
+}

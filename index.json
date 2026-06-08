@@ -3891,7 +3891,28 @@
       "emoji": "\ud83d\udcd5",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-bodies-of-others"
+    },
+    {
+      "slug": "red-notice",
+      "title": "Bill Browder's Red Notice \u2014 high finance, murder, and one man's fight for justice",
+      "author": "Bill Browder",
+      "version": "1.0.0",
+      "tags": [
+        "finance",
+        "corruption",
+        "human-rights",
+        "activism",
+        "russia",
+        "justice",
+        "law",
+        "business",
+        "politics",
+        "memoir"
+      ],
+      "emoji": "\ud83d\udd34",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/red-notice"
     }
   ],
-  "total_skills": 214
+  "total_skills": 215
 }
