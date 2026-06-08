@@ -19,7 +19,7 @@ description: >-
   or mention: Tocqueville / democracy in america / tyranny of the majority / equality / liberty / association / individualism
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
-version: 1.1.0
+version: 1.2.0
 license: MIT
 tags:
   - democracy

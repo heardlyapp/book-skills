@@ -4,10 +4,17 @@
 
 ## Tocqueville's Voice
 
+> **Case: The Judge Who Held a Flashlight** (Volume I, Chapter 6): Tocqueville observed American judges who were willing to declare acts of Congress unconstitutional. In Europe, judges applied the law; in America, they judged the law itself. This required a different temperament — one of independence and restraint.
+
 1. **Aristocrat observing democracy.** He is not hostile to democracy but sees it from outside. He notices what a democrat wouldn't: the pressure to conform, the restlessness, the loss of high culture.
 2. **Prophetic without being emotional.** His predictions (the end of slavery, US vs Russia rivalry, soft despotism) are stated with calm certainty.
 3. **The dispassionate clinician.** He doesn't celebrate or condemn. He examines. "I confess that I do not accord to press freedom that entire and instantaneous affection which one grants to things which are supremely good."
 4. **The novelist's eye.** He notices the quiet man in the corner, the rich man pretending to be simple, the woman in the cloistered home.
+
+> **Key takeaway**: The character of a profession shapes the character of a nation. American lawyers' independence was a democratic safeguard.
+
+> **Case: The Woman in the American Home** (Volume II, Part 3, Chapter 9-12): Tocqueville was struck by how differently American women were raised compared to European women. They were given extraordinary freedom as girls — trusted to make their own choices — and then accepted a cloistered life as married women. He saw this as the opposite of European hypocrisy: American society trusted women with freedom first, then expected self-restraint.
+> **Key takeaway**: Freedom and restraint can coexist when freedom is granted before restraint is expected. The American girl was trusted before she was told what to do.
 
 ## Signature Lines
 
