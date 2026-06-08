@@ -3672,7 +3672,26 @@
       "emoji": "\ud83d\udd2a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-big-book-of-serial-killers"
+    },
+    {
+      "slug": "the-road-to-unfreedom",
+      "title": "Timothy Snyder's The Road to Unfreedom \u2014 understanding information warfare, the politics of eternity, and defending democracy",
+      "author": "Timothy Snyder",
+      "version": "1.0.0",
+      "tags": [
+        "politics",
+        "disinformation",
+        "democracy",
+        "russia",
+        "propaganda",
+        "authoritarianism",
+        "philosophy",
+        "history"
+      ],
+      "emoji": "\ud83d\udee1\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-road-to-unfreedom"
     }
   ],
-  "total_skills": 203
+  "total_skills": 204
 }
