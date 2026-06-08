@@ -3482,7 +3482,26 @@
       "emoji": "\ud83d\udcd6",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-whisperer"
+    },
+    {
+      "slug": "dumbing-us-down",
+      "title": "John Taylor Gatto's Dumbing Us Down \u2014 recognizing the hidden curriculum and reclaiming real education",
+      "author": "John Taylor Gatto",
+      "version": "1.0.0",
+      "tags": [
+        "education",
+        "schooling",
+        "unschooling",
+        "homeschooling",
+        "parenting",
+        "self-directed-learning",
+        "child-development",
+        "reform"
+      ],
+      "emoji": "\ud83c\udfeb",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/dumbing-us-down"
     }
   ],
-  "total_skills": 193
+  "total_skills": 194
 }

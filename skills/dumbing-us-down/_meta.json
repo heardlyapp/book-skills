@@ -1,0 +1,19 @@
+{
+  "name": "dumbing-us-down",
+  "version": "1.0.0",
+  "description": "John Taylor Gatto's classic critique — recognizing the hidden curriculum of compulsory schooling, the seven lessons school actually teaches, and reclaiming real education through self-direction, community, and family.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/dumbing-us-down",
+  "useCase": "Understanding the hidden curriculum, deciding whether to homeschool/unschool, teaching guerrilla-style within the system, rebuilding family community, creating self-directed learning environments.",
+  "knownRisks": [
+    "Gatto's position is radically anti-institutional — some readers will disagree fundamentally",
+    "Leaving the school system is not equally available to all families (financial, legal, work constraints)",
+    "Gatto's historical claims about pre-compulsory literacy are contested by some historians"
+  ],
+  "tags": ["education", "schooling", "unschooling", "homeschooling", "parenting", "self-directed-learning", "child-development", "reform"],
+  "openclaw": {
+    "emoji": "🏫",
+    "category": "education"
+  }
+}
