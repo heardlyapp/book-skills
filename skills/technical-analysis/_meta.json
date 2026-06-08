@@ -1,0 +1,31 @@
+{
+  "name": "technical-analysis",
+  "version": "1.0.1",
+  "description": "John J. Murphy's definitive textbook on technical analysis \u2014 trend analysis, chart patterns, oscillators, moving averages, volume analysis, Elliott Wave, intermarket analysis, and money management.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/technical-analysis",
+  "useCase": "Identifying market trends, recognizing reversal and continuation patterns, using oscillators and indicators, applying intermarket analysis, managing trade risk and position sizing.",
+  "knownRisks": [
+    "This is a comprehensive textbook \u2014 it covers a vast amount of material; users may need guidance on where to start",
+    "Some specific techniques (Point and Figure, Elliott Wave) are controversial and not universally accepted",
+    "Technical analysis is probabilistic, not deterministic \u2014 no pattern guarantees a result",
+    "The book was published in 1999 \u2014 some specific examples and technologies are dated"
+  ],
+  "tags": [
+    "trading",
+    "investing",
+    "technical-analysis",
+    "stocks",
+    "futures",
+    "charts",
+    "indicators",
+    "finance",
+    "markets",
+    "money-management"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcca",
+    "category": "professional-development"
+  }
+}

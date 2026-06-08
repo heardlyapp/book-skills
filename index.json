@@ -3828,7 +3828,28 @@
       "emoji": "\ud83d\udcc8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/dotcom-secrets"
+    },
+    {
+      "slug": "technical-analysis",
+      "title": "John J. Murphy's Technical Analysis of the Financial Markets \u2014 the definitive guide to charting, patterns, and trading",
+      "author": "John J. Murphy",
+      "version": "1.0.1",
+      "tags": [
+        "trading",
+        "investing",
+        "technical-analysis",
+        "stocks",
+        "futures",
+        "charts",
+        "indicators",
+        "finance",
+        "markets",
+        "money-management"
+      ],
+      "emoji": "\ud83d\udcca",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/technical-analysis"
     }
   ],
-  "total_skills": 211
+  "total_skills": 212
 }
