@@ -4206,7 +4206,28 @@
       "emoji": "\u270a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/make-change"
+    },
+    {
+      "slug": "life-on-the-line",
+      "title": "Grant Achatz & Nick Kokonas's Life, on the Line \u2014 chasing greatness, facing cancer, and building Alinea",
+      "author": "Grant Achatz / Nick Kokonas",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "cooking",
+        "entrepreneurship",
+        "creativity",
+        "health",
+        "partnership",
+        "excellence",
+        "resilience",
+        "innovation",
+        "food"
+      ],
+      "emoji": "\ud83c\udf7d\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/life-on-the-line"
     }
   ],
-  "total_skills": 229
+  "total_skills": 230
 }

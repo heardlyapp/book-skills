@@ -1,0 +1,19 @@
+{
+  "name": "life-on-the-line",
+  "version": "1.0.0",
+  "description": "Grant Achatz & Nick Kokonas's story of building Alinea, battling stage IV cancer, and redefining fine dining — the pursuit of perfection, the power of partnership, and the will to keep going when everything is on the line.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/life-on-the-line",
+  "useCase": "Chasing creative excellence, finding a business partner, navigating a health crisis, innovating through constraints, rebuilding after devastation.",
+  "knownRisks": [
+    "Achatz's treatment decisions were specific to his case — not medical advice",
+    "The restaurant business model described (tasting menu, no choices) is high-risk and not generally applicable",
+    "The book is a dual memoir — some details may be reconstructed from memory"
+  ],
+  "tags": ["memoir", "cooking", "entrepreneurship", "creativity", "health", "partnership", "excellence", "resilience", "innovation", "food"],
+  "openclaw": {
+    "emoji": "🍽️",
+    "category": "professional-development"
+  }
+}
