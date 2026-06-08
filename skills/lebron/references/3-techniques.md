@@ -1,21 +1,30 @@
 # 3 — Techniques
 
-> Source: *LeBron* by Jeff Benedict.
+> Source: *LeBron* by Jeff Benedict — practical methods.
 
-## 4 Techniques
+## Practical Tools
 
-### 1. The Inner Circle Test
+### 1. The Pre-Fame Trust Test
 
-Hire people who knew you before the money. If they loved you broke, they'll keep you grounded rich.
+**When deciding who to bring into your inner circle:** ask yourself: "Would this person be with me if I had nothing? Would they tell me the truth even if it hurt?" The Four Horsemen passed this test because they knew LeBron broke.
 
-### 2. The "Take the Hit" Protocol
+### 2. The 10-Year Recovery Timeline
 
-When your team makes a mistake, absorb it publicly. Debrief privately.
+**When you make a public mistake:** accept that recovery is measured in years, not news cycles. LeBron's timeline:
+- 2010: The Decision (the low point)
+- 2012: First championship, Miami (the turn)
+- 2014: "I'm coming home" (the return)
+- 2016: Cleveland's first title in 52 years (the redemption)
+- 2018: I Promise School opens (the legacy)
 
-### 3. The "Build in Your Backyard" Strategy
+### 3. The Origin Story First Rule
 
-Don't escape your origin — invest in it. The I Promise School is in Akron, not Beverly Hills.
+**When expanding into a new field:** start with the story of where you came from. SpringHill's first project was "More Than a Game" — the documentary about LeBron's high school team. Then "The Shop." Then "Space Jam 2." Foundation before expansion.
 
-### 4. The Platform Leverage
+### 4. The "Speak When It Costs" Check
 
-Every interview is a chance to push your agenda — business, social, legacy. LeBron never wasted a platform moment.
+**Before using your platform:** ask: "Does this cost me anything to say?" If it costs nothing, it might be empty. LeBron's Trayvon Martin hoodie photo cost him Nike comfort. That's why it mattered.
+
+### 5. The Annual Inner Circle Audit
+
+Once a year, ask: "Is this person still essential to my growth? Am I still essential to theirs?" The Horsemen lasted because they grew together. When someone stops growing, the relationship must evolve.
