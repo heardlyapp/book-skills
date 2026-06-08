@@ -1,0 +1,21 @@
+{
+  "name": "unsettled",
+  "version": "1.0.0",
+  "description": "Steven E. Koonin's data-driven challenge to climate alarmism — a physicist and former Obama undersecretary for science examines what climate science actually says, where the uncertainties lie, and why the gap between the science and the narrative matters for trillion-dollar policy decisions.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/unsettled",
+  "useCase": "Understanding the actual state of climate science beyond the headlines, evaluating climate model reliability, distinguishing settled knowledge from uncertainties, and assessing realistic policy options including adaptation and geoengineering.",
+  "knownRisks": [
+    "Highly controversial — Koonin's positions are sharply criticized by many climate scientists",
+    "The author was chief scientist at BP, raising questions about fossil fuel industry influence",
+    "Selective use of data to support a contrarian thesis is possible",
+    "Published 2021 — does not cover the most recent climate events",
+    "Some critics argue the book misrepresents settled science by over-emphasizing uncertainties"
+  ],
+  "tags": ["climate", "science", "environment", "policy", "energy", "debate", "data", "uncertainty", "skepticism", "physics"],
+  "openclaw": {
+    "emoji": "🌡️",
+    "category": "professional-development"
+  }
+}

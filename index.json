@@ -4479,7 +4479,28 @@
       "emoji": "\ud83e\ude99",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-compound-effect"
+    },
+    {
+      "slug": "unsettled",
+      "title": "Steven E. Koonin's Unsettled \u2014 a physicist's data-driven examination of climate science, its uncertainties, and why the gap between the science and the narrative matters",
+      "author": "Steven E. Koonin",
+      "version": "1.0.0",
+      "tags": [
+        "climate",
+        "science",
+        "environment",
+        "policy",
+        "energy",
+        "debate",
+        "data",
+        "uncertainty",
+        "skepticism",
+        "physics"
+      ],
+      "emoji": "\ud83c\udf21\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/unsettled"
     }
   ],
-  "total_skills": 242
+  "total_skills": 243
 }
