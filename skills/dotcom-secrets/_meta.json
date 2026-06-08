@@ -1,0 +1,20 @@
+{
+  "name": "dotcom-secrets",
+  "version": "1.0.0",
+  "description": "Russell Brunson's playbook for building sales funnels, value ladders, and Attractive Characters — turning strangers into loyal customers who ascend from free offers to high-ticket products.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/dotcom-secrets",
+  "useCase": "Building sales funnels, creating offer sequences, email storytelling, identifying dream customers, designing Attractive Characters, choosing the right funnel type.",
+  "knownRisks": [
+    "Brunson is a ClickFunnels founder — the book promotes his software",
+    "Some tactics (free+shipping, high-ticket application funnels) depend on specific product types",
+    "Online marketing changes fast — specific platform tactics may be dated",
+    "The Attractive Character concept can blur authenticity if over-engineered"
+  ],
+  "tags": ["marketing", "sales", "online-business", "sales-funnels", "email-marketing", "copywriting", "entrepreneurship", "direct-response", "ecommerce", "funnels"],
+  "openclaw": {
+    "emoji": "📈",
+    "category": "professional-development"
+  }
+}

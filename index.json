@@ -3807,7 +3807,28 @@
       "emoji": "\u26a1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/inevitable"
+    },
+    {
+      "slug": "dotcom-secrets",
+      "title": "Russell Brunson's DotCom Secrets \u2014 building sales funnels, value ladders, and Attractive Characters that convert",
+      "author": "Russell Brunson",
+      "version": "1.0.0",
+      "tags": [
+        "marketing",
+        "sales",
+        "online-business",
+        "sales-funnels",
+        "email-marketing",
+        "copywriting",
+        "entrepreneurship",
+        "direct-response",
+        "ecommerce",
+        "funnels"
+      ],
+      "emoji": "\ud83d\udcc8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/dotcom-secrets"
     }
   ],
-  "total_skills": 210
+  "total_skills": 211
 }
