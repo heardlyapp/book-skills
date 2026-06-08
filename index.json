@@ -4038,7 +4038,28 @@
       "emoji": "\ud83d\udcf1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/zucked"
+    },
+    {
+      "slug": "the-age-of-napoleon",
+      "title": "Will & Ariel Durant's The Age of Napoleon \u2014 from the French Revolution to Waterloo, the rise and fall of an empire",
+      "author": "Will Durant / Ariel Durant",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "napoleon",
+        "french-revolution",
+        "europe",
+        "military",
+        "leadership",
+        "philosophy",
+        "biography",
+        "civilization",
+        "strategy"
+      ],
+      "emoji": "\ud83d\udc51",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-age-of-napoleon"
     }
   ],
-  "total_skills": 221
+  "total_skills": 222
 }

@@ -1,0 +1,20 @@
+{
+  "name": "the-age-of-napoleon",
+  "version": "1.0.0",
+  "description": "Will & Ariel Durant's sweeping history of the Napoleonic era — from the French Revolution to Waterloo, spanning Napoleon's rise, military genius, reforms, decline, and the civilization he shaped.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-age-of-napoleon",
+  "useCase": "Understanding Napoleon's rise and fall, military strategy, the French Revolution, leadership and hubris, the intersection of power with art and philosophy, and the reforms that outlasted the empire.",
+  "knownRisks": [
+    "The Durants wrote from a Western, humanist perspective — their interpretations may differ from revisionist historians",
+    "The book was published in 1975 — some scholarship has evolved since then",
+    "This is one volume of an 11-volume series — reading it alone gives an incomplete picture of the Durants' overall thesis",
+    "The military history sections may be less detailed than specialized works on the Napoleonic Wars"
+  ],
+  "tags": ["history", "napoleon", "french-revolution", "europe", "military", "leadership", "philosophy", "biography", "civilization", "strategy"],
+  "openclaw": {
+    "emoji": "👑",
+    "category": "professional-development"
+  }
+}
