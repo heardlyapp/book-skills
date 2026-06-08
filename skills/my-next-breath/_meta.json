@@ -1,0 +1,20 @@
+{
+  "name": "my-next-breath",
+  "version": "1.0.0",
+  "description": "Jeremy Renner's memoir of surviving a near-fatal snowcat accident — the power of action, the will to recover, family as fuel, and finding meaning after catastrophic trauma.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/my-next-breath",
+  "useCase": "Surviving catastrophic trauma, finding strength to recover, taking decisive action in crisis, using love as fuel, rebuilding after everything changes.",
+  "knownRisks": [
+    "Renner is not a professional writer — the prose is raw and unpolished by design",
+    "Some details of the accident and recovery are graphic and may be triggering",
+    "The book was written relatively soon after the incident (2024) — longer-term perspective may evolve",
+    "This is a personal memoir, not a medical or psychological guide"
+  ],
+  "tags": ["memoir", "survival", "trauma", "recovery", "family", "resilience", "crisis", "inspiration", "healing", "strength"],
+  "openclaw": {
+    "emoji": "💪",
+    "category": "professional-development"
+  }
+}

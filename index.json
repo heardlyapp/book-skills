@@ -4080,7 +4080,28 @@
       "emoji": "\ud83d\udcc8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-wealth-of-nations"
+    },
+    {
+      "slug": "my-next-breath",
+      "title": "Jeremy Renner's My Next Breath \u2014 surviving catastrophe, the power of action, and the will to recover",
+      "author": "Jeremy Renner",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "survival",
+        "trauma",
+        "recovery",
+        "family",
+        "resilience",
+        "crisis",
+        "inspiration",
+        "healing",
+        "strength"
+      ],
+      "emoji": "\ud83d\udcaa",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/my-next-breath"
     }
   ],
-  "total_skills": 223
+  "total_skills": 224
 }
