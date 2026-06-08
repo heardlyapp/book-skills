@@ -2,30 +2,32 @@
 
 > Source: *The Big Book of Serial Killers* by Jack Rosewood & Rebecca Lo.
 
-## 5 Errors
+## Common Errors
 
 ### 1. The "Stranger Danger" Myth
 
-Most serial killers are known to their victims or are skilled at establishing trust (Bundy, Gacey).
+**The trap:** "Serial killers are strangers who attack from the shadows."
 
-> **Example: Ted Bundy's Ruse** — Bundy posed as an injured man needing help, asked women to assist him to his car, then attacked when they were in position.
-> **Key takeaway**: Most serial killers use trust or authority, not force, to gain initial access.
+**Why it fails:** Many establish trust before striking. Bundy posed as injured. Gacy hired victims.
 
-> **Example: Albert Fish's Letters** — God, Jane 45.6. He wrote a letter to police after the fact.
-> **Key takeaway**: Serial killers often find ways to insert themselves into the investigation.
+> **Example: Gacy's Hiring Strategy** — Gacy attacked young men who worked for him. They trusted him as an employer.
 
-### 2. Assuming All Killers Are "Crazy"
+### 2. The "All Killers Are Crazy" Assumption
 
-Most serial killers are not legally insane. They know right from wrong and control their behavior. The act itself is horrifying but the person often appears normal.
+**The trap:** "Only someone insane could do this."
 
-### 3. The Profiling Myth
+**Why it fails:** Most are not legally insane. They know right from wrong and plan their crimes.
 
-TV shows overemphasize profiling. In reality, most cases are solved by basic police work — records checks, witness interviews, forensic evidence.
+> **Example: Ted Bundy's Normalcy** — Bundy worked at a suicide hotline. He studied law. He was sane by any legal definition. His trials were not "not guilty by reason of insanity."
 
-### 4. Confusing Mass Murder, Spree, and Serial
+### 3. The Profiling Overemphasis
 
-Mass murder: multiple victims in one event. Spree: multiple victims in connected locations over days. Serial: multiple victims with cooling-off periods between.
+Profiling is a tool, not the solution. Berkowitz was caught by a parking ticket. Dahmer by a police response to a man in handcuffs.
 
-### 5. The "Monster" Fallacy
+### 4. Confusing Murder Types
 
-Serial killers are not inhuman monsters. They are human beings who do monstrous things.
+Mass: single event. Spree: connected days. Serial: cooling-off periods between.
+
+### 5. The "Loner" Stereotype
+
+Many had jobs, families, social lives. Gacy was a local Democratic party figure. Bundy worked at a suicide hotline.

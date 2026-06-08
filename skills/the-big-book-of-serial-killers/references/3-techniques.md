@@ -2,28 +2,31 @@
 
 > Source: *The Big Book of Serial Killers* by Jack Rosewood & Rebecca Lo.
 
-## 5 Tools
+## Practical Tools
 
 ### 1. Geographic Profiling
 
-Serial killers typically kill close to home early in their rampage, then expand outward. Mapping crime scenes can pinpoint the killer's likely home base.
+Map all known victim locations. Killers kill close to home early on. The "center of gravity" of the earliest victims often points to the killer's home base.
 
-### 2. Victimology Analysis
+### 2. Behavioral Signature Analysis
 
-Killers select based on availability and vulnerability. Prostitutes, runaways, and people in isolated situations are disproportionately targeted.
+Look for signature behaviors beyond what is necessary to kill: posing bodies (the "ripper"), taking souvenirs (Dahmer's Polaroids, Berkowitz's letters), specific binding methods. These signatures link otherwise disconnected crimes.
 
-### 3. The Behavioral Signature
+### 3. Victimology Assessment
 
-Killers often repeat distinctive behaviors (posing bodies, taking souvenirs, binding methods). These "signatures" link otherwise disconnected crimes.
+Killers select based on availability and vulnerability. Prostitutes, runaways, hitchhikers, and people in isolated situations are disproportionately targeted because they are less likely to be missed promptly.
 
-### 4. DNA and Forensic Breakthroughs
+> **Example: Ted Bundy's Victim Selection** — Bundy targeted young women with long hair parted in the middle. He followed them, learned their routines, and approached when they were alone. He selected for vulnerability — not for specific physical traits alone, but for opportunity.
+> **Key takeaway**: Victim selection is about availability, not just appearance.
 
-Post-1990, DNA databases have connected cases and solved cold cases. The Combined DNA Index System (CODIS) is the most powerful tool in serial crime investigation.
+> **Example: The Zodiac Killer's Signature** — The Zodiac's letters to newspapers containing cryptograms were his signature. The murders themselves (couples in parked cars) were not unusual — but the communication was. He needed the attention. That signature behavior is what makes the Zodiac identifiable.
+> **Key takeaway**: The signature — behavior beyond the kill — is what links otherwise disconnected crimes.
 
-### 5. The False Confession Pattern
+The time between murders reveals psychology. Short gaps (days) suggest a hedonistic lust killer. Longer gaps (months) suggest mission-oriented or power-control killers who can suppress the urge.
 
-Not all confessions are true. Some killers enjoy the attention or are coerced.
+### 5. Forensic Timeline
 
-> **Example: Berkowitz's Demon Dog** — Berkowitz confessed immediately but claimed his neighbor's dog told him to kill. The demon was a delusion. The confession was real.
-
-> **Example: Giulia Tofana's Poison Ring** — Female serial killers rarely fit the pattern. Tofana sold poison to women who wanted to leave their husbands, killing hundreds in 1600s Italy.
+- Pre-1900s: Witness identification, basic police work
+- 1900s-1980s: Fingerprinting, blood typing, witness testimony
+- 1990s-present: DNA profiling (STR analysis), CODIS database, geographic profiling software
+- The first murder solved by DNA (Colin Pitchfork, 1988) changed everything

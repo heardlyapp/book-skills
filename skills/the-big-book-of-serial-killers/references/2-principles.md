@@ -1,33 +1,33 @@
-# 2 — Principles
+# 2 — Key Principles
 
-> Source: *The Big Book of Serial Killers* by Jack Rosewood & Rebecca Lo.
+> Source: *The Big Book of Serial Killers* by Jack Rosewood & Rebecca Lo — multiple profiles.
 
-## 6 Principles
+## The 7 Principles
 
-### 1. The Macdonald Triad
+### 1. The Macdonald Triad Is Real — But Not Universal
 
-Three childhood predictors: cruelty to animals, fire-setting, bedwetting past age 5. Present in many — but not all — serial killers.
+Three childhood markers appear disproportionately in serial killers: cruelty to animals, fire-setting, and persistent bedwetting beyond age 5. These are indicators of deep psychological disturbance — but many serial killers had none of them.
 
-### 2. Serial Killers Escalate
+### 2. The Mask of Sanity Is Convincing
 
-They begin with fantasies, progress to smaller crimes (theft, arson), then to murder. The gap between fantasy and action narrows with time.
+> **Example: John Wayne Gacy** — Gacy was a successful small businessman who performed as "Pogo the Clown" at children's parties. He was active in his local Democratic Party and photographed with First Lady Rosalynn Carter. He was also torturing and murdering young men in his crawl space. The mask of normalcy was complete.
 
-### 3. "Cooling-Off" Is the Key Difference
+### 3. Escalation Is Inevitable
 
-Serial killers are distinguished from spree killers by an emotional cooling-off period between murders.
+Serial killers do not start at murder. They begin with fantasies. Then smaller crimes. Then the first murder, often clumsy, often imperfect. Each killing teaches them. The gap between murders narrows.
 
-> **Example: Berkowitz's Cooling-Off** — David Berkowitz (Son of Sam) attacked couples in cars with weeks to months between shootings. He returned to normal life between murders.
+### 4. Geographic Patterns Are Consistent
 
-### 4. Most Are Caught by Routine Police Work
+Killers operate close to home initially — a "comfort zone." As confidence grows, they expand outward. This is why geographic profiling (mapping crime scenes) is one of the most effective investigative tools.
 
-Traffic stops, parking tickets, parking tickets, and witness reports solve more cases than profiling.
+### 5. They Cannot Stop
 
-> **Example: Berkowitz's Parking Ticket** — Berkowitz was caught because a witness saw his car being ticketed near a fire hydrant. The parking ticket records led police to him.
+The compulsion to kill does not fade. It intensifies. Some killers (Berkowitz, Kaczynski) stopped because they were caught. Few ever stop voluntarily.
 
-### 5. They Often Insert Themselves Into Investigations
+### 6. Insertion Into the Investigation
 
-Many visit crime scenes, talk to police, or attend victims' funerals.
+> **Example: Ted Bundy at the Morgue** — After his first murder, Bundy returned to the morgue where the body was held. He attended a police lineup to identify a suspect. He was not suspected at the time. The need to be close to the crime is a common pattern.
 
-### 6. Female Serial Killers Are Different
+### 7. Female Serial Killers Follow Different Rules
 
-Female serial killers typically use poison, kill for profit, and are often caregivers (nurses, mothers).
+Female serial killers typically use poison, kill for profit, and remain undetected much longer. They often kill in caregiving roles — nurses, mothers, wives.
