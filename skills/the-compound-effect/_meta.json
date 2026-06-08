@@ -1,0 +1,20 @@
+{
+  "name": "the-compound-effect",
+  "version": "1.0.0",
+  "description": "Darren Hardy's straightforward guide to harnessing the power of small, consistent actions that compound into massive results over time — the operating system for success in health, wealth, relationships, and every area of life.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-compound-effect",
+  "useCase": "Building lasting success through small daily disciplines, making better choices, installing positive habits, creating momentum, and managing influences that shape your life.",
+  "knownRisks": [
+    "Very basic principles — nothing groundbreaking for experienced self-help readers",
+    "Some examples are dated (published 2010)",
+    "Heavy emphasis on personal responsibility may feel dismissive of systemic barriers",
+    "The 'no excuses' philosophy can be counterproductive for readers dealing with genuine obstacles"
+  ],
+  "tags": ["self-help", "success", "habits", "productivity", "discipline", "personal-development", "goals", "consistency", "mindset", "motivation"],
+  "openclaw": {
+    "emoji": "🪙",
+    "category": "professional-development"
+  }
+}

@@ -4458,7 +4458,28 @@
       "emoji": "\u2696\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-truths-we-hold"
+    },
+    {
+      "slug": "the-compound-effect",
+      "title": "Darren Hardy's The Compound Effect \u2014 the operating system for success: small, consistent actions that compound into massive results in health, wealth, relationships, and life",
+      "author": "Darren Hardy",
+      "version": "1.0.0",
+      "tags": [
+        "self-help",
+        "success",
+        "habits",
+        "productivity",
+        "discipline",
+        "personal-development",
+        "goals",
+        "consistency",
+        "mindset",
+        "motivation"
+      ],
+      "emoji": "\ud83e\ude99",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-compound-effect"
     }
   ],
-  "total_skills": 241
+  "total_skills": 242
 }
