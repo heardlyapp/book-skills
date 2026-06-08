@@ -3444,7 +3444,26 @@
       "emoji": "\ud83c\udfc0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/lebron"
+    },
+    {
+      "slug": "ina-mays-guide-to-childbirth",
+      "title": "Ina May Gaskin's Guide to Childbirth \u2014 Sphincter Law, fear management, and evidence-based natural birth",
+      "author": "Ina May Gaskin",
+      "version": "1.0.0",
+      "tags": [
+        "childbirth",
+        "midwifery",
+        "pregnancy",
+        "natural-birth",
+        "women-health",
+        "birth-preparation",
+        "evidence-based-care",
+        "ina-may-gaskin"
+      ],
+      "emoji": "\ud83c\udf38",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/ina-mays-guide-to-childbirth"
     }
   ],
-  "total_skills": 191
+  "total_skills": 192
 }

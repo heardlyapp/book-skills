@@ -1,0 +1,19 @@
+{
+  "name": "ina-mays-guide-to-childbirth",
+  "version": "1.0.0",
+  "description": "Ina May Gaskin's classic guide — understanding Sphincter Law, the mind/body connection in labor, evidence-based birth choices, and reclaiming childbirth as empowering rather than medicalized.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/ina-mays-guide-to-childbirth",
+  "useCase": "Natural birth preparation, fear management, informed decision-making about interventions, VBAC planning, choosing a caregiver, creating a mother-friendly birth environment.",
+  "knownRisks": [
+    "The Farm's approach is home-birth centered — hospital birth planning may look different",
+    "Some medical conditions genuinely require hospital birth — this skill is for low-risk pregnancies",
+    "The book was published in 2003 — some statistics and recommendations may be slightly outdated"
+  ],
+  "tags": ["childbirth", "midwifery", "pregnancy", "natural-birth", "women-health", "birth-preparation", "evidence-based-care", "ina-may-gaskin"],
+  "openclaw": {
+    "emoji": "🌸",
+    "category": "health"
+  }
+}
