@@ -1,0 +1,19 @@
+{
+  "name": "the-road-to-unfreedom",
+  "version": "1.0.0",
+  "description": "Timothy Snyder's study of authoritarianism — understanding information warfare, the politics of eternity, strategic relativism, and defending democratic truth.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-road-to-unfreedom",
+  "useCase": "Detecting disinformation, understanding authoritarian ideology, defending factuality, strengthening democratic resilience.",
+  "knownRisks": [
+    "Snyder's analysis is focused on Russian authoritarianism — some may find it one-sided",
+    "The book was published in 2018 and some specific examples may have evolved",
+    "The framework is focused on democratic vulnerability — it may not translate to all political contexts"
+  ],
+  "tags": ["politics", "disinformation", "democracy", "russia", "propaganda", "authoritarianism", "philosophy", "history"],
+  "openclaw": {
+    "emoji": "🛡️",
+    "category": "professional-development"
+  }
+}
