@@ -3996,7 +3996,28 @@
       "emoji": "\u26a1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/energy-and-civilization"
+    },
+    {
+      "slug": "quantum-computing-for-everyone",
+      "title": "Chris Bernhardt's Quantum Computing for Everyone \u2014 qubits, entanglement, algorithms, and the impact of quantum computing",
+      "author": "Chris Bernhardt",
+      "version": "1.0.0",
+      "tags": [
+        "quantum-computing",
+        "computer-science",
+        "physics",
+        "mathematics",
+        "technology",
+        "cryptography",
+        "algorithms",
+        "science",
+        "education",
+        "mit-press"
+      ],
+      "emoji": "\ud83d\udcbb",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/quantum-computing-for-everyone"
     }
   ],
-  "total_skills": 219
+  "total_skills": 220
 }

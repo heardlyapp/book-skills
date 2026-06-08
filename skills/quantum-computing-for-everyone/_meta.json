@@ -1,0 +1,20 @@
+{
+  "name": "quantum-computing-for-everyone",
+  "version": "1.0.0",
+  "description": "Chris Bernhardt's MIT Press introduction to quantum computing — qubits, superposition, entanglement, Bell's inequality, quantum gates, Shor's algorithm, Grover's algorithm, and the real-world impact.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/quantum-computing-for-everyone",
+  "useCase": "Understanding qubits and superposition, quantum gates and circuits, entanglement and Bell's inequality, quantum algorithms (Shor, Grover), quantum cryptography (BB84), and the impact of quantum computing.",
+  "knownRisks": [
+    "The book uses linear algebra at a level that may still challenge readers without any math background",
+    "Quantum computing is evolving rapidly — some specifics about machine capabilities may be dated",
+    "Not all quantum computing claims made by companies have been validated in peer-reviewed research",
+    "The book covers theory (software), not hardware implementation details"
+  ],
+  "tags": ["quantum-computing", "computer-science", "physics", "mathematics", "technology", "cryptography", "algorithms", "science", "education", "mit-press"],
+  "openclaw": {
+    "emoji": "💻",
+    "category": "professional-development"
+  }
+}
