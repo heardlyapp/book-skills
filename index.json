@@ -4416,7 +4416,28 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/his-truth-is-marching-on"
+    },
+    {
+      "slug": "the-black-church",
+      "title": "Henry Louis Gates Jr.'s The Black Church \u2014 a sweeping history of the institution that has served as the spiritual, political, and cultural foundation of African American life for over two centuries",
+      "author": "Henry Louis Gates Jr.",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "religion",
+        "african-american",
+        "civil-rights",
+        "music",
+        "culture",
+        "social-justice",
+        "spirituality",
+        "slavery",
+        "church"
+      ],
+      "emoji": "\u26ea",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-black-church"
     }
   ],
-  "total_skills": 239
+  "total_skills": 240
 }

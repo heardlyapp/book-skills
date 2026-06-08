@@ -1,0 +1,20 @@
+{
+  "name": "the-black-church",
+  "version": "1.0.0",
+  "description": "Henry Louis Gates Jr.'s sweeping history of the Black Church in America — from the 'invisible institution' of enslaved worshippers in brush arbors, through the civil rights movement's spiritual engine, to its role in contemporary Black life as a cultural, political, and sacred cornerstone.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-black-church",
+  "useCase": "Understanding the central role of the Black Church in African American history, the spiritual roots of the Civil Rights Movement, the musical and oratory traditions born in the church, and the ongoing evolution of Black faith in America.",
+  "knownRisks": [
+    "Written from a scholarly/analytical perspective, not as a devotional work",
+    "Explicitly addresses tensions within the church including sexism, homophobia, and the prosperity gospel",
+    "Assumes basic familiarity with American history and Christian theology",
+    "Some content may be challenging for readers from non-Christian backgrounds"
+  ],
+  "tags": ["history", "religion", "african-american", "civil-rights", "music", "culture", "social-justice", "spirituality", "slavery", "church"],
+  "openclaw": {
+    "emoji": "⛪",
+    "category": "social-impact"
+  }
+}
