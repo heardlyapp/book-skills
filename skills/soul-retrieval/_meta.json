@@ -1,0 +1,20 @@
+{
+  "name": "soul-retrieval",
+  "version": "1.0.0",
+  "description": "Sandra Ingerman's guide to shamanic soul retrieval — understanding soul loss, journeying to recover lost parts, negotiating return, and integrating wholeness after trauma.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/soul-retrieval",
+  "useCase": "Healing soul loss from trauma, shamanic journeying, retrieving fragmented self-parts, integrating returned essence, addressing spiritual dimensions of depression and emptiness.",
+  "knownRisks": [
+    "Soul retrieval is a spiritual practice, not a substitute for medical or psychological treatment",
+    "The case studies are composites and may not reflect any specific individual's experience",
+    "Shamanic journeying requires trained guidance — this book alone is not sufficient to become a practitioner",
+    "Some may find the concepts of soul loss and nonordinary reality difficult to accept from a rational perspective"
+  ],
+  "tags": ["shamanism", "healing", "trauma", "spirituality", "soul-loss", "inner-child", "transformation", "ritual", "psychology", "wholeness"],
+  "openclaw": {
+    "emoji": "🔮",
+    "category": "professional-development"
+  }
+}

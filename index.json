@@ -3849,7 +3849,28 @@
       "emoji": "\ud83d\udcca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/technical-analysis"
+    },
+    {
+      "slug": "soul-retrieval",
+      "title": "Sandra Ingerman's Soul Retrieval \u2014 mending the fragmented self through shamanic healing",
+      "author": "Sandra Ingerman",
+      "version": "1.0.0",
+      "tags": [
+        "shamanism",
+        "healing",
+        "trauma",
+        "spirituality",
+        "soul-loss",
+        "inner-child",
+        "transformation",
+        "ritual",
+        "psychology",
+        "wholeness"
+      ],
+      "emoji": "\ud83d\udd2e",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/soul-retrieval"
     }
   ],
-  "total_skills": 212
+  "total_skills": 213
 }
