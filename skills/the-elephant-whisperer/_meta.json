@@ -1,0 +1,21 @@
+{
+  "name": "the-elephant-whisperer",
+  "version": "1.0.0",
+  "description": "Lawrence Anthony's true story of adopting a herd of troubled wild elephants on his South African game reserve — a journey into the emotional intelligence, communication, and spiritual connection of the world's most majestic land animal that changed everything he thought he knew about nature.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-elephant-whisperer",
+  "useCase": "Understanding animal communication and emotional intelligence, wildlife conservation, human-animal bonds, leadership through patience and trust, and the spiritual dimensions of nature.",
+  "knownRisks": [
+    "Some claims about animal telepathy and metaphysical communication are controversial",
+    "The author is a conservationist, not a scientist — his interpretations are personal",
+    "The book describes violence (poaching, animal deaths) that may be disturbing",
+    "Some stories have been disputed by other sources",
+    "The author died in 2012 shortly after completing the book"
+  ],
+  "tags": ["nature", "animals", "conservation", "africa", "elephants", "biography", "adventure", "self-discovery", "wildlife", "spirituality"],
+  "openclaw": {
+    "emoji": "🐘",
+    "category": "entertainment"
+  }
+}

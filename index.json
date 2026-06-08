@@ -4605,7 +4605,28 @@
       "emoji": "\ud83c\udf34",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/separated"
+    },
+    {
+      "slug": "the-elephant-whisperer",
+      "title": "Lawrence Anthony's The Elephant Whisperer \u2014 the remarkable true story of saving a herd of troubled wild elephants and discovering the profound intelligence of the natural world",
+      "author": "Lawrence Anthony with Graham Spence",
+      "version": "1.0.0",
+      "tags": [
+        "nature",
+        "animals",
+        "conservation",
+        "africa",
+        "elephants",
+        "biography",
+        "adventure",
+        "self-discovery",
+        "wildlife",
+        "spirituality"
+      ],
+      "emoji": "\ud83d\udc18",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-elephant-whisperer"
     }
   ],
-  "total_skills": 248
+  "total_skills": 249
 }
