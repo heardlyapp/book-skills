@@ -4542,7 +4542,28 @@
       "emoji": "\ud83c\udf0b",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-heat-will-kill-you-first"
+    },
+    {
+      "slug": "the-new-menopause",
+      "title": "Dr. Mary Claire Haver's The New Menopause \u2014 a comprehensive, evidence-based guide to navigating hormonal change with purpose, power, and the facts, from the Galveston Diet creator",
+      "author": "Mary Claire Haver, MD",
+      "version": "1.0.0",
+      "tags": [
+        "health",
+        "women",
+        "menopause",
+        "hormones",
+        "medicine",
+        "aging",
+        "nutrition",
+        "wellness",
+        "perimenopause",
+        "estrogen"
+      ],
+      "emoji": "\ud83c\udf3f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-menopause"
     }
   ],
-  "total_skills": 245
+  "total_skills": 246
 }

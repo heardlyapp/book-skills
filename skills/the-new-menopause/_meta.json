@@ -1,0 +1,21 @@
+{
+  "name": "the-new-menopause",
+  "version": "1.0.0",
+  "description": "Dr. Mary Claire Haver's comprehensive guide to menopause — the science, the symptoms, the treatments, and the strategies to navigate hormonal change with knowledge and power. From the Galveston Diet creator and 3.5M-strong online community.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-new-menopause",
+  "useCase": "Understanding perimenopause, menopause, and postmenopause; evaluating hormone therapy options; managing 50+ symptoms; navigating the healthcare system; and using nutrition, exercise, and lifestyle strategies to thrive through the transition.",
+  "knownRisks": [
+    "Medical advice — always consult your own doctor before making health decisions",
+    "The author has a commercial interest (the Galveston Diet program)",
+    "Hormone therapy decisions are highly individual and carry real risks",
+    "Some claims about estrogen's protective benefits are still being researched",
+    "The book advocates for MHT more strongly than some conservative medical bodies"
+  ],
+  "tags": ["health", "women", "menopause", "hormones", "medicine", "aging", "nutrition", "wellness", "perimenopause", "estrogen"],
+  "openclaw": {
+    "emoji": "🌿",
+    "category": "professional-development"
+  }
+}
