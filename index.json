@@ -3463,7 +3463,26 @@
       "emoji": "\ud83c\udf38",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/ina-mays-guide-to-childbirth"
+    },
+    {
+      "slug": "the-book-whisperer",
+      "title": "Donalyn Miller's The Book Whisperer \u2014 awakening the inner reader in every child through freedom, choice, and volume",
+      "author": "Donalyn Miller",
+      "version": "1.0.0",
+      "tags": [
+        "education",
+        "reading",
+        "teaching",
+        "literacy",
+        "children",
+        "classroom",
+        "motivation",
+        "books"
+      ],
+      "emoji": "\ud83d\udcd6",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-whisperer"
     }
   ],
-  "total_skills": 192
+  "total_skills": 193
 }

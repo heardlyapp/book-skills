@@ -1,0 +1,19 @@
+{
+  "name": "the-book-whisperer",
+  "version": "1.0.0",
+  "description": "Donalyn Miller's classic guide for educators — transforming reluctant readers into lifelong readers through freedom, choice, time, and the power of a reading role model.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-book-whisperer",
+  "useCase": "Diagnosing reader types, designing choice-based reading programs, building classroom libraries, replacing ineffective practices, becoming a reading role model.",
+  "knownRisks": [
+    "Miller's approach requires significant buy-in from administrators and parents",
+    "The 40-book requirement may need adjustment for different age groups",
+    "Building a classroom library of several thousand books requires personal financial investment"
+  ],
+  "tags": ["education", "reading", "teaching", "literacy", "children", "classroom", "motivation", "books"],
+  "openclaw": {
+    "emoji": "📖",
+    "category": "education"
+  }
+}
