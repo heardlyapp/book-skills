@@ -4353,7 +4353,28 @@
       "emoji": "\u2694\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/discipline-equals-freedom"
+    },
+    {
+      "slug": "the-book-of-basketball",
+      "title": "Bill Simmons' The Book of Basketball \u2014 a comprehensive, argument-starting guide to NBA greatness: the Hall of Fame Pyramid, The Secret, What-Ifs, and the Wine Cellar of legendary moments",
+      "author": "Bill Simmons",
+      "version": "1.0.0",
+      "tags": [
+        "basketball",
+        "sports",
+        "nba",
+        "history",
+        "ranking",
+        "analysis",
+        "debate",
+        "pop-culture",
+        "bill-simmons",
+        "championship"
+      ],
+      "emoji": "\ud83c\udfc0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-basketball"
     }
   ],
-  "total_skills": 236
+  "total_skills": 237
 }

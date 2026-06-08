@@ -1,0 +1,21 @@
+{
+  "name": "the-book-of-basketball",
+  "version": "1.0.0",
+  "description": "Bill Simmons' magnum opus on NBA history — the Hall of Fame Pyramid ranking the top 96 players, The Secret of winning basketball, the What-If Game, the Wine Cellar of greatest moments, and why chemistry matters more than stats.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-book-of-basketball",
+  "useCase": "Understanding NBA history, debating all-time player rankings, learning what makes championship teams, appreciating basketball's greatest moments and what-ifs.",
+  "knownRisks": [
+    "Written from a passionate Celtics fan perspective — Simmons openly biases toward Bird/Celtics history",
+    "Opinions are deliberately provocative to spark arguments — not a neutral reference work",
+    "Data and rankings are as of 2009 — LeBron's prime, Curry's revolution, and modern NBA are not covered",
+    "Heavy on Boston-centric storytelling (Prologue is pure Celtics nostalgia)",
+    "Extensive footnotes and digressions make it more entertainment than reference"
+  ],
+  "tags": ["basketball", "sports", "nba", "history", "ranking", "analysis", "debate", "pop-culture", "bill-simmons", "championship"],
+  "openclaw": {
+    "emoji": "🏀",
+    "category": "entertainment"
+  }
+}
