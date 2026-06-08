@@ -1,0 +1,20 @@
+{
+  "name": "the-infinite-game",
+  "version": "1.0.0",
+  "description": "Simon Sinek's guide to leading with an infinite mindset — shifting from short-term competition to long-term purpose, building organizations that outlast their leaders, and advancing a Just Cause that inspires.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-infinite-game",
+  "useCase": "Shifting from finite to infinite mindset, defining a Just Cause, building Trusting Teams, learning from Worthy Rivals, practicing Existential Flexibility, leading with courage for long-term impact.",
+  "knownRisks": [
+    "Some critics argue Sinek's frameworks are simplified and lack academic rigor",
+    "The 'infinite game' metaphor is borrowed from James Carse — readers may benefit from the original",
+    "Not all industries or situations can easily apply an infinite mindset — some competitive environments require finite tactics",
+    "Sinek's examples (Microsoft, Kodak) are retrospectively applied and may oversimplify complex histories"
+  ],
+  "tags": ["leadership", "business", "strategy", "purpose", "long-term", "innovation", "culture", "management", "vision", "resilience"],
+  "openclaw": {
+    "emoji": "♾️",
+    "category": "professional-development"
+  }
+}

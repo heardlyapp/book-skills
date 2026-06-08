@@ -4122,7 +4122,28 @@
       "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/overcoming-unwanted-intrusive-thoughts"
+    },
+    {
+      "slug": "the-infinite-game",
+      "title": "Simon Sinek's The Infinite Game \u2014 leading with purpose, building for the long term, and shifting from finite to infinite thinking",
+      "author": "Simon Sinek",
+      "version": "1.0.0",
+      "tags": [
+        "leadership",
+        "business",
+        "strategy",
+        "purpose",
+        "long-term",
+        "innovation",
+        "culture",
+        "management",
+        "vision",
+        "resilience"
+      ],
+      "emoji": "\u267e\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-infinite-game"
     }
   ],
-  "total_skills": 225
+  "total_skills": 226
 }
