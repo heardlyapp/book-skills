@@ -1,0 +1,19 @@
+{
+  "name": "inevitable",
+  "version": "1.0.0",
+  "description": "Mike Colias' deep-dive on the EV transition — legacy incumbent transformation, charging infrastructure, battery cost barriers, and the China threat.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/inevitable",
+  "useCase": "Navigating industry disruption, breaking chicken-and-egg deadlocks, competing with state-backed rivals, driving down component costs, leading through messy transitions.",
+  "knownRisks": [
+    "The EV industry is evolving rapidly — some data may already be dated",
+    "Colias is a WSJ reporter writing narrative journalism, not a consultant offering frameworks",
+    "The automotive context may not translate directly to other industries"
+  ],
+  "tags": ["business", "automotive", "electric-vehicles", "strategy", "disruption", "manufacturing", "clean-tech", "supply-chain", "innovation", "china"],
+  "openclaw": {
+    "emoji": "⚡",
+    "category": "professional-development"
+  }
+}

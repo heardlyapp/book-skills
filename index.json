@@ -3786,7 +3786,28 @@
       "emoji": "\u2696\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/zenith-man"
+    },
+    {
+      "slug": "inevitable",
+      "title": "Mike Colias' Inevitable \u2014 navigating the messy unstoppable transition to electric vehicles",
+      "author": "Mike Colias",
+      "version": "1.0.0",
+      "tags": [
+        "business",
+        "automotive",
+        "electric-vehicles",
+        "strategy",
+        "disruption",
+        "manufacturing",
+        "clean-tech",
+        "supply-chain",
+        "innovation",
+        "china"
+      ],
+      "emoji": "\u26a1",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/inevitable"
     }
   ],
-  "total_skills": 209
+  "total_skills": 210
 }
