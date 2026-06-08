@@ -3729,7 +3729,26 @@
       "emoji": "\ud83c\udfce\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/go-like-hell"
+    },
+    {
+      "slug": "truman",
+      "title": "David McCullough's Truman \u2014 the Pulitzer-winning biography of Harry S. Truman, a masterclass in integrity and leadership",
+      "author": "David McCullough",
+      "version": "1.1.0",
+      "tags": [
+        "biography",
+        "leadership",
+        "history",
+        "integrity",
+        "politics",
+        "presidency",
+        "decision-making",
+        "harry-truman"
+      ],
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/truman"
     }
   ],
-  "total_skills": 206
+  "total_skills": 207
 }

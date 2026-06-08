@@ -1,0 +1,19 @@
+{
+  "name": "truman",
+  "version": "1.1.0",
+  "description": "David McCullough's Pulitzer-winning biography — leading with integrity, making impossible decisions, rising as an underdog, and governing with honesty and conviction.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/truman",
+  "useCase": "High-stakes decision making, maintaining integrity under pressure, rising without connections, confronting powerful opposition, rebuilding after public defeat.",
+  "knownRisks": [
+    "McCullough's biography is widely admired but written with evident affection for its subject",
+    "Truman's context (1940s-50s) differs significantly from today's political environment",
+    "Some of Truman's decisions (atomic bomb, Cold War policies) remain historically contested"
+  ],
+  "tags": ["biography", "leadership", "history", "integrity", "politics", "presidency", "decision-making", "harry-truman"],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "professional-development"
+  }
+}
