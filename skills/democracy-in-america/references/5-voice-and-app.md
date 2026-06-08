@@ -1,13 +1,13 @@
 # 5 — Voice & App
 
-> Source: *Democracy in America* — Tocqueville's voice and scenarios.
+> Source: *Democracy in America* by Alexis de Tocqueville — voice characteristics and applications.
 
 ## Tocqueville's Voice
 
-1. **Aristocrat observing democracy.** He is not hostile to democracy but sees it from the outside. He notices things a democrat wouldn't notice: the pressure to conform, the restlessness, the loss of high culture.
-2. **Prophetic without being emotional.** His predictions (the end of slavery, the rise of the US and Russia, the soft despotism of the welfare state) are stated with calm certainty.
-3. **The dispassionate clinician.** He doesn't celebrate or condemn. He examines. "I confess that I do not accord to press freedom that entire and instantaneous affection which one grants to things which are supremely good by their very nature."
-4. **The novelist's eye.** He notices the quiet man in the corner. The rich man pretending to be simple. The woman who accepts her cloistered life. He reads character from detail.
+1. **Aristocrat observing democracy.** He is not hostile to democracy but sees it from outside. He notices what a democrat wouldn't: the pressure to conform, the restlessness, the loss of high culture.
+2. **Prophetic without being emotional.** His predictions (the end of slavery, US vs Russia rivalry, soft despotism) are stated with calm certainty.
+3. **The dispassionate clinician.** He doesn't celebrate or condemn. He examines. "I confess that I do not accord to press freedom that entire and instantaneous affection which one grants to things which are supremely good."
+4. **The novelist's eye.** He notices the quiet man in the corner, the rich man pretending to be simple, the woman in the cloistered home.
 
 ## Signature Lines
 
@@ -21,28 +21,38 @@
 
 > "Despotism may be able to do without faith, but liberty cannot."
 
-> "The doctrine of self-interest well understood does not produce great acts of devotion, but it suggests small acts every day."
+> "Town meeting is to liberty what primary schools are to science."
 
-> "There are two great peoples who advance toward the same end: the Russians and the Anglo-Americans. One has the means of freedom; the other the means of servitude."
+> "The doctrine of self-interest well understood does not produce great acts of devotion, but it suggests small acts every day."
 
 ## Five Scenarios
 
 ### 1. The Leader of a Growing Organization
 
-Watch for groupthink. Build dissent into process. Push authority down. "The health of a democratic organization is measured by the safety of its minority."
+**Situation:** Your startup/team is growing fast. Everyone seems to agree. You worry about groupthink.
+
+**Playbook:** The Tyranny of the Majority check — build dissent into decision-making. The Lawyers' check — require procedure that protects minority views. The Township model — push authority down.
 
 ### 2. The Activist Building Resistance
 
-Start an association. Find three allies. Act local before national. "Associations are the school of freedom."
+**Situation:** You want to organize against centralization but don't know where to start.
 
-### 3. The Citizen Worried About Centralization
+**Playbook:** The Association Launch — find three like-minded people. The Temperance example — start with a shared moral goal, not an institutional fight.
 
-Push decisions down. Defend local institutions. "If the center can decide everything, liberty is already lost."
+### 3. The Citizen Watching Centralization
 
-### 4. The Person Feeling the Pressure to Conform
+**Situation:** Power is accumulating at the center. Local voices are ignored.
 
-Recognize the social tyranny of the majority. Find your like-minded minority. "Dissent is a feature, not a bug."
+**Playbook:** The Local Reframe — defend township-level institutions. "Without local institutions a nation may give itself a free government, but it will not have a free spirit."
+
+### 4. The Person Feeling Conformity Pressure
+
+**Situation:** You have a different opinion but social pressure says be quiet.
+
+**Playbook:** The Social Tyranny check — recognize that conforming is not agreeing. Join an association of like-minded people. Use the lawyer's privilege — frame dissent as process.
 
 ### 5. The Observer Watching Comfort Replace Freedom
 
-The soft despotism checklist. Materialist drift. "A society that cares only about money will trade freedom for security."
+**Situation:** People in your society/org have become passive. The state/mgmt provides everything.
+
+**Playbook:** The Soft Despotism checklist. The Religion/Materialism audit. "What do you expect from a man who has spent his life buying and selling?"
