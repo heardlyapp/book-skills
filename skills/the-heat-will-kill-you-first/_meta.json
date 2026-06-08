@@ -1,0 +1,20 @@
+{
+  "name": "the-heat-will-kill-you-first",
+  "version": "1.0.0",
+  "description": "Jeff Goodell's urgent investigation into extreme heat as the primary driver of climate chaos — a deep dive into the biology, economics, and survival challenges of life on a rapidly warming planet, told through the stories of the people and places already living on the front lines.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-heat-will-kill-you-first",
+  "useCase": "Understanding extreme heat as the engine of climate impacts, heat physiology and survival, heat inequality, the future of human migration, and adaptation strategies from air conditioning to geoengineering.",
+  "knownRisks": [
+    "Graphic descriptions of death from heatstroke may be disturbing",
+    "The author is an environmental journalist with a clear alarmist perspective",
+    "Some projections depend on worst-case climate scenarios",
+    "The book (2023) covers events up to 2022 only"
+  ],
+  "tags": ["climate", "heat", "environment", "survival", "health", "science", "journalism", "adaptation", "inequality", "disaster"],
+  "openclaw": {
+    "emoji": "🌋",
+    "category": "social-impact"
+  }
+}

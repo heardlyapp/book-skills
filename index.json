@@ -4521,7 +4521,28 @@
       "emoji": "\ud83d\udcc8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-little-book-of-common-sense-investing"
+    },
+    {
+      "slug": "the-heat-will-kill-you-first",
+      "title": "Jeff Goodell's The Heat Will Kill You First \u2014 an urgent investigation into extreme heat as the engine of climate chaos, told through the stories of the people already living on the front lines",
+      "author": "Jeff Goodell",
+      "version": "1.0.0",
+      "tags": [
+        "climate",
+        "heat",
+        "environment",
+        "survival",
+        "health",
+        "science",
+        "journalism",
+        "adaptation",
+        "inequality",
+        "disaster"
+      ],
+      "emoji": "\ud83c\udf0b",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-heat-will-kill-you-first"
     }
   ],
-  "total_skills": 244
+  "total_skills": 245
 }
