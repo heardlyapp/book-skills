@@ -3368,7 +3368,26 @@
       "emoji": "\ud83c\udf04",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/bury-my-heart-at-wounded-knee"
+    },
+    {
+      "slug": "on-becoming-a-person",
+      "title": "Carl Rogers' On Becoming a Person \u2014 the humanistic psychology toolkit for helping relationships and becoming your true self",
+      "author": "Carl R. Rogers",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "psychotherapy",
+        "empathy",
+        "humanistic",
+        "relationships",
+        "authenticity",
+        "personal-growth",
+        "carl-rogers"
+      ],
+      "emoji": "\ud83c\udf31",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/on-becoming-a-person"
     }
   ],
-  "total_skills": 187
+  "total_skills": 188
 }

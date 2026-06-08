@@ -1,0 +1,19 @@
+{
+  "name": "on-becoming-a-person",
+  "version": "1.0.0",
+  "description": "Carl Rogers' foundational text of humanistic psychology — a toolkit for building helping relationships through genuineness, unconditional acceptance, and empathic understanding.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/on-becoming-a-person",
+  "useCase": "Deep listening, creating psychological safety, being authentic in relationships, supporting personal growth in others, understanding the fully functioning person.",
+  "knownRisks": [
+    "Rogers' approach is highly effective for growth-oriented relationships but may not be sufficient alone for severe mental illness",
+    "The person-centered approach can be misinterpreted as passive or permissive — it requires active presence, not passivity",
+    "Some find Rogers' optimistic view of human nature naive or incomplete"
+  ],
+  "tags": ["psychology", "psychotherapy", "empathy", "humanistic", "relationships", "authenticity", "personal-growth", "carl-rogers"],
+  "openclaw": {
+    "emoji": "🌱",
+    "category": "personal-development"
+  }
+}
