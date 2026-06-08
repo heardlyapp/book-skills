@@ -1,0 +1,20 @@
+{
+  "name": "his-truth-is-marching-on",
+  "version": "1.0.0",
+  "description": "Jon Meacham's portrait of John Lewis as a modern American saint — exploring how Christian faith, nonviolent discipline, and unshakable hope drove a sharecropper's son from cotton fields to the Edmund Pettus Bridge to the halls of Congress.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/his-truth-is-marching-on",
+  "useCase": "Understanding the theological roots of the Civil Rights Movement, Lewis' life as a model of moral leadership, the power of hope in dark times, and the discipline of nonviolence as a way of life.",
+  "knownRisks": [
+    "Explicitly Christian framing (Lewis as saint) may not resonate with secular readers",
+    "Meacham focuses on Lewis' moral example rather than critical analysis of his political career",
+    "Some events are compressed or simplified for narrative flow",
+    "The 'saint' framework has been criticized by some black leaders as reductive"
+  ],
+  "tags": ["biography", "civil-rights", "religion", "history", "nonviolence", "hope", "politics", "social-justice", "american-history", "faith"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "social-impact"
+  }
+}

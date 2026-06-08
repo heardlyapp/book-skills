@@ -4395,7 +4395,28 @@
       "emoji": "\ud83d\uddfd",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/walking-with-the-wind"
+    },
+    {
+      "slug": "his-truth-is-marching-on",
+      "title": "Jon Meacham's His Truth Is Marching On \u2014 a portrait of John Lewis as a modern saint, exploring how faith, hope, and nonviolent discipline bent the arc of history",
+      "author": "Jon Meacham",
+      "version": "1.0.0",
+      "tags": [
+        "biography",
+        "civil-rights",
+        "religion",
+        "history",
+        "nonviolence",
+        "hope",
+        "politics",
+        "social-justice",
+        "american-history",
+        "faith"
+      ],
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/his-truth-is-marching-on"
     }
   ],
-  "total_skills": 238
+  "total_skills": 239
 }
