@@ -4143,7 +4143,28 @@
       "emoji": "\u267e\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-infinite-game"
+    },
+    {
+      "slug": "uncommon-favor",
+      "title": "Dawn Staley's Uncommon Favor \u2014 basketball, North Philly, her mother, and the life lessons that built a champion",
+      "author": "Dawn Staley",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "basketball",
+        "leadership",
+        "resilience",
+        "community",
+        "service",
+        "discipline",
+        "coaching",
+        "inspiration",
+        "sports"
+      ],
+      "emoji": "\ud83c\udfc0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/uncommon-favor"
     }
   ],
-  "total_skills": 226
+  "total_skills": 227
 }

@@ -1,0 +1,19 @@
+{
+  "name": "uncommon-favor",
+  "version": "1.0.0",
+  "description": "Dawn Staley's memoir of rising from North Philly projects to basketball stardom and championship coaching — discipline, community, service, and being a ladder of hope for others.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/uncommon-favor",
+  "useCase": "Building discipline, beating the odds, navigating spaces where you don't belong, paying success forward through service, and leading with character.",
+  "knownRisks": [
+    "This is a personal memoir, not a leadership or coaching manual",
+    "Some specific lessons may not translate to non-sports contexts",
+    "Staley's experience at UVA in the 1980s may differ from the college experience today"
+  ],
+  "tags": ["memoir", "basketball", "leadership", "resilience", "community", "service", "discipline", "coaching", "inspiration", "sports"],
+  "openclaw": {
+    "emoji": "🏀",
+    "category": "professional-development"
+  }
+}
