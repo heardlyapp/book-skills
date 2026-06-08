@@ -1,0 +1,19 @@
+{
+  "name": "bury-my-heart-at-wounded-knee",
+  "version": "1.0.0",
+  "description": "Dee Brown's landmark history of the American West from the Native American perspective — understanding systemic injustice, the broken treaty cycle, heroic resistance against overwhelming odds, and cultural survival through eloquent testimony.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/bury-my-heart-at-wounded-knee",
+  "useCase": "Recognizing patterns of systemic betrayal, deciding when to resist or surrender, preserving culture under threat, speaking truth to power through documentation, understanding how institutions break promises.",
+  "knownRisks": [
+    "The book is deeply emotional and one-sided by design — it is not a neutral history",
+    "Some may find the relentless pattern of betrayal and violence overwhelming",
+    "Modern contexts differ from 19th-century colonialism — parallels require careful translation"
+  ],
+  "tags": ["native-american", "systemic-injustice", "resistance", "history", "indigenous-rights", "cultural-survival", "treaty-analysis", "truth-telling"],
+  "openclaw": {
+    "emoji": "🌄",
+    "category": "personal-development"
+  }
+}

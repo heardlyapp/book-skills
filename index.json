@@ -3349,7 +3349,26 @@
       "emoji": "\u270a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/know-your-rights-and-claim-them"
+    },
+    {
+      "slug": "bury-my-heart-at-wounded-knee",
+      "title": "Dee Brown's Bury My Heart at Wounded Knee \u2014 an Indian history of the American West, revealing the pattern of broken treaties and cultural survival",
+      "author": "Dee Brown",
+      "version": "1.0.0",
+      "tags": [
+        "native-american",
+        "systemic-injustice",
+        "resistance",
+        "history",
+        "indigenous-rights",
+        "cultural-survival",
+        "treaty-analysis",
+        "truth-telling"
+      ],
+      "emoji": "\ud83c\udf04",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/bury-my-heart-at-wounded-knee"
     }
   ],
-  "total_skills": 186
+  "total_skills": 187
 }
