@@ -4311,7 +4311,28 @@
       "emoji": "\ud83c\udff0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/how-to-be-like-walt"
+    },
+    {
+      "slug": "its-not-about-the-coffee",
+      "title": "Howard Behar's It's Not About the Coffee \u2014 ten leadership principles from a life at Starbucks centered on putting people first, building trust, and daring to dream",
+      "author": "Howard Behar with Janet Goldstein",
+      "version": "1.0.0",
+      "tags": [
+        "leadership",
+        "business",
+        "management",
+        "trust",
+        "people-development",
+        "starbucks",
+        "personal-development",
+        "purpose",
+        "culture",
+        "service"
+      ],
+      "emoji": "\u2615",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/its-not-about-the-coffee"
     }
   ],
-  "total_skills": 234
+  "total_skills": 235
 }

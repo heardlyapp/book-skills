@@ -1,0 +1,20 @@
+{
+  "name": "its-not-about-the-coffee",
+  "version": "1.0.0",
+  "description": "Howard Behar's leadership principles from a life at Starbucks — ten principles of personal leadership centered on putting people first, building trust, thinking independently, and daring to dream big.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/its-not-about-the-coffee",
+  "useCase": "Learning authentic leadership, building people-centered organizations, developing trust and caring in the workplace, empowering independent thinking, and balancing purpose with performance.",
+  "knownRisks": [
+    "The book reflects Behar's personal views and is not an official Starbucks leadership manual",
+    "Some stories are told from memory years after the events and may contain normal embellishments",
+    "The principles are simple in concept but difficult in practice — expectation management advised",
+    "Written from the perspective of a for-profit retail context; may not directly apply to non-profit or government settings"
+  ],
+  "tags": ["leadership", "business", "management", "trust", "people-development", "starbucks", "personal-development", "purpose", "culture", "service"],
+  "openclaw": {
+    "emoji": "☕",
+    "category": "professional-development"
+  }
+}
