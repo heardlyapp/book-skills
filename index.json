@@ -5511,7 +5511,32 @@
       "emoji": "\ud83d\udd2c",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/outgrowing-god"
+    },
+    {
+      "slug": "medical-medium-liver-rescue",
+      "title": "Anthony William's Medical Medium Liver Rescue \u2014 revealing the liver's over 2,000 undiscovered functions, why modern life overburdens it, and the complete protocol for restoring health through the 3:6:9 cleanse, specific healing foods, and troublemaker removal",
+      "author": "Anthony William",
+      "version": "1.0.0",
+      "tags": [
+        "medical-medium",
+        "liver",
+        "detox",
+        "celery-juice",
+        "chronic-illness",
+        "autoimmune",
+        "health",
+        "nutrition",
+        "cleanse",
+        "holistic-health",
+        "healing",
+        "gut-health",
+        "liver-rescue",
+        "anthony-william"
+      ],
+      "emoji": "\ud83c\udf43",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/medical-medium-liver-rescue"
     }
   ],
-  "total_skills": 291
+  "total_skills": 292
 }
