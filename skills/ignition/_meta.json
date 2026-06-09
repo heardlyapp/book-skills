@@ -1,0 +1,20 @@
+{
+  "name": "ignition",
+  "version": "1.0.0",
+  "description": "John D. Clark's 'Ignition!: An Informal History of Liquid Rocket Propellants' — the definitive and wildly entertaining history of the mad scientists who developed rocket fuels. From hydrazine and fluorine to chlorine trifluoride and exotic monopropellants, Clark tells the stories of explosions, close calls, chemical warfare, and the brilliant chemists who made space travel possible.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/ignition",
+  "useCase": "Understanding the history of liquid rocket propellants, the chemistry of fuels and oxidizers, the engineering challenges of rocketry, the Cold War propellant race, and what made the pioneers of space propulsion tick.",
+  "knownRisks": [
+    "Written for chemists and engineers — some sections are technically dense",
+    "The author is opinionated and caustic — not an impartial history",
+    "The book was published in 1972 and does not cover recent developments",
+    "Some humor is of its time and may not age well"
+  ],
+  "tags": ["rocketry", "propellants", "chemistry", "space", "history", "engineering", "science", "cold-war", "explosives", "nasa"],
+  "openclaw": {
+    "emoji": "🚀",
+    "category": "science"
+  }
+}

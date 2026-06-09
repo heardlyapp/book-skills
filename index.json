@@ -5088,7 +5088,28 @@
       "emoji": "\ud83d\udcad",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/ive-been-thinking"
+    },
+    {
+      "slug": "ignition",
+      "title": "John D. Clark's Ignition! \u2014 the hilarious and terrifying history of liquid rocket propellants, from hydrazine and fluorine to chlorine trifluoride and the mad scientists who made space travel possible",
+      "author": "John D. Clark",
+      "version": "1.0.0",
+      "tags": [
+        "rocketry",
+        "propellants",
+        "chemistry",
+        "space",
+        "history",
+        "engineering",
+        "science",
+        "cold-war",
+        "explosives",
+        "nasa"
+      ],
+      "emoji": "\ud83d\ude80",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/ignition"
     }
   ],
-  "total_skills": 271
+  "total_skills": 272
 }
