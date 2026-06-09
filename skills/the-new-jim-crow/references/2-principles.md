@@ -1,32 +1,29 @@
-> Source: The New Jim Crow, Chapter 2 "The Lockdown" & Chapter 3 "The Color of Justice"
+# Key Principles — The New Jim Crow
 
-# Principles: How Mass Incarceration Works
+## I. Mass Incarceration Is a New Racial Caste System
 
-## Principle 1: The War on Drugs Was a War on Communities
-Drug enforcement has never been about drug use rates — it has been about targeting specific communities. Despite similar rates of drug use across racial groups, Black Americans are arrested for drug offenses at 3-4 times the rate of whites. In some states, the disparity is 10:1.
+"We have not ended racial caste in America; we have merely redesigned it." The current system functions like Jim Crow — a system of legalized discrimination that locks Black Americans into a permanent second-class status. Case: Jarvious Cotton's family tree — each generation faced a different system of racial control.
 
+## II. The War on Drugs Is the Mechanism
 
+"The War on Drugs was declared at a time when drug crime was declining." It was a political strategy, not a public health response. It gave law enforcement the tools to target Black communities. Case: Black men are incarcerated for drug offenses at 13 times the rate of white men despite similar rates of drug use.
 
-> **Case: The School-to-Prison Pipeline** (Chapter 5): Alexander describes how zero-tolerance policies in schools criminalize normal adolescent behavior. A student who gets into a fight can be arrested and charged with assault. A student who brings a pocketknife can be expelled and charged with a weapons offense. These policies disproportionately affect Black and Latino students, pushing them out of schools and into the juvenile justice system.
-> **Key takeaway:** Mass incarceration begins before adulthood. Schools have become a pipeline to prison for millions of children of color. Education reform is criminal justice reform.
+## III. A Felony Label Creates a Permanent Underclass
 
-## Principle 2: The System Is Self-Perpetuating
-Once labeled a "felon," a person faces legal discrimination that makes it nearly impossible to reintegrate into society. They can be denied jobs, housing, public benefits, student loans, and voting rights. These barriers increase the likelihood of reoffending, creating a revolving door.
+"Once you're labeled a felon, the old forms of discrimination are suddenly legal." Employment discrimination, housing discrimination, denial of voting rights, denial of public benefits. "The prison label is a modern-day equivalent of the Jim Crow black codes."
 
-> **Case: The Job Applicant** (Chapter 4): Alexander describes the experience of a Black man with a drug conviction who applied for over 100 jobs after his release. On every application, he checked the box asking about his criminal record. He received exactly zero callbacks. A white coworker with the same conviction applied for 50 jobs and received 10 callbacks. Racial bias in hiring compounded the stigma of a criminal record.
-> **Key takeaway:** Discrimination based on criminal records is legal in most states. This creates a permanent underclass of people who cannot find work, housing, or stability regardless of their rehabilitation.
+## IV. The System Is Colorblind in Name Only
 
-## Principle 3: Policing Creates Revenue
-In many communities, policing has become a revenue-generating operation. Civil asset forfeiture allows police to seize property without convicting anyone. Fines, fees, and court costs create a debt system that traps people in the criminal justice system.
+"The criminal justice system is not colorblind." Racial bias operates at every stage — from racial profiling in stops, to charging decisions, to sentencing disparities. Case: The 100:1 disparity between crack and powder cocaine sentencing.
 
-## Principle 4: Prosecutors Have Unchecked Power
-Prosecutors decide what charges to file, what pleas to offer, and what sentences to recommend. Their decisions are largely unreviewable. This creates a system where the outcome of a case depends less on guilt or innocence than on the prosecutor's discretion.
+## V. The Collateral Consequences Are the Real Punishment
 
-## Principle 5: Plea Bargaining Eliminates Due Process
-Over 95% of criminal cases are resolved by plea bargain, not trial. Defendants face immense pressure to plead guilty even when innocent — the trial penalty (the difference between the plea offer and the potential sentence after trial) is often decades. This has effectively eliminated the right to a trial for most defendants.
+"Locking people up is not the only way to control them." For many, the felony label that follows them is more damaging than the prison time. Case: 80% of employers conduct background checks. A felony conviction can mean permanent unemployment.
 
-The collateral consequences of a criminal record create permanent second-class status. This is not an accident - it is the system functioning as designed. Understanding these consequences is essential to grasping the scale of the problem.
+## VI. The System Was Created by Deliberate Political Strategy
 
-The most important step is acknowledging reality. The US incarcerates more people than any country in history. The racial disparities are not debatable. Once accepted, the question becomes: what do we do about it?
+"The get-tough movement was a political ploy." Nixon's Southern Strategy, Reagan's War on Drugs, Clinton's 1994 Crime Bill — all were designed to appeal to white voters. Case: The 1994 Crime Bill created mandatory minimums, "three strikes" laws, and billions in prison construction funding.
 
-The system of mass incarceration is a human rights crisis. The US has 5% of the world's population and 25% of its prisoners. This ratio is not explained by crime rates - other countries have similar crime rates but far lower incarceration. The difference is policy choices: longer sentences, more mandatory minimums, and a War on Drugs that targeted specific communities.
+## VII. Reform Is Not Enough — We Need a Movement
+
+"Tinkering is for mechanics, not racial-justice advocates." Alexander calls for a fundamental challenge to the caste system. Case: The Movement for Black Lives and the campaign to close Rikers Island are examples of the kind of movement she envisions.

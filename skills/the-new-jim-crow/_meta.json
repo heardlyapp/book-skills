@@ -1,17 +1,20 @@
 {
   "name": "the-new-jim-crow",
-  "version": "1.0.0",
-  "description": "Michelle Alexander's The New Jim Crow — an executable toolkit for understanding mass incarceration as a racial caste system in America: its history, mechanisms, human impact, and what can be done about it.\n\nCovers 5 use cases:\n① Understanding Mass Incarceration — grasp how the War on Drugs created a racial caste system\n② The Mechanics of the System — how policing, prosecution, and sentencing create racial disparities\n③ The Collateral Consequences — the permanent discrimination faced by people with criminal records\n④ The Human Impact — stories of individuals and communities devastated by mass incarceration\n⑤ Toward Reform — strategies for meaningful change.\n\nTrigger when users say: \"Mass incarceration\" \"New Jim Crow\" \"Michelle Alexander\" \"Criminal justice reform\" \"Prison system\" \"War on Drugs\" \"Racial justice\" \"Policing reform\" \"Sentencing reform\" \"Felony disenfranchisement\"\nor mention: Michelle Alexander / New Jim Crow / mass incarceration / war on drugs / racial caste / criminal justice.\n\nRelated skills: the-coddling-of-the-american-mind, battle-for-the-american-mind, the-great-displacement, clear-thinking-book.",
+  "version": "1.0.1",
+  "description": "Michelle Alexander's 'The New Jim Crow: Mass Incarceration in the Age of Colorblindness' — a landmark analysis of how mass incarceration functions as a new racial caste system. Alexander argues that the War on Drugs systematically targets Black communities, labels millions as felons, and then subjects them to legalized discrimination in voting, employment, housing, and education — locking them into a permanent second-class status.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/the-new-jim-crow",
-  "useCase": "Helps anyone understand mass incarceration as a racial caste system, its mechanisms, and what can be done to end it.",
+  "useCase": "Understanding how mass incarceration functions as a racial caste system, the War on Drugs as the mechanism, the role of racialized drug enforcement, the collateral consequences of a felony conviction, and what advocates are doing to dismantle the New Jim Crow.",
   "knownRisks": [
-    "This topic involves systemic racism and mass incarceration; engage with sensitivity, especially when discussing with those directly impacted."
+    "Controversial thesis — some scholars dispute the comparison to Jim Crow",
+    "Statistics may be dated (book published 2010/updated 2012)",
+    "Critics argue the analysis overlooks class factors and violent crime",
+    "The book is polemical advocacy, not an impartial analysis"
   ],
-  "tags": ["social-justice", "mass-incarceration", "racial-justice", "criminal-justice", "prison", "civil-rights", "law", "activism"],
+  "tags": ["mass-incarceration", "race", "criminal-justice", "war-on-drugs", "social-justice", "prison", "discrimination", "law", "civil-rights", "michelle-alexander"],
   "openclaw": {
     "emoji": "⛓️",
-    "category": "education"
+    "category": "social-justice"
   }
 }

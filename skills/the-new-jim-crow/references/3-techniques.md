@@ -1,30 +1,24 @@
-> Source: The New Jim Crow, Chapter 4 "The Cruel Hand" & Chapter 5 "The New Jim Crow"
+# Techniques — The New Jim Crow
 
-# Techniques: Understanding and Responding
+## How to Fight Mass Incarceration (Based on Michelle Alexander)
 
-## Technique 1: The Rhetorical Analysis Method
-When you hear claims about crime and punishment, ask: What is the actual crime rate? How does enforcement vary by community? Who benefits from this policy? These questions cut through rhetoric and reveal the system's true function.
+### Technique 1: The Family Tree Analysis
+Alexander's opening case: Jarvious Cotton. The technique: trace racial control systems across generations. Slavery → Jim Crow → Mass Incarceration. Show that each generation faced a different mechanism for the same outcome. Case: Cotton's great-great-grandfather was a slave; his great-grandfather was lynched for voting; his grandfather was blocked by poll taxes; his father by literacy tests; Jarvious by a felony label.
 
+### Technique 2: The Colorblindness Test
+When someone says the system is colorblind, apply Alexander's framework. "The existence of racial bias cannot be proven by showing that the system treats all people the same — it must be shown by documenting the different outcomes." Case: Same rates of drug use, but Black men incarcerated at 13x the rate. Colorblind laws applied in racially discriminatory ways.
 
+### Technique 3: The Collateral Consequences Map
+Show the full scope of the "cruel hand." (1) Employment: 80% of employers background-check. (2) Housing: public housing can deny/evict. (3) Education: Pell grants denied. (4) Benefits: food stamps denied. (5) Voting: disenfranchised — in some states for life. Case: "As a criminal, you have scarcely more rights than a black man in Alabama at the height of Jim Crow."
 
-> **Case: The Prosecutor's Power** (Chapter 3): Alexander examines the case of a young Black man offered a plea deal of 5 years for a first-time drug offense. His public defender told him to take it. He refused, insisting on his innocence. The prosecutor then added additional charges, and he faced 20 years. He took the deal on the courthouse steps. Over 95% of criminal cases end in plea bargains because the trial penalty is too severe to risk.
-> **Key takeaway:** The right to a trial has been effectively eliminated for most defendants. Plea bargaining, not trial by jury, is the reality of the American criminal justice system.
+### Technique 4: The Political Origins Audit
+Track which politicians created the system and why. Nixon → War on Drugs/political strategy. Reagan → expanded War, anti-drug media. Clinton → 1994 Crime Bill, mandatory minimums, "three strikes." Case: "The get-tough movement was a political ploy to appeal to white voters." The technique: know the origin stories so you can narrate them.
 
-## Technique 2: The Collateral Consequences Checklist
-If you know someone with a criminal record, understand what they face: employment discrimination (legal), housing discrimination (legal), denial of public benefits (legal), student loan denial (legal), voting restrictions (legal), deportation (for non-citizens). Each barrier is a policy choice, not a natural consequence.
+### Technique 5: The Reform vs Revolution Distinction
+"Tinkering is for mechanics." Distinguish between reforms that reinforce the system (more police training, better reentry programs) and movements that challenge the system itself (decriminalization, demilitarization, prison abolition). Case: Alexander criticizes the civil rights establishment for focusing on "tinkering" while the caste system grew.
 
-> **Case: The Returned Citizen** (Chapter 4): Alexander profiles a man who served 15 years for a nonviolent drug offense. After release, he completed drug treatment, earned a degree, and volunteered in his community. Despite this, he could not get a job because of his record, could not live in public housing, could not receive food stamps, and could not vote. He was, in Alexander's words, "a citizen in name only."
-> **Key takeaway:** Reintegration is nearly impossible when every path to stability is legally blocked. The system doesn't just punish — it permanently excludes.
+### Technique 6: The McCleskey Lesson
+McCleskey v. Kemp (1987): the Supreme Court acknowledged statistical evidence of racial bias in Georgia's death penalty — and ruled it irrelevant. The technique: use McCleskey to show that courts will not fix this problem. "The courthouse doors are closed to claims of racial bias." The fight must be political, not legal.
 
-## Technique 3: The Policy History Investigation
-To understand any criminal justice policy, trace its origins. Who proposed it? What problem was it supposed to solve? What was the racial context at the time? Almost all policies driving mass incarceration were created in moments of racial anxiety.
-
-## Technique 4: The Voting Rights Check
-In many states, people with felony convictions cannot vote — sometimes for life. Check your state's laws. This is one of the most direct ways the system disenfranchises communities of color.
-
-## Technique 5: The Support Organization List
-If you want to help: support organizations working on bail reform, sentencing reform, reentry services, and voting rights restoration. Individual acts of compassion matter, but systemic change requires organized effort.
-
-Effective reforms target leverage points: prosecutorial discretion, mandatory minimums, cash bail, and collateral consequences. Each is a policy choice, not a natural law. Each can be changed.
-
-Every person who learns about mass incarceration has a choice: to become part of the movement for change or to remain a bystander. The evidence is overwhelming. The moral imperative is clear. The question is what each of us will do with what we now know. Alexander's book makes it impossible to plead ignorance.
+### Technique 7: The Public Count of the "Locked Out"
+Calculate how many Americans have been locked out of the mainstream. Over 7 million Americans — 1 in 8 Black men of voting age — are disenfranchised due to a felony conviction. Case: "In many states, a felony conviction results in a lifetime ban on voting." The technique: use these numbers to show the scale of the caste system.

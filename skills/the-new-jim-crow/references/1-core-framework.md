@@ -1,25 +1,35 @@
-> Source: The New Jim Crow, Introduction & Chapter 1 "The Rebirth of Caste"
+# Core Framework — The New Jim Crow
 
-# Core Framework: Mass Incarceration as a Racial Caste System
+## Introduction: Jarvious Cotton's Family Tree
 
-Alexander's central argument is that mass incarceration in America is not simply a response to crime — it is a racial caste system that functions as a "New Jim Crow," replacing the formal discrimination of the Jim Crow era with a system of legalized discrimination against people labeled as criminals.
+Alexander opens with Jarvious Cotton, who cannot vote. His great-great-grandfather couldn't vote as a slave. His great-grandfather was beaten to death by the Klan for trying to vote. His grandfather was blocked by poll taxes. His father was blocked by literacy tests. "Today, Jarvious Cotton cannot vote because he, like many black men in the United States, has been labeled a felon and is currently on parole."
 
-## The Four Systems of Racial Control
+The thesis: "We have not ended racial caste in America; we have merely redesigned it." The Old Jim Crow used explicit racial discrimination. The New Jim Crow uses the criminal justice system to achieve the same result. "Once you're labeled a felon, the old forms of discrimination — employment discrimination, housing discrimination, denial of the right to vote, denial of educational opportunity, denial of food stamps and other public benefits, and exclusion from jury service — are suddenly legal."
 
-Alexander identifies four successive systems of racial control in American history: slavery (1619-1865), Jim Crow (1865-1965), the ghetto (1915-1968), and mass incarceration (1970s-present). Each system was dismantled in form only to be recreated in a new guise. The current system uses the criminal justice system to achieve what the earlier systems achieved through explicit racial laws.
+## Chapter 1: The Rebirth of Caste
 
-**Key insight:** Each system has been "colorblind" in its formal rules but devastatingly racial in its impact. The War on Drugs was not explicitly racist, but it was designed and enforced in ways that targeted Black communities.
+Alexander traces the history: Slavery (1619-1865) → Jim Crow (1877-1965) → Mass Incarceration (1970s-present). Each system maintained racial hierarchy. The transition from Jim Crow to mass incarceration was a deliberate political choice. "The War on Drugs was declared at a time when drug crime was declining."
 
-> **Case: The Rehnquist Court** (Chapter 1): Alexander shows how the Supreme Court, under Chief Justice William Rehnquist, systematically dismantled civil rights protections while upholding the constitutionality of the War on Drugs. By requiring proof of intentional discrimination (virtually impossible to show), the Court made it nearly impossible to challenge racially disparate outcomes. The system could produce overwhelming racial disparities without violating the Constitution.
-> **Key takeaway:** A system can be racially oppressive without being explicitly racist in its laws. When courts refuse to look at outcomes, they enable systems that produce racial hierarchy while maintaining a colorblind facade.
+**The political strategy:** Nixon's Southern Strategy appealed to white racial resentment without explicitly mentioning race. The "tough on crime" rhetoric was coded language. "The get-tough movement was a political ploy to appeal to white voters angry at the gains of the Civil Rights Movement."
 
-## The War on Drugs
+## Chapter 2: The Lockdown
 
-The primary engine of mass incarceration was the War on Drugs, launched by President Nixon and escalated dramatically under Reagan. Despite drug use rates being similar across racial groups, Black Americans were arrested, prosecuted, and incarcerated for drug offenses at rates dramatically higher than whites.
+The War on Drugs created the machinery: drug laws with mandatory minimum sentences, asset forfeiture, "broken windows" policing, the militarization of police forces. "The United States now has the highest incarceration rate of any country in the world." Case: Black men are incarcerated for drug offenses at 13 times the rate of white men, despite similar rates of drug use.
 
-> **Case: The Crack vs. Powder Disparity** (Chapter 2): Federal law punished crack cocaine offenses 100 times more severely than powder cocaine offenses. Crack was associated with Black communities; powder with white communities. A person caught with 5 grams of crack (a few rocks) received a mandatory 5-year sentence. The same sentence required 500 grams of powder cocaine. The disparity was not explicitly racial, but its impact was devastatingly so.
-> **Key takeaway:** Seemingly race-neutral laws can produce starkly racial outcomes when they target behaviors or substances associated with particular communities.
+## Chapter 3: The Color of Justice
 
-The significance of Alexander's framework is connecting mass incarceration to the long arc of American racial history. Each era of racial control was dismantled only to be replaced. Understanding this pattern is essential to making this era the last.
+Racial bias operates at every stage: stops (racial profiling), arrests, charging, plea bargaining, trials, sentencing, parole. "The criminal justice system is not colorblind." Case: Crack cocaine (associated with Black users) was punished 100 times more harshly than powder cocaine (associated with white users). The 100:1 sentencing disparity.
 
-Alexander shows how the system of mass incarceration was not an accident but a deliberate policy choice. The War on Drugs was escalated at the same time violent crime rates were declining. The prison population grew not because there was more crime but because we chose to punish more severely. Understanding this distinction is the foundation of any meaningful reform effort.
+**McCleskey v. Kemp (1987):** The Supreme Court acknowledged statistical evidence of racial bias in death sentencing, but ruled that it didn't violate the Constitution unless the defendant could prove bias in their specific case. "McCleskey closed the courthouse doors to claims of racial bias in the criminal justice system."
+
+## Chapter 4: The Cruel Hand
+
+"The collateral consequences of a felony conviction are a form of legalized discrimination." Once labeled a felon: exclusion from employment (80% of employers use background checks), denial of public housing (public housing authorities can evict), denial of food stamps, denial of student loans, denial of voting rights. "The prison label is a modern-day equivalent of the Jim Crow black codes."
+
+## Chapter 5: The New Jim Crow
+
+Alexander maps the parallels between Jim Crow and mass incarceration: legalized discrimination, exclusion from the mainstream, social stigmatization, political disenfranchisement. Case: "In many states, a felony conviction results in a lifetime ban on voting — just as poll taxes and literacy tests once blocked Black voters."
+
+## Chapter 6: The Fire This Time
+
+Alexander calls for a movement — not reform, but revolution. "Tinkering is for mechanics, not racial-justice advocates." She challenges the civil rights establishment for abandoning criminal justice reform. "We need to build a movement that challenges the basic structure of the caste system itself."
