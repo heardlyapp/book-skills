@@ -1,0 +1,24 @@
+{
+  "name": "the-heart-of-a-woman",
+  "version": "1.0.0",
+  "description": "Maya Angelou's 'The Heart of a Woman' — the fourth volume of her acclaimed autobiography series, covering 1957–1962. From the beatnik houseboat in Sausalito to the Harlem Writers Guild, from coordinating the SCLC office for Martin Luther King Jr. to marrying a South African freedom fighter in Cairo. A story of artistic awakening, political activism, racial struggle, and the fierce love between a mother and her son.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "memoir",
+    "maya-angelou",
+    "autobiography",
+    "harlem-writers-guild",
+    "civil-rights",
+    "martin-luther-king",
+    "african-american",
+    "poetry",
+    "literature",
+    "motherhood",
+    "harlem"
+  ],
+  "openclaw": {
+    "emoji": "❤️",
+    "category": "biography"
+  }
+}
