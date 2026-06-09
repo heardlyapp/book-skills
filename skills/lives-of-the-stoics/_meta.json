@@ -1,0 +1,20 @@
+{
+  "name": "lives-of-the-stoics",
+  "version": "1.0.0",
+  "description": "Ryan Holiday and Stephen Hanselman's 'Lives of the Stoics: The Art of Living from Zeno to Marcus Aurelius' — biographical sketches of 26 Stoic philosophers spanning 500 years, from the shipwreck that launched Zeno's philosophy to Marcus Aurelius' reign as philosopher king. Each life teaches enduring lessons about virtue, resilience, and the art of living well.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/lives-of-the-stoics",
+  "useCase": "Understanding Stoic philosophy through the lives of its practitioners, learning from the successes and failures of figures like Zeno, Cato, Seneca, Epictetus, and Marcus Aurelius, and finding moral lessons for modern life.",
+  "knownRisks": [
+    "Not a comprehensive academic history — written for popular audiences",
+    "Some biographical details are uncertain or based on fragmentary sources",
+    "Moral lessons are extracted subjectively by the authors",
+    "The male-dominated narrative reflects ancient limitations, not modern values"
+  ],
+  "tags": ["stoicism", "philosophy", "history", "biography", "ancient-rome", "ancient-greece", "resilience", "virtue", "wisdom", "ryan-holiday"],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "philosophy"
+  }
+}

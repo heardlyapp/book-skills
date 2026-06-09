@@ -5214,7 +5214,28 @@
       "emoji": "\ud83d\udcd6",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/life-101"
+    },
+    {
+      "slug": "lives-of-the-stoics",
+      "title": "Ryan Holiday and Stephen Hanselman's Lives of the Stoics \u2014 26 biographies of Stoic philosophers from Zeno to Marcus Aurelius, teaching the art of living through courage, temperance, justice, and wisdom",
+      "author": "Ryan Holiday / Stephen Hanselman",
+      "version": "1.0.0",
+      "tags": [
+        "stoicism",
+        "philosophy",
+        "history",
+        "biography",
+        "ancient-rome",
+        "ancient-greece",
+        "resilience",
+        "virtue",
+        "wisdom",
+        "ryan-holiday"
+      ],
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/lives-of-the-stoics"
     }
   ],
-  "total_skills": 277
+  "total_skills": 278
 }
