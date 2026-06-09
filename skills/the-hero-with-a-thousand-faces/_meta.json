@@ -1,0 +1,24 @@
+{
+  "name": "the-hero-with-a-thousand-faces",
+  "version": "1.0.0",
+  "description": "Joseph Campbell's 'The Hero with a Thousand Faces' — the masterwork of comparative mythology that revealed the universal monomyth underlying all world myths, religions, and folktales. The hero's journey of separation-initiation-return, the cosmogonic cycle of creation and dissolution, and the archetypal patterns that shape human consciousness. The book that inspired George Lucas to create Star Wars.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "mythology",
+    "joseph-campbell",
+    "hero-journey",
+    "monomyth",
+    "archetypes",
+    "comparative-religion",
+    "psychology",
+    "jung",
+    "storytelling",
+    "symbolism",
+    "consciousness"
+  ],
+  "openclaw": {
+    "emoji": "🗡️",
+    "category": "philosophy"
+  }
+}
