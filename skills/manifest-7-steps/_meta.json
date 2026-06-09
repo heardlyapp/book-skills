@@ -1,0 +1,20 @@
+{
+  "name": "manifest-7-steps",
+  "version": "1.0.0",
+  "description": "Roxie Nafousi's 'Manifest: 7 Steps to Living Your Best Life' — a practical guide to manifestation combining neuroscience, quantum physics, and spiritual wisdom. Covers the seven steps: clear vision, removing fear and doubt, aligning behavior, overcoming tests, embracing gratitude, turning envy into inspiration, and trusting the universe.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/manifest-7-steps",
+  "useCase": "Understanding the practice of manifestation, clarifying your goals and vision, removing fear and self-doubt, aligning your actions with your intentions, and trusting the universe to deliver what you desire.",
+  "knownRisks": [
+    "Rooted in law of attraction and quantum physics interpretations that some scientists dispute",
+    "May feel too 'woo-woo' for skeptical readers",
+    "The author's personal story is extraordinary — realistic expectations needed",
+    "Not a substitute for professional mental health treatment"
+  ],
+  "tags": ["manifestation", "self-help", "law-of-attraction", "personal-development", "mindset", "visualization", "gratitude", "neuroscience", "spirituality", "goal-setting"],
+  "openclaw": {
+    "emoji": "✨",
+    "category": "self-help"
+  }
+}

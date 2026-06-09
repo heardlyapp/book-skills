@@ -5235,7 +5235,28 @@
       "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/lives-of-the-stoics"
+    },
+    {
+      "slug": "manifest-7-steps",
+      "title": "Roxie Nafousi's Manifest: 7 Steps to Living Your Best Life \u2014 a practical guide to manifestation combining neuroscience, quantum physics, and spiritual wisdom for creating the life you want",
+      "author": "Roxie Nafousi",
+      "version": "1.0.0",
+      "tags": [
+        "manifestation",
+        "self-help",
+        "law-of-attraction",
+        "personal-development",
+        "mindset",
+        "visualization",
+        "gratitude",
+        "neuroscience",
+        "spirituality",
+        "goal-setting"
+      ],
+      "emoji": "\u2728",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/manifest-7-steps"
     }
   ],
-  "total_skills": 278
+  "total_skills": 279
 }
