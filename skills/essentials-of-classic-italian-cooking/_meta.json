@@ -1,0 +1,21 @@
+{
+  "name": "essentials-of-classic-italian-cooking",
+  "version": "1.0.0",
+  "description": "Marcella Hazan's definitive 'Essentials of Classic Italian Cooking' — the complete guide to Italian home cooking from the most authoritative voice in the field. Covers battuto-soffritto-insaporire techniques, regional Italian cuisines, ingredient selection, and hundreds of authentic recipes from appetizers to desserts.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/essentials-of-classic-italian-cooking",
+  "useCase": "Learning classic Italian cooking techniques, understanding Italy's regional cuisines, selecting and preparing authentic Italian ingredients, and making dishes from pasta sauces to roasts to desserts.",
+  "knownRisks": [
+    "Recipes are designed for home cooking, not professional kitchens",
+    "Fresh, high-quality ingredients are essential — substitutions compromise results",
+    "Some ingredients may be hard to find outside major cities",
+    "Cookbook, not a food science or nutrition text",
+    "Author is opinionated about methods and ingredients — her way is not the only way"
+  ],
+  "tags": ["cooking", "italian", "pasta", "recipes", "cuisine", "cookbook", "marcella-hazan", "mediterranean", "food", "homemade"],
+  "openclaw": {
+    "emoji": "🍝",
+    "category": "cooking"
+  }
+}

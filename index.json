@@ -4962,7 +4962,28 @@
       "emoji": "\ud83d\udee1\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/emotional-blackmail"
+    },
+    {
+      "slug": "essentials-of-classic-italian-cooking",
+      "title": "Marcella Hazan's Essentials of Classic Italian Cooking \u2014 the definitive guide to Italian home cooking with battuto-soffritto-insaporire techniques, regional cuisines, authentic ingredient selection, and hundreds of classic recipes",
+      "author": "Marcella Hazan",
+      "version": "1.0.0",
+      "tags": [
+        "cooking",
+        "italian",
+        "pasta",
+        "recipes",
+        "cuisine",
+        "cookbook",
+        "marcella-hazan",
+        "mediterranean",
+        "food",
+        "homemade"
+      ],
+      "emoji": "\ud83c\udf5d",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/essentials-of-classic-italian-cooking"
     }
   ],
-  "total_skills": 265
+  "total_skills": 266
 }
