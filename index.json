@@ -5193,7 +5193,28 @@
       "emoji": "\u23f0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/its-about-damn-time"
+    },
+    {
+      "slug": "life-101",
+      "title": "Peter McWilliams' Life 101 \u2014 everything we wish we'd learned in school but didn't: doing, learning, enjoying, forgiving, choosing, and loving through a smorgasbord of wisdom quotes and practical life lessons",
+      "author": "Peter McWilliams",
+      "version": "1.0.0",
+      "tags": [
+        "self-help",
+        "philosophy",
+        "wisdom",
+        "life-lessons",
+        "personal-development",
+        "happiness",
+        "forgiveness",
+        "joy",
+        "mindfulness",
+        "spirituality"
+      ],
+      "emoji": "\ud83d\udcd6",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/life-101"
     }
   ],
-  "total_skills": 276
+  "total_skills": 277
 }

@@ -1,0 +1,20 @@
+{
+  "name": "life-101",
+  "version": "1.0.0",
+  "description": "Peter McWilliams' 'Life 101: Everything We Wish We Had Learned About Life in School — But Didn't' — a gentle, humorous, and profound guide to life's fundamental lessons: learning, doing, enjoying, forgiving, following your heart, and living with joy. Packed with quotes, analogies, and practical wisdom from a smorgasbord of life's teachers.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/life-101",
+  "useCase": "Finding practical wisdom for living a joyful life, learning to forgive yourself and others, understanding life's purpose through metaphors, and discovering the tools for being a successful and happy human being.",
+  "knownRisks": [
+    "Published in the 1990s — some references may feel dated",
+    "Quirky, aphoristic style may not appeal to all readers",
+    "Not a systematic philosophy — more of a collection of observations",
+    "Some New Age concepts (Law of Attraction) lack scientific backing"
+  ],
+  "tags": ["self-help", "philosophy", "wisdom", "life-lessons", "personal-development", "happiness", "forgiveness", "joy", "mindfulness", "spirituality"],
+  "openclaw": {
+    "emoji": "📖",
+    "category": "self-help"
+  }
+}
