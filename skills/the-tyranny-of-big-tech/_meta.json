@@ -1,7 +1,7 @@
 {
   "name": "the-tyranny-of-big-tech",
   "version": "1.0.0",
-  "description": "Josh Hawley The Tyranny of Big Tech \u2014 an executable toolkit for understanding how Big Tech monopolies control speech, data, and democracy.",
+  "description": "Josh Hawley The Tyranny of Big Tech — an executable toolkit for understanding how Big Tech monopolies control speech, data, and democracy.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/the-tyranny-of-big-tech",
@@ -13,7 +13,7 @@
     "antitrust"
   ],
   "openclaw": {
-    "emoji": "\ud83c\udfe2",
+    "emoji": "🏢",
     "category": "education"
   }
 }

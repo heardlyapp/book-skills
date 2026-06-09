@@ -1,7 +1,7 @@
 {
   "name": "spillover",
   "version": "1.0.0",
-  "description": "David Quammen's 'Spillover: Animal Infections and the Next Human Pandemic' \u2014 the definitive account of zoonotic diseases, how animal viruses jump to humans, and why the next pandemic is a question of when, not if. Covers Hendra, SARS, Ebola, Nipah, HIV/AIDS, and the science of spillover events.",
+  "description": "David Quammen's 'Spillover: Animal Infections and the Next Human Pandemic' — the definitive account of zoonotic diseases, how animal viruses jump to humans, and why the next pandemic is a question of when, not if. Covers Hendra, SARS, Ebola, Nipah, HIV/AIDS, and the science of spillover events.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/spillover",
@@ -9,7 +9,7 @@
   "knownRisks": [
     "Contains graphic descriptions of disease and death",
     "Some virology details may be dense",
-    "Written pre-COVID (2012) \u2014 prescient but not updated",
+    "Written pre-COVID (2012) — prescient but not updated",
     "The ecological sections may feel slow to some readers"
   ],
   "tags": [
@@ -27,7 +27,7 @@
     "epidemiology"
   ],
   "openclaw": {
-    "emoji": "\ud83e\udd87",
+    "emoji": "🦇",
     "category": "science"
   }
 }

@@ -1,1 +1,29 @@
-{"name": "dear-ijeawele", "version": "1.0.2", "description": "Chimamanda Ngozi Adichie's 'Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions' \u2014 15 powerful suggestions for raising a feminist daughter, covering identity, culture, love, money, and freedom.", "publisher": "heardlyapp", "license": "MIT", "homepage": "https://clawhub.ai/heardlyapp/dear-ijeawele", "useCase": "Raise confident, independent daughters who question the world, reject limiting gender roles, and grow into full people.", "knownRisks": ["May challenge deeply held cultural/religious beliefs about gender roles", "Written from a specific cultural perspective (Nigerian/Western educated)"], "tags": ["chimamanda-ngozi-adichie", "feminism", "parenting", "gender-equality", "motherhood", "daughters", "raising-girls", "womanhood", "culture", "empowerment"], "openclaw": {"emoji": "\ud83d\udcaa", "category": "parenting"}}
+{
+  "name": "dear-ijeawele",
+  "version": "1.0.2",
+  "description": "Chimamanda Ngozi Adichie's 'Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions' — 15 powerful suggestions for raising a feminist daughter, covering identity, culture, love, money, and freedom.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/dear-ijeawele",
+  "useCase": "Raise confident, independent daughters who question the world, reject limiting gender roles, and grow into full people.",
+  "knownRisks": [
+    "May challenge deeply held cultural/religious beliefs about gender roles",
+    "Written from a specific cultural perspective (Nigerian/Western educated)"
+  ],
+  "tags": [
+    "chimamanda-ngozi-adichie",
+    "feminism",
+    "parenting",
+    "gender-equality",
+    "motherhood",
+    "daughters",
+    "raising-girls",
+    "womanhood",
+    "culture",
+    "empowerment"
+  ],
+  "openclaw": {
+    "emoji": "💪",
+    "category": "parenting"
+  }
+}

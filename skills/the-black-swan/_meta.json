@@ -1,7 +1,7 @@
 {
   "name": "the-black-swan",
   "version": "1.0.0",
-  "description": "Nassim Nicholas Taleb's The Black Swan \u2014 an executable toolkit for navigating uncertainty, randomness, and rare high-impact events.",
+  "description": "Nassim Nicholas Taleb's The Black Swan — an executable toolkit for navigating uncertainty, randomness, and rare high-impact events.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/the-black-swan",
@@ -13,7 +13,7 @@
     "antifragile"
   ],
   "openclaw": {
-    "emoji": "\ud83e\udda2",
+    "emoji": "🦢",
     "category": "education"
   }
 }

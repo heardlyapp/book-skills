@@ -1,1 +1,29 @@
-{"name": "beyond-band-of-brothers", "version": "1.0.1", "description": "Major Dick Winters' 'Beyond Band of Brothers: The War Memoirs of Major Dick Winters' \u2014 the true story of Easy Company through WWII, from the man who led them, with combat leadership lessons forged on D-Day, in Bastogne, and beyond.", "publisher": "heardlyapp", "license": "MIT", "homepage": "https://clawhub.ai/heardlyapp/beyond-band-of-brothers", "useCase": "Learn leadership from one of WWII's most respected combat leaders \u2014 how to build team loyalty, stay calm in crisis, and lead from the front.", "knownRisks": ["Combat memoirs contain graphic descriptions of violence and death \u2014 not suitable for all audiences", "Military leadership lessons require adaptation for civilian contexts \u2014 direct application can miss nuances"], "tags": ["dick-winters", "band-of-brothers", "world-war-ii", "military-history", "leadership", "easy-company", "101st-airborne", "paratrooper", "combat", "courage"], "openclaw": {"emoji": "\ud83e\ude82", "category": "history"}}
+{
+  "name": "beyond-band-of-brothers",
+  "version": "1.0.1",
+  "description": "Major Dick Winters' 'Beyond Band of Brothers: The War Memoirs of Major Dick Winters' — the true story of Easy Company through WWII, from the man who led them, with combat leadership lessons forged on D-Day, in Bastogne, and beyond.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/beyond-band-of-brothers",
+  "useCase": "Learn leadership from one of WWII's most respected combat leaders — how to build team loyalty, stay calm in crisis, and lead from the front.",
+  "knownRisks": [
+    "Combat memoirs contain graphic descriptions of violence and death — not suitable for all audiences",
+    "Military leadership lessons require adaptation for civilian contexts — direct application can miss nuances"
+  ],
+  "tags": [
+    "dick-winters",
+    "band-of-brothers",
+    "world-war-ii",
+    "military-history",
+    "leadership",
+    "easy-company",
+    "101st-airborne",
+    "paratrooper",
+    "combat",
+    "courage"
+  ],
+  "openclaw": {
+    "emoji": "🪂",
+    "category": "history"
+  }
+}

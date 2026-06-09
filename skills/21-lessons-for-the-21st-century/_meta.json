@@ -1,7 +1,7 @@
 {
   "name": "21-lessons-for-the-21st-century",
   "version": "1.0.0",
-  "description": "Yuval Noah Harari's 21 Lessons for the 21st Century \u2014 an executable toolkit for navigating the biggest challenges of our time: technology, politics, religion, and the future of humanity.",
+  "description": "Yuval Noah Harari's 21 Lessons for the 21st Century — an executable toolkit for navigating the biggest challenges of our time: technology, politics, religion, and the future of humanity.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/21-lessons-for-the-21st-century",
@@ -14,7 +14,7 @@
     "philosophy"
   ],
   "openclaw": {
-    "emoji": "\ud83c\udf0d",
+    "emoji": "🌍",
     "category": "education"
   }
 }

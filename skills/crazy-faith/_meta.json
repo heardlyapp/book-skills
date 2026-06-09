@@ -1,1 +1,29 @@
-{"name": "crazy-faith", "version": "1.0.1", "description": "Michael Todd's 'Crazy Faith: It's Only Crazy Until It Happens' \u2014 a high-energy guide to faith that looks irrational to the world but is exactly what God calls you to, covering baby faith, waiting faith, and everything in between.", "publisher": "heardlyapp", "license": "MIT", "homepage": "https://clawhub.ai/heardlyapp/crazy-faith", "useCase": "Take bold leaps of faith, grow through different stages of spiritual maturity, and trust God even when it doesn't make sense to anyone else.", "knownRisks": ["Christian-focused content \u2014 primarily relevant to Christian readers", "Strong charismatic/Pentecostal orientation \u2014 may not resonate across all denominations"], "tags": ["michael-todd", "christianity", "faith", "spirituality", "religion", "prayer", "trust", "obedience", "courage", "god"], "openclaw": {"emoji": "\ud83d\ude4c", "category": "spirituality"}}
+{
+  "name": "crazy-faith",
+  "version": "1.0.1",
+  "description": "Michael Todd's 'Crazy Faith: It's Only Crazy Until It Happens' — a high-energy guide to faith that looks irrational to the world but is exactly what God calls you to, covering baby faith, waiting faith, and everything in between.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/crazy-faith",
+  "useCase": "Take bold leaps of faith, grow through different stages of spiritual maturity, and trust God even when it doesn't make sense to anyone else.",
+  "knownRisks": [
+    "Christian-focused content — primarily relevant to Christian readers",
+    "Strong charismatic/Pentecostal orientation — may not resonate across all denominations"
+  ],
+  "tags": [
+    "michael-todd",
+    "christianity",
+    "faith",
+    "spirituality",
+    "religion",
+    "prayer",
+    "trust",
+    "obedience",
+    "courage",
+    "god"
+  ],
+  "openclaw": {
+    "emoji": "🙌",
+    "category": "spirituality"
+  }
+}

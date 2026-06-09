@@ -1,30 +1,30 @@
 {
- "name": "autonomy-the-quest-to-build-the-driverless-car",
- "version": "1.0.0",
- "description": "Lawrence D. Burns and Christopher Shulgan's 'Autonomy: The Quest to Build the Driverless Car' \u2014 the inside story of the race to build self-driving cars, from the DARPA Grand Challenge to Google's Waymo, and how autonomous vehicles will reshape transportation and society.",
- "publisher": "heardlyapp",
- "license": "MIT",
- "homepage": "https://clawhub.ai/heardlyapp/autonomy-the-quest-to-build-the-driverless-car",
- "useCase": "Understand the history, technology, and future of autonomous vehicles from an industry insider who helped shape the field.",
- "knownRisks": [
-  "Written in 2018 \u2014 some information on industry developments is dated",
-  "Burns's insider perspective may be biased toward companies he was involved with",
-  "The technology landscape changes rapidly \u2014 supplement with current news"
- ],
- "tags": [
-  "lawrence-burns-christopher-shulgan",
-  "autonomy",
-  "self-driving-cars",
-  "autonomous-vehicles",
-  "waymo",
-  "darpa-grand-challenge",
-  "technology",
-  "transportation",
-  "AI",
-  "automotive"
- ],
- "openclaw": {
-  "emoji": "\ud83d\ude98",
-  "category": "technology"
- }
+  "name": "autonomy-the-quest-to-build-the-driverless-car",
+  "version": "1.0.0",
+  "description": "Lawrence D. Burns and Christopher Shulgan's 'Autonomy: The Quest to Build the Driverless Car' — the inside story of the race to build self-driving cars, from the DARPA Grand Challenge to Google's Waymo, and how autonomous vehicles will reshape transportation and society.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/autonomy-the-quest-to-build-the-driverless-car",
+  "useCase": "Understand the history, technology, and future of autonomous vehicles from an industry insider who helped shape the field.",
+  "knownRisks": [
+    "Written in 2018 — some information on industry developments is dated",
+    "Burns's insider perspective may be biased toward companies he was involved with",
+    "The technology landscape changes rapidly — supplement with current news"
+  ],
+  "tags": [
+    "lawrence-burns-christopher-shulgan",
+    "autonomy",
+    "self-driving-cars",
+    "autonomous-vehicles",
+    "waymo",
+    "darpa-grand-challenge",
+    "technology",
+    "transportation",
+    "AI",
+    "automotive"
+  ],
+  "openclaw": {
+    "emoji": "🚘",
+    "category": "technology"
+  }
 }

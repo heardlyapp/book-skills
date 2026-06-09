@@ -1,15 +1,15 @@
 {
   "name": "reentry",
   "version": "1.0.1",
-  "description": "Eric Berger's 'Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age' \u2014 a toolkit for applying SpaceX's scrappy innovation culture, failure-recovery playbook, and reusability-thinking to your own high-stakes projects.",
+  "description": "Eric Berger's 'Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age' — a toolkit for applying SpaceX's scrappy innovation culture, failure-recovery playbook, and reusability-thinking to your own high-stakes projects.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/reentry",
   "useCase": "Apply SpaceX's scrappy innovation methods, failure-recovery playbook, and reusability mindset to engineering projects, business strategy, and team culture challenges.",
   "knownRisks": [
-    "SpaceX's methods assume a founder-led organization with extreme conviction \u2014 may not translate directly to consensus-driven cultures",
+    "SpaceX's methods assume a founder-led organization with extreme conviction — may not translate directly to consensus-driven cultures",
     "'Musk time' deadlines can cause burnout if applied without recovery cycles",
-    "The 'scrappy' approach works best when the core vision is clear and stable \u2014 can devolve into chaos without strong leadership"
+    "The 'scrappy' approach works best when the core vision is clear and stable — can devolve into chaos without strong leadership"
   ],
   "tags": [
     "spacex",
@@ -24,7 +24,7 @@
     "reusability"
   ],
   "openclaw": {
-    "emoji": "\ud83d\ude80",
+    "emoji": "🚀",
     "category": "business"
   }
 }

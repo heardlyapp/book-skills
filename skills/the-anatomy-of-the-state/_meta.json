@@ -1,7 +1,7 @@
 {
   "name": "the-anatomy-of-the-state",
   "version": "1.0.0",
-  "description": "Murray Rothbard Anatomy of the State \u2014 an executable toolkit for understanding the nature of the state as a coercive institution.",
+  "description": "Murray Rothbard Anatomy of the State — an executable toolkit for understanding the nature of the state as a coercive institution.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "homepage": "https://clawhub.ai/heardlyapp/the-anatomy-of-the-state",
@@ -13,7 +13,7 @@
     "austrian-economics"
   ],
   "openclaw": {
-    "emoji": "\ud83c\udff4",
+    "emoji": "🏴",
     "category": "education"
   }
 }

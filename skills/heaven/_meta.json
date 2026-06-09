@@ -1,19 +1,30 @@
 {
- "name": "heaven-think-on-these-things",
- "version": "1.0.0",
- "description": "Carl Martin's 'Heaven: Think On These Things' — a biblically grounded exploration of heaven as a real place with real people, real relationships, and real purpose on a redeemed new earth.",
- "publisher": "heardlyapp",
- "license": "MIT",
- "homepage": "https://clawhub.ai/heardlyapp/heaven-think-on-these-things",
- "useCase": "Gain a biblical understanding of heaven, find comfort in grief, explore theological questions about the afterlife, and develop an eternal perspective for daily life.",
- "knownRisks": [
-  "Primarily Christian perspective — may not resonate with non-Christian readers",
-  "Speculative elements — Martin acknowledges some descriptions are imaginative extrapolations from biblical texts",
-  "Some theological positions (e.g., new earth, resurrection bodies) may differ across denominations"
- ],
- "tags": ["heaven", "christianity", "afterlife", "theology", "eternity", "bible", "faith", "comfort", "hope", "spiritual-growth"],
- "openclaw": {
-  "emoji": "💫",
-  "category": "spirituality"
- }
+  "name": "heaven",
+  "version": "1.0.1",
+  "description": "Carl Martin's 'Heaven: Think On These Things' — a biblically grounded exploration of heaven as a real place with real people, real relationships, and real purpose on a redeemed new earth.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/heaven-think-on-these-things",
+  "useCase": "Gain a biblical understanding of heaven, find comfort in grief, explore theological questions about the afterlife, and develop an eternal perspective for daily life.",
+  "knownRisks": [
+    "Primarily Christian perspective — may not resonate with non-Christian readers",
+    "Speculative elements — Martin acknowledges some descriptions are imaginative extrapolations from biblical texts",
+    "Some theological positions (e.g., new earth, resurrection bodies) may differ across denominations"
+  ],
+  "tags": [
+    "heaven",
+    "christianity",
+    "afterlife",
+    "theology",
+    "eternity",
+    "bible",
+    "faith",
+    "comfort",
+    "hope",
+    "spiritual-growth"
+  ],
+  "openclaw": {
+    "emoji": "💫",
+    "category": "spirituality"
+  }
 }
