@@ -4647,7 +4647,28 @@
       "emoji": "\ud83d\udee1\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/boundaries"
+    },
+    {
+      "slug": "the-book-of-hope",
+      "title": "Jane Goodall's The Book of Hope \u2014 a survival guide for trying times, exploring hope as an active force through the wisdom of a life spent in the service of animals, nature, and humanity",
+      "author": "Jane Goodall / Douglas Abrams",
+      "version": "1.0.0",
+      "tags": [
+        "hope",
+        "environment",
+        "conservation",
+        "biography",
+        "spirituality",
+        "inspiration",
+        "science",
+        "activism",
+        "nature",
+        "survival"
+      ],
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-hope"
     }
   ],
-  "total_skills": 250
+  "total_skills": 251
 }

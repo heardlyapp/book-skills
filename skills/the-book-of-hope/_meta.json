@@ -1,0 +1,20 @@
+{
+  "name": "the-book-of-hope",
+  "version": "1.0.0",
+  "description": "Jane Goodall's dialogue with Douglas Abrams on the nature of hope — from her childhood in WWII England to the Gombe chimpanzees to decades of environmental activism, exploring why hope is not passive wishful thinking but an active survival trait that can sustain us through the darkest times.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-book-of-hope",
+  "useCase": "Understanding hope as an active survival trait, finding reasons to act despite despair, cultivating hope in young people, and learning from Jane Goodall's remarkable life story.",
+  "knownRisks": [
+    "Written in dialogue format — may feel less structured than a traditional book",
+    "Jane Goodall is 87 — some memories may be nostalgic rather than precise",
+    "The book was written during COVID (2020-2021) — pandemic context colors the tone",
+    "Jane's Christian/science blend may not resonate with all readers"
+  ],
+  "tags": ["hope", "environment", "conservation", "biography", "spirituality", "inspiration", "science", "activism", "nature", "survival"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "social-impact"
+  }
+}
