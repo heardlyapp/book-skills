@@ -1,0 +1,20 @@
+{
+  "name": "infinite-powers",
+  "version": "1.0.0",
+  "description": "Steven Strogatz's 'Infinite Powers: How Calculus Reveals the Secrets of the Universe' — the most accessible introduction to the greatest ideas of calculus, from Archimedes to Newton to Einstein. Covers the Infinity Principle (slice, solve, sum), differential and integral calculus, and how calculus has reshaped civilization through science, medicine, and technology.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/infinite-powers",
+  "useCase": "Understanding what calculus is and why it matters, learning the Infinity Principle, exploring the history of calculus from Archimedes to Newton to modern applications, and seeing how calculus reveals the mathematical fabric of the universe.",
+  "knownRisks": [
+    "Covers conceptual ideas, not computational techniques — no problem-solving practice",
+    "May oversimplify complex mathematical concepts",
+    "Written from an applied mathematician's perspective, not a pure mathematician's",
+    "Some historical details are streamlined for readability"
+  ],
+  "tags": ["calculus", "mathematics", "science", "history", "infinity", "newton", "differential-equations", "physics", "education", "popular-math"],
+  "openclaw": {
+    "emoji": "∞",
+    "category": "mathematics"
+  }
+}

@@ -5109,7 +5109,28 @@
       "emoji": "\ud83d\ude80",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/ignition"
+    },
+    {
+      "slug": "infinite-powers",
+      "title": "Steven Strogatz's Infinite Powers \u2014 the most accessible introduction to calculus, from Archimedes to Newton to Fourier, explaining the Infinity Principle and how differential equations reveal the mathematical fabric of reality",
+      "author": "Steven Strogatz",
+      "version": "1.0.0",
+      "tags": [
+        "calculus",
+        "mathematics",
+        "science",
+        "history",
+        "infinity",
+        "newton",
+        "differential-equations",
+        "physics",
+        "education",
+        "popular-math"
+      ],
+      "emoji": "\u221e",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/infinite-powers"
     }
   ],
-  "total_skills": 272
+  "total_skills": 273
 }
