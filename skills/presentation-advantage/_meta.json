@@ -1,0 +1,20 @@
+{
+  "name": "presentation-advantage",
+  "version": "1.0.0",
+  "description": "Kory Kogon, Breck England, and Julie Schmidt's 'Presentation Advantage: How to Inform and Persuade Any Audience' — a FranklinCovey guide to powerful presenting. The 3-D system: Develop a message, Design visuals, Deliver with excellence. Covers connecting with your audience in an age of distraction, character-based credibility, storytelling, and the 'real job' of a knowledge worker.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/presentation-advantage",
+  "useCase": "Improving presentation skills, creating effective PowerPoint/visual aids, engaging distracted audiences, developing compelling key messages, delivering with confidence, and persuading decision makers.",
+  "knownRisks": [
+    "FranklinCovey methodology — can feel formulaic",
+    "Some examples are dated (2015 publication)",
+    "Does not cover AI/presentation tools available today",
+    "Virtual presenting advice is minimal"
+  ],
+  "tags": ["presentation", "public-speaking", "communication", "franklin-covey", "business", "leadership", "persuasion", "visual-design", "storytelling", "professional-development"],
+  "openclaw": {
+    "emoji": "🎤",
+    "category": "communication"
+  }
+}

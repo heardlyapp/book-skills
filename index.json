@@ -5558,7 +5558,28 @@
       "emoji": "\ud83d\udcdc",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/prequel-an-american-fight-against-fascism"
+    },
+    {
+      "slug": "presentation-advantage",
+      "title": "Kory Kogon, Breck England, and Julie Schmidt's Presentation Advantage \u2014 a FranklinCovey guide to powerful presenting, covering the 3-D system (Develop-Design-Deliver), character-based credibility, 8-second attention spans, and the data storytelling method",
+      "author": "Kory Kogon, Breck England, Julie Schmidt",
+      "version": "1.0.0",
+      "tags": [
+        "presentation",
+        "public-speaking",
+        "communication",
+        "franklin-covey",
+        "business",
+        "leadership",
+        "persuasion",
+        "visual-design",
+        "storytelling",
+        "professional-development"
+      ],
+      "emoji": "\ud83c\udfa4",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/presentation-advantage"
     }
   ],
-  "total_skills": 293
+  "total_skills": 294
 }
