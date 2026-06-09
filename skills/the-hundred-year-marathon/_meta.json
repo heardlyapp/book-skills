@@ -1,0 +1,21 @@
+{
+  "name": "the-hundred-year-marathon",
+  "version": "1.0.0",
+  "description": "Michael Pillsbury's controversial exposé of China's long-term strategy to surpass America as the global superpower by 2049 — examining the ying pai (hawks), the 'assassin's mace' concept, and the systematic deception that has hidden China's true ambitions from the West.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-hundred-year-marathon",
+  "useCase": "Understanding China's long-term strategic planning, the role of Chinese hawks in policy, the use of deception in Chinese strategy, and American misperceptions that have enabled China's rise.",
+  "knownRisks": [
+    "Highly controversial thesis — many China experts disagree with Pillsbury's conclusions",
+    "The 'deception' framework can be seen as alarmist or Sinophobic",
+    "Pillsbury's sources include Chinese defectors and anonymous intelligence contacts",
+    "The book was published in 2015 — events since then (trade war, Taiwan) provide additional context not covered",
+    "The author acknowledges he was himself a 'panda hugger' for decades before changing his views — bias may cut both ways"
+  ],
+  "tags": ["china", "geopolitics", "strategy", "intelligence", "foreign-policy", "military", "us-china", "asia", "national-security", "history"],
+  "openclaw": {
+    "emoji": "🐉",
+    "category": "professional-development"
+  }
+}

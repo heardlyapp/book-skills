@@ -4773,7 +4773,28 @@
       "emoji": "\ud83d\udd75\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-spy-and-the-traitor"
+    },
+    {
+      "slug": "the-hundred-year-marathon",
+      "title": "Michael Pillsbury's The Hundred-Year Marathon \u2014 a controversial expos\u00e9 of China's long-term strategy to surpass America by 2049 through deception, technology theft, and strategic competition",
+      "author": "Michael Pillsbury",
+      "version": "1.0.0",
+      "tags": [
+        "china",
+        "geopolitics",
+        "strategy",
+        "intelligence",
+        "foreign-policy",
+        "military",
+        "us-china",
+        "asia",
+        "national-security",
+        "history"
+      ],
+      "emoji": "\ud83d\udc09",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-hundred-year-marathon"
     }
   ],
-  "total_skills": 256
+  "total_skills": 257
 }
