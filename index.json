@@ -5536,7 +5536,29 @@
       "emoji": "\ud83c\udf43",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/medical-medium-liver-rescue"
+    },
+    {
+      "slug": "prequel-an-american-fight-against-fascism",
+      "title": "Rachel Maddow's Prequel: An American Fight Against Fascism \u2014 the untold story of Nazi agents, homegrown fascists, Congressional collaborators, and the antifascist resistance in pre-WWII America",
+      "author": "Rachel Maddow",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "american-history",
+        "fascism",
+        "nazis",
+        "wwii",
+        "rachel-maddow",
+        "politics",
+        "democracy",
+        "journalism",
+        "congress",
+        "sedition"
+      ],
+      "emoji": "\ud83d\udcdc",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/prequel-an-american-fight-against-fascism"
     }
   ],
-  "total_skills": 292
+  "total_skills": 293
 }

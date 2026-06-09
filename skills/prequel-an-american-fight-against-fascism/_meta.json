@@ -1,0 +1,20 @@
+{
+  "name": "prequel-an-american-fight-against-fascism",
+  "version": "1.0.0",
+  "description": "Rachel Maddow's 'Prequel: An American Fight Against Fascism' — the untold story of the American fascist movement in the 1930s and 1940s. A network of Nazi agents, homegrown fascists, and Congressional collaborators who tried to undermine American democracy before World War II — and the courageous journalists, prosecutors, and antifascist spies who stopped them.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/prequel-an-american-fight-against-fascism",
+  "useCase": "Understanding pre-WWII American fascism, how Nazis infiltrated the US, the sedition trials, Congressional collaboration, media manipulation, and the parallels to modern democracy threats.",
+  "knownRisks": [
+    "Some content may be distressing (antisemitism, racial violence)",
+    "Maddow is a liberal commentator — not an unbiased historian",
+    "The cast of characters is large and complex",
+    "Some claims rely on recently discovered archival material"
+  ],
+  "tags": ["history", "american-history", "fascism", "nazis", "wwii", "rachel-maddow", "politics", "democracy", "journalism", "congress", "sedition"],
+  "openclaw": {
+    "emoji": "📜",
+    "category": "history"
+  }
+}
