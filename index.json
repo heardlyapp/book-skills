@@ -4731,7 +4731,28 @@
       "emoji": "\ud83c\udfac",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/save-the-cat"
+    },
+    {
+      "slug": "outlaw-platoon",
+      "title": "Sean Parnell's Outlaw Platoon \u2014 the visceral, personal account of leading an infantry platoon on the Afghan-Pakistani border through 16 months of continuous combat",
+      "author": "Sean Parnell with John R. Bruning",
+      "version": "1.0.0",
+      "tags": [
+        "war",
+        "afghanistan",
+        "military",
+        "memoir",
+        "platoon",
+        "infantry",
+        "combat",
+        "leadership",
+        "brotherhood",
+        "soldiers"
+      ],
+      "emoji": "\u2694\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/outlaw-platoon"
     }
   ],
-  "total_skills": 254
+  "total_skills": 255
 }

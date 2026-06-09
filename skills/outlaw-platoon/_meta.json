@@ -1,0 +1,20 @@
+{
+  "name": "outlaw-platoon",
+  "version": "1.0.0",
+  "description": "Sean Parnell's visceral account of leading a platoon of American infantrymen on the Afghan-Pakistani border in 2006 — sixteen months of continuous combat, brotherhood forged in fire, and the emotional cost of war on the men who fight it.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/outlaw-platoon",
+  "useCase": "Understanding infantry combat in Afghanistan, small-unit leadership, the brotherhood of soldiers, the psychological toll of war, and what it means to lead men in extreme conditions.",
+  "knownRisks": [
+    "Extremely graphic combat descriptions and death scenes",
+    "The author admits to changing names of some soldiers for privacy",
+    "Written from a single participant's perspective — not a strategic overview",
+    "Contains honest depictions of soldiers' flaws and failures, not just heroism"
+  ],
+  "tags": ["war", "afghanistan", "military", "memoir", "platoon", "infantry", "combat", "leadership", "brotherhood", "soldiers"],
+  "openclaw": {
+    "emoji": "⚔️",
+    "category": "professional-development"
+  }
+}
