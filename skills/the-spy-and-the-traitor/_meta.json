@@ -1,0 +1,20 @@
+{
+  "name": "the-spy-and-the-traitor",
+  "version": "1.0.0",
+  "description": "Ben Macintyre's gripping account of Oleg Gordievsky, the KGB colonel who became one of MI6's most valuable double agents, and Aldrich Ames, the CIA mole who betrayed him — the greatest espionage story of the Cold War.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-spy-and-the-traitor",
+  "useCase": "Understanding Cold War espionage, KGB tradecraft, double-agent psychology, the betrayal that almost destroyed Western intelligence, and the most daring exfiltration in intelligence history.",
+  "knownRisks": [
+    "The narrative is one-sided (British intelligence perspective)",
+    "Some details remain classified and are reconstructed from interviews",
+    "The book has been criticized for portraying Gordievsky in an overly heroic light",
+    "Some historical context (Soviet perspective) is minimized"
+  ],
+  "tags": ["history", "espionage", "cold-war", "spies", "kgb", "mi6", "intelligence", "biography", "thriller", "nonfiction"],
+  "openclaw": {
+    "emoji": "🕵️",
+    "category": "entertainment"
+  }
+}

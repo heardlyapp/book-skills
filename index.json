@@ -4752,7 +4752,28 @@
       "emoji": "\u2694\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/outlaw-platoon"
+    },
+    {
+      "slug": "the-spy-and-the-traitor",
+      "title": "Ben Macintyre's The Spy and the Traitor \u2014 the incredible true story of Oleg Gordievsky, the KGB colonel who became MI6's most valuable double agent, and Aldrich Ames, who betrayed him",
+      "author": "Ben Macintyre",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "espionage",
+        "cold-war",
+        "spies",
+        "kgb",
+        "mi6",
+        "intelligence",
+        "biography",
+        "thriller",
+        "nonfiction"
+      ],
+      "emoji": "\ud83d\udd75\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-spy-and-the-traitor"
     }
   ],
-  "total_skills": 255
+  "total_skills": 256
 }
