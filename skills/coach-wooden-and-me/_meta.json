@@ -1,0 +1,20 @@
+{
+  "name": "coach-wooden-and-me",
+  "version": "1.0.0",
+  "description": "Kareem Abdul-Jabbar's memoir of his 50-year friendship with legendary UCLA coach John Wooden — an exploration of how two seemingly opposite people from radically different backgrounds built a lifelong bond around shared values, basketball, and mutual respect.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/coach-wooden-and-me",
+  "useCase": "Understanding the Coach Wooden philosophy, the Pyramid of Success, the power of cross-racial/cross-generational friendship, basketball history, and what it means to be a 'good man' in sports and life.",
+  "knownRisks": [
+    "Deeply personal account from Abdul-Jabbar's perspective — not a biography of Wooden",
+    "Some stories rely on Abdul-Jabbar's memory of conversations decades later",
+    "Political and religious views (Muslim author) may not align with all readers",
+    "Some historical details about Wooden's early career are reconstructed"
+  ],
+  "tags": ["basketball", "friendship", "mentorship", "sports", "john-wooden", "kareem-abdul-jabbar", "leadership", "race", "civil-rights", "coaching"],
+  "openclaw": {
+    "emoji": "🏀",
+    "category": "sports"
+  }
+}

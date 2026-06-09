@@ -4857,7 +4857,28 @@
       "emoji": "\ud83d\udd27",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/calling-all-minds"
+    },
+    {
+      "slug": "coach-wooden-and-me",
+      "title": "Kareem Abdul-Jabbar's Coach Wooden and Me \u2014 a memoir of 50 years of friendship between two opposites: the legendary UCLA coach and his star player, exploring mentorship, race, faith, and basketball as jazz",
+      "author": "Kareem Abdul-Jabbar",
+      "version": "1.0.0",
+      "tags": [
+        "basketball",
+        "friendship",
+        "mentorship",
+        "sports",
+        "john-wooden",
+        "kareem-abdul-jabbar",
+        "leadership",
+        "race",
+        "civil-rights",
+        "coaching"
+      ],
+      "emoji": "\ud83c\udfc0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/coach-wooden-and-me"
     }
   ],
-  "total_skills": 260
+  "total_skills": 261
 }
