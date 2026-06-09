@@ -5445,7 +5445,31 @@
       "emoji": "\u26a1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/obedience-to-authority"
+    },
+    {
+      "slug": "on-grief-and-grieving",
+      "title": "Elisabeth K\u00fcbler-Ross and David Kessler's On Grief and Grieving \u2014 the definitive guide to the five stages of grief: denial, anger, bargaining, depression, and acceptance as non-linear responses to loss",
+      "author": "Elisabeth K\u00fcbler-Ross / David Kessler",
+      "version": "1.0.0",
+      "tags": [
+        "grief",
+        "death",
+        "dying",
+        "loss",
+        "bereavement",
+        "five-stages",
+        "denial",
+        "anger",
+        "bargaining",
+        "depression",
+        "acceptance",
+        "kubler-ross",
+        "kessler"
+      ],
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/on-grief-and-grieving"
     }
   ],
-  "total_skills": 288
+  "total_skills": 289
 }

@@ -1,0 +1,20 @@
+{
+  "name": "on-grief-and-grieving",
+  "version": "1.0.0",
+  "description": "Elisabeth Kübler-Ross and David Kessler's 'On Grief and Grieving: Finding the Meaning of Grief Through the Five Stages of Loss' — the definitive guide to grief. Explains the five stages (denial, anger, bargaining, depression, acceptance) as non-linear responses to loss. Covers the inner world of grief, the outer world of grief, specific circumstances (children, suicide, disaster), and both authors' personal experiences with loss.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/on-grief-and-grieving",
+  "useCase": "Understanding the grieving process, the five stages as non-linear responses, navigating the inner and outer experiences of grief, supporting someone who is grieving, and finding meaning after loss.",
+  "knownRisks": [
+    "The five stages are often misunderstood as linear or universal",
+    "Personal experiences with grief vary widely — not a prescription",
+    "May trigger intense emotions for those currently grieving",
+    "Not a substitute for professional grief counseling"
+  ],
+  "tags": ["grief", "death", "dying", "loss", "bereavement", "five-stages", "denial", "anger", "bargaining", "depression", "acceptance", "kubler-ross", "kessler"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "self-help"
+  }
+}
