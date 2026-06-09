@@ -1,0 +1,20 @@
+{
+  "name": "nothing-special",
+  "version": "1.0.0",
+  "description": "Charlotte Joko Beck's 'Nothing Special: Living Zen' — a classic of Zen in the West. Joko Beck cuts through spiritual fantasies to present Zen as everyday life, nothing added. Covers the whirlpool metaphor, sacrifice and forgiveness, subject-object separation, attention, the six stages of practice, and the grace of nothing special.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/nothing-special",
+  "useCase": "Understanding Zen practice in everyday life, working with pain and struggle, developing awareness and attention, letting go of spiritual fantasies, and discovering the ordinary as the sacred.",
+  "knownRisks": [
+    "Blunt and confrontational style — may discomfort those seeking comfort",
+    "Emphasizes practice over conceptual understanding",
+    "Will challenge spiritual materialism — not for those attached to exotic experiences",
+    "Some find the teaching too severe or lacking in warmth"
+  ],
+  "tags": ["zen", "buddhism", "meditation", "spirituality", "awareness", "mindfulness", "practice", "charlotte-joko-beck", "nothing-special", "everyday-zen"],
+  "openclaw": {
+    "emoji": "🌀",
+    "category": "spirituality"
+  }
+}

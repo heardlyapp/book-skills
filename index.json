@@ -5403,7 +5403,28 @@
       "emoji": "\ud83d\udd6f\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/nobodys-girl"
+    },
+    {
+      "slug": "nothing-special",
+      "title": "Charlotte Joko Beck's Nothing Special: Living Zen \u2014 a classic of Western Zen teaching that ordinary life, lived with full awareness, is the essence of Zen \u2014 nothing added, nothing special",
+      "author": "Charlotte Joko Beck",
+      "version": "1.0.0",
+      "tags": [
+        "zen",
+        "buddhism",
+        "meditation",
+        "spirituality",
+        "awareness",
+        "mindfulness",
+        "practice",
+        "charlotte-joko-beck",
+        "nothing-special",
+        "everyday-zen"
+      ],
+      "emoji": "\ud83c\udf00",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/nothing-special"
     }
   ],
-  "total_skills": 286
+  "total_skills": 287
 }
