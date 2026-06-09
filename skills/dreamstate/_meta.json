@@ -1,0 +1,21 @@
+{
+  "name": "dreamstate",
+  "version": "1.0.0",
+  "description": "Jed McKenna's 'Dreamstate: A Conspiracy Theory' — a radical philosophical work arguing that the universe does not exist, reality is a dream, and waking up from the dreamstate is the only true spiritual enlightenment. The book uses a unique blend of narrative fiction and non-dual philosophy to explore consciousness, the nature of self, and the illusion of reality.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/dreamstate",
+  "useCase": "Understanding non-dual philosophy, questioning the nature of reality, exploring the dreamstate concept, challenging spiritual beliefs, and contemplating the relationship between awareness and appearance.",
+  "knownRisks": [
+    "Intentionally provocative and dismissive of all spiritual traditions",
+    "Notions will be disturbing or offensive to those with religious or spiritual beliefs",
+    "Written in a surreal, non-linear style that may be confusing",
+    "The author claims to be 'awake from the dreamstate' — this claim cannot be verified",
+    "May be nihilistic or destabilizing for some readers"
+  ],
+  "tags": ["non-duality", "consciousness", "philosophy", "spirituality", "enlightenment", "reality", "dreamstate", "advaita", "zen", "jed-mckenna"],
+  "openclaw": {
+    "emoji": "🌀",
+    "category": "philosophy"
+  }
+}

@@ -4920,7 +4920,28 @@
       "emoji": "\ud83e\udee2",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/cracked-not-broken"
+    },
+    {
+      "slug": "dreamstate",
+      "title": "Jed McKenna's Dreamstate: A Conspiracy Theory \u2014 a radical philosophical work arguing the universe does not exist, reality is a dream, and true enlightenment is waking up from the dreamstate to find only boredom and desolation",
+      "author": "Jed McKenna",
+      "version": "1.0.0",
+      "tags": [
+        "non-duality",
+        "consciousness",
+        "philosophy",
+        "spirituality",
+        "enlightenment",
+        "reality",
+        "dreamstate",
+        "advaita",
+        "zen",
+        "jed-mckenna"
+      ],
+      "emoji": "\ud83c\udf00",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/dreamstate"
     }
   ],
-  "total_skills": 263
+  "total_skills": 264
 }
