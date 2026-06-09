@@ -5793,7 +5793,28 @@
       "emoji": "\u2600\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-awakening"
+    },
+    {
+      "slug": "the-book-of-forgiving",
+      "title": "Desmond Tutu and Mpho Tutu's The Book of Forgiving \u2014 the Fourfold Path for healing ourselves and our world, based on South Africa's Truth and Reconciliation Commission experience",
+      "author": "Desmond Tutu, Mpho Tutu",
+      "version": "1.0.0",
+      "tags": [
+        "forgiveness",
+        "reconciliation",
+        "desmond-tutu",
+        "south-africa",
+        "truth-and-reconciliation",
+        "spirituality",
+        "healing",
+        "ubuntu",
+        "peace",
+        "restorative-justice"
+      ],
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-forgiving"
     }
   ],
-  "total_skills": 304
+  "total_skills": 305
 }

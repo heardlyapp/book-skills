@@ -1,0 +1,17 @@
+{
+  "name": "the-book-of-forgiving",
+  "version": "1.0.0",
+  "description": "Desmond Tutu and Mpho Tutu's 'The Book of Forgiving: The Fourfold Path for Healing Ourselves and Our World' — a practical guide to forgiveness based on the experience of South Africa's Truth and Reconciliation Commission. The Fourfold Path: Telling the Story, Naming the Hurt, Granting Forgiveness, and Renewing or Releasing the Relationship.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-book-of-forgiving",
+  "useCase": "Learning to forgive, seeking forgiveness, healing from hurt, understanding the forgiveness process, and applying Ubuntu philosophy to personal and community healing.",
+  "knownRisks": [
+    "Forgiveness is emotionally demanding work",
+    "Some hurts may require professional therapy alongside this process",
+    "The TRC context may feel distant to some readers",
+    "Not all relationships can or should be restored"
+  ],
+  "tags": ["forgiveness", "reconciliation", "desmond-tutu", "south-africa", "truth-and-reconciliation", "spirituality", "healing", "ubuntu", "peace", "restorative-justice"],
+  "openclaw": { "emoji": "🕊️", "category": "spirituality" }
+}
