@@ -5319,7 +5319,28 @@
       "emoji": "\u2622\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/midnight-in-chernobyl"
+    },
+    {
+      "slug": "models-attract-women-through-honesty",
+      "title": "Mark Manson's Models: Attract Women Through Honesty \u2014 the definitive anti-PUA dating book based on vulnerability, non-neediness, polarization, and the Three Fundamentals of genuine attraction",
+      "author": "Mark Manson",
+      "version": "1.0.0",
+      "tags": [
+        "dating",
+        "relationships",
+        "attraction",
+        "masculinity",
+        "vulnerability",
+        "honesty",
+        "self-improvement",
+        "mark-manson",
+        "seduction",
+        "confidence"
+      ],
+      "emoji": "\ud83c\udfaf",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/models-attract-women-through-honesty"
     }
   ],
-  "total_skills": 282
+  "total_skills": 283
 }

@@ -1,0 +1,20 @@
+{
+  "name": "models-attract-women-through-honesty",
+  "version": "1.0.0",
+  "description": "Mark Manson's 'Models: Attract Women Through Honesty' — before The Subtle Art of Not Giving a F*ck, Manson wrote the definitive antidote to Pick-Up Artist tactics. Argues that real attraction is built on honesty, vulnerability, and non-neediness. Covers the Three Fundamentals (lifestyle/demographics, attractiveness, action), polarization, emotional neediness, and honest communication.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/models-attract-women-through-honesty",
+  "useCase": "Understanding what genuinely attracts women (status, desire, vulnerability), overcoming emotional neediness, developing the Three Fundamentals, using polarization to filter for compatible partners, and building honest communication skills.",
+  "knownRisks": [
+    "Heterosexual framing — written for men attracted to women",
+    "Some concepts (polarization, lifestyle hierarchy) may feel transactional",
+    "Not a 'quick fix' — requires genuine internal work",
+    "The author's tone can be blunt to the point of offensiveness"
+  ],
+  "tags": ["dating", "relationships", "attraction", "masculinity", "vulnerability", "honesty", "self-improvement", "mark-manson", "seduction", "confidence"],
+  "openclaw": {
+    "emoji": "🎯",
+    "category": "relationships"
+  }
+}
