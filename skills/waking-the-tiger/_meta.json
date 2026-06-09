@@ -1,0 +1,24 @@
+{
+  "name": "waking-the-tiger",
+  "version": "1.0.0",
+  "description": "Peter A. Levine's 'Waking the Tiger: Healing Trauma' — the foundational text of Somatic Experiencing, a revolutionary body-based approach to trauma healing. Drawing on animal behavior, neuroscience, and 25 years of clinical practice, Levine shows that trauma is not a disease but a physiological response gone awry — and that the body itself holds the key to healing. 16 chapters covering the impala-cheetah analogy, the immobility response, the felt sense, pendulation, titration, and the transformation of trauma into resilience.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "trauma",
+    "healing",
+    "somatic-experiencing",
+    "peter-levine",
+    "body-psychotherapy",
+    "ptsd",
+    "mind-body",
+    "neuroscience",
+    "psychology",
+    "self-help",
+    "resilience"
+  ],
+  "openclaw": {
+    "emoji": "🐅",
+    "category": "health"
+  }
+}
