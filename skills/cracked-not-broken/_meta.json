@@ -1,0 +1,20 @@
+{
+  "name": "cracked-not-broken",
+  "version": "1.0.0",
+  "description": "Kevin Hines' 'Cracked, Not Broken: Surviving and Thriving After a Suicide Attempt' — a raw, hopeful memoir of bipolar disorder, the Golden Gate Bridge jump that should have killed him, and his journey from psychiatric wards to becoming a world-renowned suicide prevention speaker.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/cracked-not-broken",
+  "useCase": "Understanding the lived experience of bipolar disorder with psychotic features, what drives someone to attempt suicide, the aftermath of a suicide attempt, the mental health care system, and how to find hope and purpose in recovery.",
+  "knownRisks": [
+    "Contains graphic descriptions of suicide, self-harm, and psychiatric hospitalization",
+    "Kevin Hines is one survivor — his experience is not universal",
+    "May be triggering for those currently experiencing suicidal thoughts",
+    "Some medical details have been simplified for a general audience"
+  ],
+  "tags": ["suicide-prevention", "bipolar-disorder", "mental-health", "survivor", "trauma", "recovery", "memoir", "psychiatry", "hope", "advocacy"],
+  "openclaw": {
+    "emoji": "🫂",
+    "category": "mental-health"
+  }
+}
