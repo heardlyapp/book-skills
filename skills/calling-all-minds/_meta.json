@@ -1,0 +1,20 @@
+{
+  "name": "calling-all-minds",
+  "version": "1.0.0",
+  "description": "Temple Grandin's 'Calling All Minds: How To Think and Create Like an Inventor' — an executable toolkit for understanding the inventor's mindset through hands-on projects, patent history, visual thinking, and the science behind paper, levers, wood, flight, and optical illusions.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/calling-all-minds",
+  "useCase": "Learning how inventors think, understanding the history of patents and innovation, building hands-on projects, developing visual thinking skills, and appreciating different kinds of minds on the autism spectrum.",
+  "knownRisks": [
+    "Written for ages 8-12 — some content may feel basic for adults",
+    "Some projects require sharp tools or power tools — adult supervision needed",
+    "Patent and historical information may be simplified for young readers",
+    "Grandin's autism perspective is her personal experience, not universal"
+  ],
+  "tags": ["invention", "engineering", "science", "stem", "autism", "creativity", "patents", "hands-on", "visual-thinking", "projects"],
+  "openclaw": {
+    "emoji": "🔧",
+    "category": "education"
+  }
+}

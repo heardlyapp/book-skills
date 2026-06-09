@@ -4836,7 +4836,28 @@
       "emoji": "\ud83d\udc8a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/beyond-the-pill"
+    },
+    {
+      "slug": "calling-all-minds",
+      "title": "Temple Grandin's Calling All Minds \u2014 a hands-on guide to thinking like an inventor through making things, understanding patent history, visual thinking, and building projects in paper, levers, wood, flight, and optical illusions",
+      "author": "Temple Grandin",
+      "version": "1.0.0",
+      "tags": [
+        "invention",
+        "engineering",
+        "science",
+        "stem",
+        "autism",
+        "creativity",
+        "patents",
+        "hands-on",
+        "visual-thinking",
+        "projects"
+      ],
+      "emoji": "\ud83d\udd27",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/calling-all-minds"
     }
   ],
-  "total_skills": 259
+  "total_skills": 260
 }
