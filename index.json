@@ -5382,7 +5382,28 @@
       "emoji": "\u270a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-autobiography-of-martin-luther-king-jr"
+    },
+    {
+      "slug": "nobodys-girl",
+      "title": "Virginia Roberts Giuffre's Nobody's Girl \u2014 the posthumous memoir of the woman who brought down Jeffrey Epstein and Ghislaine Maxwell, from teenage trafficking victim to advocate fighting for justice",
+      "author": "Virginia Roberts Giuffre",
+      "version": "1.0.0",
+      "tags": [
+        "jeffrey-epstein",
+        "sex-trafficking",
+        "survivor",
+        "memoir",
+        "abuse",
+        "justice",
+        "ghislaine-maxwell",
+        "virginia-roberts-giuffre",
+        "true-crime",
+        "trauma"
+      ],
+      "emoji": "\ud83d\udd6f\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/nobodys-girl"
     }
   ],
-  "total_skills": 285
+  "total_skills": 286
 }

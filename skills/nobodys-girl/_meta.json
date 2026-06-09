@@ -1,0 +1,20 @@
+{
+  "name": "nobodys-girl",
+  "version": "1.0.0",
+  "description": "Virginia Roberts Giuffre's 'Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice' — the devastating memoir of the young woman who brought down Jeffrey Epstein and Ghislaine Maxwell. From childhood sexual abuse to being trafficked by one of the world's most powerful men, to her decade-long fight for justice that ended in historic convictions. Published posthumously in 2025 after Giuffre's death at age 41.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/nobodys-girl",
+  "useCase": "Understanding the Epstein trafficking operation from the inside, the experience of being sex trafficked as a teenager, the survivor's journey from victim to advocate, and the fight for justice against powerful people.",
+  "knownRisks": [
+    "Extremely graphic descriptions of child sexual abuse and trafficking",
+    "The author died shortly before publication — the book is deeply personal",
+    "Some names and details have been changed",
+    "The book contains allegations against individuals who have denied them"
+  ],
+  "tags": ["jeffrey-epstein", "sex-trafficking", "survivor", "memoir", "abuse", "justice", "ghislaine-maxwell", "virginia-roberts-giuffre", "true-crime", "trauma"],
+  "openclaw": {
+    "emoji": "🕯️",
+    "category": "memoir"
+  }
+}
