@@ -1,0 +1,23 @@
+{
+  "name": "the-dhammapada",
+  "version": "1.0.0",
+  "description": "Valerie J. Roebuck's translation of 'The Dhammapada' — the most widely read Buddhist scripture, a collection of the Buddha's sayings in verse. 26 chapters covering the twin verses, mind, awareness, fools, the wise, anger, craving, the path, and the monk. A foundational text of Buddhist philosophy and practice, translated for Penguin Classics.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "buddhism",
+    "dhammapada",
+    "buddha",
+    "scripture",
+    "philosophy",
+    "meditation",
+    "spirituality",
+    "pali-canon",
+    "wisdom",
+    "translation"
+  ],
+  "openclaw": {
+    "emoji": "☸️",
+    "category": "philosophy"
+  }
+}

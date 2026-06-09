@@ -5919,7 +5919,28 @@
       "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-defining-decade"
+    },
+    {
+      "slug": "the-dhammapada",
+      "title": "Valerie J. Roebuck's translation of The Dhammapada \u2014 the most widely read Buddhist scripture, a collection of the Buddha's sayings in verse",
+      "author": "Valerie J. Roebuck (translator), attributed to the Buddha",
+      "version": "1.0.0",
+      "tags": [
+        "buddhism",
+        "dhammapada",
+        "buddha",
+        "scripture",
+        "philosophy",
+        "meditation",
+        "spirituality",
+        "pali-canon",
+        "wisdom",
+        "translation"
+      ],
+      "emoji": "\u2638\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": ""
     }
   ],
-  "total_skills": 310
+  "total_skills": 311
 }
