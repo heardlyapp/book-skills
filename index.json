@@ -4689,7 +4689,28 @@
       "emoji": "\ud83d\udcdc",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-hundred-years-war-on-palestine"
+    },
+    {
+      "slug": "we-were-soldiers-once",
+      "title": "Lt. Gen. Harold G. Moore and Joseph L. Galloway's We Were Soldiers Once...And Young \u2014 the definitive account of the Battle of Ia Drang, the first major engagement between the U.S. Army and the North Vietnamese Army",
+      "author": "Lt. Gen. Harold G. Moore / Joseph L. Galloway",
+      "version": "1.0.0",
+      "tags": [
+        "war",
+        "vietnam",
+        "military",
+        "history",
+        "memoir",
+        "battle",
+        "soldiers",
+        "cavalry",
+        "ia-drang",
+        "leadership"
+      ],
+      "emoji": "\ud83c\udf96\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/we-were-soldiers-once"
     }
   ],
-  "total_skills": 252
+  "total_skills": 253
 }

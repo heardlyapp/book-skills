@@ -1,0 +1,20 @@
+{
+  "name": "we-were-soldiers-once",
+  "version": "1.0.0",
+  "description": "Lt. Gen. Harold G. Moore and Joseph L. Galloway's classic account of the Battle of Ia Drang in November 1965 — the first major engagement between the U.S. Army and the North Vietnamese Army, a brutal four-day fight that set the pattern for the entire Vietnam War.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/we-were-soldiers-once",
+  "useCase": "Understanding the Vietnam War's first major battle, airmobile warfare tactics, small-unit leadership under extreme stress, the cost of war, and the brotherhood of combat soldiers.",
+  "knownRisks": [
+    "Extremely graphic combat descriptions — may be disturbing",
+    "The book has been criticized for minimizing some controversial aspects of the battle (friendly fire, the fate of the lost platoon)",
+    "Written from the American perspective primarily, though it respects the NVA soldiers",
+    "Some details have been disputed by other participants"
+  ],
+  "tags": ["war", "vietnam", "military", "history", "memoir", "battle", "soldiers", "cavalry", "ia-drang", "leadership"],
+  "openclaw": {
+    "emoji": "🎖️",
+    "category": "professional-development"
+  }
+}
