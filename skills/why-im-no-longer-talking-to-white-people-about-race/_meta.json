@@ -1,0 +1,20 @@
+{
+  "name": "why-im-no-longer-talking-to-white-people-about-race",
+  "version": "1.0.0",
+  "description": "Reni Eddo-Lodge's groundbreaking examination of structural racism in Britain — from the erasure of Black British history to white privilege, intersectional feminism, and the urgent need to confront race honestly.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/why-im-no-longer-talking-to-white-people-about-race",
+  "useCase": "Understanding structural racism in Britain, the history of Black British struggle, white privilege as a systemic concept, intersectional feminism, and the class-race debate.",
+  "knownRisks": [
+    "Written from a British perspective — some examples may not translate to other countries",
+    "The title and thesis have been criticized as divisive",
+    "Some historical claims have been disputed by other scholars",
+    "Explicitly challenges comfortable liberal assumptions about race"
+  ],
+  "tags": ["race", "racism", "britain", "social-justice", "feminism", "history", "politics", "privilege", "intersectionality", "activism"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "social-impact"
+  }
+}

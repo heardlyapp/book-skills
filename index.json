@@ -4794,7 +4794,28 @@
       "emoji": "\ud83d\udc09",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-hundred-year-marathon"
+    },
+    {
+      "slug": "why-im-no-longer-talking-to-white-people-about-race",
+      "title": "Reni Eddo-Lodge's Why I'm No Longer Talking to White People About Race \u2014 a groundbreaking examination of structural racism in Britain, from Black British history to white privilege, intersectional feminism, and activism",
+      "author": "Reni Eddo-Lodge",
+      "version": "1.0.0",
+      "tags": [
+        "race",
+        "racism",
+        "britain",
+        "social-justice",
+        "feminism",
+        "history",
+        "politics",
+        "privilege",
+        "intersectionality",
+        "activism"
+      ],
+      "emoji": "\u270a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/why-im-no-longer-talking-to-white-people-about-race"
     }
   ],
-  "total_skills": 257
+  "total_skills": 258
 }
