@@ -5814,7 +5814,28 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-forgiving"
+    },
+    {
+      "slug": "the-brain-that-changes-itself",
+      "title": "Norman Doidge's The Brain That Changes Itself \u2014 the landmark book on neuroplasticity, showing how the brain can rewire at any age: stroke recovery, learning disabilities cured, OCD rewired through thought, and phantom limb pain healed with a mirror box",
+      "author": "Norman Doidge",
+      "version": "1.0.0",
+      "tags": [
+        "neuroplasticity",
+        "brain",
+        "neuroscience",
+        "norman-doidge",
+        "stroke-recovery",
+        "ocd",
+        "brain-injury",
+        "cognitive-enhancement",
+        "plasticity",
+        "mental-health"
+      ],
+      "emoji": "\ud83e\udde0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-brain-that-changes-itself"
     }
   ],
-  "total_skills": 305
+  "total_skills": 306
 }

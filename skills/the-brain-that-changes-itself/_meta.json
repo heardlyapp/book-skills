@@ -1,0 +1,20 @@
+{
+  "name": "the-brain-that-changes-itself",
+  "version": "1.0.0",
+  "description": "Norman Doidge's 'The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science' — the landmark book on neuroplasticity. Through stories of patients and scientists, Doidge shows that the brain can rewire itself at any age: stroke victims recover, learning disorders are cured, blind people learn to see, and OCD is treated by changing thought patterns.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-brain-that-changes-itself",
+  "useCase": "Understanding neuroplasticity, learning how the brain rewires itself, stroke and brain injury recovery, treating OCD and chronic pain, improving cognitive function, and preserving brain health in aging.",
+  "knownRisks": [
+    "Published in 2007 — some research has advanced since",
+    "Clinical results vary — not all patients respond to these treatments",
+    "Self-directed neuroplasticity requires significant effort and discipline",
+    "Not all conditions covered have equal scientific support"
+  ],
+  "tags": ["neuroplasticity", "brain", "neuroscience", "norman-doidge", "stroke-recovery", "ocd", "brain-injury", "cognitive-enhancement", "plasticity", "mental-health"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "science"
+  }
+}
