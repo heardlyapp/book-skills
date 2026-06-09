@@ -5067,7 +5067,28 @@
       "emoji": "\u26a1",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/god-is-not-great"
+    },
+    {
+      "slug": "ive-been-thinking",
+      "title": "Maria Shriver's I've Been Thinking... \u2014 a collection of reflections, prayers, and meditations for finding purpose, cultivating gratitude, building inner strength, and living a meaningful life through faith and self-awareness",
+      "author": "Maria Shriver",
+      "version": "1.0.0",
+      "tags": [
+        "reflections",
+        "spirituality",
+        "prayer",
+        "meditation",
+        "inspiration",
+        "self-help",
+        "faith",
+        "gratitude",
+        "mindfulness",
+        "life-lessons"
+      ],
+      "emoji": "\ud83d\udcad",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/ive-been-thinking"
     }
   ],
-  "total_skills": 270
+  "total_skills": 271
 }

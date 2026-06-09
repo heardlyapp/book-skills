@@ -1,0 +1,20 @@
+{
+  "name": "ive-been-thinking",
+  "version": "1.0.0",
+  "description": "Maria Shriver's 'I've Been Thinking...: Reflections, Prayers, and Meditations for a Meaningful Life' — a collection of heartfelt reflections on finding purpose, cultivating inner strength, embracing gratitude, navigating change, and building a life of meaning through faith, family, and self-awareness.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/ive-been-thinking",
+  "useCase": "Finding daily inspiration and spiritual reflection, cultivating gratitude and positive thinking, navigating life transitions with faith, building inner peace and resilience, and connecting with the power of prayer and meditation.",
+  "knownRisks": [
+    "Written from a Christian perspective — uses 'God' and 'prayer' language",
+    "Not a scholarly or theological work — personal reflections only",
+    "Some may find the tone too optimistic or simplistic for deep suffering",
+    "Author comes from privilege (Kennedy family) — may not resonate with all experiences"
+  ],
+  "tags": ["reflections", "spirituality", "prayer", "meditation", "inspiration", "self-help", "faith", "gratitude", "mindfulness", "life-lessons"],
+  "openclaw": {
+    "emoji": "💭",
+    "category": "inspiration"
+  }
+}
