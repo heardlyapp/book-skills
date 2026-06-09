@@ -1,0 +1,20 @@
+{
+  "name": "midnight-in-chernobyl",
+  "version": "1.0.0",
+  "description": "Adam Higginbotham's 'Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster' — the definitive account of the 1986 Chernobyl nuclear catastrophe, from the flawed RBMK reactor design and the fatal experiment that triggered the explosion, to the cover-up, the liquidators, the trial, and the long shadow of radiation poisoning.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/midnight-in-chernobyl",
+  "useCase": "Understanding the full story of the Chernobyl disaster, the RBMK reactor design flaws, the Soviet cover-up, the heroic fatalities of the firefighters and liquidators, and the political impact on the fall of the USSR.",
+  "knownRisks": [
+    "Graphic descriptions of acute radiation syndrome — not for sensitive readers",
+    "Some details are reconstructed from testimony — not all facts are certain",
+    "The book is critical of Soviet leadership — political context matters",
+    "Dense with technical details about nuclear engineering"
+  ],
+  "tags": ["chernobyl", "nuclear-disaster", "history", "ussr", "soviet-union", "radiation", "journalism", "investigation", "disaster", "nonfiction"],
+  "openclaw": {
+    "emoji": "☢️",
+    "category": "history"
+  }
+}
