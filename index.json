@@ -4941,7 +4941,28 @@
       "emoji": "\ud83c\udf00",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/dreamstate"
+    },
+    {
+      "slug": "emotional-blackmail",
+      "title": "Dr. Susan Forward's Emotional Blackmail \u2014 a classic guide to recognizing and breaking free from manipulation through Fear, Obligation, and Guilt (FOG), with practical techniques for setting boundaries and communicating non-defensively",
+      "author": "Susan Forward",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "relationships",
+        "manipulation",
+        "boundaries",
+        "self-help",
+        "communication",
+        "guilt",
+        "fog",
+        "assertiveness",
+        "emotional-intelligence"
+      ],
+      "emoji": "\ud83d\udee1\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/emotional-blackmail"
     }
   ],
-  "total_skills": 264
+  "total_skills": 265
 }

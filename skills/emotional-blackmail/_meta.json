@@ -1,0 +1,20 @@
+{
+  "name": "emotional-blackmail",
+  "version": "1.0.0",
+  "description": "Dr. Susan Forward's classic 'Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You' — a practical toolkit for recognizing emotional blackmail (the FOG), understanding the four faces of blackmailers, identifying your hot buttons, and learning non-defensive communication techniques to break free from manipulation.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/emotional-blackmail",
+  "useCase": "Recognizing when you're being emotionally blackmailed, understanding the FOG (Fear, Obligation, Guilt), identifying the four blackmailer types, setting healthy boundaries, and learning to respond instead of react.",
+  "knownRisks": [
+    "Not a substitute for professional therapy in abusive relationships",
+    "Some techniques require practice and may feel uncomfortable at first",
+    "Applying these techniques may cause tension or relationship rupture",
+    "Self-diagnosis of others as 'blackmailers' can be misused"
+  ],
+  "tags": ["psychology", "relationships", "manipulation", "boundaries", "self-help", "communication", "guilt", "fog", "assertiveness", "emotional-intelligence"],
+  "openclaw": {
+    "emoji": "🛡️",
+    "category": "psychology"
+  }
+}
