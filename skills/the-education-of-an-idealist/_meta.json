@@ -1,0 +1,25 @@
+{
+  "name": "the-education-of-an-idealist",
+  "version": "1.0.0",
+  "description": "Samantha Power's 'The Education of an Idealist: A Memoir' — from Irish immigrant to war correspondent to Pulitzer Prize-winning author to US Ambassador to the UN. A deeply personal journey through grief, genocide reporting, human rights advocacy, and the moral compromises of governing. 40 chapters spanning her childhood in Dublin, high school in segregated Atlanta, journalism in Bosnia, writing 'A Problem from Hell,' joining the Obama administration, and confronting the Syrian chemical weapons crisis.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "memoir",
+    "samantha-power",
+    "human-rights",
+    "diplomacy",
+    "foreign-policy",
+    "obama-administration",
+    "united-nations",
+    "irish-american",
+    "bosnia",
+    "syria",
+    "idealist",
+    "upstander"
+  ],
+  "openclaw": {
+    "emoji": "📖",
+    "category": "biography"
+  }
+}
