@@ -1,0 +1,21 @@
+{
+  "name": "the-hundred-years-war-on-palestine",
+  "version": "1.0.0",
+  "description": "Rashid Khalidi's definitive history of the Palestinian-Israeli conflict from 1917 to 2017 — a scholarly account framed as a settler colonial war, told through six key turning points, family archives, and the resilience of the Palestinian people.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-hundred-years-war-on-palestine",
+  "useCase": "Understanding the history of the Palestinian-Israeli conflict, settler colonialism, the Balfour Declaration, the Nakba, the 1967 occupation, the Oslo Accords, and the role of external powers.",
+  "knownRisks": [
+    "Presents a Palestinian nationalist perspective — not a neutral account",
+    "The settler colonial framework is contested by many scholars and historians",
+    "Some readers may find the thesis challenging or controversial",
+    "The book does not cover events after 2017 in detail",
+    "Personal family narratives may introduce subjective bias into the historical record"
+  ],
+  "tags": ["history", "palestine", "israel", "colonialism", "middle-east", "politics", "war", "nakba", "zionism", "occupation"],
+  "openclaw": {
+    "emoji": "📜",
+    "category": "social-impact"
+  }
+}

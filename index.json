@@ -4668,7 +4668,28 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-hope"
+    },
+    {
+      "slug": "the-hundred-years-war-on-palestine",
+      "title": "Rashid Khalidi's The Hundred Years' War on Palestine \u2014 a definitive history of the settler colonial conflict from 1917 to 2017, told through six turning points and the resilience of the Palestinian people",
+      "author": "Rashid Khalidi",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "palestine",
+        "israel",
+        "colonialism",
+        "middle-east",
+        "politics",
+        "war",
+        "nakba",
+        "zionism",
+        "occupation"
+      ],
+      "emoji": "\ud83d\udcdc",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-hundred-years-war-on-palestine"
     }
   ],
-  "total_skills": 251
+  "total_skills": 252
 }
