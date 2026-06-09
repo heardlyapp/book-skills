@@ -5579,7 +5579,28 @@
       "emoji": "\ud83c\udfa4",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/presentation-advantage"
+    },
+    {
+      "slug": "rising-strong",
+      "title": "Bren\u00e9 Brown's Rising Strong: The Reckoning. The Rumble. The Revolution. \u2014 the process of getting back up after falling, covering gold-plating grit, the badassery deficit, and how to own your story",
+      "author": "Bren\u00e9 Brown",
+      "version": "1.0.0",
+      "tags": [
+        "brene-brown",
+        "resilience",
+        "vulnerability",
+        "shame",
+        "courage",
+        "personal-development",
+        "emotional-intelligence",
+        "psychology",
+        "self-help",
+        "wholehearted"
+      ],
+      "emoji": "\ud83d\udcaa",
+      "publisher": "heardlyapp",
+      "clawhub_url": ""
     }
   ],
-  "total_skills": 294
+  "total_skills": 295
 }

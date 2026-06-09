@@ -1,0 +1,21 @@
+{
+  "name": "rising-strong",
+  "version": "1.0.0",
+  "description": "Brené Brown's 'Rising Strong: The Reckoning. The Rumble. The Revolution.' — the process of getting back up after falling. Building on her work on vulnerability (Daring Greatly) and shame resilience (The Gifts of Imperfection), this book maps the journey from facedown in the arena to rising strong: reckoning with emotions, rumbling with the stories we make up, and revolutionizing how we live, love, and lead.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/rising-strong",
+  "useCase": "Recovering from failure, processing difficult emotions, understanding the stories we tell ourselves after hurt, developing resilience, and learning the 'rising strong' process for personal and professional life.",
+  "knownRisks": [
+    "Requires emotional vulnerability — can be uncomfortable",
+    "Some may find Brown's tone too personal/self-disclosing",
+    "The process is not a quick fix — it's hard emotional work",
+    "Not a substitute for professional therapy for trauma",
+    "Research is qualitative (narrative-based, not clinical trials)"
+  ],
+  "tags": ["brene-brown", "resilience", "vulnerability", "shame", "courage", "personal-development", "emotional-intelligence", "psychology", "self-help", "wholehearted"],
+  "openclaw": {
+    "emoji": "💪",
+    "category": "self-development"
+  }
+}
