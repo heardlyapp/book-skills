@@ -1,0 +1,20 @@
+{
+  "name": "super-attractor",
+  "version": "1.0.0",
+  "description": "Gabrielle Bernstein's 'Super Attractor: Methods for Manifesting a Life beyond Your Wildest Dreams' — a practical guide to manifesting through spiritual alignment. Covers how to connect to the Universe, release fear-based beliefs, take spiritually aligned action, appreciate more, and co-create the life you want by tuning into good-feeling emotions.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/super-attractor",
+  "useCase": "Learning to manifest desires, strengthening spiritual connection, releasing fear, taking aligned action, and living with faith in the Universe.",
+  "knownRisks": [
+    "Manifesting concepts may not resonate with skeptical readers",
+    "Not scientifically validated",
+    "Written from a specific spiritual perspective (influenced by A Course in Miracles and Abraham-Hicks)",
+    "Some may find the tone overly optimistic"
+  ],
+  "tags": ["manifesting", "law-of-attraction", "spirituality", "self-help", "gabrielle-bernstein", "universe", "abundance", "gratitude", "meditation", "personal-development"],
+  "openclaw": {
+    "emoji": "✨",
+    "category": "spirituality"
+  }
+}

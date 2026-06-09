@@ -5730,7 +5730,28 @@
       "emoji": "\u23f0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/successful-time-management"
+    },
+    {
+      "slug": "super-attractor",
+      "title": "Gabrielle Bernstein's Super Attractor \u2014 a practical guide to manifesting through spiritual alignment, releasing fear, taking aligned action, and co-creating the life you want by tuning into good-feeling emotions",
+      "author": "Gabrielle Bernstein",
+      "version": "1.0.0",
+      "tags": [
+        "manifesting",
+        "law-of-attraction",
+        "spirituality",
+        "self-help",
+        "gabrielle-bernstein",
+        "universe",
+        "abundance",
+        "gratitude",
+        "meditation",
+        "personal-development"
+      ],
+      "emoji": "\u2728",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/super-attractor"
     }
   ],
-  "total_skills": 301
+  "total_skills": 302
 }
