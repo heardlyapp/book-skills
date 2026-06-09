@@ -1,0 +1,24 @@
+{
+  "name": "bloodlands",
+  "version": "1.0.0",
+  "description": "Timothy Snyder's 'Bloodlands: Europe Between Hitler and Stalin' — a groundbreaking history of the 14 million civilians murdered by the Nazi and Soviet regimes in Eastern Europe between 1933 and 1945. Spanning the Soviet famines, the Great Terror, the Molotov-Ribbentrop Pact, the Holocaust, Nazi death factories, ethnic cleansings, and Stalinist anti-Semitism. A masterwork that reframes our understanding of 20th century mass murder by placing the victims at the center of the story.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "history",
+    "holocaust",
+    "stalin",
+    "hitler",
+    "world-war-ii",
+    "soviet-union",
+    "nazi-germany",
+    "genocide",
+    "eastern-europe",
+    "mass-murder",
+    "20th-century"
+  ],
+  "openclaw": {
+    "emoji": "💀",
+    "category": "history"
+  }
+}
