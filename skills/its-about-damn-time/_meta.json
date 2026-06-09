@@ -1,0 +1,20 @@
+{
+  "name": "its-about-damn-time",
+  "version": "1.0.0",
+  "description": "Arlan Hamilton's 'It's About Damn Time: How to Turn Being Underestimated into Your Greatest Advantage' — a manifesto for underestimated founders and professionals, from the founder of Backstage Capital who went from homeless and sleeping at SFO to becoming the first Black woman on the cover of Fast Company. Covers venture capital, resilience, authenticity, and turning underdog status into your superpower.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/its-about-damn-time",
+  "useCase": "Understanding how to break into venture capital as an underrepresented founder, turning being underestimated into a competitive advantage, building resilience through rejection, and creating opportunities where none seem to exist.",
+  "knownRisks": [
+    "Strongly focused on race and LGBTQ issues — may not resonate with all readers",
+    "Hamilton's path is extraordinary — not all advice transfers directly",
+    "The venture capital industry has evolved since the book's publication",
+    "Some readers may find the tone too confrontational"
+  ],
+  "tags": ["venture-capital", "entrepreneurship", "diversity", "startups", "resilience", "authenticity", "underdog", "investing", "leadership", "backstage-capital"],
+  "openclaw": {
+    "emoji": "⏰",
+    "category": "business"
+  }
+}

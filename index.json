@@ -5172,7 +5172,28 @@
       "emoji": "\ud83e\udd5a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/it-starts-with-the-egg"
+    },
+    {
+      "slug": "its-about-damn-time",
+      "title": "Arlan Hamilton's It's About Damn Time \u2014 from homeless at SFO to first Black woman on Fast Company cover, this is a guide to turning being underestimated into your greatest advantage through resilience, authenticity, and venture capital",
+      "author": "Arlan Hamilton",
+      "version": "1.0.0",
+      "tags": [
+        "venture-capital",
+        "entrepreneurship",
+        "diversity",
+        "startups",
+        "resilience",
+        "authenticity",
+        "underdog",
+        "investing",
+        "leadership",
+        "backstage-capital"
+      ],
+      "emoji": "\u23f0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/its-about-damn-time"
     }
   ],
-  "total_skills": 275
+  "total_skills": 276
 }
