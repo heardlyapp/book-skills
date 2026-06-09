@@ -1,0 +1,20 @@
+{
+  "name": "successful-time-management",
+  "version": "1.0.0",
+  "description": "Patrick Forsyth's 'Successful Time Management: How to be Organized, Productive and Get Things Done' — a practical guide to managing time effectively. Covers getting organized, combating time wasters, email management, paperwork control, delegation, prioritization (Pareto's Law), and working with others. Sixth edition updated for the modern workplace.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/successful-time-management",
+  "useCase": "Improving personal productivity, reducing time waste, managing email and paperwork, delegating effectively, setting priorities, and achieving better work-life balance.",
+  "knownRisks": [
+    "Some techniques are basic — may not be new for experienced readers",
+    "Pre-dates some modern remote work tools",
+    "Not all advice fits every work style",
+    "Some UK-centric language/examples"
+  ],
+  "tags": ["time-management", "productivity", "organization", "self-help", "business", "career", "email-management", "delegation", "prioritization", "workplace-skills"],
+  "openclaw": {
+    "emoji": "⏰",
+    "category": "productivity"
+  }
+}

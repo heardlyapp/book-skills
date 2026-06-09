@@ -5709,7 +5709,28 @@
       "emoji": "\ud83e\udd87",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/spillover"
+    },
+    {
+      "slug": "successful-time-management",
+      "title": "Patrick Forsyth's Successful Time Management \u2014 a practical guide to getting more done in less time, covering daily planning, Pareto prioritization, batch processing, email management, delegation, and saying no",
+      "author": "Patrick Forsyth",
+      "version": "1.0.0",
+      "tags": [
+        "time-management",
+        "productivity",
+        "organization",
+        "self-help",
+        "business",
+        "career",
+        "email-management",
+        "delegation",
+        "prioritization",
+        "workplace-skills"
+      ],
+      "emoji": "\u23f0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/successful-time-management"
     }
   ],
-  "total_skills": 300
+  "total_skills": 301
 }
