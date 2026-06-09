@@ -5686,7 +5686,30 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/son-of-hamas"
+    },
+    {
+      "slug": "spillover",
+      "title": "David Quammen's Spillover \u2014 the definitive account of zoonotic diseases, how animal viruses jump to humans, and why the next pandemic is a question of when, not if",
+      "author": "David Quammen",
+      "version": "1.0.0",
+      "tags": [
+        "zoonosis",
+        "pandemic",
+        "virology",
+        "disease",
+        "science",
+        "david-quammen",
+        "ebola",
+        "sars",
+        "aids",
+        "hendra-virus",
+        "emerging-diseases",
+        "epidemiology"
+      ],
+      "emoji": "\ud83e\udd87",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/spillover"
     }
   ],
-  "total_skills": 299
+  "total_skills": 300
 }
