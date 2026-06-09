@@ -1,0 +1,20 @@
+{
+  "name": "conscious-business",
+  "version": "1.0.0",
+  "description": "Fred Kofman's 'Conscious Business: How to Build Value Through Values' — an integral approach to leadership that combines unconditional responsibility, essential integrity, ontological humility, authentic communication, constructive negotiation, impeccable coordination, and emotional mastery for building conscious organizations.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/conscious-business",
+  "useCase": "Developing conscious leadership skills, building a values-driven organization, improving communication and negotiation, fostering a culture of responsibility and integrity, and integrating personal mastery with business success.",
+  "knownRisks": [
+    "Deeply philosophical with heavy references to integral theory (Ken Wilber) — may feel abstract for practical-minded readers",
+    "Some concepts challenge conventional business assumptions",
+    "Requires significant personal reflection and practice — not a quick-fix guide",
+    "The spiritual/existential framework may not resonate with all readers"
+  ],
+  "tags": ["leadership", "business", "consciousness", "values", "communication", "negotiation", "emotional-intelligence", "integrity", "culture", "management"],
+  "openclaw": {
+    "emoji": "🌐",
+    "category": "business"
+  }
+}
