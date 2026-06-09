@@ -1,0 +1,21 @@
+{
+  "name": "medical-medium-cleanse-to-heal",
+  "version": "1.0.0",
+  "description": "Anthony William's 'Medical Medium Cleanse to Heal' — a comprehensive guide to healing chronic illness through cleansing protocols. Covers the 3:6:9 Cleanse (the main protocol), Anti-Bug Cleanse, Heavy Metal Detox, Morning Cleanse, Mono Eating Cleanse, troublemaker foods, supplements, and the spiritual side of healing. The author channels health information from a 'Spirit of Compassion.'",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/medical-medium-cleanse-to-heal",
+  "useCase": "Understanding and implementing Medical Medium cleansing protocols for chronic illness, learning the 3:6:9 Cleanse structure, identifying troublemaker foods, choosing the right cleanse for specific conditions, and supporting healing with supplements and recipes.",
+  "knownRisks": [
+    "Author claims to receive information from a spirit — not scientifically validated",
+    "Some recommendations contradict conventional medical advice",
+    "Not a substitute for professional medical care",
+    "The cleansing protocols are intensive and may not be suitable for everyone",
+    "The book has been criticized by medical professionals as pseudoscience"
+  ],
+  "tags": ["cleansing", "detox", "chronic-illness", "healing", "nutrition", "medical-medium", "anthony-william", "celery-juice", "natural-health", "wellness"],
+  "openclaw": {
+    "emoji": "🥬",
+    "category": "health"
+  }
+}

@@ -5277,7 +5277,28 @@
       "emoji": "\u270a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/me-and-white-supremacy"
+    },
+    {
+      "slug": "medical-medium-cleanse-to-heal",
+      "title": "Anthony William's Medical Medium Cleanse to Heal \u2014 comprehensive cleansing protocols for chronic illness including the 3:6:9 Cleanse, Heavy Metal Detox, celery juice protocol, troublemaker foods, and condition-specific healing plans",
+      "author": "Anthony William",
+      "version": "1.0.0",
+      "tags": [
+        "cleansing",
+        "detox",
+        "chronic-illness",
+        "healing",
+        "nutrition",
+        "medical-medium",
+        "anthony-william",
+        "celery-juice",
+        "natural-health",
+        "wellness"
+      ],
+      "emoji": "\ud83e\udd6c",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/medical-medium-cleanse-to-heal"
     }
   ],
-  "total_skills": 280
+  "total_skills": 281
 }
