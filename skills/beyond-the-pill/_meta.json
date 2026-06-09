@@ -1,0 +1,20 @@
+{
+  "name": "beyond-the-pill",
+  "version": "1.0.0",
+  "description": "Dr. Jolene Brighten's comprehensive 30-day program to reverse the dangerous side effects of birth control pills, balance hormones, restore gut health, support thyroid and adrenal function, and reclaim your body through diet, lifestyle, and targeted supplements.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/beyond-the-pill",
+  "useCase": "Understanding post-birth control syndrome (PBCS), restoring hormonal balance after the pill, supporting detox pathways, healing gut health, and implementing a 30-day program for hormone optimization.",
+  "knownRisks": [
+    "Not a substitute for medical advice — consult a doctor before changing birth control",
+    "Individual results vary significantly based on personal health history",
+    "Some recommendations may conflict with specific medical conditions",
+    "Supplements can interact with medications"
+  ],
+  "tags": ["hormones", "birth-control", "women-health", "nutrition", "gut-health", "thyroid", "fertility", "detox", "supplements", "functional-medicine"],
+  "openclaw": {
+    "emoji": "💊",
+    "category": "health"
+  }
+}

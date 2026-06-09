@@ -4815,7 +4815,28 @@
       "emoji": "\u270a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/why-im-no-longer-talking-to-white-people-about-race"
+    },
+    {
+      "slug": "beyond-the-pill",
+      "title": "Dr. Jolene Brighten's Beyond the Pill \u2014 a 30-day program to reverse the dangerous side effects of birth control pills, balance hormones, heal gut health, and reclaim your body through diet, lifestyle, and supplements",
+      "author": "Dr. Jolene Brighten",
+      "version": "1.0.0",
+      "tags": [
+        "hormones",
+        "birth-control",
+        "women-health",
+        "nutrition",
+        "gut-health",
+        "thyroid",
+        "fertility",
+        "detox",
+        "supplements",
+        "functional-medicine"
+      ],
+      "emoji": "\ud83d\udc8a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/beyond-the-pill"
     }
   ],
-  "total_skills": 258
+  "total_skills": 259
 }
