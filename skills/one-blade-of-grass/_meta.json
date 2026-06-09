@@ -1,0 +1,20 @@
+{
+  "name": "one-blade-of-grass",
+  "version": "1.0.0",
+  "description": "Henry Shukman's 'One Blade of Grass: Finding the Old Road of the Heart, a Zen Memoir' — a beautifully written account of a lifetime Zen journey. From childhood trauma and chronic eczema through a profound awakening in a New Mexico meditation hall, to becoming a Zen teacher and founding Mountain Cloud Zen Center. Demystifies the 'cooking process' of Zen practice.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/one-blade-of-grass",
+  "useCase": "Understanding Zen awakening through a personal story, the koan path of Sanbo Zen, working through trauma with meditation, the teacher-student relationship, and what it means to be 'cooked' by practice.",
+  "knownRisks": [
+    "Describes a specific awakening experience — not universal",
+    "Some Zen concepts may be unfamiliar to new readers",
+    "Childhood trauma scenes may be triggering",
+    "The path described is intensive — years of practice required"
+  ],
+  "tags": ["zen", "buddhism", "memoir", "meditation", "awakening", "henry-shukman", "koan", "soto", "rinsai", "sanbo-zen"],
+  "openclaw": {
+    "emoji": "🌿",
+    "category": "spirituality"
+  }
+}

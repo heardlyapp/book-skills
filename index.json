@@ -5469,7 +5469,28 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/on-grief-and-grieving"
+    },
+    {
+      "slug": "one-blade-of-grass",
+      "title": "Henry Shukman's One Blade of Grass \u2014 a Zen memoir of childhood trauma, chronic eczema, koan practice, and a profound awakening in a New Mexico meditation hall, demystifying the path to realization",
+      "author": "Henry Shukman",
+      "version": "1.0.0",
+      "tags": [
+        "zen",
+        "buddhism",
+        "memoir",
+        "meditation",
+        "awakening",
+        "henry-shukman",
+        "koan",
+        "soto",
+        "rinsai",
+        "sanbo-zen"
+      ],
+      "emoji": "\ud83c\udf3f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/one-blade-of-grass"
     }
   ],
-  "total_skills": 289
+  "total_skills": 290
 }
