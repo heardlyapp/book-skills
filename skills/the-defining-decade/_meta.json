@@ -1,0 +1,9 @@
+{
+  "name": "the-defining-decade",
+  "version": "1.0.0",
+  "description": "Meg Jay's 'The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now' — a clinical psychologist's guide to the most consequential decade of adult life. Covers why 80% of life's defining moments happen by 35, the myth of 'thirty is the new twenty,' identity capital, weak ties, the urban tribe, cohabitation, fertility, and the twentysomething brain.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": ["twenties", "adult-development", "career", "relationships", "psychology", "meg-jay", "self-help", "life-planning", "identity", "personal-development"],
+  "openclaw": {"emoji": "🎯", "category": "self-development"}
+}

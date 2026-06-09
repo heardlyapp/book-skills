@@ -5898,7 +5898,28 @@
       "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-culture-code"
+    },
+    {
+      "slug": "the-defining-decade",
+      "title": "Meg Jay's The Defining Decade \u2014 why your twenties matter and how to make the most of them, covering identity capital, weak ties, the urban tribe myth, cohabitation risks, and fertility facts",
+      "author": "Meg Jay",
+      "version": "1.0.0",
+      "tags": [
+        "twenties",
+        "adult-development",
+        "career",
+        "relationships",
+        "psychology",
+        "meg-jay",
+        "self-help",
+        "life-planning",
+        "identity",
+        "personal-development"
+      ],
+      "emoji": "\ud83c\udfaf",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-defining-decade"
     }
   ],
-  "total_skills": 309
+  "total_skills": 310
 }
