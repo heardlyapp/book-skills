@@ -1,0 +1,24 @@
+{
+  "name": "the-storm-of-steel",
+  "version": "1.0.0",
+  "description": "Ernst Jünger's 'The Storm of Steel' — the original 1929 English translation of the classic German WWI memoir. An unflinching first-hand account of trench warfare on the Western Front from the perspective of a young German officer. 19 chapters covering Orainville, Les Eparges, the Somme Offensive, Guillemont, Langemarck, Cambrai, and the final offensives of 1918. A masterpiece of war literature that balances the brutality of combat with complex, unsentimental patriotism.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "world-war-i",
+    "memoir",
+    "ernst-junger",
+    "german-literature",
+    "war",
+    "trench-warfare",
+    "western-front",
+    "history",
+    "military",
+    "classic",
+    "combat"
+  ],
+  "openclaw": {
+    "emoji": "⚔️",
+    "category": "history"
+  }
+}
