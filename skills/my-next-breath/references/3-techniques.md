@@ -1,29 +1,24 @@
-# 3 — Techniques
+# Techniques — My Next Breath
 
-> Source: *My Next Breath* by Jeremy Renner.
+## How to Live Like Jeremy Renner (Based on His Memoir)
 
-## Practical Tools
+### Technique 1: The "One Shot" Pivot
+When you see a situation that demands action, don't hesitate — commit. Renner's entire philosophy: "One shot — a long shot, but a shot." Case: The snowcat sliding toward Alex. Renner didn't compute distances, didn't consider options. "I had no choice. I had one shot." The technique: calculate later, act now.
 
-### 1. The "One Shot" Decision Protocol
+### Technique 2: The Family Anchor
+Renner uses his family as his emotional center. No matter what's happening in his career, he stays grounded through Camp Renner. The technique: create a ritual that brings your people together — a holiday, a meal, a shared activity. Case: New Year's at Camp Renner — 25 family members, no phones, no internet, just pool and conversation.
 
-When facing a crisis where you must act: (1) Stop computing. Do not calculate odds, distances, or outcomes. (2) Identify the single action that could change the outcome. (3) Commit. Do not second-guess. (4) Accept that you might fail — but failure in action is better than inaction. Renner's leap missed — but he never regretted trying.
+### Technique 3: The "Do the Do" Method
+When things go wrong, don't dwell — do. Renner missed his flight by seconds → drove 8 hours. Lost his key fob → sent Alex back in an Uber. The technique: when plan A fails, immediately pivot to plan B. Case: "Sometimes you just have to commit to an action and do it."
 
-> **Case: The Leap (Prologue):** "One shot, one action that would change everything and come to define the second half of my life: a three-foot leap up and a nearly three-foot leap across to the cabin of the snowcat." He did not calculate. He did not hesitate. He jumped. "This is no longer conscious thought. This is pure action, motivated by love."
-> **Key takeaway**: In a real crisis, you will not have time to think. Train yourself so that action — not hesitation — is your default response.
+### Technique 4: The Humor Release
+Renner defuses tension with humor. The Rory story (Rory thought he was a "lighting guy"), the key fob story, the meowing dog. The technique: find the funny in the absurd. When you're lying in the snow with 38 broken bones, thinking about your daughter is the serious thing — but humor gets you through the rest.
 
-> **Case: The Snowbound Family (Chapter 1):** Renner's entire family was snowed in at Camp Renner. The snowcat was needed to clear the driveway so the family could escape to go skiing. "I live for that gang up at the house. They are my whole life, my heart." The motivation for being out there at all was love. Every action that morning — including the leap — was in service of the people he loved.
-> **Key takeaway**: The best decisions come from a clear motivation. Love is the clearest motivation there is.
+### Technique 5: The Rennervation Model
+Service = purpose. The technique: take what you're good at and use it to help others. Renner's skill is organizing big projects, so he started Rennervations — repurposing vehicles for community needs. Case: "We rehab old trucks, ambulances, buses, and donate them to communities that need them."
 
-When you cannot face the whole recovery: (1) Do not think about the full mountain. Think about the next breath. (2) Set micro-milestones — not "walk again" but "breathe again." (3) Each micro-victory builds momentum. (4) Do not compare your progress to anyone else's. Renner did not think about walking. He thought about inhaling, exhaling, and surviving the next 30 seconds.
+### Technique 6: The "I Love You" Intensification
+Renner's niece noticed he was more intentional with his family during that New Year's. "He is being incredibly intentional in every conversation and so physically close." The technique: don't assume your people know you love them. Tell them. Show them. Case: Renner made eye contact, held conversations, expressed gratitude.
 
-### 3. The Body Inventory
-
-Renner, as an actor and athlete, knew his body intimately. On the ice, he took a mental inventory: "One of my legs is twisted all around a few times this way and that. The other leg looks like it should hurt, and it doesn't, which is even more worrying." He prioritized: breathing first, eye second, legs third. Use this in any crisis: assess the most critical threat, address it, move to the next.
-
-### 4. The Love Visualization
-
-When the pain was unbearable, Renner visualized his daughter Ava — her face, her voice, her need for him. "My daughter is my life force, my everything, my only thing, my number one." Identify your "Ava" — the person you are fighting for. Write their name down. Put it somewhere visible. When you want to give up, look at the name.
-
-### 5. The Help Acceptance Protocol
-
-Renner could not have survived without strangers (Barb, Rich), his nephew (Alex), medical professionals, and family. The protocol: (1) Admit you cannot do this alone. (2) Identify specific needs (physical help, emotional support, medical care). (3) Ask for exactly what you need. (4) Receive without guilt. You will repay it forward.
+### Technique 7: The Ava Frame
+When facing impossible odds, ask: "What would I want for my daughter?" Case: In the snow, bleeding out, Renner thought about Ava. "I'm not going to die today." The technique: find your north star — the person or purpose that makes you fight for your next breath.

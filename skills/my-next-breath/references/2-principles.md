@@ -1,35 +1,29 @@
-# 2 — Key Principles
+# Key Principles — My Next Breath
 
-> Source: *My Next Breath* by Jeremy Renner.
+## I. Action Over Hesitation
 
-## The 7 Principles
+"The most important thing in life is to take action." Renner's whole philosophy. Don't only think — do. "Emotions never built a bridge or fed the hungry or saved a life." Case: The snowcat was sliding toward Alex. Renner didn't think — he jumped. "I had no choice. I had one shot."
 
-### 1. Action Over Analysis
+## II. Family Is Everything
 
-In a crisis, you do not have time to think. You have time to act. Renner's entire philosophy: feelings and thoughts are fine, but they do not change anything. Action changes everything. "Don't only think about things, don't just feel things — take the first step, and then the next, and then the next."
+Camp Renner is the center of his world. Every year, 25-30 family members gather. He spent years working to afford a house big enough to host everyone. Case: He drove 8 hours through a blizzard just to make it to New Year's with them. "I live for that gang up at the house. They are my whole life."
 
-> **Case: The Missing Key Fob (Chapter 1):** On the way to Tahoe, Renner lost his car key fob. Every logical sign said to give up. Instead, he sent Alex back to find it. Alex found it. They made it to Tahoe. "Sometimes you just have to commit to an action and do it."
+## III. You Take Action Even When You Miss
 
-### 2. Realism Is Stronger Than Optimism
+Renner missed the jump. "I jumped three feet across, nearly three feet up — and I missed." But he still tried. That's the philosophy: the action matters more than the outcome. Case: He tries to push through the pain of recovery, even knowing he'll never be the same.
 
-Renner rejects toxic positivity. "I want to shoot that kind of perky person." He is a realist: he assesses the worst-case scenario honestly, then acts. False optimism crumbles when reality hits. Realism — facing the worst without flinching — is sustainable.
+## IV. Vulnerability Is Strength
 
-### 3. Love Is the Most Powerful Fuel
+The book is raw. Renner admits fear, weakness, doubt. "I could feel the life draining out of my body." He writes about being scared, about almost giving up. Case: The 27 minutes lying in the snow waiting for help — he thought about Ava and forced himself to stay conscious.
 
-Renner's daughter Ava was the reason he fought through every surgery, every painful physical therapy session, every dark night. "My daughter is my life force, my everything, my only thing, my number one." Fighting for yourself is hard. Fighting for someone you love is automatic.
+## V. Humor Gets You Through
 
-### 4. Nothing Is Wasted
+Renner's writing is funny. The key fob story. Rory Millikin not knowing who he was. His dogs. The "longest roast ever" on New Year's Eve. Case: "Dude, I plead, let me squeeze on. Sorry, sir, we can't open the door once it's closed. FAA regulations."
 
-> **Case: The Life Coordinates (Chapter 4):** Renner traces how every experience prepared him: a latchkey childhood taught self-reliance. Years of physical training for movies built his body's resilience. A philosophy of action made the leap automatic. "Each of us brings a set of coordinates from a life lived." Nothing that happened to you was wasted — it was training for this moment.
+## VI. Service Is Purpose
 
-### 5. Trauma Propagates. So Must Healing.
+Rennervations — Renner's project to repurpose old vehicles for community use. "We acquire and rehabilitate old trucks, ambulances, buses, and donate them to communities that need them." Case: Mobile music studio, dance bus, water treatment bus. Service beyond self.
 
-The accident did not happen to Renner alone. It happened to Alex, to his parents, to his daughter, to his friends. Heals yourself, and you heal them. Giving up is not a personal choice — it is a betrayal of everyone who loves you.
+## VII. Your Daughter Is Your North Star
 
-### 6. Accept Help
-
-Renner could not recover alone. He needed trauma surgeons, ICU nurses, physical therapists, family, friends. Strength is not doing it alone. Strength is letting people help you.
-
-### 7. Find Meaning in What Happened
-
-Renner does not call the accident a "mistake." He does not regret the leap. He believes things happen for a reason. The book is his attempt to make sense of the senseless: "I think about it as an incident, not an accident, because I think things happen for a reason."
+Ava is the center of the book. "My daughter, Ava, who is my life force… my everything, my only thing, my number one." Case: During the 27 minutes in the snow, Renner kept thinking about Ava. She's why he fought to stay alive.

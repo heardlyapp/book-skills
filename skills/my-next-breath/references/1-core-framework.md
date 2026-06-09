@@ -1,25 +1,39 @@
-# 1 — Core Framework
+# Core Framework — My Next Breath
 
-> Source: *My Next Breath* by Jeremy Renner — Prologue, Parts 1-3.
+## Author's Note
 
-## The Three Frameworks
+"I did not want to write this book." Renner didn't want to relive January 1, 2023. He didn't want to recount the accident and its violence. "I couldn't imagine why people would care." But he came to understand "the ripple effect this incident has had." So despite not being a writer and not wanting to write a book — "here it is."
 
-### Framework A: The Incident — One Shot (Prologue, Part One)
+## Prologue: One Shot
 
-On January 1, 2023, Jeremy Renner's PistenBully snowcat — a 14,000-pound industrial machine — began sliding on ice toward his nephew Alex, who was trapped against a Ford Raptor and a snowbank. Renner had one shot: leap three feet up and three feet across into the cab, hit the emergency stop button. He missed. The machine crushed him. He suffered 38 broken bones, a collapsed lung, a shattered eye socket, and severe head trauma. He lay conscious on the ice for 45 minutes, breathing manually, while Alex held his arm and neighbors called 911.
+January 1, 2023. A 14,000-pound snowcat was sliding across ice toward Renner's nephew, Alex. Alex had nowhere to go — back against a Ford Raptor, which was against a snowbank. Renner's mantra: "The most important thing in life is to take action."
 
-> **Case: The Leap (Prologue):** "Not today, motherfucker…" Renner's last words before jumping. The entire leap happened in milliseconds — he did not have time to compute distances or prepare his muscles. "This is no longer conscious thought. This is pure action, motivated by love." He missed — but he never regretted the attempt. "I had one shot — a long shot, but a shot. Not for a second did I think about my other life."
+"Not today, motherfucker… That's the last thing I remember shouting."
 
-> **Case: The 45 Minutes on the Ice (Chapter 3):** Renner lay crushed, bleeding, unable to breathe on his own. His nephew Alex held his arm to keep it from breaking further. A neighbor (Barb) kneeled in the snow holding a towel to his head. Another (Rich) called 911 and directed the dispatcher. Renner focused on one thing only: each breath. "Each breath is the equivalent of the effort it takes to complete a full push-up." He took 45 minutes of those breaths.
+He jumped. Three feet across. Three feet up. He was trying to grab the door handle, get inside, hit the big red STOP button. "One shot — a long shot, but a shot." But he missed. And everything changed.
 
-### Framework B: The Recovery Philosophy (Parts Two, Three)
+## Part I: The Accident
 
-Renner's approach to recovery was built on a lifetime of conditioning: action over analysis, realism over optimism, and love as fuel. He did not pretend the recovery would be easy — he faced the brutal truth of 38 broken bones and then went to work. His daughter Ava was the driving force. "My daughter is my life force, my everything, my only thing, my number one."
+**Snowmageddon:** The snowstorm was unprecedented — 5 feet of snow. Renner missed his flight to Tahoe by seconds. Then lost his key fob at a gas station. "A Christmas miracle" — his nephew Alex found it. They drove eight hours through the storm.
 
-> **Case: The "Take Action" Philosophy (Prologue, Chapter 1):** Renner opens the book with his core belief: "Feel everything, consider everything, read, think, ponder — all that's fine. But you have to do something. You have to commit to action whenever you can." He contrasts this with empty optimism: "Emotions never built a bridge or fed the hungry or saved a life. Who cares how you feel? Do something."
+**The accident itself:** Renner and Alex were clearing snow at the end of the driveway. The snowcat started sliding. "Not today, motherfucker." The machine ran over his right leg, crushed his torso. 38+ broken bones. He lay in the snow for 27 minutes waiting for the first responders.
 
-### Framework C: The Ripple Effect (Parts One-Three)
+**The rescue:** The airlift to Reno. The realization: "I could feel myself fading. I could feel the life draining out of my body." He kept thinking about Ava, his daughter. "I'm not going to die today."
 
-Renner's central insight: trauma does not happen in a vacuum. His accident traumatized Alex, his parents, his siblings, his daughter. Recovery was not a solo project — it was the only way to heal everyone who was hurt by what happened. "What happened to me didn't happen to me in a vacuum. In missing that jump, I had invited the people I loved into a hellscape of my own making."
+## Part II: Recovery
 
-> **Case: Alex's Trauma (Chapter 3):** Alex had been about to die. Then he watched his uncle get crushed. Then he held Renner's arm in position for nearly an hour to keep it from breaking off. "All that trauma — all those things no one should ever have to see — and still he had to make crucial, lifesaving decisions." Renner's recovery was partly for Alex — to show his nephew that the horror of that morning could be redeemed.
+Multiple surgeries. A hospital room with postcards from around the world. Friends showing up — Chris Evans, Tom Hiddleston, Robert Downey Jr. "The Avengers assembled."
+
+**His philosophy of action:** "I believe that the most important thing in life is to take action. Feel everything, consider everything, read, think, ponder, cogitate — all that's fine. But you have to do something. Otherwise, nothing's going to change." This philosophy both saved Alex and nearly killed him.
+
+**His childhood:** Growing up in Modesto, California. His father Lee was a dreamer, an intellectual. His mother Valerie was the rock. Nine children — Jeremy is the oldest. He started acting in community theater, then moved to Los Angeles, lived in basements and spare rooms.
+
+**The Hurt Locker:** His breakout role. "That movie made me a star and nearly killed me in the process." The making of it was brutal — heat, sand, explosions. It won Best Picture.
+
+**Rory Millikin:** Renner's best friend and partner in Rennervations. They first met when Rory had no idea who Renner was — "Were you a lighting guy or something?" Rory later helped save Renner's life after the accident.
+
+## Part III: Meaning
+
+Renner's daughter Ava is "my only thing, my number one." The book begins and ends with her. His dedication: "I dedicate this book to my daughter, Ava, who is my life force… my everything."
+
+"When you face your own death, you understand what matters. Everything else falls away." Renner's conclusion: love. Action driven by love. "I had no choice. I had one shot. One shot — a long shot, but a shot."
