@@ -5490,7 +5490,28 @@
       "emoji": "\ud83c\udf3f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/one-blade-of-grass"
+    },
+    {
+      "slug": "outgrowing-god",
+      "title": "Richard Dawkins' Outgrowing God \u2014 a beginner's guide to atheism and evolution, arguing that evidence trumps faith, Darwin solved the design problem, and morality doesn't require religion",
+      "author": "Richard Dawkins",
+      "version": "1.0.0",
+      "tags": [
+        "atheism",
+        "evolution",
+        "religion",
+        "science",
+        "richard-dawkins",
+        "skepticism",
+        "critical-thinking",
+        "biology",
+        "philosophy",
+        "education"
+      ],
+      "emoji": "\ud83d\udd2c",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/outgrowing-god"
     }
   ],
-  "total_skills": 290
+  "total_skills": 291
 }

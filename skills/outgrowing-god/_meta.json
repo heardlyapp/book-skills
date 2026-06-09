@@ -1,0 +1,20 @@
+{
+  "name": "outgrowing-god",
+  "version": "1.0.0",
+  "description": "Richard Dawkins' 'Outgrowing God: A Beginner's Guide' — a clear, accessible argument against religion written for young readers. Part 1: why gods are myths, the unreliability of scripture, and that morality doesn't require God. Part 2: evolution as the real explanation for life's complexity, the illusion of design, and the evolution of religion and morality.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/outgrowing-god",
+  "useCase": "Understanding the arguments for atheism, why evolution disproves intelligent design, why scripture is unreliable, how morality can exist without religion, and how to think critically about religious claims.",
+  "knownRisks": [
+    "Written for young readers — may oversimplify complex issues",
+    "Dawkins is a polemicist, not an impartial scholar",
+    "Some readers will find the tone dismissive of religious beliefs",
+    "The evolution section assumes acceptance of Darwinian theory"
+  ],
+  "tags": ["atheism", "evolution", "religion", "science", "richard-dawkins", "skepticism", "critical-thinking", "biology", "philosophy", "education"],
+  "openclaw": {
+    "emoji": "🔬",
+    "category": "science"
+  }
+}
