@@ -4710,7 +4710,28 @@
       "emoji": "\ud83c\udf96\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/we-were-soldiers-once"
+    },
+    {
+      "slug": "save-the-cat",
+      "title": "Blake Snyder's Save the Cat! \u2014 the legendary screenwriting guide: 15-beat structure, logline formula, and the immutable laws of screenplay physics",
+      "author": "Blake Snyder",
+      "version": "1.0.0",
+      "tags": [
+        "screenwriting",
+        "writing",
+        "film",
+        "storytelling",
+        "hollywood",
+        "creativity",
+        "structure",
+        "script",
+        "narrative",
+        "craft"
+      ],
+      "emoji": "\ud83c\udfac",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/save-the-cat"
     }
   ],
-  "total_skills": 253
+  "total_skills": 254
 }

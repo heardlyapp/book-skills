@@ -1,0 +1,20 @@
+{
+  "name": "save-the-cat",
+  "version": "1.0.0",
+  "description": "Blake Snyder's legendary screenwriting guide — the 15-beat story structure, the 'Save the Cat' principle, the logline formula, and the immutable laws of screenplay physics that have helped countless writers break into Hollywood.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/save-the-cat",
+  "useCase": "Learning professional screenwriting structure, crafting marketable loglines, building a beat sheet, developing characters audiences love, and navigating the Hollywood spec market.",
+  "knownRisks": [
+    "Written for the commercial Hollywood market — not for art-house or experimental filmmaking",
+    "Some examples are dated (published 2005, references to early 2000s films)",
+    "Highly formulaic — some critics argue the 'beat sheet' approach stifles creativity",
+    "Snyder's tone is brash and self-assured, which may put off some readers"
+  ],
+  "tags": ["screenwriting", "writing", "film", "storytelling", "hollywood", "creativity", "structure", "script", "narrative", "craft"],
+  "openclaw": {
+    "emoji": "🎬",
+    "category": "professional-development"
+  }
+}
