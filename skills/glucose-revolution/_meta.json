@@ -1,0 +1,20 @@
+{
+  "name": "glucose-revolution",
+  "version": "1.0.0",
+  "description": "Jessie Inchauspé's 'Glucose Revolution: The Life-Changing Power of Balancing Your Blood Sugar' — based on the Glucose Goddess movement. A practical guide to understanding glucose spikes and using 10 simple food hacks (eating order, vinegar, veggie starters, savory breakfasts, post-meal movement) to flatten your glucose curve and transform your health.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/glucose-revolution",
+  "useCase": "Understanding glucose spikes and their effects on health, learning to flatten glucose curves through food order and preparation hacks, managing cravings and energy, and reducing risk of metabolic disease.",
+  "knownRisks": [
+    "Author is a scientist, not a doctor — not medical advice",
+    "Individual glucose responses vary; not all hacks work equally for everyone",
+    "Continuous glucose monitors (CGMs) are not necessary to implement the hacks",
+    "Not a complete nutrition plan — focuses specifically on glucose management"
+  ],
+  "tags": ["glucose", "blood-sugar", "nutrition", "metabolic-health", "insulin", "weight-loss", "diabetes", "energy", "cravings", "hormones"],
+  "openclaw": {
+    "emoji": "🩸",
+    "category": "health"
+  }
+}

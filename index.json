@@ -5025,7 +5025,28 @@
       "emoji": "\ud83e\udd66",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/fiber-fueled"
+    },
+    {
+      "slug": "glucose-revolution",
+      "title": "Jessie Inchausp\u00e9's Glucose Revolution \u2014 the Glucose Goddess guide to balancing blood sugar with 10 simple food hacks: food order, vinegar, savory breakfast, post-meal walking, and more for better energy, fewer cravings, and metabolic health",
+      "author": "Jessie Inchausp\u00e9",
+      "version": "1.0.0",
+      "tags": [
+        "glucose",
+        "blood-sugar",
+        "nutrition",
+        "metabolic-health",
+        "insulin",
+        "weight-loss",
+        "diabetes",
+        "energy",
+        "cravings",
+        "hormones"
+      ],
+      "emoji": "\ud83e\ude78",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/glucose-revolution"
     }
   ],
-  "total_skills": 268
+  "total_skills": 269
 }
