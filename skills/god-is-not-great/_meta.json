@@ -1,0 +1,21 @@
+{
+  "name": "god-is-not-great",
+  "version": "1.0.0",
+  "description": "Christopher Hitchens' 'God Is Not Great: How Religion Poisons Everything' — a blistering polemic against organized religion, arguing that faith is the root of violence, sexual repression, ignorance, and human degradation. Covers the historical crimes of religion, the falsity of scripture, and the case for a new Enlightenment.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/god-is-not-great",
+  "useCase": "Understanding the secular humanist critique of organized religion, learning the four irreducible objections to faith, examining the historical record of religious violence, and exploring arguments for reason-based ethics.",
+  "knownRisks": [
+    "Intentionally provocative and offensive to believers",
+    "Polemical rather than scholarly — Hitchens is an advocate, not an impartial observer",
+    "Some historical claims have been disputed by scholars",
+    "The tone is aggressive and may alienate readers seeking balanced discussion",
+    "Does not address moderate or progressive religious practice in depth"
+  ],
+  "tags": ["atheism", "religion", "secularism", "philosophy", "politics", "criticism", "christopher-hitchens", "free-thought", "reason", "humanism"],
+  "openclaw": {
+    "emoji": "⚡",
+    "category": "philosophy"
+  }
+}

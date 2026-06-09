@@ -5046,7 +5046,28 @@
       "emoji": "\ud83e\ude78",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/glucose-revolution"
+    },
+    {
+      "slug": "god-is-not-great",
+      "title": "Christopher Hitchens' God Is Not Great \u2014 a blistering polemic against organized religion, arguing that faith poisons everything through violence, sexual repression, false scripture, and the suppression of reason",
+      "author": "Christopher Hitchens",
+      "version": "1.0.0",
+      "tags": [
+        "atheism",
+        "religion",
+        "secularism",
+        "philosophy",
+        "politics",
+        "criticism",
+        "christopher-hitchens",
+        "free-thought",
+        "reason",
+        "humanism"
+      ],
+      "emoji": "\u26a1",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/god-is-not-great"
     }
   ],
-  "total_skills": 269
+  "total_skills": 270
 }
