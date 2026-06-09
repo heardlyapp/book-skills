@@ -5340,7 +5340,28 @@
       "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/models-attract-women-through-honesty"
+    },
+    {
+      "slug": "no-future-without-forgiveness",
+      "title": "Archbishop Desmond Tutu's No Future Without Forgiveness \u2014 the definitive account of South Africa's Truth and Reconciliation Commission, the philosophy of Ubuntu, and why forgiveness is the only path to a shared future",
+      "author": "Desmond Tutu",
+      "version": "1.0.0",
+      "tags": [
+        "forgiveness",
+        "reconciliation",
+        "south-africa",
+        "apartheid",
+        "truth-commission",
+        "human-rights",
+        "ubuntu",
+        "theology",
+        "desmond-tutu",
+        "peace"
+      ],
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/no-future-without-forgiveness"
     }
   ],
-  "total_skills": 283
+  "total_skills": 284
 }

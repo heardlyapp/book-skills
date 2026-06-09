@@ -1,0 +1,20 @@
+{
+  "name": "no-future-without-forgiveness",
+  "version": "1.0.0",
+  "description": "Archbishop Desmond Tutu's 'No Future Without Forgiveness' — the definitive account of South Africa's Truth and Reconciliation Commission (TRC). Tutu argues that only through truth-telling, amnesty, and forgiveness could South Africa avoid the twin catastrophes of Nuremberg-style vengeance or willful amnesia. Rooted in the Christian theology of forgiveness and the African philosophy of Ubuntu.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/no-future-without-forgiveness",
+  "useCase": "Understanding South Africa's transition from apartheid to democracy, the TRC's amnesty-for-truth model, the theology and philosophy of forgiveness, the victim and perpetrator testimonies, and why Tutu argues there is 'no future without forgiveness.'",
+  "knownRisks": [
+    "Strongly Christian theological framework — may not resonate with secular readers",
+    "Some victims and families felt the TRC traded justice for peace",
+    "The book is Tutu's personal account — not an impartial history",
+    "South Africa's post-TRC challenges (inequality, corruption) temper the optimism"
+  ],
+  "tags": ["forgiveness", "reconciliation", "south-africa", "apartheid", "truth-commission", "human-rights", "ubuntu", "theology", "desmond-tutu", "peace"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "social-justice"
+  }
+}
