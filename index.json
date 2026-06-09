@@ -5004,7 +5004,28 @@
       "emoji": "\ud83c\udf0a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/falling-into-grace"
+    },
+    {
+      "slug": "fiber-fueled",
+      "title": "Dr. Will Bulsiewicz's Fiber Fueled \u2014 a plant-based gut health program using fiber diversity, short-chain fatty acids, and the 4-week plan to heal your microbiome, lose weight, and restore health",
+      "author": "Will Bulsiewicz",
+      "version": "1.0.0",
+      "tags": [
+        "gut-health",
+        "microbiome",
+        "plant-based",
+        "fiber",
+        "nutrition",
+        "digestive-health",
+        "weight-loss",
+        "fermentation",
+        "postbiotics",
+        "immunity"
+      ],
+      "emoji": "\ud83e\udd66",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/fiber-fueled"
     }
   ],
-  "total_skills": 267
+  "total_skills": 268
 }

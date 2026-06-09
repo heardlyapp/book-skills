@@ -1,0 +1,20 @@
+{
+  "name": "fiber-fueled",
+  "version": "1.0.0",
+  "description": "Dr. Will Bulsiewicz's 'Fiber Fueled' — a complete plant-based gut health program for losing weight, restoring health, and optimizing your microbiome through fiber-rich foods, short-chain fatty acids, the 4-week program, and personalized food reintroduction strategies.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/fiber-fueled",
+  "useCase": "Improving gut health through a plant-based fiber-rich diet, understanding the microbiome, healing digestive issues, managing food sensitivities, and reducing risk of chronic disease through postbiotics and short-chain fatty acids.",
+  "knownRisks": [
+    "Not a substitute for medical advice — consult a doctor before changing your diet significantly",
+    "Some people with severe IBS or SIBO may need a more gradual approach",
+    "The 4-week program requires significant dietary changes",
+    "Individual results vary based on microbiome composition and health history"
+  ],
+  "tags": ["gut-health", "microbiome", "plant-based", "fiber", "nutrition", "digestive-health", "weight-loss", "fermentation", "postbiotics", "immunity"],
+  "openclaw": {
+    "emoji": "🥦",
+    "category": "health"
+  }
+}
