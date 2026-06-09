@@ -1,0 +1,20 @@
+{
+  "name": "caste",
+  "version": "1.0.1",
+  "description": "Isabel Wilkerson's 'Caste: The Origins of Our Discontents' — a groundbreaking examination of America's hidden caste system. Argues that racism is better understood as caste: a rigid hierarchy of human worth. Traces the Eight Pillars of Caste, draws parallels between America, India, and Nazi Germany, and explores the consequences of caste on health, politics, and everyday life.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/caste",
+  "useCase": "Understanding America's racial hierarchy as a caste system, the Eight Pillars that sustain it, the parallels with Nazi Germany and India, the health consequences of caste, and the path to awakening from caste thinking.",
+  "knownRisks": [
+    "The caste analogy is controversial — some scholars disagree with the framework",
+    "Some may feel the comparison to Nazi Germany or India is inappropriate",
+    "The book is comprehensive but long — the framework can be dense",
+    "Wilkerson is a journalist, not a historian or sociologist"
+  ],
+  "tags": ["caste", "race", "social-hierarchy", "inequality", "history", "discrimination", "nazi-germany", "india", "priviledge", "social-justice"],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "social-justice"
+  }
+}
