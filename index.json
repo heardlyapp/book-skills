@@ -5600,7 +5600,28 @@
       "emoji": "\ud83d\udcaa",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/rising-strong"
+    },
+    {
+      "slug": "security-analysis-sixth-edition",
+      "title": "Benjamin Graham and David Dodd's Security Analysis: Sixth Edition \u2014 the definitive textbook on value investing, with foreword by Warren Buffett, covering margin of safety, intrinsic value, and the Great Illusion of the Stock Market",
+      "author": "Benjamin Graham, David Dodd",
+      "version": "1.0.0",
+      "tags": [
+        "value-investing",
+        "benjamin-graham",
+        "security-analysis",
+        "investing",
+        "finance",
+        "stock-market",
+        "warren-buffett",
+        "margin-of-safety",
+        "intrinsic-value",
+        "financial-analysis"
+      ],
+      "emoji": "\ud83d\udcca",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/security-analysis-sixth-edition"
     }
   ],
-  "total_skills": 295
+  "total_skills": 296
 }

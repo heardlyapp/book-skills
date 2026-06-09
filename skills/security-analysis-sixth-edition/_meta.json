@@ -1,0 +1,20 @@
+{
+  "name": "security-analysis-sixth-edition",
+  "version": "1.0.0",
+  "description": "Benjamin Graham and David Dodd's 'Security Analysis: Sixth Edition, Foreword by Warren Buffett' — the definitive text on value investing, updated for the 21st century. Covers the margin of safety, intrinsic value, discrepancies between price and value, stock-option warrants, management compensation, relative value analysis, and the 'Great Illusion of the Stock Market.'",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/security-analysis-sixth-edition",
+  "useCase": "Understanding value investing fundamentals, learning the margin of safety concept, performing security analysis, evaluating management compensation, identifying price-value discrepancies, and avoiding the Great Illusion of the stock market.",
+  "knownRisks": [
+    "Dense, academic text — not a quick read",
+    "Some examples are dated (1940 original)",
+    "The Sixth Edition includes modern commentary alongside original text",
+    "Requires basic financial literacy to fully understand"
+  ],
+  "tags": ["value-investing", "benjamin-graham", "security-analysis", "investing", "finance", "stock-market", "warren-buffett", "margin-of-safety", "intrinsic-value", "financial-analysis"],
+  "openclaw": {
+    "emoji": "📊",
+    "category": "finance"
+  }
+}
