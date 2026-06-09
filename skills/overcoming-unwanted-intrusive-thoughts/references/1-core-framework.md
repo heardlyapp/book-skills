@@ -1,25 +1,33 @@
-# 1 — Core Framework
+# Core Framework — Overcoming Unwanted Intrusive Thoughts
 
-> Source: *Overcoming Unwanted Intrusive Thoughts* by Sally Winston & Martin Seif — Chapters 1-8.
+## Introduction: The Train Platform Question
 
-## The Three Frameworks
+"Have you ever stood on the edge of a train platform, minding your own business, and then suddenly had the brief thought, I could jump off and die? Or: I could push that guy onto the tracks!" When asked, 90% of people say yes. The difference between normal intrusive thoughts and stuck intrusive thoughts is not the thought itself — it's the reaction. "There is nothing wrong with you, just the way you are dealing with your thoughts."
 
-### Framework A: Intrusive Thoughts Are Universal (Chapters 1, 2)
+## Chapter 3: Myths and Facts
 
-The book opens with the key fact: 90% of people acknowledge having the "train platform thought" — the sudden urge to jump. Intrusive thoughts are a normal product of a healthy brain. The difference between someone who suffers and someone who shrugs is not the thought content — it is the reaction. Those who react with fear or shame create a stuck thought. Those who recognize it as meaningless noise experience a fleeting moment.
+**Myth:** Intrusive thoughts mean you subconsciously want to do them. **Fact:** They mean the opposite — they're ego-dystonic, the opposite of your values. Case: A loving mother who has intrusive thoughts about harming her child is actually terrified of harming her child. "The thought is the opposite of who you are."
 
-> **Case: The Train Platform (Introduction):** "Have you ever stood on the edge of a train platform, minding your own business, and then suddenly, out of the blue, had the brief thought, I could jump off and die! Or have you been struck by the passing thought, Hey, I could push that guy onto the tracks! When a room full of people is asked these questions, 90 percent of them will acknowledge they have." Normal people have these thoughts. The second question — do you get upset or worried by them? — separates those who suffer from those who do not.
+## Chapter 4: Q&A
 
-> **Case: The Writer's Storm Thought (Chapter 1):** While writing the book, one author had the thought: "I hope we lose power in this storm so I don't have to keep working." He recognized it as a passing thought, did nothing, and continued writing. Had he worried about what it meant about his dedication or mental state, it could have become a stuck thought. The same content, two different relationships — one causes suffering, the other does not.
+Common questions: "Am I going crazy?" No. "Does this mean I'm dangerous?" No. "Will I lose control and act on these thoughts?" Extremely unlikely. "Why won't they stop?" Because you're fighting them.
 
-### Framework B: The Three Voices (Chapter 1)
+## Chapter 5: How the Brain Creates Intrusive Thoughts
 
-Winston and Seif identify three internal voices that govern the intrusive thought cycle. Worried Voice says "What if that means something terrible?" False Comfort tries to argue, reassure, and control. Wise Mind watches without engaging. The suffering comes from the back-and-forth argument between Worried Voice and False Comfort. Wise Mind is the exit — observing, accepting, not taking sides.
+The brain is a thought-generating machine. Most thoughts pass unnoticed. Intrusive thoughts get stuck because the brain's "threat detection system" flags them as dangerous. Case: "Your brain treats an intrusive thought like it treats a bear in the woods — alarm bells ring, adrenaline floods, you prepare to fight or flee."
 
-> **Case: The Worried Voice / False Comfort Argument (Chapter 1):** Worried Voice raises a doubt: "What if I actually want to hurt someone?" False Comfort immediately leaps in: "No, of course not, you're a good person, here's all the evidence." This sounds helpful — but it triggers another doubt from Worried Voice: "But what if the thought came back because it's true?" The argument escalates without resolution. Wise Mind watches and says nothing — because it knows the argument is unwinnable.
+## Chapter 6: Why Nothing Has Worked
 
-### Framework C: The Ironic Process (Chapters 5, 6)
+"Common-sense approaches to stopping our worries — pushing thoughts away, arguing with them, seeking reassurance — actually feed these worries and help them grow." Case: The "white bear" experiment — try NOT to think of a white bear. The harder you try, the more you think of it.
 
-The brain's response to "Do not think of X" is to think of X. Thought suppression requires monitoring for the forbidden thought — which keeps it active. The more you try to eliminate a thought, the more it returns. This is not a personal failure. It is how the brain is wired. The solution is not better suppression — it is giving up the fight entirely.
+## Chapter 7: How to Handle Thoughts When They Happen
 
-> **Case: White Bear Experiment (Chapter 5):** The classic demonstration of ironic process: participants asked not to think of a white bear find themselves thinking of it constantly. Those given permission to think about it immediately think about it less. The instruction to suppress creates the obsession. The same mechanism drives unwanted intrusive thoughts: the effort to eliminate a thought guarantees its return.
+The key: stop fighting. "The goal is not to eliminate intrusive thoughts — it's to change your relationship with them." Techniques: labeling thoughts as "just thoughts," allowing them to be there without engaging, practicing acceptance.
+
+## Chapter 8: Getting Over Unwanted Thoughts for Good
+
+Exposure and Response Prevention (ERP): deliberately invite the thoughts, then don't engage. "If you can learn to have the thought without reacting, the thought loses its power."
+
+## Chapter 9: What Does Recovery Mean?
+
+Recovery is not the absence of intrusive thoughts — it's the absence of distress about them. "You will still have odd thoughts from time to time. They just won't bother you."

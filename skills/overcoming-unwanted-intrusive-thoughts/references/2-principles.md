@@ -1,37 +1,29 @@
-# 2 — Key Principles
+# Key Principles — Overcoming Unwanted Intrusive Thoughts
 
-> Source: *Overcoming Unwanted Intrusive Thoughts* by Sally Winston & Martin Seif.
+## I. Intrusive Thoughts Are Normal
 
-## The 7 Principles
+90% of people have intrusive thoughts. "Have you ever stood on a train platform and thought about jumping?" The difference between normal and pathological is not the thought — it's the reaction. Case: "Sane and good people have awful thoughts."
 
-### 1. You Are Not Your Thoughts
+## II. Thoughts Are Not Facts
 
-A thought is a mental event — a puff of neural activity. Having a violent thought does not make you violent. Having a sexual thought about something taboo does not make you deviant. The content of thoughts is not a reflection of character. Brains generate noise. That is their job.
+"A thought is not a fact. A thought is not a wish. A thought is not a plan." Intrusive thoughts are mental noise, not meaningful signals. Case: "If you were actually going to push someone, you wouldn't be worried about it."
 
-> **Case: The Elevator Obscenity Thought (Chapter 1):** Many people experience the sudden, inexplicable urge to shout out an obscenity in an elevator or quiet room. The thought is meaningless — a random association between silence and the urge to break it. But someone who worries about it may avoid elevators or fear they are losing control. The thought is the same. Only the relationship differs.
-> **Key takeaway**: The difference between suffering and not suffering is not the thought but the reaction. Shrug = passing moment. Fear = stuck thought.
+## III. Fighting Thoughts Makes Them Worse
 
-> **Case: The Boxing Coach's Violent Intrusion (Chapter 2):** Winston describes a gentle boxing coach who had intrusive images of punching his own children. He was horrified and started avoiding physical contact with them. The thoughts intensified. Treatment involved recognizing that the thoughts were not wishes — they were the opposite. His horror was evidence of his love, not his danger.
-> **Key takeaway**: The more horrified you are by a thought, the less it reflects who you are. The strong emotional reaction is a signal of your values, not a threat to them.
+The "white bear" experiment: try NOT to think of a white bear. The harder you try, the more it appears. Case: Suppression, reassurance-seeking, and arguing with thoughts all backfire.
 
-The ironic process: trying to suppress a thought guarantees its return. The effort to eliminate an intrusive thought is like trying to push a beach ball underwater — it pops up somewhere else with greater force.
+## IV. Intrusive Thoughts Are Ego-Dystonic
 
-### 3. Reassurance Is False Comfort
+They are the opposite of your values. A gentle person has violent thoughts. A loving parent has harm thoughts. A kind person has sexual taboo thoughts. Case: "The thought is the opposite of who you are."
 
-The voice that tries to answer "what if?" is called False Comfort because it never achieves its goal. Reassurance creates a temporary feeling of safety — then the doubt returns, stronger. The more you seek reassurance, the less secure you feel.
+## V. Recovery Is Changing Your Relationship
 
-### 4. The Fight IS the Problem
+"You can't stop the waves, but you can learn to surf." The goal is not to eliminate intrusive thoughts — it's to stop being distressed by them. Case: Recovery = thoughts are still there, but they don't bother you.
 
-Without the struggle — without the attempts to suppress, argue, analyze, or reassure — an intrusive thought passes quickly. The fight is what gives the thought its power and stickiness.
+## VI. ERP Works
 
-### 5. Uncertainty Is the Antidote
+Exposure and Response Prevention: deliberately invite the thought, then refuse to engage. "If you can learn to have the thought without reacting, the thought loses its power."
 
-Every intrusive thought demands certainty: "Are you sure you would never act on that?" The answer that breaks the cycle is "Maybe, maybe not." Accepting uncertainty is the only response that does not fuel the fire.
+## VII. You Are Not Alone
 
-### 6. Labeling Creates Distance
-
-Adding "I am having the thought that..." before the content creates a separation between you and the thought. "I am having the thought that I could hurt someone" is different from "I could hurt someone." The first is an observation. The second feels like a threat.
-
-### 7. Practice Rewires the Brain
-
-Each time you allow a thought without reacting, you weaken the conditioned emotional response. Recovery is not a moment of insight — it is thousands of small retrainings of the automatic reaction.
+"Millions of people have thoughts just like yours." The silence and shame around intrusive thoughts are the main source of suffering. Case: "You bear your burdens in isolation, not knowing that there are many others just like you."
