@@ -1,0 +1,20 @@
+{
+  "name": "the-art-of-manifesting",
+  "version": "1.0.0",
+  "description": "Carolyn Boyes' 'The Art of Manifesting: Tap into the power of the universe to create change' — a concise guide to manifesting through intention, imagination, relaxation, commitment, belief, and habit. Draws on spiritual traditions from around the world to teach a practical 8-step method for creating deliberate change in your life.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-art-of-manifesting",
+  "useCase": "Learning to manifest desires, developing a manifesting practice, understanding the power of intention and imagination, releasing limiting beliefs, and creating lasting change.",
+  "knownRisks": [
+    "Very short book — may feel too brief for some readers",
+    "Manifesting concepts may not resonate with skeptics",
+    "Not scientifically validated",
+    "Some examples are simplified"
+  ],
+  "tags": ["manifesting", "spirituality", "self-help", "carolyn-boyes", "intention", "imagination", "belief", "habit", "law-of-attraction", "personal-development"],
+  "openclaw": {
+    "emoji": "🌟",
+    "category": "spirituality"
+  }
+}

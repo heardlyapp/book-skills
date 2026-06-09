@@ -5751,7 +5751,28 @@
       "emoji": "\u2728",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/super-attractor"
+    },
+    {
+      "slug": "the-art-of-manifesting",
+      "title": "Carolyn Boyes' The Art of Manifesting \u2014 a concise guide to manifesting through intention, imagination, relaxation, commitment, belief, and habit, with a practical 8-step method for creating change",
+      "author": "Carolyn Boyes",
+      "version": "1.0.0",
+      "tags": [
+        "manifesting",
+        "spirituality",
+        "self-help",
+        "carolyn-boyes",
+        "intention",
+        "imagination",
+        "belief",
+        "habit",
+        "law-of-attraction",
+        "personal-development"
+      ],
+      "emoji": "\ud83c\udf1f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-manifesting"
     }
   ],
-  "total_skills": 302
+  "total_skills": 303
 }
