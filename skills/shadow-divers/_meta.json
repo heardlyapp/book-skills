@@ -1,0 +1,20 @@
+{
+  "name": "shadow-divers",
+  "version": "1.0.0",
+  "description": "Robert Kurson's 'Shadow Divers: The True Adventure of Two Americans Who Risked Everything to Solve One of the Last Mysteries of World War II' — the true story of John Chatterton and Richie Kohler, two deep-sea wreck divers who discovered a German U-boat off the New Jersey coast and spent six years identifying it. A tale of extreme diving, historical detective work, obsession, and the rewriting of WWII history.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/shadow-divers",
+  "useCase": "Understanding deep-wreck diving, WWII U-boat history, historical detective methods, the culture of extreme sport, and the personal journey of obsession and discovery.",
+  "knownRisks": [
+    "Some diving technical details may be dense for non-divers",
+    "Contains graphic descriptions of diving deaths and injuries",
+    "The narrative is long and detail-rich",
+    "Some historical interpretations have been debated by other historians"
+  ],
+  "tags": ["diving", "historical-mystery", "world-war-ii", "u-boat", "adventure", "nonfiction", "robert-kurson", "shipwreck", "exploration", "obsession"],
+  "openclaw": {
+    "emoji": "⚓",
+    "category": "adventure"
+  }
+}

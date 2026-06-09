@@ -5642,7 +5642,28 @@
       "emoji": "\ud83d\udcc8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/security-analysis-classic-1940"
+    },
+    {
+      "slug": "shadow-divers",
+      "title": "Robert Kurson's Shadow Divers \u2014 the true story of two deep-sea wreck divers who discovered a German U-boat off New Jersey and spent six years solving one of the last mysteries of WWII",
+      "author": "Robert Kurson",
+      "version": "1.0.0",
+      "tags": [
+        "diving",
+        "historical-mystery",
+        "world-war-ii",
+        "u-boat",
+        "adventure",
+        "nonfiction",
+        "robert-kurson",
+        "shipwreck",
+        "exploration",
+        "obsession"
+      ],
+      "emoji": "\u2693",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/shadow-divers"
     }
   ],
-  "total_skills": 297
+  "total_skills": 298
 }
