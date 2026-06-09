@@ -1,0 +1,24 @@
+{
+  "name": "the-complete-guide-to-breast-cancer",
+  "version": "1.0.0",
+  "description": "Trisha Greenhalgh and Liz O'Riordan's 'The Complete Guide to Breast Cancer: How to Feel Empowered and Take Control' \u2014 a practical, compassionate guide written by two doctors who have both had breast cancer. Covers diagnosis, surgery, chemotherapy, radiotherapy, hormone therapy, body image, relationships, survivorship, and secondary cancer.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-complete-guide-to-breast-cancer",
+  "tags": [
+    "breast-cancer",
+    "cancer",
+    "health",
+    "medical",
+    "survivorship",
+    "women-health",
+    "treatment",
+    "chemotherapy",
+    "surgery",
+    "empowerment"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udf97\ufe0f",
+    "category": "health"
+  }
+}

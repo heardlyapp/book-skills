@@ -5856,7 +5856,28 @@
       "emoji": "\ud83e\udd66",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-china-study"
+    },
+    {
+      "slug": "the-complete-guide-to-breast-cancer",
+      "title": "Trisha Greenhalgh and Liz O'Riordan's The Complete Guide to Breast Cancer \u2014 written by two doctors who had breast cancer, covering diagnosis, treatment, survivorship, body image, and relationships",
+      "author": "Trisha Greenhalgh, Liz O'Riordan",
+      "version": "1.0.0",
+      "tags": [
+        "breast-cancer",
+        "cancer",
+        "health",
+        "medical",
+        "survivorship",
+        "women-health",
+        "treatment",
+        "chemotherapy",
+        "surgery",
+        "empowerment"
+      ],
+      "emoji": "\ud83c\udf97\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-complete-guide-to-breast-cancer"
     }
   ],
-  "total_skills": 307
+  "total_skills": 308
 }
