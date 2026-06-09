@@ -5835,7 +5835,28 @@
       "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-brain-that-changes-itself"
+    },
+    {
+      "slug": "the-china-study",
+      "title": "T. Colin Campbell and Thomas M. Campbell II's The China Study \u2014 the landmark book advocating a whole-food, plant-based diet, based on the largest study of nutrition ever conducted",
+      "author": "T. Colin Campbell, Thomas M. Campbell II",
+      "version": "1.0.0",
+      "tags": [
+        "nutrition",
+        "plant-based",
+        "diet",
+        "health",
+        "cancer",
+        "china-study",
+        "whole-food",
+        "vegan",
+        "epidemiology",
+        "prevention"
+      ],
+      "emoji": "\ud83e\udd66",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-china-study"
     }
   ],
-  "total_skills": 306
+  "total_skills": 307
 }

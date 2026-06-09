@@ -1,0 +1,20 @@
+{
+  "name": "the-china-study",
+  "version": "1.0.0",
+  "description": "T. Colin Campbell and Thomas M. Campbell II's 'The China Study: The Most Comprehensive Study of Nutrition Ever Conducted and Startling Implications for Diet, Weight Loss, and Long-Term Health' — the landmark book advocating a whole-food, plant-based diet. Based on the China Project, a massive epidemiological study linking animal protein to cancer, heart disease, diabetes, and other 'diseases of affluence.'",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-china-study",
+  "useCase": "Understanding the link between diet and chronic disease, learning the benefits of a whole-food plant-based diet, critiquing the Western medical establishment's focus on treatment over prevention, and improving personal health through nutrition.",
+  "knownRisks": [
+    "Some claims have been debated by other researchers",
+    "Very strict dietary recommendations may be hard to follow",
+    "The book's tone is polemical — positions as 'truth vs. establishment'",
+    "Not everyone agrees with the complete elimination of animal products"
+  ],
+  "tags": ["nutrition", "plant-based", "diet", "health", "cancer", "china-study", "whole-food", "vegan", "epidemiology", "prevention"],
+  "openclaw": {
+    "emoji": "🥦",
+    "category": "health"
+  }
+}
