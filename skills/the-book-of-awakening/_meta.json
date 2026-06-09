@@ -1,0 +1,20 @@
+{
+  "name": "the-book-of-awakening",
+  "version": "1.0.0",
+  "description": "Mark Nepo's 'The Book of Awakening: Having the Life You Want by Being Present to the Life You Have' — a beloved spiritual classic with 365 daily meditations on presence, gratitude, suffering, love, and the miracle of ordinary life. Written by a poet and cancer survivor, each entry offers a reflection and meditation to help readers stay awake to the gift of being alive.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-book-of-awakening",
+  "useCase": "Daily spiritual practice, developing presence and mindfulness, finding meaning in suffering, gratitude practice, and staying awake to the beauty of ordinary life.",
+  "knownRisks": [
+    "365 entries — not designed to be read straight through",
+    "Poetic/reflective style may not suit all readers",
+    "Cancer survivor perspective may be challenging for some",
+    "Spiritual but not religious — may not satisfy those seeking doctrinal guidance"
+  ],
+  "tags": ["meditation", "spirituality", "mindfulness", "daily-reader", "mark-nepo", "presence", "gratitude", "poetry", "inspiration", "self-help"],
+  "openclaw": {
+    "emoji": "☀️",
+    "category": "spirituality"
+  }
+}

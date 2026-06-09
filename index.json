@@ -5772,7 +5772,28 @@
       "emoji": "\ud83c\udf1f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-art-of-manifesting"
+    },
+    {
+      "slug": "the-book-of-awakening",
+      "title": "Mark Nepo's The Book of Awakening \u2014 365 daily meditations on presence, gratitude, suffering, and the miracle of ordinary life, written by a poet and cancer survivor",
+      "author": "Mark Nepo",
+      "version": "1.0.0",
+      "tags": [
+        "meditation",
+        "spirituality",
+        "mindfulness",
+        "daily-reader",
+        "mark-nepo",
+        "presence",
+        "gratitude",
+        "poetry",
+        "inspiration",
+        "self-help"
+      ],
+      "emoji": "\u2600\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-book-of-awakening"
     }
   ],
-  "total_skills": 303
+  "total_skills": 304
 }
