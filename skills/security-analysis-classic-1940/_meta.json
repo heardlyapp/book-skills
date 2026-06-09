@@ -1,0 +1,20 @@
+{
+  "name": "security-analysis-classic-1940",
+  "version": "1.0.0",
+  "description": "Benjamin Graham and David Dodd's 'Security Analysis: The Classic 1940 Edition' — the definitive edition of the value investing bible. Warren Buffett has read it "at least four times." Covers the margin of safety, intrinsic value, bond and preferred stock analysis, common stock valuation, the theory of investment vs speculation, balance-sheet analysis, income account analysis, and discrepancies between price and value.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/security-analysis-classic-1940",
+  "useCase": "Learning the foundations of value investing, understanding bond and stock analysis, calculating intrinsic value, applying the margin of safety, and developing a disciplined investment philosophy.",
+  "knownRisks": [
+    "Dense academic text — requires financial literacy",
+    "Examples are from 1940s markets",
+    "Some concepts (like railroad bonds) are less relevant today",
+    "Not a quick read — comprehensive study required"
+  ],
+  "tags": ["value-investing", "benjamin-graham", "security-analysis", "investing", "bonds", "stocks", "margin-of-safety", "intrinsic-value", "financial-analysis", "classic"],
+  "openclaw": {
+    "emoji": "📈",
+    "category": "finance"
+  }
+}

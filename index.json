@@ -5621,7 +5621,28 @@
       "emoji": "\ud83d\udcca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/security-analysis-sixth-edition"
+    },
+    {
+      "slug": "security-analysis-classic-1940",
+      "title": "Benjamin Graham and David Dodd's Security Analysis: The Classic 1940 Edition \u2014 the definitive edition of the value investing bible, covering the margin of safety, investment vs speculation, bond analysis, common stock valuation, and discrepancies between price and value",
+      "author": "Benjamin Graham, David Dodd",
+      "version": "1.0.0",
+      "tags": [
+        "value-investing",
+        "benjamin-graham",
+        "security-analysis",
+        "investing",
+        "bonds",
+        "stocks",
+        "margin-of-safety",
+        "intrinsic-value",
+        "financial-analysis",
+        "classic"
+      ],
+      "emoji": "\ud83d\udcc8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/security-analysis-classic-1940"
     }
   ],
-  "total_skills": 296
+  "total_skills": 297
 }
