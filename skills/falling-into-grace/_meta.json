@@ -1,0 +1,20 @@
+{
+  "name": "falling-into-grace",
+  "version": "1.0.0",
+  "description": "Adyashanti's 'Falling into Grace: Insights on the End of Suffering' — a clear, accessible guide to the fundamental insights of non-dual spirituality: why we suffer, how we become entranced by thought, and how grace reveals our true nature beyond the egoic mind.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/falling-into-grace",
+  "useCase": "Understanding the root cause of suffering (believing our thoughts), awakening from the egoic trance, learning to feel emotions without adding story, discovering inner stability, and opening to grace.",
+  "knownRisks": [
+    "Non-dual teachings can feel abstract or paradoxical",
+    "Intellectual understanding is not the goal — direct experience is required",
+    "Some may find the deconstruction of thought unsettling",
+    "Adyashanti's approach is not for everyone — different paths suit different people"
+  ],
+  "tags": ["non-duality", "spirituality", "meditation", "awareness", "consciousness", "suffering", "grace", "ego", "awakening", "adyashanti"],
+  "openclaw": {
+    "emoji": "🌊",
+    "category": "spirituality"
+  }
+}

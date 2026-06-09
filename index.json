@@ -4983,7 +4983,28 @@
       "emoji": "\ud83c\udf5d",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/essentials-of-classic-italian-cooking"
+    },
+    {
+      "slug": "falling-into-grace",
+      "title": "Adyashanti's Falling into Grace \u2014 insights on ending suffering by seeing through the trance of believed thought, feeling emotions without story, and discovering the ground of being we already are",
+      "author": "Adyashanti",
+      "version": "1.0.0",
+      "tags": [
+        "non-duality",
+        "spirituality",
+        "meditation",
+        "awareness",
+        "consciousness",
+        "suffering",
+        "grace",
+        "ego",
+        "awakening",
+        "adyashanti"
+      ],
+      "emoji": "\ud83c\udf0a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/falling-into-grace"
     }
   ],
-  "total_skills": 266
+  "total_skills": 267
 }
