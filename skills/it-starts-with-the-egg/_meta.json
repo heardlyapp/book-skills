@@ -1,0 +1,20 @@
+{
+  "name": "it-starts-with-the-egg",
+  "version": "1.0.0",
+  "description": "Rebecca Fett's 'It Starts with the Egg' — a science-backed guide to improving egg quality for fertility, preventing miscarriage, and optimizing IVF success. Covers the dangers of BPA and phthalates, evidence-based supplements (CoQ10, melatonin, myo-inositol, DHEA), and the egg quality diet.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/it-starts-with-the-egg",
+  "useCase": "Understanding egg quality and its impact on fertility, learning how environmental toxins affect reproductive health, choosing evidence-based supplements for IVF preparation, and implementing diet and lifestyle changes to improve egg quality.",
+  "knownRisks": [
+    "Not a substitute for medical advice — consult a fertility specialist",
+    "Some recommendations may not apply to all individuals or conditions",
+    "Research is evolving — newer studies may update or contradict some findings",
+    "The author is a molecular biologist, not a medical doctor"
+  ],
+  "tags": ["fertility", "pregnancy", "egg-quality", "ivf", "nutrition", "supplements", "miscarriage", "toxins", "bpa", "reproductive-health"],
+  "openclaw": {
+    "emoji": "🥚",
+    "category": "health"
+  }
+}

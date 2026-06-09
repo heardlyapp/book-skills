@@ -5151,7 +5151,28 @@
       "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/inner-excellence"
+    },
+    {
+      "slug": "it-starts-with-the-egg",
+      "title": "Rebecca Fett's It Starts with the Egg \u2014 an evidence-based guide to improving egg quality through toxin avoidance, targeted supplements (CoQ10, DHEA, myo-inositol), and the Mediterranean diet for fertility and IVF success",
+      "author": "Rebecca Fett",
+      "version": "1.0.0",
+      "tags": [
+        "fertility",
+        "pregnancy",
+        "egg-quality",
+        "ivf",
+        "nutrition",
+        "supplements",
+        "miscarriage",
+        "toxins",
+        "bpa",
+        "reproductive-health"
+      ],
+      "emoji": "\ud83e\udd5a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/it-starts-with-the-egg"
     }
   ],
-  "total_skills": 274
+  "total_skills": 275
 }
