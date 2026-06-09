@@ -1,0 +1,20 @@
+{
+  "name": "inner-excellence",
+  "version": "1.0.0",
+  "description": "Jim Murphy's 'Inner Excellence: Train Your Mind for Extraordinary Performance and the Best Possible Life' — a comprehensive guide to mental toughness, poise under pressure, and inner transformation, drawing on sports psychology, Samurai philosophy, and Christian spirituality to help you perform at your peak while living a life of deep contentment, joy, and confidence.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/inner-excellence",
+  "useCase": "Developing mental toughness and poise under pressure, overcoming fear and self-doubt, cultivating focus and presence, building unshakeable beliefs, and aligning your inner world for peak performance and fulfillment.",
+  "knownRisks": [
+    "Strongly Christian framework — may not resonate with non-religious readers",
+    "Some concepts may feel contradictory (surrender vs ambition)",
+    "Written for competitive athletes — some examples may not transfer to other fields",
+    "The author's personal experience is from baseball — sports-specific"
+  ],
+  "tags": ["mental-toughness", "peak-performance", "mindset", "sports-psychology", "meditation", "faith", "focus", "confidence", "resilience", "leadership"],
+  "openclaw": {
+    "emoji": "🎯",
+    "category": "performance"
+  }
+}

@@ -5130,7 +5130,28 @@
       "emoji": "\u221e",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/infinite-powers"
+    },
+    {
+      "slug": "inner-excellence",
+      "title": "Jim Murphy's Inner Excellence \u2014 train your mind for extraordinary performance and the best possible life through Samurai-inspired mental toughness, the three pillars (belief, focus, freedom), and emotional state control",
+      "author": "Jim Murphy",
+      "version": "1.0.0",
+      "tags": [
+        "mental-toughness",
+        "peak-performance",
+        "mindset",
+        "sports-psychology",
+        "meditation",
+        "faith",
+        "focus",
+        "confidence",
+        "resilience",
+        "leadership"
+      ],
+      "emoji": "\ud83c\udfaf",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/inner-excellence"
     }
   ],
-  "total_skills": 273
+  "total_skills": 274
 }
