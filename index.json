@@ -5877,7 +5877,28 @@
       "emoji": "\ud83c\udf97\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-complete-guide-to-breast-cancer"
+    },
+    {
+      "slug": "the-culture-code",
+      "title": "Daniel Coyle's The Culture Code \u2014 reveals the three skills that create strong group culture: Build Safety, Share Vulnerability, and Establish Purpose, based on research inside top-performing groups",
+      "author": "Daniel Coyle",
+      "version": "1.0.0",
+      "tags": [
+        "culture",
+        "teamwork",
+        "leadership",
+        "organizational-culture",
+        "psychology",
+        "daniel-coyle",
+        "collaboration",
+        "trust",
+        "belonging",
+        "purpose"
+      ],
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-culture-code"
     }
   ],
-  "total_skills": 308
+  "total_skills": 309
 }

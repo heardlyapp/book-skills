@@ -1,0 +1,23 @@
+{
+  "name": "the-culture-code",
+  "version": "1.0.0",
+  "description": "Daniel Coyle's 'The Culture Code: The Secrets of Highly Successful Groups' \u2014 reveals the three skills that create strong group culture: Build Safety (signals of belonging), Share Vulnerability (habits of trust), and Establish Purpose (shared goals and values). Based on research inside top-performing groups including Navy SEALs, Pixar, San Antonio Spurs, and others.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "culture",
+    "teamwork",
+    "leadership",
+    "organizational-culture",
+    "psychology",
+    "daniel-coyle",
+    "collaboration",
+    "trust",
+    "belonging",
+    "purpose"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "category": "leadership"
+  }
+}
