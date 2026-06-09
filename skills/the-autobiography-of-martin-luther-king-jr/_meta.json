@@ -1,0 +1,20 @@
+{
+  "name": "the-autobiography-of-martin-luther-king-jr",
+  "version": "1.0.0",
+  "description": "Martin Luther King Jr.'s autobiography, assembled by historian Clayborne Carson from King's own writings, speeches, sermons, letters, and unpublished manuscripts. Covers his early years in Atlanta, the Montgomery Bus Boycott, the Birmingham Campaign, the March on Washington, the Nobel Peace Prize, Selma, the Vietnam War opposition, the Poor People's Campaign, and his assassination.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-autobiography-of-martin-luther-king-jr",
+  "useCase": "Understanding MLK's life in his own words, the history of the civil rights movement, nonviolent resistance philosophy, the theological foundations of King's activism, and the unfinished work of racial and economic justice.",
+  "knownRisks": [
+    "Edited posthumously by Clayborne Carson — not written by King himself",
+    "Focuses on public and political life, less on private/family details",
+    "Some texts were written with collaborators — editorial judgment involved",
+    "The narrative understates the role of family and other key figures"
+  ],
+  "tags": ["martin-luther-king", "civil-rights", "nonviolence", "history", "autobiography", "social-justice", "racism", "activism", "american-history", "speeches"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "history"
+  }
+}

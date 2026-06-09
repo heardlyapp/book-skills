@@ -5361,7 +5361,28 @@
       "emoji": "\ud83d\udd4a\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/no-future-without-forgiveness"
+    },
+    {
+      "slug": "the-autobiography-of-martin-luther-king-jr",
+      "title": "Martin Luther King Jr.'s autobiography \u2014 his life in his own words, from Montgomery to Memphis, compiled by historian Clayborne Carson from speeches, sermons, letters, and writings",
+      "author": "Martin Luther King Jr. (ed. Clayborne Carson)",
+      "version": "1.0.0",
+      "tags": [
+        "martin-luther-king",
+        "civil-rights",
+        "nonviolence",
+        "history",
+        "autobiography",
+        "social-justice",
+        "racism",
+        "activism",
+        "american-history",
+        "speeches"
+      ],
+      "emoji": "\u270a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-autobiography-of-martin-luther-king-jr"
     }
   ],
-  "total_skills": 284
+  "total_skills": 285
 }
