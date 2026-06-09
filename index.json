@@ -5663,7 +5663,30 @@
       "emoji": "\u2693",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/shadow-divers"
+    },
+    {
+      "slug": "son-of-hamas",
+      "title": "Mosab Hassan Yousef's Son of Hamas \u2014 the true story of a Hamas prince who became an Israeli spy, worked undercover for over a decade, converted to Christianity, and saved countless lives",
+      "author": "Mosab Hassan Yousef",
+      "version": "1.0.1",
+      "tags": [
+        "hamas",
+        "israel-palestine",
+        "espionage",
+        "middle-east",
+        "memoir",
+        "terrorism",
+        "shin-bet",
+        "islam",
+        "christianity",
+        "true-story",
+        "peace",
+        "conflict"
+      ],
+      "emoji": "\ud83d\udd4a\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/son-of-hamas"
     }
   ],
-  "total_skills": 298
+  "total_skills": 299
 }

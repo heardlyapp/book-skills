@@ -1,0 +1,20 @@
+{
+  "name": "son-of-hamas",
+  "version": "1.0.1",
+  "description": "Mosab Hassan Yousef's 'Son of Hamas: A Gripping Account of Terror, Betrayal, Political Intrigue, and Unthinkable Choices' — the true story of the son of a Hamas founder who became an Israeli spy, worked undercover inside the terrorist organization for over a decade, converted to Christianity, and eventually defected to the United States.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/son-of-hamas",
+  "useCase": "Understanding the Israeli-Palestinian conflict from the inside, the workings of Hamas, the moral complexity of espionage, the psychology of radicalization, and one man's journey from terrorism to peace.",
+  "knownRisks": [
+    "Contains graphic descriptions of violence and torture",
+    "Strong Christian perspective (author converted from Islam)",
+    "Some claims are disputed by both Palestinians and Israelis",
+    "The author is seen as a traitor by many Palestinians"
+  ],
+  "tags": ["hamas", "israel-palestine", "espionage", "middle-east", "memoir", "terrorism", "shin-bet", "islam", "christianity", "true-story", "peace", "conflict"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "memoir"
+  }
+}
