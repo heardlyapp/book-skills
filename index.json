@@ -5424,7 +5424,28 @@
       "emoji": "\ud83c\udf00",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/nothing-special"
+    },
+    {
+      "slug": "obedience-to-authority",
+      "title": "Stanley Milgram's Obedience to Authority \u2014 the classic experiment showing 65% of ordinary people deliver lethal shocks under orders, and the theory of the agentic state that explains the banality of evil",
+      "author": "Stanley Milgram",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "obedience",
+        "authority",
+        "milgram",
+        "social-psychology",
+        "ethics",
+        "experiment",
+        "conformity",
+        "evil",
+        "agentic-state"
+      ],
+      "emoji": "\u26a1",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/obedience-to-authority"
     }
   ],
-  "total_skills": 287
+  "total_skills": 288
 }

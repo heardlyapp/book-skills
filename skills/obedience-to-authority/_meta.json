@@ -1,0 +1,20 @@
+{
+  "name": "obedience-to-authority",
+  "version": "1.0.0",
+  "description": "Stanley Milgram's classic 'Obedience to Authority: An Experimental View' — the definitive account of the Milgram experiment, where ordinary people delivered electric shocks to a screaming victim under orders from a scientist. 65% of subjects went to the maximum 450 volts. Milgram explores the 'agentic state,' the mechanisms of obedience, and the terrifying implications for understanding how ordinary people commit atrocities.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/obedience-to-authority",
+  "useCase": "Understanding why ordinary people obey authority even when it conflicts with conscience, the Milgram experiment design and findings, the agentic state theory, the variations that increased or decreased obedience, and the implications for understanding genocide and atrocities.",
+  "knownRisks": [
+    "The experiments were ethically controversial — deception and distress",
+    "Some interpretations have been challenged by later research",
+    "The book is a scientific monograph, not popular science",
+    "May be disturbing — shows ordinary people willing to harm others"
+  ],
+  "tags": ["psychology", "obedience", "authority", "milgram", "social-psychology", "ethics", "experiment", "conformity", "evil", "agentic-state"],
+  "openclaw": {
+    "emoji": "⚡",
+    "category": "psychology"
+  }
+}
