@@ -33,7 +33,7 @@ description: >-
   "how have you managed not to know" / "this work is about you"
   Also triggers when the user says they just installed this skill or doesn't know how to start —
   the AI MUST proactively present the Quick Start guide below.
-version: 1.0.0
+version: 1.0.1
 license: MIT
 tags:
   - antiracism
@@ -92,6 +92,8 @@ tags:
 
 ### Core Framework Quick Reference
 
+- **The 28-Day Structure:** The workbook is divided into 4 weeks of 7 days each. Each day has a specific topic (white privilege, white fragility, tone policing, colorblindness, exceptionalism, anti-Blackness, cultural appropriation, allyship, power dynamics, commitments). Each topic includes an introduction, journal prompts, and space for written reflection. The reader is expected to write — not just think.
+- **The Origin Story:** The book started as an Instagram challenge (28 posts, 28 days). It went viral → free PDF workbook (100,000+ downloads worldwide) → published book with foreword by Robin DiAngelo. This trajectory proves the demand was organic, not manufactured.
 - **Who Layla Saad Is:** Black, Arab, Muslim woman of Palestinian, Lebanese, and East African descent. Lives in Qatar. Creator of the #MeAndWhiteSupremacy Instagram challenge. Her PDF workbook was downloaded 100,000+ times. She is driven by "a passionate desire to become a good ancestor."
 - **The Book's Origin:** Started as an Instagram challenge → free PDF workbook (100k downloads) → published book. Foreword by Robin DiAngelo (author of White Fragility).
 - **The Structure:** 28 days of personal journaling across 4 weeks. Week 1: Basics — white privilege, white fragility, tone policing, colorblindness, exceptionalism, how the system shows up in daily life. Week 2: Anti-Blackness, racial stereotypes, cultural appropriation, optical allyship vs substantive action. Week 3: Allyship as practice (not identity), calling in vs calling out, feedback and accountability. Week 4: Power dynamics, interpersonal relationships, specific commitments, and the ongoing journey. Group circle guidelines in appendix.
