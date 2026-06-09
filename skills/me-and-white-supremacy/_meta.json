@@ -1,0 +1,20 @@
+{
+  "name": "me-and-white-supremacy",
+  "version": "1.0.0",
+  "description": "Layla F. Saad's 'Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor' — a 28-day personal antiracism workbook for people with white privilege to examine their complicity in white supremacy. Covers privilege, fragility, tone policing, cultural appropriation, allyship, and actionable commitments for becoming a good ancestor.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/me-and-white-supremacy",
+  "useCase": "Understanding white supremacy as a system, examining personal complicity through daily journaling, developing antiracist practices, learning about privilege and fragility, and building the stamina to do sustained antiracism work.",
+  "knownRisks": [
+    "Challenging and uncomfortable for white readers — requires vulnerability",
+    "Not a scholarly work — a practical workbook",
+    "Some readers may feel the framework is too blunt or confrontational",
+    "The work is ongoing — 28 days is just the beginning"
+  ],
+  "tags": ["antiracism", "race", "white-supremacy", "social-justice", "privilege", "allyship", "self-reflection", "decolonization", "equity", "diversity"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "social-justice"
+  }
+}

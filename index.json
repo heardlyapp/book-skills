@@ -5256,7 +5256,28 @@
       "emoji": "\u2728",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/manifest-7-steps"
+    },
+    {
+      "slug": "me-and-white-supremacy",
+      "title": "Layla F. Saad's Me and White Supremacy \u2014 a 28-day personal antiracism workbook for people with white privilege to examine complicity, develop allyship, and become a good ancestor",
+      "author": "Layla F. Saad",
+      "version": "1.0.0",
+      "tags": [
+        "antiracism",
+        "race",
+        "white-supremacy",
+        "social-justice",
+        "privilege",
+        "allyship",
+        "self-reflection",
+        "decolonization",
+        "equity",
+        "diversity"
+      ],
+      "emoji": "\u270a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/me-and-white-supremacy"
     }
   ],
-  "total_skills": 279
+  "total_skills": 280
 }
