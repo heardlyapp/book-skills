@@ -1,0 +1,23 @@
+{
+  "name": "incidents-in-the-life-of-a-slave-girl",
+  "version": "1.0.0",
+  "description": "Harriet Ann Jacobs' 'Incidents in the Life of a Slave Girl' \u2014 the first book-length slave narrative by an African American woman. Sexual exploitation, seven years hiding in a tiny garret, escape to freedom. A searing indictment of slavery from a woman's perspective.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "slave-narrative",
+    "american-history",
+    "harriet-jacobs",
+    "civil-war",
+    "abolition",
+    "women",
+    "african-american",
+    "memoir",
+    "slavery",
+    "feminism"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcdc",
+    "category": "history"
+  }
+}
