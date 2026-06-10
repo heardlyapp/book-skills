@@ -1,0 +1,22 @@
+{
+  "name": "masters-of-doom-how-two-guys-created-an-empire-and-transformed-pop-culture",
+  "version": "1.0.0",
+  "description": "David Kushner's 'Masters of Doom' \u2014 the story of John Carmack and John Romero, creators of Doom and Quake. Programming genius meets rock star designer. The birth of the first-person shooter, the shareware revolution, and the partnership that changed gaming forever.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "video-games",
+    "doom",
+    "id-software",
+    "gaming",
+    "technology",
+    "entrepreneurship",
+    "creativity",
+    "john-carmack",
+    "john-romero"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udfae",
+    "category": "biography"
+  }
+}
