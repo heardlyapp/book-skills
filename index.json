@@ -6844,6 +6844,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-yoga-sutras-of-patanjali",
+      "title": "Sri Swami Satchidananda's commentary on Patanjali's Yoga Sutras — practical toolkit for understanding the eight limbs, s",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "yoga",
+        "philosophy",
+        "meditation",
+        "spirituality",
+        "hinduism",
+        "patanjali",
+        "mindfulness",
+        "eight-limbs",
+        "samadhi",
+        "ancient-wisdom"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "thermoinfocomplexity",
       "title": "thermoinfocomplexity",
       "author": "heardlyapp",
@@ -7437,5 +7456,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 412
+  "total_skills": 413
 }

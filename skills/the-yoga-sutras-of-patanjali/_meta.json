@@ -1,0 +1,19 @@
+{
+ "name": "the-yoga-sutras-of-patanjali",
+ "version": "1.0.0",
+ "description": "Sri Swami Satchidananda's commentary on Patanjali's Yoga Sutras — practical toolkit for understanding the eight limbs, stilling the mind, overcoming kleshas, and realizing the true Self",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-yoga-sutras-of-patanjali",
+ "useCase": "Understand yoga's original purpose as mind control, practice the eight limbs, identify and overcome kleshas, and progress on the path from concentration to liberation",
+ "knownRisks": [
+  "Satchidananda's commentary is one of many interpretations — other teachers may present different glosses on the same sutras",
+  "The text is rooted in Hindu cosmology which may conflict with some readers' worldviews",
+  "Practice described in the sutras can be intense — beginners should proceed gradually"
+ ],
+ "tags": ["yoga", "philosophy", "meditation", "spirituality", "hinduism", "patanjali", "mindfulness", "eight-limbs", "samadhi", "ancient-wisdom"],
+ "openclaw": {
+  "emoji": "🕉️",
+  "category": "spirituality"
+ }
+}
