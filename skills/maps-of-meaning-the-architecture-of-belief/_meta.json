@@ -1,0 +1,21 @@
+{
+  "name": "maps-of-meaning-the-architecture-of-belief",
+  "version": "1.0.0",
+  "description": "Jordan B. Peterson's 'Maps of Meaning: The Architecture of Belief' \u2014 a synthesis of neuroscience, mythology, psychology, and religion. How humans construct maps of reality, the navigation between order and chaos, the hero myth, and the neuropsychology of belief.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "psychology",
+    "philosophy",
+    "mythology",
+    "neuroscience",
+    "religion",
+    "jordan-peterson",
+    "belief",
+    "meaning"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\uddfa\ufe0f",
+    "category": "psychology"
+  }
+}
