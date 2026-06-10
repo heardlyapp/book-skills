@@ -1,0 +1,22 @@
+{
+  "name": "lords-of-finance-the-bankers-who-broke-the-world",
+  "version": "1.0.0",
+  "description": "Liaquat Ahamed's 'Lords of Finance: The Bankers Who Broke the World' \u2014 Pulitzer Prize-winning history of the four central bankers whose decisions led to the Great Depression. Montagu Norman, Benjamin Strong, Hjalmar Schacht, \u00c9mile Moreau. The gold standard, German hyperinflation, and the economic catastrophe that shaped the modern world.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "economics",
+    "finance",
+    "history",
+    "great-depression",
+    "central-banking",
+    "federal-reserve",
+    "banking",
+    "monetary-policy",
+    "world-war-i"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcb0",
+    "category": "history"
+  }
+}
