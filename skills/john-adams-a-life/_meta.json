@@ -1,0 +1,22 @@
+{
+  "name": "john-adams-a-life",
+  "version": "1.0.0",
+  "description": "John Ferling's 'John Adams: A Life' \u2014 comprehensive biography of the second US president. From Massachusetts childhood to the Revolution, diplomacy, the presidency, and the long retirement. Adams was the fire of independence, a man of deep contradictions, and Abigail's partner. His rivalry and friendship with Jefferson defined the early republic.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "biography",
+    "american-history",
+    "founding-fathers",
+    "john-adams",
+    "revolution",
+    "presidency",
+    "abigail-adams",
+    "jefferson",
+    "us-history"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcdc",
+    "category": "history"
+  }
+}
