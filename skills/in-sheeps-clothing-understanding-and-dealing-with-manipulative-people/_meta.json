@@ -1,0 +1,23 @@
+{
+  "name": "in-sheeps-clothing-understanding-and-dealing-with-manipulative-people",
+  "version": "1.0.0",
+  "description": "Dr. George Simon's 'In Sheep's Clothing: Understanding and Dealing with Manipulative People' — the definitive guide to recognizing covert-aggressive manipulation. 13 tactics: guilt-tripping, shaming, gaslighting, playing victim, blaming. Covert-aggressive personality types. Assertiveness, boundaries, and reclaiming your power.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "psychology",
+    "manipulation",
+    "relationships",
+    "self-defense",
+    "assertiveness",
+    "emotional-intelligence",
+    "toxic-people",
+    "communication",
+    "narcissism",
+    "gaslighting"
+  ],
+  "openclaw": {
+    "emoji": "🛡️",
+    "category": "psychology"
+  }
+}
