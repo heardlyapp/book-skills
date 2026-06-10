@@ -1,0 +1,23 @@
+{
+  "name": "killing-the-legends-the-lethal-danger-of-celebrity",
+  "version": "1.0.0",
+  "description": "Bill O'Reilly and Martin Dugard's 'Killing the Legends: The Lethal Danger of Celebrity' \u2014 the deaths of Elvis Presley, John Lennon, and Muhammad Ali. Fame as a destructive force. Each legend reached the peak, then fell. The inner circle, the isolation, the addictions, the violence. Celebrity killed them.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "celebrity",
+    "elvis-presley",
+    "john-lennon",
+    "muhammad-ali",
+    "biography",
+    "pop-culture",
+    "music",
+    "sports",
+    "fame",
+    "bill-oreilly"
+  ],
+  "openclaw": {
+    "emoji": "\u2b50",
+    "category": "biography"
+  }
+}
