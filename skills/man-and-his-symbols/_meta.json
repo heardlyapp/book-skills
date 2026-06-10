@@ -1,0 +1,22 @@
+{
+  "name": "man-and-his-symbols",
+  "version": "1.0.0",
+  "description": "Carl G. Jung's 'Man and His Symbols' \u2014 Jung's only book for the general public. Collective unconscious, archetypes, dreams, symbols, and the process of individuation. With contributions from Jung's closest associates. The definitive introduction to Jungian psychology.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "psychology",
+    "jung",
+    "dreams",
+    "archetypes",
+    "unconscious",
+    "symbolism",
+    "analytical-psychology",
+    "carl-jung",
+    "individuation"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udf19",
+    "category": "psychology"
+  }
+}
