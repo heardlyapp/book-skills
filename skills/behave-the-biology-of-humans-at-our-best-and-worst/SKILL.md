@@ -120,7 +120,7 @@ On first load, the AI must proactively present this guide.
 9. How does adolescence change brain function?
 10. What are the biological roots of war and peace?
 
-[Ask yourself: what contextual factors — hunger, stress, sleep — might have shaped a recent decision you or someone else made?]
+Before you judge someone's behavior today, ask: what biological or environmental factors might be shaping their actions right now?
 
 ---
 
