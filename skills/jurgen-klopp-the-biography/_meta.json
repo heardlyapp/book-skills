@@ -1,0 +1,23 @@
+{
+  "name": "jurgen-klopp-the-biography",
+  "version": "1.0.0",
+  "description": "Elmar Neveling's 'Jurgen Klopp: The Biography' \u2014 the definitive biography of the legendary football manager. From Mainz to Dortmund to Liverpool. Gegenpressing, heavy-metal football, Champions League glory, and the man who rebuilt two clubs from the ground up.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "football",
+    "soccer",
+    "jurgen-klopp",
+    "biography",
+    "liverpool",
+    "dortmund",
+    "bundesliga",
+    "premier-league",
+    "management",
+    "leadership"
+  ],
+  "openclaw": {
+    "emoji": "\u26bd",
+    "category": "biography"
+  }
+}
