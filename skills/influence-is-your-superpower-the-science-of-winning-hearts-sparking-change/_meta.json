@@ -1,0 +1,23 @@
+{
+  "name": "influence-is-your-superpower-the-science-of-winning-hearts-sparking-change",
+  "version": "1.0.1",
+  "description": "Zoe Chance's 'Influence Is Your Superpower' \u2014 a fresh, ethical approach to influence from a Yale professor. Asking, charisma, framing, deep listening, creative negotiation, and defending against dark arts. The most popular course at Yale School of Management.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "influence",
+    "persuasion",
+    "communication",
+    "negotiation",
+    "leadership",
+    "charisma",
+    "psychology",
+    "zoe-chance",
+    "yale",
+    "business"
+  ],
+  "openclaw": {
+    "emoji": "\u2728",
+    "category": "business"
+  }
+}
