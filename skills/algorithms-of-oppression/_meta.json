@@ -1,0 +1,24 @@
+{
+  "name": "algorithms-of-oppression",
+  "version": "1.0.0",
+  "description": "Safiya Umoja Noble's 'Algorithms of Oppression: How Search Engines Reinforce Racism' — a groundbreaking study of how commercial search engines like Google perpetuate and amplify racism, sexism, and social inequality. Drawing on years of research across information science, media studies, and critical race theory, Noble demonstrates that algorithms are not neutral — they encode the biases of their creators and the societies in which they operate.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "algorithms",
+    "bias",
+    "racism",
+    "search-engines",
+    "google",
+    "technology",
+    "discrimination",
+    "social-justice",
+    "information-science",
+    "critical-race-theory",
+    "black-women"
+  ],
+  "openclaw": {
+    "emoji": "🔍",
+    "category": "technology"
+  }
+}
