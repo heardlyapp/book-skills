@@ -1,0 +1,25 @@
+{
+  "name": "how-democracies-die",
+  "version": "1.0.0",
+  "description": "Steven Levitsky & Daniel Ziblatt's 'How Democracies Die' — the definitive analysis of democratic backsliding. Drawing on historical examples from Europe and Latin America, the authors identify the warning signs of authoritarianism: the four indicators of autocratic behavior, the breakdown of democratic norms, and the failure of political gatekeeping.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "politics",
+    "democracy",
+    "authoritarianism",
+    "political-science",
+    "american-politics",
+    "comparative-politics",
+    "democratic-backsliding",
+    "institutions",
+    "norms",
+    "polarization",
+    "trump",
+    "fascism"
+  ],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "politics"
+  }
+}
