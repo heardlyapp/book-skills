@@ -1,0 +1,21 @@
+{
+  "name": "make-change-that-lasts-9-simple-ways-to-break-free-from-the-habits-that-hold-you-back",
+  "version": "1.0.0",
+  "description": "Dr. Rangan Chatterjee's 'Make Change That Lasts' \u2014 break free from 9 hidden Reliances: experts, perfection, being liked, comfort, being right, expecting smooth sailing, the past, busyness, and getting. A practical guide to sustainable personal change through self-trust and embracing discomfort.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "self-help",
+    "change",
+    "habits",
+    "psychology",
+    "personal-development",
+    "behavior-change",
+    "rangan-chatterjee",
+    "wellbeing"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udd04",
+    "category": "self-help"
+  }
+}
