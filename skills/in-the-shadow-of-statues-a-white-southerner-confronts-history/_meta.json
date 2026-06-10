@@ -1,0 +1,24 @@
+{
+  "name": "in-the-shadow-of-statues-a-white-southerner-confronts-history",
+  "version": "1.0.0",
+  "description": "Mitch Landrieu's 'In the Shadow of Statues: A White Southerner Confronts History' — the story of New Orleans' removal of Confederate monuments and one white Southerner's reckoning with race. From segregated childhood to the removal of Robert E. Lee. Includes Landrieu's powerful 'Truth' speech.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "civil-rights",
+    "race",
+    "confederate-monuments",
+    "new-orleans",
+    "southern-history",
+    "politics",
+    "social-justice",
+    "mitch-landrieu",
+    "american-history",
+    "white-supremacy",
+    "reconciliation"
+  ],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "history"
+  }
+}
