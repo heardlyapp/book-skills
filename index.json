@@ -4854,6 +4854,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-5-love-languages",
+      "title": "Gary Chapman's The 5 Love Languages — relationship toolkit for understanding how people give and receive love and how to",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "relationships",
+        "marriage",
+        "love",
+        "communication",
+        "psychology",
+        "self-help",
+        "family",
+        "emotional-intelligence",
+        "gary-chapman",
+        "five-love-languages"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-advice-trap",
       "title": "Michael Bungay Stanier's The Advice Trap — tame your Advice Monster, stay curious longer, and lead through coaching ques",
       "author": "heardlyapp",
@@ -7494,5 +7513,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 415
+  "total_skills": 416
 }

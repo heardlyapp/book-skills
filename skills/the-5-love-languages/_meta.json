@@ -1,0 +1,19 @@
+{
+ "name": "the-5-love-languages",
+ "version": "1.0.0",
+ "description": "Gary Chapman's The 5 Love Languages — relationship toolkit for understanding how people give and receive love and how to express heartfelt commitment in ways your partner can actually feel",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-5-love-languages",
+ "useCase": "Discover your love language and your partner's, learn to speak each of the five love languages, fill the love tank, and build lasting relationships",
+ "knownRisks": [
+  "The framework simplifies complex human relationships into five categories — not every relationship issue can be reduced to love languages",
+  "Chapman's Christian perspective may not resonate with all readers",
+  "The love languages concept has limited empirical validation from academic psychology"
+ ],
+ "tags": ["relationships", "marriage", "love", "communication", "psychology", "self-help", "family", "emotional-intelligence", "gary-chapman", "five-love-languages"],
+ "openclaw": {
+  "emoji": "❤️",
+  "category": "relationships"
+ }
+}
