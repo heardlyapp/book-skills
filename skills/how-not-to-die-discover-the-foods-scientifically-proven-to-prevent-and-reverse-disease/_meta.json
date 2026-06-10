@@ -1,0 +1,25 @@
+{
+  "name": "how-not-to-die-discover-the-foods-scientifically-proven-to-prevent-and-reverse-disease",
+  "version": "1.0.0",
+  "description": "Dr. Michael Greger's 'How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease' — the definitive guide to using nutrition to prevent and reverse the leading causes of death. 15 chapters on the top killers. The famous Daily Dozen checklist. Thousands of peer-reviewed studies cited.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "nutrition",
+    "health",
+    "food",
+    "medicine",
+    "disease-prevention",
+    "plant-based",
+    "heart-disease",
+    "cancer",
+    "diabetes",
+    "longevity",
+    "dr-greger",
+    "nutritionfacts"
+  ],
+  "openclaw": {
+    "emoji": "🥦",
+    "category": "health"
+  }
+}
