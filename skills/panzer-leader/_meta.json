@@ -1,0 +1,19 @@
+{
+ "name": "panzer-leader",
+ "version": "1.0.0",
+ "description": "Heinz Guderian's Panzer Leader — strategic and tactical toolkit from the creator of blitzkrieg, covering armored warfare, mission command, and the tension between military professionalism and political control",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/panzer-leader",
+ "useCase": "Understand blitzkrieg doctrine, apply Auftragstaktik mission command, study WWII campaigns through Guderian's eyes, and learn how to drive innovation in conservative organizations",
+ "knownRisks": [
+  "Guderian was a Nazi-era general; his memoirs minimize the regime's crimes and his own complicity",
+  "Blitzkrieg was successful against unprepared opponents in 1939-41; against prepared defenses (Kursk 1943) it failed",
+  "Auftragstaktik requires highly trained subordinates and a culture of trust — impossible to implement overnight"
+ ],
+ "tags": ["military-history", "strategy", "leadership", "armored-warfare", "blitzkrieg", "world-war-2", "command", "tactics", "innovation", "biography"],
+ "openclaw": {
+  "emoji": "🪖",
+  "category": "history"
+ }
+}

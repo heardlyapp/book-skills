@@ -4087,6 +4087,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "panzer-leader",
+      "title": "Heinz Guderian's Panzer Leader — strategic and tactical toolkit from the creator of blitzkrieg, covering armored warfare",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "military-history",
+        "strategy",
+        "leadership",
+        "armored-warfare",
+        "blitzkrieg",
+        "world-war-2",
+        "command",
+        "tactics",
+        "innovation",
+        "biography"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "patriot-a-memoir",
       "title": "patriot-a-memoir",
       "author": "heardlyapp",
@@ -7342,5 +7361,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 407
+  "total_skills": 408
 }
