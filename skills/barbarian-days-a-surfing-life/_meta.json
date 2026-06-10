@@ -1,0 +1,24 @@
+{
+  "name": "barbarian-days-a-surfing-life",
+  "version": "1.0.0",
+  "description": "William Finnegan's 'Barbarian Days: A Surfing Life' — the Pulitzer Prize-winning memoir of a life spent chasing waves around the world. From Hawaii to South Africa, from Fiji to Indonesia, Finnegan weaves together his surfing obsession with his development as a writer and a citizen of the world. A masterful exploration of what it means to devote your life to something beautiful, dangerous, and utterly absorbing.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "memoir",
+    "surfing",
+    "travel",
+    "william-finnegan",
+    "hawaii",
+    "pulitzer-prize",
+    "ocean",
+    "adventure",
+    "writing",
+    "world-travel",
+    "sports"
+  ],
+  "openclaw": {
+    "emoji": "🌊",
+    "category": "biography"
+  }
+}
