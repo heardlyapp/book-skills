@@ -1,0 +1,24 @@
+{
+  "name": "107-days",
+  "version": "1.0.0",
+  "description": "Kamala Harris's '107 Days' — a first-person account of the most unprecedented 107-day period in American political history, from President Joe Biden's withdrawal from the 2024 presidential race through Election Day. Covering the transition of the Democratic nomination, the selection of a running mate, the campaign against Donald Trump, two assassination attempts, and the fight for democracy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "kamala-harris",
+    "2024-election",
+    "politics",
+    "memoir",
+    "american-politics",
+    "biden",
+    "democracy",
+    "vice-president",
+    "presidential-campaign",
+    "contemporary-history",
+    "leadership"
+  ],
+  "openclaw": {
+    "emoji": "🗳️",
+    "category": "politics"
+  }
+}
