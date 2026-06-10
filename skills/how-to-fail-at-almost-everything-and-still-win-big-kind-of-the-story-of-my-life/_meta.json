@@ -1,0 +1,24 @@
+{
+  "name": "how-to-fail-at-almost-everything-and-still-win-big-kind-of-the-story-of-my-life",
+  "version": "1.0.0",
+  "description": "Scott Adams' 'How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life' — the creator of Dilbert shares his personal success system. Goals vs systems, energy management, affirmations, pattern recognition, simplification, skill stacking, and the math of success. A practical, funny guide to building a winning life through failure.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "success",
+    "motivation",
+    "entrepreneurship",
+    "self-help",
+    "creativity",
+    "habits",
+    "systems-thinking",
+    "failure",
+    "scott-adams",
+    "dilbert",
+    "cartoonist"
+  ],
+  "openclaw": {
+    "emoji": "💪",
+    "category": "self-help"
+  }
+}
