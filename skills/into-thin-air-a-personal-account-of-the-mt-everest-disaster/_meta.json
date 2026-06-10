@@ -1,0 +1,23 @@
+{
+  "name": "into-thin-air-a-personal-account-of-the-mt-everest-disaster",
+  "version": "1.0.0",
+  "description": "Jon Krakauer's 'Into Thin Air: A Personal Account of the Mt. Everest Disaster' \u2014 the definitive account of the 1996 Everest disaster. Eight climbers died in a single storm. Commercialism, ambition, and the death zone. Krakauer's survival and guilt. A searing exploration of the human costs of extreme adventure.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "everest",
+    "mountaineering",
+    "adventure",
+    "disaster",
+    "jon-krakauer",
+    "nonfiction",
+    "survival",
+    "nepal",
+    "climbing",
+    "death-zone"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udfd4\ufe0f",
+    "category": "nonfiction"
+  }
+}
