@@ -1,0 +1,23 @@
+{
+  "name": "i-dont-want-to-talk-about-it-overcoming-the-secret-legacy-of-male-depression",
+  "version": "1.0.0",
+  "description": "Terrence Real's 'I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression' — the landmark book on male depression. Covert depression hidden behind anger, workaholism, and addiction. The intergenerational transmission of emotional wounds from father to son. A path to healing through reconnection.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "psychology",
+    "depression",
+    "mental-health",
+    "men",
+    "masculinity",
+    "therapy",
+    "father-son",
+    "trauma",
+    "terrence-real",
+    "emotions"
+  ],
+  "openclaw": {
+    "emoji": "💙",
+    "category": "psychology"
+  }
+}
