@@ -1,0 +1,24 @@
+{
+  "name": "gender-trouble-feminism-and-the-subversion-of-identity",
+  "version": "1.0.0",
+  "description": "Judith Butler's 'Gender Trouble: Feminism and the Subversion of Identity' — the foundational text of queer theory. Butler argues that gender is not a fixed identity but a performative act. Challenging the sex/gender distinction and the heterosexual matrix that organizes desire. A radical rethinking of identity, power, and subversion.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "philosophy",
+    "feminism",
+    "queer-theory",
+    "gender",
+    "butler",
+    "identity",
+    "performativity",
+    "sexuality",
+    "critical-theory",
+    "poststructuralism",
+    "politics"
+  ],
+  "openclaw": {
+    "emoji": "🏳️‍🌈",
+    "category": "philosophy"
+  }
+}
