@@ -1,0 +1,19 @@
+{
+ "name": "meditations",
+ "version": "1.0.0",
+ "description": "Marcus Aurelius's Meditations — a Stoic philosophy toolkit for mastering the mind, managing emotions, facing adversity with dignity, and leading with wisdom",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/meditations",
+ "useCase": "Apply Stoic principles to daily life: the dichotomy of control, emotional management through judgement, facing adversity, leading with virtue, and building a disciplined mind",
+ "knownRisks": [
+  "Stoicism is sometimes misused to suppress healthy emotions rather than process them",
+  "Marcus's philosophy was shaped by his unique position as Roman emperor — not all advice applies universally",
+  "The Meditations is a personal journal, not a systematic philosophy textbook — requires interpretation"
+ ],
+ "tags": ["philosophy", "stoicism", "self-improvement", "leadership", "wisdom", "mindfulness", "ancient-rome", "marcus-aurelius", "resilience", "virtue-ethics"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "philosophy"
+ }
+}

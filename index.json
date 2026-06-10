@@ -3697,6 +3697,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "meditations",
+      "title": "Marcus Aurelius's Meditations — a Stoic philosophy toolkit for mastering the mind, managing emotions, facing adversity w",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "stoicism",
+        "self-improvement",
+        "leadership",
+        "wisdom",
+        "mindfulness",
+        "ancient-rome",
+        "marcus-aurelius",
+        "resilience",
+        "virtue-ethics"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "midnight-in-chernobyl",
       "title": "Adam Higginbotham's 'Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster' — the definitive ",
       "author": "heardlyapp",
@@ -7361,5 +7380,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 408
+  "total_skills": 409
 }
