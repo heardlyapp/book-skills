@@ -1,0 +1,23 @@
+{
+  "name": "imagine-if-creating-a-future-for-us-all",
+  "version": "1.0.0",
+  "description": "Sir Ken Robinson and Kate Robinson's 'Imagine If... Creating a Future for Us All' — Sir Ken's final book, completed by his daughter. A manifesto for reimagining education, creativity, and human potential. Imagination is the uniquely human power. Education must nurture diverse talents, not crush them.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "creativity",
+    "education",
+    "imagination",
+    "innovation",
+    "personal-development",
+    "sir-ken-robinson",
+    "human-potential",
+    "school-reform",
+    "ted-talks",
+    "psychology"
+  ],
+  "openclaw": {
+    "emoji": "💡",
+    "category": "education"
+  }
+}
