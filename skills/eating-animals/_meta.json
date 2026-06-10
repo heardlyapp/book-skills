@@ -1,0 +1,19 @@
+{
+ "name": "eating-animals",
+ "version": "1.0.0",
+ "description": "Jonathan Safran Foer's Eating Animals — investigative toolkit for understanding factory farming, its health and environmental impact, and the ethics of eating meat in the modern food system",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/eating-animals",
+ "useCase": "Understand factory farming, make informed food choices, navigate ethical eating dilemmas, and recognize the public health and environmental consequences of industrial meat production",
+ "knownRisks": [
+  "The book contains detailed descriptions of animal suffering that some readers may find disturbing",
+  "Foer is a novelist, not a scientist — the ethical arguments are stronger than the scientific ones",
+  "Some of the data (2009 publication) may be dated, though the systemic problems have worsened"
+ ],
+ "tags": ["food", "ethics", "factory-farming", "health", "environment", "vegetarianism", "animal-rights", "agriculture", "food-safety", "jonathan-safran-foer"],
+ "openclaw": {
+  "emoji": "🥩",
+  "category": "food"
+ }
+}

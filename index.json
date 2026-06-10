@@ -1730,6 +1730,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "eating-animals",
+      "title": "Jonathan Safran Foer's Eating Animals — investigative toolkit for understanding factory farming, its health and environm",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "food",
+        "ethics",
+        "factory-farming",
+        "health",
+        "environment",
+        "vegetarianism",
+        "animal-rights",
+        "agriculture",
+        "food-safety",
+        "jonathan-safran-foer"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "emotional-blackmail",
       "title": "Dr. Susan Forward's classic 'Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipu",
       "author": "heardlyapp",
@@ -7475,5 +7494,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 414
+  "total_skills": 415
 }
