@@ -1,0 +1,22 @@
+{
+  "name": "lust-for-life",
+  "version": "1.0.0",
+  "description": "Irving Stone's 'Lust for Life' \u2014 the classic biographical novel of Vincent van Gogh. His struggles, his art, his madness, and his brother Theo's devotion. Stone's masterpiece brings van Gogh's story to life: from the Borinage to Arles, from the Sunflowers to the Starry Night, from the ear to the final shot in the wheat field.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "van-gogh",
+    "art",
+    "biography",
+    "novel",
+    "painting",
+    "vincent-van-gogh",
+    "impressionism",
+    "creative-struggle",
+    "irving-stone"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udfa8",
+    "category": "biography"
+  }
+}
