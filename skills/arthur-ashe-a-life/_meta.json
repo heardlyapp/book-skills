@@ -1,0 +1,24 @@
+{
+  "name": "arthur-ashe-a-life",
+  "version": "1.0.0",
+  "description": "Raymond Arsenault's 'Arthur Ashe: A Life' — the definitive biography of the tennis legend and civil rights activist who broke the color barrier in men's tennis. 26 chapters covering his childhood in segregated Richmond, his UCLA years, his Wimbledon and US Open titles, his Davis Cup career, his activism against apartheid in South Africa, his battle against racial discrimination, his HIV diagnosis from a blood transfusion, and his final years as an advocate for AIDS awareness.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "biography",
+    "arthur-ashe",
+    "tennis",
+    "civil-rights",
+    "sports",
+    "activism",
+    "african-american",
+    "aids-awareness",
+    "south-africa",
+    "history",
+    "athlete"
+  ],
+  "openclaw": {
+    "emoji": "🎾",
+    "category": "biography"
+  }
+}
