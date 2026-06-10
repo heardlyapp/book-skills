@@ -1,0 +1,23 @@
+{
+  "name": "lifelong-kindergarten-cultivating-creativity-through-projects-passion-peers-and-play",
+  "version": "1.0.0",
+  "description": "Mitchel Resnick's 'Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play' \u2014 from the MIT Media Lab. The 4 P's framework. Scratch coding platform. Creative learning spiral. How the kindergarten approach should be the model for learning at all ages.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "education",
+    "creativity",
+    "learning",
+    "coding",
+    "scratch",
+    "mit-media-lab",
+    "technology",
+    "children",
+    "play",
+    "mitchel-resnick"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udfa8",
+    "category": "education"
+  }
+}
