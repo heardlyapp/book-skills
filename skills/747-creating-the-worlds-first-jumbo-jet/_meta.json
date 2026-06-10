@@ -1,0 +1,24 @@
+{
+  "name": "747-creating-the-worlds-first-jumbo-jet",
+  "version": "1.0.0",
+  "description": "Joe Sutter's '747: Creating the World's First Jumbo Jet and Other Adventures from a Life in Aviation' — the inside story of designing and building the Boeing 747, the world's first widebody jetliner. From growing up in Seattle watching seaplanes to leading the 'Incredibles' engineering team at Boeing, Sutter tells the story of how 4,500 people built the most recognizable airplane in history against impossible deadlines and through multiple technical crises.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "aviation",
+    "boeing",
+    "747",
+    "engineering",
+    "aerospace",
+    "design",
+    "manufacturing",
+    "technology",
+    "innovation",
+    "memoir",
+    "jumbo-jet"
+  ],
+  "openclaw": {
+    "emoji": "✈️",
+    "category": "technology"
+  }
+}
