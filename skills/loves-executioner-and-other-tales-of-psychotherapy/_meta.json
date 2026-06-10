@@ -1,0 +1,21 @@
+{
+  "name": "loves-executioner-and-other-tales-of-psychotherapy",
+  "version": "1.0.0",
+  "description": "Irvin D. Yalom's 'Love's Executioner and Other Tales of Psychotherapy' \u2014 ten unforgettable case studies exploring love, death, meaning, freedom, and isolation. Yalom's existential approach to therapy. Stories of the therapeutic encounter from one of the world's most celebrated psychotherapists.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "psychology",
+    "psychotherapy",
+    "irvin-yalom",
+    "existential-therapy",
+    "case-studies",
+    "mental-health",
+    "human-condition",
+    "therapy"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcad",
+    "category": "psychology"
+  }
+}
