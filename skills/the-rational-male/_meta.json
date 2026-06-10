@@ -1,0 +1,24 @@
+{
+  "name": "the-rational-male",
+  "version": "1.0.0",
+  "description": "Rollo Tomassi's 'The Rational Male' — the foundational text of the Red Pill / manosphere movement. A behaviorist analysis of intergender dynamics drawn from evolutionary psychology, personal experience, and over a decade of online debate. Covers ONEitis, hypergamy, the Alpha/Beta duality, Plate Theory, Dread Game, the Iron Rules of Tomassi, and the feminine imperative.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "relationships",
+    "red-pill",
+    "masculinity",
+    "game",
+    "psychology",
+    "dating",
+    "hypergamy",
+    "rollo-tomassi",
+    "manosphere",
+    "behavioral-psychology",
+    "sexual-dynamics"
+  ],
+  "openclaw": {
+    "emoji": "💊",
+    "category": "psychology"
+  }
+}
