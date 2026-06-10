@@ -1,0 +1,22 @@
+{
+  "name": "how-to-live-or-a-life-of-montaigne-in-one-question-and-twenty-attempts-at-an-answer",
+  "version": "1.0.0",
+  "description": "Sarah Bakewell's 'How to Live: Or A Life of Montaigne in One Question and Twenty Attempts at an Answer' — the definitive modern biography of Montaigne. 20 answers to the question of how to live: don't worry about death, question everything, be convivial, be ordinary and imperfect. Blending biography, philosophy, and wisdom.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "philosophy",
+    "biography",
+    "montaigne",
+    "renaissance",
+    "essays",
+    "self-help",
+    "french-literature",
+    "skepticism",
+    "sarah-bakewell"
+  ],
+  "openclaw": {
+    "emoji": "📖",
+    "category": "philosophy"
+  }
+}
