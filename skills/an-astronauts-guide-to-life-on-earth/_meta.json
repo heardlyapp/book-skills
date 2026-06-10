@@ -1,0 +1,24 @@
+{
+  "name": "an-astronauts-guide-to-life-on-earth",
+  "version": "1.0.0",
+  "description": "Chris Hadfield's 'An Astronaut's Guide to Life on Earth' — the #1 bestselling memoir and practical guide from a veteran astronaut who commanded the International Space Station. 13 chapters covering his journey from a 9-year-old watching the Moon landing to commanding the ISS. Lessons in preparation, teamwork, handling pressure, and finding joy in the impossible.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "memoir",
+    "astronaut",
+    "space",
+    "chris-hadfield",
+    "leadership",
+    "preparation",
+    "team-work",
+    "perseverance",
+    "canada",
+    "international-space-station",
+    "science"
+  ],
+  "openclaw": {
+    "emoji": "🚀",
+    "category": "biography"
+  }
+}
