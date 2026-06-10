@@ -1,0 +1,23 @@
+{
+  "name": "i-have-a-dream",
+  "version": "1.0.0",
+  "description": "Dr. Martin Luther King Jr.'s 'I Have a Dream' — the most famous speech of the 20th century. Delivered August 28, 1963 at the March on Washington. A masterwork of rhetoric and moral vision. This illustrated edition by Kadir Nelson presents the complete text with powerful paintings.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "civil-rights",
+    "martin-luther-king",
+    "speech",
+    "american-history",
+    "nonviolence",
+    "social-justice",
+    "equality",
+    "oratory",
+    "rhetoric",
+    "march-on-washington"
+  ],
+  "openclaw": {
+    "emoji": "✊🏾",
+    "category": "history"
+  }
+}
