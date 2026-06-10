@@ -1,0 +1,24 @@
+{
+  "name": "giannis-the-improbable-rise-of-an-nba-champion",
+  "version": "1.0.0",
+  "description": "Mirin Fader's 'Giannis: The Improbable Rise of an NBA Champion' — the definitive biography of Giannis Antetokounmpo, from selling watches on the streets of Athens to NBA MVP and champion. 15 chapters covering his childhood in Sepolia, his Nigerian-Greek identity, his discovery as a basketball player, and his journey with the Milwaukee Bucks.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "basketball",
+    "biography",
+    "giannis",
+    "nba",
+    "sports",
+    "milwaukee-bucks",
+    "greece",
+    "immigration",
+    "nigerian-american",
+    "perseverance",
+    "underdog"
+  ],
+  "openclaw": {
+    "emoji": "🏀",
+    "category": "biography"
+  }
+}
