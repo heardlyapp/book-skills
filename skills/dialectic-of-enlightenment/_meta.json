@@ -1,0 +1,24 @@
+{
+  "name": "dialectic-of-enlightenment",
+  "version": "1.0.0",
+  "description": "Max Horkheimer and Theodor Adorno's 'Dialectic of Enlightenment: Philosophical Fragments' — a foundational text of critical theory. Written in exile during WWII, the book argues that the Enlightenment's promise of human emancipation through reason reversed into new forms of domination. Key concepts: the culture industry, instrumental reason, the dialectic of myth and enlightenment, and anti-Semitism.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "philosophy",
+    "critical-theory",
+    "enlightenment",
+    "adorno",
+    "horkheimer",
+    "frankfurt-school",
+    "culture-industry",
+    "modernity",
+    "reason",
+    "sociology",
+    "marxism"
+  ],
+  "openclaw": {
+    "emoji": "🌅",
+    "category": "philosophy"
+  }
+}
