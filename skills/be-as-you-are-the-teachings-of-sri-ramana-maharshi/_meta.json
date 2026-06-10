@@ -1,0 +1,24 @@
+{
+  "name": "be-as-you-are-the-teachings-of-sri-ramana-maharshi",
+  "version": "1.0.0",
+  "description": "Sri Ramana Maharshi's 'Be As You Are' — the definitive collection of teachings from one of India's most revered spiritual masters, compiled by David Godman. 21 chapters across 6 parts covering Self-enquiry ('Who am I?'), the nature of the Self, practice for beginners, the role of the guru, meditation and concentration, experience of the Self, and the theory of creation and reality.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "spirituality",
+    "ramana-maharshi",
+    "self-enquiry",
+    "advaita",
+    "meditation",
+    "non-duality",
+    "hinduism",
+    "philosophy",
+    "consciousness",
+    "guru",
+    "india"
+  ],
+  "openclaw": {
+    "emoji": "🕉️",
+    "category": "philosophy"
+  }
+}
