@@ -1,0 +1,19 @@
+{
+ "name": "genius-makers",
+ "version": "1.0.0",
+ "description": "Cade Metz's Genius Makers — narrative toolkit for understanding the deep learning revolution, the maverick researchers who drove it, and the corporate wars that shaped modern AI",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/genius-makers",
+ "useCase": "Understand the history of AI from ImageNet to GPT, learn from the key personalities, analyze the corporate AI race, and explore AI ethics and risks",
+ "knownRisks": [
+  "The AI field evolves rapidly — some details may already be dated",
+  "Metz is a journalist, not a technical expert — some technical explanations are simplified",
+  "The narrative focus on personalities may underemphasize the importance of broader institutional and economic factors"
+ ],
+ "tags": ["artificial-intelligence", "deep-learning", "history", "technology", "google", "neural-networks", "machine-learning", "innovation", "ai-safety", "tech-industry"],
+ "openclaw": {
+  "emoji": "🤖",
+  "category": "technology"
+ }
+}

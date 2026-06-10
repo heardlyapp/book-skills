@@ -2084,6 +2084,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "genius-makers",
+      "title": "Cade Metz's Genius Makers — narrative toolkit for understanding the deep learning revolution, the maverick researchers w",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "artificial-intelligence",
+        "deep-learning",
+        "history",
+        "technology",
+        "google",
+        "neural-networks",
+        "machine-learning",
+        "innovation",
+        "ai-safety",
+        "tech-industry"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "getting-past-no-negotiating-in-difficult-situations",
       "title": "William Ury's 'Getting Past No: Negotiating in Difficult Situations' — the classic guide to dealing with difficult peopl",
       "author": "heardlyapp",
@@ -7418,5 +7437,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 411
+  "total_skills": 412
 }
