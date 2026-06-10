@@ -1,0 +1,24 @@
+{
+  "name": "faraday-maxwell-and-the-electromagnetic-field",
+  "version": "1.0.0",
+  "description": "Nancy Forbes and Basil Mahon's 'Faraday, Maxwell, and the Electromagnetic Field' — the story of how two men, a self-taught experimental genius and a brilliant mathematician, together created the theory of the electromagnetic field. Faraday's experiments with electricity and magnetism laid the groundwork. Maxwell's equations unified electricity, magnetism, and light into a single theory.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "physics",
+    "electromagnetism",
+    "faraday",
+    "maxwell",
+    "science-history",
+    "electricity",
+    "magnetism",
+    "field-theory",
+    "biography",
+    "19th-century",
+    "equations"
+  ],
+  "openclaw": {
+    "emoji": "⚡",
+    "category": "science"
+  }
+}
