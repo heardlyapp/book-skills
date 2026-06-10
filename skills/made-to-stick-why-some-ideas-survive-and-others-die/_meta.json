@@ -1,0 +1,21 @@
+{
+  "name": "made-to-stick-why-some-ideas-survive-and-others-die",
+  "version": "1.0.0",
+  "description": "Chip and Dan Heath's 'Made to Stick' \u2014 the classic guide to making ideas memorable. SUCCESs framework: Simple, Unexpected, Concrete, Credentialed, Emotional, Stories. The curse of knowledge, commander's intent, curiosity gap, Mother Teresa principle. How to make your ideas stick.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "communication",
+    "marketing",
+    "persuasion",
+    "storytelling",
+    "ideas",
+    "psychology",
+    "business",
+    "creativity"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udccc",
+    "category": "business"
+  }
+}
