@@ -1,0 +1,23 @@
+{
+  "name": "how-to-stop-worrying-and-start-living",
+  "version": "1.0.0",
+  "description": "Dale Carnegie's 'How to Stop Worrying and Start Living' — the classic guide to overcoming anxiety. Live in day-tight compartments, use the magic formula for solving worry, analyze your worries, break the worry habit, cultivate a mental attitude for peace and happiness, prevent fatigue, and handle criticism. 32 true stories of people who conquered worry.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "self-help",
+    "anxiety",
+    "worry",
+    "mental-health",
+    "psychology",
+    "personal-development",
+    "dale-carnegie",
+    "stress-management",
+    "peace",
+    "happiness"
+  ],
+  "openclaw": {
+    "emoji": "🧘",
+    "category": "self-help"
+  }
+}
