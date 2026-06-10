@@ -1,0 +1,23 @@
+{
+  "name": "collapse-how-societies-choose-to-fail-or-succeed",
+  "version": "1.0.0",
+  "description": "Jared Diamond's 'Collapse: How Societies Choose to Fail or Succeed' — the landmark study of why societies collapse. From the ancient Maya and Easter Island to Viking Greenland and modern Rwanda, Diamond examines environmental, political, and social factors that lead to societal decline. Five key factors: environmental damage, climate change, hostile neighbors, friendly trade partners, and societal responses to problems.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "history",
+    "collapse",
+    "civilization",
+    "environment",
+    "sustainability",
+    "ecology",
+    "archaeology",
+    "anthropology",
+    "jared-diamond",
+    "social-science"
+  ],
+  "openclaw": {
+    "emoji": "🏚️",
+    "category": "history"
+  }
+}
