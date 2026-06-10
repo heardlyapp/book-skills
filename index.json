@@ -1307,6 +1307,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "common-stocks-and-uncommon-profits",
+      "title": "Philip A. Fisher's Common Stocks and Uncommon Profits — systematic toolkit for identifying exceptional growth companies ",
+      "author": "heardlyapp",
+      "version": "1.0.1",
+      "tags": [
+        "investing",
+        "stocks",
+        "growth-investing",
+        "value-investing",
+        "finance",
+        "research-methods",
+        "competitive-analysis",
+        "long-term-investing",
+        "philip-fisher",
+        "scuttlebutt"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "concise-guide-to-apa-style",
       "title": "The APA's official style guide (7th ed.) — formatting academic papers, citing sources, writing without bias, and present",
       "author": "heardlyapp",
@@ -7304,5 +7323,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 405
+  "total_skills": 406
 }

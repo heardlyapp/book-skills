@@ -1,0 +1,20 @@
+{
+ "name": "common-stocks-and-uncommon-profits",
+ "version": "1.0.1",
+ "description": "Philip A. Fisher's Common Stocks and Uncommon Profits — systematic toolkit for identifying exceptional growth companies through the Scuttlebutt research method and 15-Point framework",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/common-stocks-and-uncommon-profits",
+ "useCase": "Research and invest in outstanding growth companies using Fisher's Scuttlebutt method, 15-Point checklist, and long-term holding discipline",
+ "knownRisks": [
+  "Scuttlebutt requires access to industry sources — may not be feasible for all investors or all companies",
+  "The 15 points are qualitative, not quantitative — applying them consistently requires judgment that improves with experience",
+  "Long holding periods require emotional discipline that most investors lack",
+  "Fisher's anti-diversification stance increases volatility risk"
+ ],
+ "tags": ["investing", "stocks", "growth-investing", "value-investing", "finance", "research-methods", "competitive-analysis", "long-term-investing", "philip-fisher", "scuttlebutt"],
+ "openclaw": {
+  "emoji": "📈",
+  "category": "finance"
+ }
+}
