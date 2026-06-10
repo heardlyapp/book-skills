@@ -120,7 +120,7 @@ On first load, the AI must proactively present this guide.
 9. How does adolescence change brain function?
 10. What are the biological roots of war and peace?
 
-[One specific, immediate action the user can take right now: ask yourself what context shaped a recent behavior you observed or experienced. Was it character, or circumstance?]
+[Ask yourself: what contextual factors — hunger, stress, sleep — might have shaped a recent decision you or someone else made?]
 
 ---
 
