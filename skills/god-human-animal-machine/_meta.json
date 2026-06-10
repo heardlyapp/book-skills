@@ -1,0 +1,19 @@
+{
+ "name": "god-human-animal-machine",
+ "version": "1.0.0",
+ "description": "Meghan O'Gieblyn's God, Human, Animal, Machine — philosophical toolkit examining how technology reshapes our understanding of consciousness, meaning, faith, and humanity in the age of AI",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/god-human-animal-machine",
+ "useCase": "Understand AI and consciousness, critique transhumanism, examine disenchantment and meaning, and navigate the philosophical questions raised by living in an age of algorithms",
+ "knownRisks": [
+  "The book is a collection of philosophical essays, not a systematic argument — some readers may find it meandering",
+  "O'Gieblyn writes from a specific cultural position (ex-evangelical, now secular) that may not resonate with all readers",
+  "The critique of technology is philosophical, not practical — no specific advice for limiting screen time or managing digital life"
+ ],
+ "tags": ["philosophy", "technology", "artificial-intelligence", "consciousness", "spirituality", "transhumanism", "essays", "meaning", "science-and-religion", "o-gieblyn"],
+ "openclaw": {
+  "emoji": "🔮",
+  "category": "philosophy"
+ }
+}

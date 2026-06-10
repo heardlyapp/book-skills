@@ -2195,6 +2195,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "god-human-animal-machine",
+      "title": "Meghan O'Gieblyn's God, Human, Animal, Machine — philosophical toolkit examining how technology reshapes our understandi",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "technology",
+        "artificial-intelligence",
+        "consciousness",
+        "spirituality",
+        "transhumanism",
+        "essays",
+        "meaning",
+        "science-and-religion",
+        "o-gieblyn"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "god-is-not-great",
       "title": "Christopher Hitchens' 'God Is Not Great: How Religion Poisons Everything' — a blistering polemic against organized relig",
       "author": "heardlyapp",
@@ -7456,5 +7475,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 413
+  "total_skills": 414
 }
