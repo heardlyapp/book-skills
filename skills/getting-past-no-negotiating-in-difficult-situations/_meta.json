@@ -1,0 +1,23 @@
+{
+  "name": "getting-past-no-negotiating-in-difficult-situations",
+  "version": "1.0.0",
+  "description": "William Ury's 'Getting Past No: Negotiating in Difficult Situations' — the classic guide to dealing with difficult people and tough negotiations. A five-step breakthrough strategy: Go to the Balcony, Step to Their Side, Reframe, Build Them a Golden Bridge, and Use Power to Educate. The essential companion to Getting to Yes for when the other side says no.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "negotiation",
+    "communication",
+    "conflict-resolution",
+    "business",
+    "psychology",
+    "leadership",
+    "persuasion",
+    "mediation",
+    "william-ury",
+    "harvard-negotiation"
+  ],
+  "openclaw": {
+    "emoji": "🤝",
+    "category": "business"
+  }
+}
