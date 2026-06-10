@@ -1,0 +1,19 @@
+{
+ "name": "dream-big",
+ "version": "1.0.0",
+ "description": "Bob Goff's Dream Big — actionable toolkit for identifying what you truly want, overcoming fear, taking action, and pursuing your biggest ambitions with community support",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/dream-big",
+ "useCase": "Clarify your dreams, overcome fear and perfectionism, build a supportive community, start before you're ready, and persist through setbacks",
+ "knownRisks": [
+  "Goff's approach is faith-informed (Christian) — some readers may find the religious framing off-putting",
+  "The 'start before you're ready' advice can be dangerous in high-stakes situations (medical, financial)",
+  "Not all dreams are meant to be pursued — the book may encourage unrealistic ambitions in some readers"
+ ],
+ "tags": ["self-help", "motivation", "purpose", "dreaming", "goals", "fear-overcoming", "personal-development", "action", "christian-living", "bob-goff"],
+ "openclaw": {
+  "emoji": "🌟",
+  "category": "self-improvement"
+ }
+}

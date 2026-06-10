@@ -1639,6 +1639,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "dream-big",
+      "title": "Bob Goff's Dream Big — actionable toolkit for identifying what you truly want, overcoming fear, taking action, and pursu",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "self-help",
+        "motivation",
+        "purpose",
+        "dreaming",
+        "goals",
+        "fear-overcoming",
+        "personal-development",
+        "action",
+        "christian-living",
+        "bob-goff"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "dreamstate",
       "title": "Jed McKenna's 'Dreamstate: A Conspiracy Theory' — a radical philosophical work arguing that the universe does not exist,",
       "author": "heardlyapp",
@@ -7399,5 +7418,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 410
+  "total_skills": 411
 }
