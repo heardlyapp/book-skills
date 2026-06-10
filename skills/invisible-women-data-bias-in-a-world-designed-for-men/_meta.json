@@ -1,0 +1,23 @@
+{
+  "name": "invisible-women-data-bias-in-a-world-designed-for-men",
+  "version": "1.0.0",
+  "description": "Caroline Criado Perez's 'Invisible Women: Data Bias in a World Designed for Men' \u2014 the gender data gap. Car safety, medicine, voice recognition, city planning, workplace, and technology all designed by default for men. The gap has consequences from inconvenience to death.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "feminism",
+    "data",
+    "gender",
+    "bias",
+    "design",
+    "technology",
+    "medicine",
+    "caroline-criado-perez",
+    "women",
+    "data-science"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcca",
+    "category": "science"
+  }
+}
