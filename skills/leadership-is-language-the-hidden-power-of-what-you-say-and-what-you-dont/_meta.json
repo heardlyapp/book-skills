@@ -1,0 +1,22 @@
+{
+  "name": "leadership-is-language-the-hidden-power-of-what-you-say-and-what-you-dont",
+  "version": "1.0.0",
+  "description": "L. David Marquet's 'Leadership Is Language' \u2014 former submarine captain shows how changing your language transforms leadership. Redwork vs Bluework. Control the clock, collaborate, commit, complete, improve, connect. Practical plays for empowering teams through intentional language shifts.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "leadership",
+    "communication",
+    "management",
+    "language",
+    "teams",
+    "collaboration",
+    "decision-making",
+    "david-marquet",
+    "empowerment"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udde3\ufe0f",
+    "category": "business"
+  }
+}
