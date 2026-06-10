@@ -1,0 +1,22 @@
+{
+  "name": "learn-like-a-pro-science-based-tools-to-become-better-at-anything",
+  "version": "1.0.0",
+  "description": "Barbara Oakley and Olav Schewe's 'Learn Like a Pro: Science-Based Tools to Become Better at Anything' \u2014 practical learning techniques from neuroscience and cognitive psychology. Focus, active recall, spaced repetition, interleaving, chunking. How to learn anything more effectively.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "learning",
+    "study-skills",
+    "memory",
+    "productivity",
+    "neuroscience",
+    "education",
+    "barbara-oakley",
+    "procrastination",
+    "self-improvement"
+  ],
+  "openclaw": {
+    "emoji": "\ud83e\udde0",
+    "category": "education"
+  }
+}
