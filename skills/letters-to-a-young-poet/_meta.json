@@ -1,0 +1,23 @@
+{
+  "name": "letters-to-a-young-poet",
+  "version": "1.0.0",
+  "description": "Rainer Maria Rilke's 'Letters to a Young Poet' \u2014 ten letters of profound wisdom on creativity, solitude, love, sex, death, and living authentically. Rilke's advice to Franz Xaver Kappus has inspired generations. 'Live the questions.' 'Two solitudes.' A timeless guide to the artist's life.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "rilke",
+    "poetry",
+    "philosophy",
+    "creativity",
+    "letters",
+    "literature",
+    "art",
+    "solitude",
+    "love",
+    "wisdom"
+  ],
+  "openclaw": {
+    "emoji": "\u2709\ufe0f",
+    "category": "literature"
+  }
+}
