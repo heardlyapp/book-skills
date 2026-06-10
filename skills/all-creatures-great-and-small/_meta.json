@@ -1,0 +1,24 @@
+{
+  "name": "all-creatures-great-and-small",
+  "version": "1.0.0",
+  "description": "James Herriot's 'All Creatures Great and Small' — the beloved classic memoir of a young veterinarian in the Yorkshire Dales. One of the best-loved books of the 20th century, chronicling Herriot's first years as a country vet in 1930s England. Through calving in frozen barns, treating beloved family pets, and navigating the eccentric characters of Darrowby village, Herriot discovers a life of service, humor, and deep meaning.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "memoir",
+    "veterinary",
+    "james-herriot",
+    "yorkshire",
+    "england",
+    "animals",
+    "humor",
+    "countryside",
+    "classic",
+    "1930s",
+    "biography"
+  ],
+  "openclaw": {
+    "emoji": "🐑",
+    "category": "biography"
+  }
+}
