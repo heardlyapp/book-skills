@@ -1,0 +1,22 @@
+{
+  "name": "lessons-in-stoicism-what-ancient-philosophers-teach-us-about-how-to-live",
+  "version": "1.0.0",
+  "description": "John Sellars' 'Lessons in Stoicism: What Ancient Philosophers Teach Us about How to Live' \u2014 a concise introduction to Stoic philosophy through Seneca, Epictetus, and Marcus Aurelius. Control what you can, accept what you cannot, live according to nature, and find tranquility. Stoicism as a practical guide to living well.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "stoicism",
+    "philosophy",
+    "seneca",
+    "epictetus",
+    "marcus-aurelius",
+    "ancient-philosophy",
+    "wisdom",
+    "resilience",
+    "john-sellars"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "category": "philosophy"
+  }
+}
