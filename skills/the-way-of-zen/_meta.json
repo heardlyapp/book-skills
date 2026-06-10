@@ -1,0 +1,24 @@
+{
+  "name": "the-way-of-zen",
+  "version": "1.0.0",
+  "description": "Alan Watts' 'The Way of Zen' — the classic introduction to Zen Buddhism and its roots in Taoism and Mahayana Buddhism. Part One covers the historical and philosophical background: the Taoist philosophy of wu-wei (non-forcing action), the origins of Buddhism in India, the development of Mahayana, and the rise of Zen in China. Part Two covers the principles and practice: sunyata (emptiness), zazen (sitting meditation), the koan, and Zen's profound influence on Japanese arts.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "zen",
+    "buddhism",
+    "taoism",
+    "alan-watts",
+    "philosophy",
+    "meditation",
+    "eastern-philosophy",
+    "mahayana",
+    "japanese-culture",
+    "spirituality",
+    "koan"
+  ],
+  "openclaw": {
+    "emoji": "☯️",
+    "category": "philosophy"
+  }
+}
