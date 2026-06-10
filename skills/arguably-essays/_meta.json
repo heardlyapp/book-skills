@@ -1,0 +1,24 @@
+{
+  "name": "arguably-essays",
+  "version": "1.0.0",
+  "description": "Christopher Hitchens' 'Arguably: Essays' — a monumental collection by one of the most brilliant public intellectuals of the late 20th and early 21st centuries. Covering politics, literature, religion, history, and culture. From Thomas Jefferson's faith to George Orwell's politics, from the Iraq War to the poetry of Philip Larkin. Hitchens brings his signature wit, erudition, and fearless polemic to every subject.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "essays",
+    "christopher-hitchens",
+    "politics",
+    "literature",
+    "religion",
+    "culture",
+    "criticism",
+    "journalism",
+    "public-intellectual",
+    "polemic",
+    "american-history"
+  ],
+  "openclaw": {
+    "emoji": "✍️",
+    "category": "literature"
+  }
+}
