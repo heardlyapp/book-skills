@@ -1,0 +1,22 @@
+{
+  "name": "chariots-of-the-gods",
+  "version": "1.0.0",
+  "description": "Erich von Däniken's 'Chariots of the Gods' — the classic and controversial book that launched the ancient astronaut theory. Von Däniken argues that many ancient monuments, artifacts, and texts suggest contact with extraterrestrial beings who were interpreted as gods. Covering the pyramids, Easter Island, the Nazca Lines, Babylonian texts, and ancient maps.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "ancient-astronauts",
+    "extraterrestrial",
+    "archaeology",
+    "history",
+    "pyramids",
+    "easter-island",
+    "nazca-lines",
+    "von-daniken",
+    "alternative-history"
+  ],
+  "openclaw": {
+    "emoji": "👽",
+    "category": "history"
+  }
+}
