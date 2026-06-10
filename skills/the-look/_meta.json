@@ -1,0 +1,24 @@
+{
+  "name": "the-look",
+  "version": "1.0.0",
+  "description": "Michelle Obama's 'The Look' — a personal and cultural exploration of fashion, style, and identity from the first Black First Lady of the United States. Published in 2025, this book traces Michelle Obama's style evolution from her Princeton years through the White House and beyond, exploring how clothing, hair, and personal presentation intersect with race, politics, womanhood, and power.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "michelle-obama",
+    "fashion",
+    "style",
+    "first-lady",
+    "identity",
+    "black-women",
+    "beauty",
+    "self-expression",
+    "memoir",
+    "cultural-studies",
+    "empowerment"
+  ],
+  "openclaw": {
+    "emoji": "👗",
+    "category": "lifestyle"
+  }
+}
