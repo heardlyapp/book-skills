@@ -1,0 +1,24 @@
+{
+  "name": "41-a-portrait-of-my-father",
+  "version": "1.0.0",
+  "description": "George W. Bush's '41: A Portrait of My Father' — a deeply personal biography of George H.W. Bush, the 41st President of the United States, written by his son. 12 chapters covering his WWII service as a Navy pilot, his years in the Texas oil fields, his career in public service as Congressman, UN Ambassador, CIA Director, Vice President, and President, and his remarkable post-presidential life. A love story between a father and son, and a portrait of a generation that believed in service before self.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "biography",
+    "george-hw-bush",
+    "george-w-bush",
+    "presidency",
+    "american-history",
+    "world-war-ii",
+    "politics",
+    "family",
+    "cold-war",
+    "republican",
+    "memoir"
+  ],
+  "openclaw": {
+    "emoji": "🦅",
+    "category": "biography"
+  }
+}
