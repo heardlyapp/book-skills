@@ -1,0 +1,19 @@
+{
+ "name": "creativity-inc",
+ "version": "1.0.1",
+ "description": "Ed Catmull's Creativity, Inc. — toolkit for building and sustaining a creative culture by removing the unseen forces that kill originality",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/creativity-inc",
+ "useCase": "Build and protect a creative culture using Pixar's Braintrust model, Ugly Baby protection, and Beast-taming techniques",
+ "knownRisks": [
+  "Braintrust model requires genuine peer dynamics — a hierarchical org cannot fake this",
+  "The 'fail fast' ethos can be misused as an excuse for sloppy execution",
+  "Cultural change takes years, not weeks — expectations must be managed"
+ ],
+ "tags": ["creativity", "leadership", "management", "innovation", "culture", "pixar", "feedback", "team", "collaboration", "business"],
+ "openclaw": {
+  "emoji": "🎬",
+  "category": "business"
+ }
+}
