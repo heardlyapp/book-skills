@@ -1,0 +1,24 @@
+{
+  "name": "a-theory-of-justice",
+  "version": "1.0.0",
+  "description": "John Rawls' 'A Theory of Justice' — the most influential work of political philosophy of the 20th century. Rawls proposes a theory of 'justice as fairness' based on the original position behind a veil of ignorance, from which rational individuals would choose two principles: the equal liberty principle and the difference principle. Covers reflective equilibrium, civil disobedience, the priority of liberty, fair equality of opportunity, and the stability of a just society.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "philosophy",
+    "political-philosophy",
+    "john-rawls",
+    "justice",
+    "social-contract",
+    "equality",
+    "ethics",
+    "liberalism",
+    "difference-principle",
+    "veil-of-ignorance",
+    "democracy"
+  ],
+  "openclaw": {
+    "emoji": "⚖️",
+    "category": "philosophy"
+  }
+}
