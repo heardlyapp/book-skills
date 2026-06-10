@@ -1,0 +1,22 @@
+{
+  "name": "marketing-5-0-technology-for-humanity",
+  "version": "1.0.0",
+  "description": "Philip Kotler's 'Marketing 5.0: Technology for Humanity' \u2014 the next generation of marketing. Data-driven, predictive, contextual, augmented, and agile marketing. AI, big data, and emerging tech for customer-centric growth. The latest vision from the father of modern marketing.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "marketing",
+    "technology",
+    "business",
+    "digital-marketing",
+    "ai",
+    "data",
+    "customer-experience",
+    "philip-kotler",
+    "strategy"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcca",
+    "category": "business"
+  }
+}
