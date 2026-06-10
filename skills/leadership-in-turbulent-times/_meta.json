@@ -1,18 +1,22 @@
 {
   "name": "leadership-in-turbulent-times",
-  "version": "1.0.0",
-  "description": "Doris Kearns Goodwin's Leadership — extract leadership lessons from Lincoln, TR, FDR, and LBJ on developing through adversity, navigating crises, building teams, and communicating vision",
+  "version": "1.0.2",
+  "description": "Doris Kearns Goodwin's 'Leadership: In Turbulent Times' \u2014 Pulitzer-winning historian's study of four presidents who led through crisis: Lincoln, TR, FDR, LBJ. Ambition, adversity, crisis, and transformation. A definitive work on presidential leadership and what makes a great leader in turbulent times.",
   "publisher": "heardlyapp",
   "license": "MIT",
-  "homepage": "https://clawhub.ai/heardlyapp/leadership-in-turbulent-times",
-  "useCase": "Helps leaders at any level understand how leadership is developed through adversity — using four presidential profiles to illustrate different styles of crisis navigation, team building, resilience, and communication.",
-  "knownRisks": [
-    "Presidential leadership operates at a scale most leaders won't encounter — adapt lessons to your context",
-    "Historical analysis inevitably simplifies complex individuals"
+  "tags": [
+    "leadership",
+    "american-history",
+    "presidential-history",
+    "lincoln",
+    "teddy-roosevelt",
+    "fdr",
+    "lyndon-johnson",
+    "biography",
+    "crisis-management"
   ],
-  "tags": ["leadership", "history", "presidents", "crisis-management", "team-building", "resilience", "communication"],
   "openclaw": {
-    "emoji": "🏛️",
-    "category": "business"
+    "emoji": "\ud83c\udfdb\ufe0f",
+    "category": "history"
   }
 }
