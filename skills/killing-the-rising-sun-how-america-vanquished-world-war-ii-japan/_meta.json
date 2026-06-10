@@ -1,0 +1,23 @@
+{
+  "name": "killing-the-rising-sun-how-america-vanquished-world-war-ii-japan",
+  "version": "1.0.0",
+  "description": "Bill O'Reilly and Martin Dugard's 'Killing the Rising Sun: How America Vanquished World War II Japan' \u2014 the final year of the Pacific War. Iwo Jima, Okinawa, firebombing of Tokyo, Hiroshima and Nagasaki. Truman's decision, MacArthur's strategy, and Japan's surrender. The end of the deadliest conflict in history.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "world-war-ii",
+    "pacific-war",
+    "japan",
+    "hiroshima",
+    "nagasaki",
+    "atomic-bomb",
+    "military-history",
+    "iwo-jima",
+    "okinawa",
+    "bill-oreilly"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udca5",
+    "category": "history"
+  }
+}
