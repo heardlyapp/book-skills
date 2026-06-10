@@ -1,0 +1,19 @@
+{
+ "name": "the-road-to-serfdom",
+ "version": "1.0.0",
+ "description": "F. A. Hayek's The Road to Serfdom — classical liberal toolkit explaining why centralized planning leads to totalitarianism and why the rule of law is essential to freedom",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-road-to-serfdom",
+ "useCase": "Understand the case against central planning, defend the rule of law, recognize the mechanisms that turn intervention into tyranny, and revive the classical liberal tradition",
+ "knownRisks": [
+  "Hayek's slippery slope argument can be used to oppose all government intervention, even policies that are compatible with freedom (universal healthcare, basic safety nets)",
+  "The book was written in 1944 — some specific examples are dated, even if the principles remain relevant",
+  "Hayek's distinction between law and command is sharp in theory but blurry in practice — many policies lie in a grey zone"
+ ],
+ "tags": ["economics", "political-philosophy", "liberalism", "hayek", "austrian-economics", "socialism", "freedom", "rule-of-law", "markets", "totalitarianism"],
+ "openclaw": {
+  "emoji": "📕",
+  "category": "political-science"
+ }
+}

@@ -6308,6 +6308,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-road-to-serfdom",
+      "title": "F. A. Hayek's The Road to Serfdom — classical liberal toolkit explaining why centralized planning leads to totalitariani",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "economics",
+        "political-philosophy",
+        "liberalism",
+        "hayek",
+        "austrian-economics",
+        "socialism",
+        "freedom",
+        "rule-of-law",
+        "markets",
+        "totalitarianism"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-road-to-unfreedom",
       "title": "Timothy Snyder's study of authoritarianism — understanding information warfare, the politics of eternity, strategic rela",
       "author": "heardlyapp",
@@ -7380,5 +7399,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 409
+  "total_skills": 410
 }
