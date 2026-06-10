@@ -1,0 +1,19 @@
+{
+ "name": "gang-leader-for-a-day",
+ "version": "1.0.0",
+ "description": "Sudhir Venkatesh's Gang Leader for a Day — ethnographic toolkit for understanding underground economies, gang hierarchies, and survival in urban ghettos",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/gang-leader-for-a-day",
+ "useCase": "Understand the real structure of gang economies, conduct ethical ethnographic fieldwork, and analyze how poor communities survive through underground economies",
+ "knownRisks": [
+  "The book describes a specific time and place (1990s Chicago) — some patterns may not generalize to other contexts",
+  "Deep ethnographic access requires years, not months — the principles are transferrable but the time commitment is not",
+  "Ethnographic presence in dangerous environments carries real personal risk — the method itself is not safe to replicate naively"
+ ],
+ "tags": ["sociology", "ethnography", "urban-poverty", "gangs", "chicago", "economics", "race", "crime", "social-justice", "research-methods"],
+ "openclaw": {
+  "emoji": "🔬",
+  "category": "social-science"
+ }
+}

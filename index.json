@@ -2007,6 +2007,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "gang-leader-for-a-day",
+      "title": "Sudhir Venkatesh's Gang Leader for a Day — ethnographic toolkit for understanding underground economies, gang hierarchie",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "sociology",
+        "ethnography",
+        "urban-poverty",
+        "gangs",
+        "chicago",
+        "economics",
+        "race",
+        "crime",
+        "social-justice",
+        "research-methods"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "gender-trouble-feminism-and-the-subversion-of-identity",
       "title": "Judith Butler's 'Gender Trouble: Feminism and the Subversion of Identity' — the foundational text of queer theory. Butle",
       "author": "heardlyapp",
@@ -7285,5 +7304,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 404
+  "total_skills": 405
 }
