@@ -1,0 +1,20 @@
+{
+ "name": "i-contain-multitudes",
+ "version": "1.0.0",
+ "description": "Ed Yong's I Contain Multitudes — scientific toolkit for understanding the microbiome, symbiosis, and how microbes shape the lives of every animal on Earth",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/i-contain-multitudes",
+ "useCase": "Understand how the microbiome works as an ecosystem, how symbiosis evolved, how microbes shape animal development and behavior, and how to manipulate microbiomes for health",
+ "knownRisks": [
+  "The microbiome field is young — many findings are correlational, not causal",
+  "Commercial probiotic claims often outpace the scientific evidence",
+  "Individual microbiomes vary enormously — general advice may not apply to everyone",
+  "Gut-brain axis research is promising but preliminary — headlines overstate the evidence"
+ ],
+ "tags": ["microbiology", "microbiome", "symbiosis", "biology", "evolution", "health", "science", "ecology", "gut-health", "ed-yong"],
+ "openclaw": {
+  "emoji": "🦠",
+  "category": "science"
+ }
+}

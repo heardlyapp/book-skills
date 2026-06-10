@@ -2480,6 +2480,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "i-contain-multitudes",
+      "title": "Ed Yong's I Contain Multitudes — scientific toolkit for understanding the microbiome, symbiosis, and how microbes shape ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "microbiology",
+        "microbiome",
+        "symbiosis",
+        "biology",
+        "evolution",
+        "health",
+        "science",
+        "ecology",
+        "gut-health",
+        "ed-yong"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "i-contain-multitudes-the-microbes-within-us-and-a-grander-view-of-life",
       "title": "Ed Yong's 'I Contain Multitudes: The Microbes Within Us and a Grander View of Life' — a journey into the microbial world",
       "author": "heardlyapp",
@@ -7323,5 +7342,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 406
+  "total_skills": 407
 }
