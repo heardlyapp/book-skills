@@ -1,0 +1,23 @@
+{
+  "name": "letter-to-a-christian-nation",
+  "version": "1.0.0",
+  "description": "Sam Harris's 'Letter to a Christian Nation' \u2014 a passionate critique of Christian fundamentalism. The Bible as moral guide, intelligent design, morality without religion, and the danger of faith. A short, sharp challenge to religious certainty from one of the leading voices of the New Atheist movement.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "atheism",
+    "religion",
+    "christianity",
+    "sam-harris",
+    "philosophy",
+    "science",
+    "evolution",
+    "morality",
+    "critical-thinking",
+    "secularism"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcd6",
+    "category": "philosophy"
+  }
+}
