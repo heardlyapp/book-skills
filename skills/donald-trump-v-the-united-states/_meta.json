@@ -1,0 +1,24 @@
+{
+  "name": "donald-trump-v-the-united-states",
+  "version": "1.0.0",
+  "description": "Michael S. Schmidt's 'Donald Trump v. The United States: Inside the Struggle to Stop a President' — a definitive account of the Trump presidency from the perspective of the officials inside his administration who worked to contain, investigate, and oppose his actions. Covering the Russia investigation, the Mueller probe, the Ukraine scandal, and the impeachment.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "politics",
+    "trump",
+    "presidency",
+    "mueller",
+    "impeachment",
+    "russia",
+    "journalism",
+    "american-politics",
+    "democracy",
+    "investigation",
+    "washington"
+  ],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "politics"
+  }
+}
