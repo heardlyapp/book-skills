@@ -1,0 +1,22 @@
+{
+  "name": "likewar-the-weaponization-of-social-media",
+  "version": "1.0.0",
+  "description": "P.W. Singer and Emerson Brooking's 'LikeWar: The Weaponization of Social Media' \u2014 how social media became a battlefield. Trump's tweets, ISIS propaganda, Russian election interference, algorithmic amplification, deepfakes. How likes, shares, and retweets are weapons in the information war.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "tags": [
+    "social-media",
+    "misinformation",
+    "propaganda",
+    "politics",
+    "technology",
+    "information-war",
+    "trump",
+    "russia",
+    "cybersecurity"
+  ],
+  "openclaw": {
+    "emoji": "\ud83d\udcf1",
+    "category": "technology"
+  }
+}
