@@ -1,0 +1,19 @@
+{
+ "name": "traction",
+ "version": "1.0.0",
+ "description": "Gino Wickman's Traction: Get a Grip on Your Business — an operating system toolkit (the Entrepreneurial Operating System / EOS) that gives business owners a complete framework (Vision, People, Data, Issues, Process, Traction) for getting their companies unstuck, building a strong leadership team, and creating the discipline to execute.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/traction",
+ "useCase": "Implement a complete business operating system (EOS) — create a shared vision, get the right people in the right seats, use data to drive decisions, solve issues systematically, document processes, and build a meeting rhythm that drives accountability.",
+ "knownRisks": [
+  "EOS is an opinionated system — it may not fit all organizational cultures or leadership styles",
+  "The tools require consistent discipline; companies that implement partially often see limited results",
+  "The framework is designed for small-to-medium businesses (10-250 people) and may need adaptation for very small or very large organizations"
+ ],
+ "tags": ["business", "management", "entrepreneurship", "operations", "leadership", "strategy", "execution", "organization", "productivity", "systems"],
+ "openclaw": {
+  "emoji": "🏗️",
+  "category": "business"
+ }
+}
