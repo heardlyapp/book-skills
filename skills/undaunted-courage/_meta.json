@@ -1,0 +1,19 @@
+{
+ "name": "undaunted-courage",
+ "version": "1.0.0",
+ "description": "Stephen Ambrose's Undaunted Courage — expedition history toolkit exploring the Lewis and Clark Expedition, Meriwether Lewis's leadership, and the opening of the American West",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/undaunted-courage",
+ "useCase": "Understand the Lewis and Clark Expedition, learn from Lewis's leadership, explore Native American encounters, and analyze the tragic aftermath of great achievement",
+ "knownRisks": [
+  "Ambrose's heroic narrative style may not engage readers who prefer more analytical history",
+  "The book focuses heavily on Lewis's perspective — Clark and other Corps members are less developed",
+  "Some historians have criticized Ambrose's portrayal of Native Americans as insufficiently critical"
+ ],
+ "tags": ["american-history", "exploration", "biography", "lewis-and-clark", "frontier", "west", "native-americans", "leadership", "thomas-jefferson", "stephen-ambrose"],
+ "openclaw": {
+  "emoji": "🏔️",
+  "category": "history"
+ }
+}

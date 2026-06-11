@@ -7297,6 +7297,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "undaunted-courage",
+      "title": "Stephen Ambrose's Undaunted Courage — expedition history toolkit exploring the Lewis and Clark Expedition, Meriwether Le",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "american-history",
+        "exploration",
+        "biography",
+        "lewis-and-clark",
+        "frontier",
+        "west",
+        "native-americans",
+        "leadership",
+        "thomas-jefferson",
+        "stephen-ambrose"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "unfreedom-of-the-press",
       "title": "Mark Levin's 'Unfreedom of the Press' — a conservative critique of how the American news media has transformed from a fr",
       "author": "heardlyapp",
@@ -7760,5 +7779,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 429
+  "total_skills": 430
 }
