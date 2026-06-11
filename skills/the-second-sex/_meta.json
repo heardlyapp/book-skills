@@ -1,0 +1,19 @@
+{
+ "name": "the-second-sex",
+ "version": "1.0.0",
+ "description": "Simone de Beauvoir's The Second Sex — feminist philosophy toolkit examining woman as the Other, the social construction of gender, the myths that confine women, and the path to liberation through transcendence",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-second-sex",
+ "useCase": "Understand the sex/gender distinction, analyze woman as the Other, identify myths of womanhood, recognize traps that limit women's freedom, and achieve transcendence",
+ "knownRisks": [
+  "The book was written in 1949 — some specific examples and data are outdated, even if the framework remains relevant",
+  "Beauvoir's existentialist framework may not resonate with readers from different philosophical traditions",
+  "The focus is primarily on the experience of Western women — not all analysis applies globally"
+ ],
+ "tags": ["philosophy", "feminism", "existentialism", "gender", "simone-de-beauvoir", "women-studies", "social-theory", "patriarchy", "liberation", "french-philosophy"],
+ "openclaw": {
+  "emoji": "👩",
+  "category": "philosophy"
+ }
+}

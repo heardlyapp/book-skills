@@ -6610,6 +6610,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-second-sex",
+      "title": "Simone de Beauvoir's The Second Sex — feminist philosophy toolkit examining woman as the Other, the social construction ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "feminism",
+        "existentialism",
+        "gender",
+        "simone-de-beauvoir",
+        "women-studies",
+        "social-theory",
+        "patriarchy",
+        "liberation",
+        "french-philosophy"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-servant",
       "title": "James C. Hunter's The Servant — lead through authority and service, not power and self-interest",
       "author": "heardlyapp",
@@ -7665,5 +7684,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 424
+  "total_skills": 425
 }
