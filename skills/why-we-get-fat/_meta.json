@@ -1,0 +1,19 @@
+{
+ "name": "why-we-get-fat",
+ "version": "1.0.0",
+ "description": "Gary Taubes's Why We Get Fat: And What to Do About It — a nutritional science toolkit that challenges the conventional 'calories in, calories out' model and presents the carbohydrate-insulin hypothesis: that hormonal regulation (especially insulin), not caloric balance, controls body fat — and what to do about it.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/why-we-get-fat",
+ "useCase": "Understand the science behind the carbohydrate-insulin hypothesis of obesity, critique conventional nutrition advice, and implement a low-carb lifestyle that works with your body's hormonal system rather than against it.",
+ "knownRisks": [
+  "The carbohydrate-insulin hypothesis is still debated in the medical and nutritional communities",
+  "Low-carb diets may not be appropriate for all individuals, including those with certain medical conditions",
+  "The book's strong critique of established nutrition science may be unsettling for some readers"
+ ],
+ "tags": ["health", "nutrition", "science", "diet", "obesity", "metabolism", "low-carb", "insulin", "hormonal-health", "wellness"],
+ "openclaw": {
+  "emoji": "🥩",
+  "category": "health"
+ }
+}
