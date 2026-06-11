@@ -1,0 +1,19 @@
+{
+ "name": "metabolical",
+ "version": "1.0.0",
+ "description": "Robert Lustig's Metabolical — health and nutrition toolkit exposing how processed food acts as a slow poison, how modern medicine fails chronic disease, and how the two precepts of 'protect the liver, feed the gut' can reverse the metabolic crisis",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/metabolical",
+ "useCase": "Understand how processed food causes chronic disease, learn the two precepts for real food, navigate the food industry's manipulation, and reverse metabolic dysfunction with diet",
+ "knownRisks": [
+  "Lustig's strong claims about the food industry and medical establishment are not universally accepted",
+  "Some of his biochemical arguments (e.g., fructose as a toxin) are more nuanced than the book suggests",
+  "Individual dietary needs vary — the two precepts are a starting point, not a complete protocol"
+ ],
+ "tags": ["health", "nutrition", "food", "metabolic", "sugar", "chronic-disease", "processed-food", "medicine", "obesity", "wellness"],
+ "openclaw": {
+  "emoji": "🧬",
+  "category": "health"
+ }
+}

@@ -4020,6 +4020,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "metabolical",
+      "title": "Robert Lustig's Metabolical — health and nutrition toolkit exposing how processed food acts as a slow poison, how modern",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "health",
+        "nutrition",
+        "food",
+        "metabolic",
+        "sugar",
+        "chronic-disease",
+        "processed-food",
+        "medicine",
+        "obesity",
+        "wellness"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "midnight-in-chernobyl",
       "title": "Adam Higginbotham's 'Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster' — the definitive ",
       "author": "heardlyapp",
@@ -8009,5 +8028,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 442
+  "total_skills": 443
 }
