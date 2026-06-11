@@ -1,0 +1,19 @@
+{
+ "name": "turning-pro",
+ "version": "1.0.0",
+ "description": "Steven Pressfield's Turning Pro: Tap Your Inner Power and Create Your Life's Work — a creative discipline toolkit that defines the transformation from amateur to professional: showing up every day, pushing through resistance, and committing to your craft with the mindset of someone who does this for a living.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/turning-pro",
+ "useCase": "Make the transition from amateur to professional in your creative practice — overcome Resistance, build daily discipline, and commit to your calling with the mindset of someone who shows up no matter what.",
+ "knownRisks": [
+  "The book's tough-love approach may feel harsh for some readers",
+  "The amateur/professional binary is intentionally simplified — real life involves gradations",
+  "The advice assumes creative work is the reader's top priority — may not fit those with competing obligations"
+ ],
+ "tags": ["creativity", "discipline", "writing", "art", "psychology", "productivity", "self-improvement", "motivation", "mindset", "purpose"],
+ "openclaw": {
+  "emoji": "🎯",
+  "category": "creativity"
+ }
+}
