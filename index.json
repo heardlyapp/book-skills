@@ -3748,6 +3748,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "loves-executioner",
+      "title": "Irvin Yalom's Love's Executioner — psychotherapy and existential casebook exploring the four existential givens (death, ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "therapy",
+        "existential",
+        "death",
+        "meaning",
+        "case-studies",
+        "yalom",
+        "psychotherapy",
+        "human-condition",
+        "wisdom"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "loves-executioner-and-other-tales-of-psychotherapy",
       "title": "Irvin D. Yalom's 'Love's Executioner and Other Tales of Psychotherapy' — ten unforgettable case studies exploring love, ",
       "author": "heardlyapp",
@@ -8086,5 +8105,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 446
+  "total_skills": 447
 }

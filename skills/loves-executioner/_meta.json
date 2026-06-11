@@ -1,0 +1,19 @@
+{
+ "name": "loves-executioner",
+ "version": "1.0.0",
+ "description": "Irvin Yalom's Love's Executioner — psychotherapy and existential casebook exploring the four existential givens (death, freedom, isolation, meaninglessness) through ten unforgettable patient stories and the therapist's own humanity",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/loves-executioner",
+ "useCase": "Understand existential psychotherapy, explore the four givens of existence, learn from ten therapy case studies, and apply existential wisdom to your own life",
+ "knownRisks": [
+  "Clinical stories are disguised and condensed for narrative effect — not all therapy looks like this",
+  "Yalom's existential approach is one school among many in psychotherapy",
+  "Self-diagnosis based on case studies can be misleading"
+ ],
+ "tags": ["psychology", "therapy", "existential", "death", "meaning", "case-studies", "yalom", "psychotherapy", "human-condition", "wisdom"],
+ "openclaw": {
+  "emoji": "🛋️",
+  "category": "psychology"
+ }
+}
