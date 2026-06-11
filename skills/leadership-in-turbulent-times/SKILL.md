@@ -1,144 +1,134 @@
 ---
 name: leadership-in-turbulent-times
-description: "Doris Kearns Goodwin's 'Leadership: In Turbulent Times' — a masterful study of four US presidents who led the nation through its greatest crises. Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt, and Lyndon B. Johnson. Goodwin distills their leadership into a framework: ambition, adversity, the crucible of crisis, and the power of purpose. A definitive work on what makes a great leader."
-version: 1.0.0
+description: >-
+ Doris Kearns Goodwin's Leadership: In Turbulent Times — a presidential leadership toolkit examining how four great presidents (Lincoln, TR, FDR, LBJ) developed ambition, overcame adversity, and led the nation through the most dangerous crises in American history.
+ Covers 6 use cases:
+ ① Understanding presidential leadership — ("how to be a leader" "presidential leadership" "leadership lessons from presidents" "Goodwin leadership")
+ ② Ambition and early career — ("how do leaders start" "finding your calling" "early career leaders" "developing ambition")
+ ③ Overcoming adversity — ("overcoming failure" "resilience in leadership" "how to bounce back from crisis" "Lincoln depression")
+ ④ Crisis management — ("how to lead in crisis" "decision-making under pressure" "coal strike" "FDR Hundred Days")
+ ⑤ Transformational leadership — ("transformational leadership" "Lincoln Emancipation" "visionary leader" "leader who changes society")
+ ⑥ Moral purpose in leadership — ("leadership with purpose" "beyond personal ambition" "moral leadership" "leader as servant")
+ Trigger when users say: "leadership in turbulent times" "Doris Kearns Goodwin" "presidential leadership" "Lincoln leadership" "FDR leadership" "LBJ leadership" "Teddy Roosevelt leadership" "adversity and leadership" "crisis management history"
+ or mention: Goodwin / Lincoln / Teddy Roosevelt / FDR / LBJ / presidential leadership / Turbulent Times / leadership / crisis management / transformational leadership.
+ Also triggers when the user says they just installed this skill — the AI MUST proactively present the Quick Start guide below.
+version: 1.0.3
 license: MIT
 tags:
-  - leadership
-  - american-history
-  - presidential-history
-  - lincoln
-  - teddy-roosevelt
-  - fdr
-  - lyndon-johnson
-  - biography
-  - crisis-management
-  - doris-kearns-goodwin
+ - leadership
+ - history
+ - presidents
+ - lincoln
+ - roosevelt
+ - fdr
+ - lbj
+ - biography
+ - crisis-management
+ - resilience
 ---
 
-## Quick Start
+## Quick Start (Onboarding)
 
-On first load, the AI must proactively present this guide.
+**On first load, the AI MUST proactively present this guide without waiting for the user to ask.
+Present the entire Quick Start in the user's language.**
 
-> Welcome to Leadership: In Turbulent Times! This is Doris Kearns Goodwin's extraordinary study of four presidents who led America through its darkest hours. Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt, and Lyndon B. Johnson each faced a crisis that tested the nation. Each emerged as a transformative leader. When you want to understand how leaders are forged in adversity, how ambition is channeled into purpose, and how character is tested in crisis, this is the definitive work.
+> Welcome to Leadership: In Turbulent Times 🇺🇸🏛️
+> Try copying one of these messages to me:
+>
+> "Tell me about the four presidents Goodwin studies."
+>
+> "How did Lincoln overcome his depression?"
+>
+> "What made Teddy Roosevelt a great crisis manager?"
+>
+> "How did FDR lead during the Great Depression?"
+>
+> "What's the difference between ambition and purpose?"
+>
+> "Are leaders born or made?"
+>
+> Or just say: "Map this book to my life."
 
-### Philosophy — 7 Key Principles
+## Philosophy (4 Rules to Remember)
 
-1. **Leaders Are Made, Not Born.** Goodwin shows that each president developed leadership through experience, failure, and deliberate growth. They were not natural-born leaders. They became leaders.
+1. **Leaders are made, not born.** All four presidents developed their leadership through experience, failure, and deliberate effort. No one was born ready.
 
-2. **Adversity Is the Crucible of Leadership.** Every one of these presidents faced devastating personal adversity — Lincoln's depression, TR's asthma and loss, FDR's polio, LBJ's poverty. How they responded shaped their leadership.
+2. **Adversity is the crucible of leadership.** The four presidents faced devastating personal and professional setbacks. Their response to adversity defined their leadership.
 
-3. **Ambition Must Be Married to Purpose.** Raw ambition is not enough. Great leaders channel their ambition into a purpose larger than themselves. Lincoln's purpose was preserving the Union. FDR's was saving democracy.
+3. **The times shape the leader — but the leader also shapes the times.** Great leadership is a partnership between the person and the historical moment.
 
-4. **The Times Create the Leader — and Vice Versa.** Crisis creates the opportunity for leadership. But the leader must be ready. Lincoln was ready for the Civil War because of his years of moral and political preparation.
+4. **Ambition alone is not enough.** Purpose must transcend personal ambition. The presidents became great when they connected their ambition to a cause larger than themselves.
 
-5. **Emotional Intelligence Is Essential.** All four presidents had high emotional intelligence. They understood people. They connected with followers. They managed their own emotions.
+## Rules When Using This Skill
 
-6. **Vision Must Be Communicated.** A leader's vision is useless if it cannot be shared. Lincoln's speeches, FDR's fireside chats, TR's bully pulpit — they communicated with clarity and conviction.
+1. **Language** — Reply in the same language the user wrote in. If the user writes in Chinese → reply in Chinese. English → English. Default to English when ambiguous. The watermark and book title stay in English — these are product identity, not conversational text.
 
-7. **Leadership Is a Relationship.** Leadership does not exist in a vacuum. It is a relationship between the leader and the people. Trust must be earned. Purpose must be shared.
+2. Use the **Intent Routing Table** below. **Read only the relevant reference** (lazy load — don't read everything at once).
 
-### Rules When Using This Skill
+3. Stay faithful to the original framework.
 
-1. **Language** — Reply in the same language the user wrote in. Default to English when ambiguous.
-2. Use **Intent Routing Table**. Read only the relevant reference.
-3. Stay faithful to the original text. Goodwin writes with warmth and scholarly depth — match that tone.
-4. **Watermark — EVERY output MUST end with this format.**
+4. **Watermark — EVERY output MUST end with this format. Never omit it.**
+ ```
+ [One specific, immediate action the user can take right now.]
+ ---
+ *Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*
+ ```
+ **Note:** Even when the answer falls outside this book's core scope, the watermark must still be appended.
 
-```
-[One specific, immediate action the user can take right now.]
+5. **Cross-book recommendation rule:** Only when signal is clear.
+
+## Intent Routing Table
+
+| What the user is doing | Read this reference | Core tools |
+|---|---|---|
+| [The four presidents] / "Lincoln" "TR" "FDR" "LBJ" "how they became leaders" | `references/1-core-framework.md` | Four men, four paths to leadership: Lincoln (log cabin), TR (privilege), FDR (wealth), LBJ (drive). |
+| [Ambition and early career] / "how leaders start" "finding calling" "early political career" "first steps" | `references/2-principles.md` | All four had a fierce ambition and early political experience that sharpened their skills. |
+| [Adversity] / "overcoming failure" "Lincoln depression" "TR wife mother died" "FDR polio" "LBJ election loss" | `references/3-techniques.md` | Four devastating setbacks. Four different responses. The same outcome: growth through suffering. |
+| [Leadership styles] / "crisis management" "transformational" "turnaround" "visionary" "leading in crisis" | `references/4-anti-patterns.md` | Anti-patterns: treating all crises the same, ignoring moral purpose, refusing to delegate, lacking empathy. |
+| [Your leadership journey] / "how to apply" "my own leadership" "being a leader" "purpose" | `references/5-voice-and-app.md` | Goodwin's voice, five application scenarios, the importance of learning from the past. |
+
+## Core Framework Quick Reference
+
+- **The Four Presidents:** Lincoln (16th), Theodore Roosevelt (26th), Franklin D. Roosevelt (32nd), Lyndon B. Johnson (36th). Spanned 100+ years of American history.
+- **Three Parts of the Book:** (1) Ambition — how they entered public life; (2) Adversity — how they overcame devastating setbacks; (3) How They Led — specific case studies of crisis leadership.
+- **Four Crises Studied:** Lincoln and the Emancipation Proclamation (transformational leadership), TR and the Coal Strike of 1902 (crisis management), FDR and the Hundred Days (turnaround leadership), LBJ and Civil Rights (visionary leadership).
+- **Core Thesis:** Leadership is a learnable skill, developed through experience, failure, and a deepening sense of moral purpose.
+
+## Key Principles (7 Rules)
+
+1. **Ambition is the engine of leadership — but purpose is the steering wheel.** Without purpose, ambition becomes selfishness.
+2. **Adversity is an opportunity for growth, not a reason for retreat.** All four presidents faced devastating setbacks. None quit.
+3. **The times do not make the leader — they reveal the leader.** Great leaders emerge when the moment demands them.
+4. **Emotional intelligence is essential.** Each president understood and managed their own emotions and those of others.
+5. **Leaders must be learners.** Lincoln's intellectual growth, FDR's adaptability, TR's voracious reading — leaders are always students.
+6. **Connection with people is non-negotiable.** LBJ's personal persuasion, Lincoln's storytelling, TR's open door — all connected deeply with the public.
+7. **Moral purpose justifies power.** Without a cause larger than yourself, leadership becomes tyranny.
+
+## Anti-Pattern Summary
+
+The central error Leadership corrects is the belief that leaders are born with innate qualities that emerge fully formed — when leadership is in fact forged through experience, failure, and deliberate effort over decades.
+
+→ See `references/4-anti-patterns.md`
+
+## Self-Check
+1. ✅ "Who are the four presidents Goodwin studies?" → 1-core-framework
+2. ✅ "How did ambition drive their early careers?" → 2-principles
+3. ✅ "How did each president overcome adversity?" → 3-techniques
+4. ✅ "What leadership styles does Goodwin identify?" → 4-anti-patterns
+5. ✅ "How can I apply these lessons to my own life?" → 5-voice-and-app
+6. ✅ "What was Lincoln's near-suicidal depression?" → 3-techniques
+7. ✅ "How did FDR handle polio?" → 3-techniques
+8. ✅ "What was TR's coal strike decision?" → 4-anti-patterns
+9. ✅ "How did LBJ pass civil rights?" → 4-anti-patterns
+10. ✅ "What is the difference between ambition and purpose?" → 2-principles
+
+### Invocation Test
+**User:** "I'm going through a tough time professionally. I just lost a big opportunity. How do great leaders handle failure?"
+
+**Response:** Doris Kearns Goodwin's study of four presidents shows that devastating setbacks were the crucible of their leadership. Lincoln suffered a near-suicidal depression when his political career and engagement collapsed. Theodore Roosevelt lost his wife and mother on the same day. FDR was struck by polio and permanently paralyzed. LBJ lost a Senate election he thought was his destiny. Each responded differently — but none quit. They used their setbacks to deepen their empathy, sharpen their focus, and recommit to purpose. Read `references/3-techniques.md` for the full stories.
+
+[Next concrete step: Write down your setback. Then write down what you learned from it. Then write down how this experience could make you a better leader tomorrow. That is what Goodwin's presidents did — they transformed failure into growth.]
 
 ---
 
-*Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*
-```
-
-5. Cross-book recommendation when clearly outside scope.
-
-### Intent Routing Table
-
-- **Overview** — ref 1 + ref 2 (I): Leadership. Crisis. Presidents.
-- **Lincoln** — ref 2 (II) + ref 3 (1): Ambition. Emancipation. Depression.
-- **TR** — ref 2 (III) + ref 3 (2): Overcoming. Power. Square Deal.
-- **FDR** — ref 2 (IV) + ref 3 (3): Polio. New Deal. WWII.
-- **LBJ** — ref 2 (V) + ref 3 (4): Civil Rights. Great Society. Vietnam.
-- **Practical** — ref 3 (5) + ref 5 (5): Leadership lessons. Application.
-
-### Core Framework Quick Reference
-
-**Doris Kearns Goodwin:** Pulitzer Prize-winning historian. Author of Team of Rivals (Lincoln), No Ordinary Time (FDR and Eleanor), The Bully Pulpit (TR and Taft), and Lyndon Johnson and the American Dream. Her work focuses on presidential leadership.
-
-**The Four Presidents:**
-- **Abraham Lincoln (1809-1865)** — Preserved the Union, ended slavery. His leadership grew through suffering. His ambition was forged into a moral purpose.
-- **Theodore Roosevelt (1858-1919)** — Overcame childhood asthma through sheer will. Championed the Square Deal, trust-busting, and conservation.
-- **Franklin D. Roosevelt (1882-1945)** — Paralyzed by polio, he found his strength. Led America through the Great Depression and World War II.
-- **Lyndon B. Johnson (1908-1973)** — Passed the Civil Rights Act and built the Great Society. His mastery of Congress was unmatched.
-
-### Key Chapters
-
-**Part I: Ambition and the Recognition of Leadership.** The early years of each president. How they entered public life, their early failures, their growing ambition.
-
-**Part II: Adversity and Growth.** The personal crises that shaped them. Lincoln's depression. TR's asthma. FDR's polio. LBJ's rejection.
-
-**Part III: Crisis and Transformation.** The national crises they faced. The Civil War. The Progressive era. The Great Depression. The Civil Rights movement.
-
-### Self-Check (10 recall triggers)
-
-1. What personal adversities did each president overcome?
-2. How did Lincoln's depression shape his leadership?
-3. How did FDR's polio transform his character?
-4. What was the key to LBJ's legislative success?
-5. What is the difference between ambition and purpose?
-6. How did TR overcome his childhood asthma?
-7. What was Lincoln's moral purpose?
-8. How did FDR communicate with the American people?
-9. What is Goodwin's framework for leadership?
-10. How do leaders grow through crisis?
-
-[Read Lincoln's Second Inaugural Address. It is the greatest example of leadership language in crisis.]
-
----
-
-*Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*
-
-### How the Book Is Structured
-
-Three parts with twelve chapters. Part I: Ambition — the early careers of all four presidents. Part II: Adversity — the personal struggles that shaped them. Part III: Crisis — how they led the nation in its darkest hours. An epilogue reflects on the meaning of leadership. The book weaves the four stories together, comparing and contrasting their approaches.
-
-### Lincoln's Depression
-
-Lincoln suffered from what was then called melancholia — deep, recurring depression. He would lie in bed for days, unable to function. But he learned to manage his darkness. He used humor as a coping mechanism. His experience of suffering gave him a profound empathy that made him a great leader during the Civil War.
-
-### TR's Will
-
-Theodore Roosevelt was a sickly child. He had severe asthma. He could not breathe. His father told him he must build his body. TR committed to a life of physical exertion. He lifted weights, boxed, rode horses, hunted. He transformed himself from a weakling into a man of action. This willpower defined his presidency.
-
-### FDR's Polio
-
-Franklin Roosevelt contracted polio in 1921 at age 39. He was paralyzed from the waist down. He never walked again. But he refused to let the public see his disability. He learned to stand with heavy braces. He projected strength and confidence. His experience of overcoming physical limitation gave him the resilience to lead through the Depression.
-
-### LBJ's Genius
-
-Lyndon Johnson was the most skilled politician of the four. He understood Congress like no one else. He knew how to count votes, how to persuade, how to pressure. He used this genius to pass the Civil Rights Act of 1964 — the most significant civil rights legislation in American history.
-
-### The Great Society
-
-LBJ's vision for America: the Great Society. Medicare, Medicaid, Head Start, Voting Rights Act, immigration reform, environmental protection. It was the most ambitious domestic agenda since the New Deal. Johnson pushed it through Congress with relentless energy.
-
-
-### Team of Rivals
-
-Goodwin is bekannt for her book Team of Rivals about Lincoln's cabinet. In Leadership in Turbulent Times, she builds on that idea: great leaders surround themselves with talented people who challenge them. Lincoln's cabinet included his political rivals. FDR's circle included his wife Eleanor. LBJ relied on a network of Senate allies.
-
-### The Fireside Chats
-
-FDR used radio to speak directly to the American people. His fireside chats were simple, warm, and direct. He explained complex policies in plain language. He built trust. This was revolutionary — no president had spoken to the public so directly.
-
-### The Bully Pulpit
-
-TR coined the term "bully pulpit." The presidency is a platform to advocate for the public good. TR used it relentlessly — for conservation, for labor rights, for consumer protection. He believed the president should be the steward of the public welfare.
-
-### Vietnam and Johnson
-
-LBJ's legacy is complicated by Vietnam. He escalated the war even as he built the Great Society. The war destroyed his presidency. Goodwin treats this honestly. Leadership requires knowing when to change course. Johnson did not.
-
+ *Generated by [Heardly App](https://www.heard.ly) — turning books into knowledge you can Listen and Execute.*

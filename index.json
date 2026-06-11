@@ -3358,19 +3358,20 @@
     },
     {
       "slug": "leadership-in-turbulent-times",
-      "title": "Doris Kearns Goodwin's 'Leadership: In Turbulent Times' — Pulitzer-winning historian's study of four presidents who led ",
+      "title": "Doris Kearns Goodwin's Leadership: In Turbulent Times — presidential leadership toolkit examining how Lincoln, TR, FDR, ",
       "author": "heardlyapp",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "tags": [
         "leadership",
-        "american-history",
-        "presidential-history",
+        "history",
+        "presidents",
         "lincoln",
-        "teddy-roosevelt",
+        "roosevelt",
         "fdr",
-        "lyndon-johnson",
+        "lbj",
         "biography",
-        "crisis-management"
+        "crisis-management",
+        "resilience"
       ],
       "updated": "2026-06-13"
     },

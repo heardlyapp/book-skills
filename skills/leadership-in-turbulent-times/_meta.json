@@ -1,22 +1,19 @@
 {
-  "name": "leadership-in-turbulent-times",
-  "version": "1.0.2",
-  "description": "Doris Kearns Goodwin's 'Leadership: In Turbulent Times' \u2014 Pulitzer-winning historian's study of four presidents who led through crisis: Lincoln, TR, FDR, LBJ. Ambition, adversity, crisis, and transformation. A definitive work on presidential leadership and what makes a great leader in turbulent times.",
-  "publisher": "heardlyapp",
-  "license": "MIT",
-  "tags": [
-    "leadership",
-    "american-history",
-    "presidential-history",
-    "lincoln",
-    "teddy-roosevelt",
-    "fdr",
-    "lyndon-johnson",
-    "biography",
-    "crisis-management"
-  ],
-  "openclaw": {
-    "emoji": "\ud83c\udfdb\ufe0f",
-    "category": "history"
-  }
+ "name": "leadership-in-turbulent-times",
+ "version": "1.0.3",
+ "description": "Doris Kearns Goodwin's Leadership: In Turbulent Times — presidential leadership toolkit examining how Lincoln, TR, FDR, and LBJ developed ambition, overcame adversity, and led through America's greatest crises",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/leadership-in-turbulent-times",
+ "useCase": "Understand the development of presidential leadership, learn from four types of crisis leadership, and apply lessons of resilience and purpose to your own journey",
+ "knownRisks": [
+  "The book focuses exclusively on US presidents — leadership models from other cultures and contexts are not covered",
+  "Goodwin has been criticized for being too sympathetic to LBJ, particularly on Vietnam",
+  "Lessons from 19th and 20th century presidents may not translate directly to 21st century challenges"
+ ],
+ "tags": ["leadership", "history", "presidents", "lincoln", "roosevelt", "fdr", "lbj", "biography", "crisis-management", "resilience"],
+ "openclaw": {
+  "emoji": "🇺🇸",
+  "category": "leadership"
+ }
 }
