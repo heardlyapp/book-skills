@@ -5155,6 +5155,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-artists-way",
+      "title": "Julia Cameron's The Artist's Way — creativity recovery toolkit using Morning Pages, Artist Dates, and a 12-week program ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "creativity",
+        "art",
+        "self-help",
+        "writing",
+        "journaling",
+        "spirituality",
+        "personal-development",
+        "julia-cameron",
+        "morning-pages",
+        "artist-way"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-autobiography-of-martin-luther-king-jr",
       "title": "Martin Luther King Jr.'s autobiography, assembled by historian Clayborne Carson from King's own writings, speeches, serm",
       "author": "heardlyapp",
@@ -7798,5 +7817,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 431
+  "total_skills": 432
 }

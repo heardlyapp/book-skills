@@ -1,0 +1,19 @@
+{
+ "name": "the-artists-way",
+ "version": "1.0.0",
+ "description": "Julia Cameron's The Artist's Way — creativity recovery toolkit using Morning Pages, Artist Dates, and a 12-week program to unblock creative expression and reclaim your artistic self",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-artists-way",
+ "useCase": "Start Morning Pages, overcome creative blocks, silence the inner critic, nurture your artist through weekly dates, and complete a 12-week creative recovery",
+ "knownRisks": [
+  "The spiritual framing (God/Great Creator) may not resonate with all readers",
+  "The 12-week program requires significant daily commitment",
+  "Morning Pages may amplify anxiety in some users before clearing it"
+ ],
+ "tags": ["creativity", "art", "self-help", "writing", "journaling", "spirituality", "personal-development", "julia-cameron", "morning-pages", "artist-way"],
+ "openclaw": {
+  "emoji": "🎨",
+  "category": "creativity"
+ }
+}
