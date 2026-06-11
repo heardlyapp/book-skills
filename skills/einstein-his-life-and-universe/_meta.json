@@ -1,0 +1,30 @@
+{
+  "name": "einstein-his-life-and-universe",
+  "version": "1.0.0",
+  "description": "Walter Isaacson's Einstein: His Life and Universe — a creativity and genius toolkit that explores how Albert Einstein's imagination, nonconformity, and intellectual persistence led to the theory of relativity and transformed modern physics — and what his life teaches us about original thinking, handling fame, and the moral responsibilities of science.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/einstein-his-life-and-universe",
+  "useCase": "Learn how one of history's greatest minds worked — from his creative methods and thought experiments to his handling of fame, his moral choices, and the lessons for anyone trying to think differently.",
+  "knownRisks": [
+    "The biography covers complex physics concepts in accessible terms — experts may find some explanations simplified",
+    "Einstein's personal relationships, particularly with Mileva Marić, are portrayed honestly and may be uncomfortable",
+    "The book was published in 2007 — some details about unpublished letters have since emerged"
+  ],
+  "tags": [
+    "biography",
+    "science",
+    "physics",
+    "creativity",
+    "genius",
+    "history",
+    "philosophy",
+    "innovation",
+    "imagination",
+    "curiosity"
+  ],
+  "openclaw": {
+    "emoji": "⚛️",
+    "category": "science"
+  }
+}
