@@ -6284,6 +6284,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-lucifer-effect",
+      "title": "Philip Zimbardo's The Lucifer Effect — social psychology toolkit exploring how situational forces transform good people ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "social-psychology",
+        "evil",
+        "stanford-prison",
+        "zimbardo",
+        "abu-ghraib",
+        "obedience",
+        "authority",
+        "ethics",
+        "situationism"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-mamba-mentality",
       "title": "Kobe Bryant's 'The Mamba Mentality: How I Play' — Kobe's personal account of his approach to basketball, revealing the m",
       "author": "heardlyapp",
@@ -7817,5 +7836,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 432
+  "total_skills": 433
 }

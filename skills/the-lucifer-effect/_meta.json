@@ -1,0 +1,19 @@
+{
+ "name": "the-lucifer-effect",
+ "version": "1.0.0",
+ "description": "Philip Zimbardo's The Lucifer Effect — social psychology toolkit exploring how situational forces transform good people into evil actors, based on the Stanford Prison Experiment and Abu Ghraib",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-lucifer-effect",
+ "useCase": "Understand the Stanford Prison Experiment, learn how situational forces produce evil, recognize the fundamental attribution error, and develop resistance to unjust systems",
+ "knownRisks": [
+  "Some scholars have criticized Zimbardo's interpretation of the SPE — alternative explanations exist",
+  "The book's detailed descriptions of abuse may be disturbing for some readers",
+  "Zimbardo's situational determinism may underemphasize individual responsibility"
+ ],
+ "tags": ["psychology", "social-psychology", "evil", "stanford-prison", "zimbardo", "abu-ghraib", "obedience", "authority", "ethics", "situationism"],
+ "openclaw": {
+  "emoji": "😈",
+  "category": "psychology"
+ }
+}
