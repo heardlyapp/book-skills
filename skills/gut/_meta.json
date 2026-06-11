@@ -1,0 +1,19 @@
+{
+ "name": "gut",
+ "version": "1.0.0",
+ "description": "Giulia Enders's Gut — digestive health toolkit revealing the inside story of the body's most underrated organ, from how digestion works to the microbiome, gut-brain connection, and practical gut health advice",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/gut",
+ "useCase": "Understand digestion anatomy, manage common digestive problems, explore the gut-brain axis, evaluate probiotics, and improve gut health through diet",
+ "knownRisks": [
+  "The book is written for a popular audience — specialists may find it oversimplified",
+  "Some claims (especially about the microbiome) may be updated by newer research",
+  "The author's recommendations are general — individual digestive issues require medical evaluation"
+ ],
+ "tags": ["health", "gut-health", "digestion", "microbiome", "nutrition", "science", "wellness", "gastroenterology", "probiotics", "body"],
+ "openclaw": {
+  "emoji": "🩺",
+  "category": "health"
+ }
+}
