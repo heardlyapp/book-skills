@@ -6696,6 +6696,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-silk-roads",
+      "title": "Peter Frankopan's The Silk Roads — world history toolkit recentering the global narrative on Central Asia and the trade ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "world-history",
+        "central-asia",
+        "silk-road",
+        "trade",
+        "empires",
+        "mongols",
+        "persia",
+        "geopolitics",
+        "globalization"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-slight-edge",
       "title": "Jeff Olson's The Slight Edge — understand how small daily actions compound into massive success or failure over time",
       "author": "heardlyapp",
@@ -7703,5 +7722,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 426
+  "total_skills": 427
 }

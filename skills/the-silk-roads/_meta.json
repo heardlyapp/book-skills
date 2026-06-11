@@ -1,0 +1,19 @@
+{
+ "name": "the-silk-roads",
+ "version": "1.0.0",
+ "description": "Peter Frankopan's The Silk Roads — world history toolkit recentering the global narrative on Central Asia and the trade routes that connected East and West for two millennia",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-silk-roads",
+ "useCase": "Understand the Silk Road as the axis of world history, trace empires and cultural exchange, critique Eurocentrism, and connect past to present geopolitics",
+ "knownRisks": [
+  "One-volume coverage of 2,000 years necessitates simplification — specialists may find gaps",
+  "Frankopan's revisionist thesis can be as one-sided as the Eurocentrism he critiques",
+  "The modern geopolitical analysis (Belt and Road) may date quickly as events evolve"
+ ],
+ "tags": ["history", "world-history", "central-asia", "silk-road", "trade", "empires", "mongols", "persia", "geopolitics", "globalization"],
+ "openclaw": {
+  "emoji": "🐫",
+  "category": "history"
+ }
+}
