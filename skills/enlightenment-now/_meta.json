@@ -1,0 +1,19 @@
+{
+ "name": "enlightenment-now",
+ "version": "1.0.0",
+ "description": "Steven Pinker's Enlightenment Now — data-driven toolkit defending reason, science, humanism, and progress, showing how Enlightenment values have made the world better",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/enlightenment-now",
+ "useCase": "Understand global progress data, counter modern pessimism, defend reason and science, and apply Enlightenment values to current challenges",
+ "knownRisks": [
+  "Pinker's optimistic data analysis has been criticized by some scholars for cherry-picking metrics",
+  "The book does not fully address systemic issues like persistent inequality in wealthy countries",
+  "The defense of Enlightenment values may feel naive to readers who have experienced institutional failure or oppression"
+ ],
+ "tags": ["science", "philosophy", "progress", "data", "pessimism", "enlightenment", "reason", "humanism", "steven-pinker", "global-development"],
+ "openclaw": {
+  "emoji": "📊",
+  "category": "science"
+ }
+}

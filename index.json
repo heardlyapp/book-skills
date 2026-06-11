@@ -1824,6 +1824,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "enlightenment-now",
+      "title": "Steven Pinker's Enlightenment Now — data-driven toolkit defending reason, science, humanism, and progress, showing how E",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "science",
+        "philosophy",
+        "progress",
+        "data",
+        "pessimism",
+        "enlightenment",
+        "reason",
+        "humanism",
+        "steven-pinker",
+        "global-development"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "escape-from-freedom",
       "title": "Erich Fromm's Escape from Freedom — psychoanalytic and social psychology toolkit examining why people flee from the burd",
       "author": "heardlyapp",
@@ -7608,5 +7627,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 421
+  "total_skills": 422
 }
