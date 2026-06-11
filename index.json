@@ -5868,6 +5868,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-happiness-hypothesis",
+      "title": "Jonathan Haidt's The Happiness Hypothesis — psychology toolkit bridging ancient wisdom and modern science to understand ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "happiness",
+        "morality",
+        "positive-psychology",
+        "self-improvement",
+        "philosophy",
+        "jonathan-haidt",
+        "well-being",
+        "behavioral-science",
+        "ancient-wisdom"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-heart-of-a-woman",
       "title": "Maya Angelou's 'The Heart of a Woman' — the fourth volume of her acclaimed autobiography series, covering 1957–1962. Fro",
       "author": "heardlyapp",
@@ -7513,5 +7532,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 416
+  "total_skills": 417
 }

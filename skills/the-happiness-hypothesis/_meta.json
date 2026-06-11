@@ -1,0 +1,19 @@
+{
+ "name": "the-happiness-hypothesis",
+ "version": "1.0.0",
+ "description": "Jonathan Haidt's The Happiness Hypothesis — psychology toolkit bridging ancient wisdom and modern science to understand happiness, meaning, morality, and human flourishing",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-happiness-hypothesis",
+ "useCase": "Understand the divided self, overcome negativity bias, use reciprocity effectively, recognize personal bias, pursue lasting happiness, and find meaning",
+ "knownRisks": [
+  "The happiness formula (H = S + C + V) is a simplification — real happiness is more complex",
+  "Some ancient wisdom cited may conflict with readers' cultural or religious views",
+  "The Rider-Elephant metaphor, while useful, is an analogy, not a precise neurological model"
+ ],
+ "tags": ["psychology", "happiness", "morality", "positive-psychology", "self-improvement", "philosophy", "jonathan-haidt", "well-being", "behavioral-science", "ancient-wisdom"],
+ "openclaw": {
+  "emoji": "🧠",
+  "category": "psychology"
+ }
+}
