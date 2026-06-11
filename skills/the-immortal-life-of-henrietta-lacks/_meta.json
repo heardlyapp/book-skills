@@ -1,0 +1,19 @@
+{
+ "name": "the-immortal-life-of-henrietta-lacks",
+ "version": "1.0.0",
+ "description": "Rebecca Skloot's The Immortal Life of Henrietta Lacks — a bioethics toolkit that examines the true story of Henrietta Lacks, whose cells (HeLa) were taken without consent in 1951, became the first immortal human cell line, and revolutionized medicine while her family remained in poverty and obscurity. Covers the intersection of science, ethics, race, class, and the question of who owns our bodies.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-immortal-life-of-henrietta-lacks",
+ "useCase": "Understand the history and ethics of one of medicine's most important and controversial stories — informed consent, tissue ownership, medical racism, and how one family's tragedy changed science.",
+ "knownRisks": [
+  "The book focuses on the United States medical system — consent laws vary globally",
+  "Some readers may find descriptions of medical procedures and racial injustice distressing",
+  "The legal landscape around tissue ownership has evolved since the book's publication in 2010"
+ ],
+ "tags": ["bioethics", "science", "medicine", "race", "history", "journalism", "genetics", "human-rights", "patient-advocacy", "research-ethics"],
+ "openclaw": {
+  "emoji": "🔬",
+  "category": "science"
+ }
+}
