@@ -1,0 +1,19 @@
+{
+ "name": "i-dont-want-to-talk-about-it",
+ "version": "1.0.0",
+ "description": "Terrence Real's I Don't Want to Talk About It — men's mental health toolkit uncovering the hidden epidemic of covert male depression, how it manifests as anger, workaholism, addiction, and withdrawal, and the path to healing through emotional honesty and connection",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/i-dont-want-to-talk-about-it",
+ "useCase": "Understand covert male depression, recognize the signs in yourself or loved ones, break the generational cycle, and find the path to healing",
+ "knownRisks": [
+  "The book was published in 1997 — some cultural references and therapeutic approaches may have evolved",
+  "Real's framework is grounded in psychodynamic and relational therapy — not all therapists agree",
+  "The focus on men may feel exclusionary to women seeking help for their own depression"
+ ],
+ "tags": ["psychology", "depression", "men", "mental-health", "fatherhood", "addiction", "therapy", "masculinity", "healing", "family"],
+ "openclaw": {
+  "emoji": "🙍‍♂️",
+  "category": "psychology"
+ }
+}

@@ -2918,6 +2918,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "i-dont-want-to-talk-about-it",
+      "title": "Terrence Real's I Don't Want to Talk About It — men's mental health toolkit uncovering the hidden epidemic of covert mal",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "depression",
+        "men",
+        "mental-health",
+        "fatherhood",
+        "addiction",
+        "therapy",
+        "masculinity",
+        "healing",
+        "family"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "i-dont-want-to-talk-about-it-overcoming-the-secret-legacy-of-male-depression",
       "title": "Terrence Real's 'I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression' — the landmark book on ",
       "author": "heardlyapp",
@@ -8428,5 +8447,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 464
+  "total_skills": 465
 }
