@@ -1,0 +1,19 @@
+{
+ "name": "cloudbuster-nine",
+ "version": "1.0.0",
+ "description": "Anne Keene's Cloudbuster Nine — baseball and WWII history toolkit telling the untold story of Ted Williams and the Navy pre-flight baseball team at UNC Chapel Hill, revealing how sports, military training, and morale intersected during World War II",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/cloudbuster-nine",
+ "useCase": "Discover the forgotten story of Ted Williams' WWII service, understand the Navy pre-flight training program, and explore the intersection of sports and military history",
+ "knownRisks": [
+  "The book is a narrative history, not an academic study — some details may be anecdotal",
+  "Baseball-focused readers may want more game details; military history readers may want more training details",
+  "The story relies heavily on a single family's memorabilia and memories"
+ ],
+ "tags": ["history", "baseball", "wwii", "sports", "military", "ted-williams", "aviation", "north-carolina", "morale", "untold-stories"],
+ "openclaw": {
+  "emoji": "⚾",
+  "category": "history"
+ }
+}

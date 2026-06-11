@@ -1345,6 +1345,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "cloudbuster-nine",
+      "title": "Anne Keene's Cloudbuster Nine — baseball and WWII history toolkit telling the untold story of Ted Williams and the Navy ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "baseball",
+        "wwii",
+        "sports",
+        "military",
+        "ted-williams",
+        "aviation",
+        "north-carolina",
+        "morale",
+        "untold-stories"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "coach-wooden-and-me",
       "title": "Kareem Abdul-Jabbar's memoir of his 50-year friendship with legendary UCLA coach John Wooden — an exploration of how two",
       "author": "heardlyapp",
@@ -8276,5 +8295,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 456
+  "total_skills": 457
 }
