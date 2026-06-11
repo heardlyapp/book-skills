@@ -1,0 +1,19 @@
+{
+ "name": "fire-weather",
+ "version": "1.0.0",
+ "description": "John Vaillant's Fire Weather — climate crisis narrative exploring the 2016 Fort McMurray megafire, the science of fires that create their own weather, the oil sands paradox, and our entry into the pyrosphere",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/fire-weather",
+ "useCase": "Understand the Fort McMurray fire, learn how fire creates weather, explore the climate change connection, and prepare for life in the pyrosphere",
+ "knownRisks": [
+  "The book focuses on a single fire — while representative, it does not cover all types of wildfire globally",
+  "Vaillant is a narrative journalist, not a fire scientist — some details may be dramatized",
+  "The oil sands industry may dispute Vaillant's framing"
+ ],
+ "tags": ["climate", "wildfire", "alberta", "canada", "environment", "natural-disaster", "fire", "oil", "fossil-fuels", "resilience"],
+ "openclaw": {
+  "emoji": "🔥",
+  "category": "climate"
+ }
+}

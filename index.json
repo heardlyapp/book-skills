@@ -2178,6 +2178,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "fire-weather",
+      "title": "John Vaillant's Fire Weather — climate crisis narrative exploring the 2016 Fort McMurray megafire, the science of fires ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "climate",
+        "wildfire",
+        "alberta",
+        "canada",
+        "environment",
+        "natural-disaster",
+        "fire",
+        "oil",
+        "fossil-fuels",
+        "resilience"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "fragile-lives",
       "title": "Stephen Westaby's Fragile Lives — surgical memoir toolkit exploring the mindset of a world-class heart surgeon, the real",
       "author": "heardlyapp",
@@ -7971,5 +7990,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 440
+  "total_skills": 441
 }
