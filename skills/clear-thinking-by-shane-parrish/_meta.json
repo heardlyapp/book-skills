@@ -1,0 +1,19 @@
+{
+ "name": "clear-thinking",
+ "version": "1.0.0",
+ "description": "Shane Parrish's Clear Thinking — decision-making toolkit teaching how to overcome the four cognitive defaults (emotion, ego, social, inertia), build strength through self-accountability, and turn ordinary moments into extraordinary results through better judgment",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/clear-thinking",
+ "useCase": "Understand the four defaults that hijack thinking, build self-accountability, create safeguards for weaknesses, and make better decisions aligned with what matters",
+ "knownRisks": [
+  "The book is a recent (2023) publication — some frameworks are not yet tested over time",
+  "Some concepts (e.g., the four defaults) overlap significantly with other cognitive bias literature",
+  "The intelligence agency background may feel distant from everyday decision-making"
+ ],
+ "tags": ["psychology", "decision-making", "mental-models", "cognition", "self-improvement", "thinking", "bias", "leadership", "performance", "wisdom"],
+ "openclaw": {
+  "emoji": "🧠",
+  "category": "psychology"
+ }
+}

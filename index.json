@@ -1402,6 +1402,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "clear-thinking-by-shane-parrish",
+      "title": "Shane Parrish's Clear Thinking — decision-making toolkit teaching how to overcome the four cognitive defaults (emotion, ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "decision-making",
+        "mental-models",
+        "cognition",
+        "self-improvement",
+        "thinking",
+        "bias",
+        "leadership",
+        "performance",
+        "wisdom"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "cloudbuster-nine",
       "title": "Anne Keene's Cloudbuster Nine — baseball and WWII history toolkit telling the untold story of Ted Williams and the Navy ",
       "author": "heardlyapp",
@@ -8409,5 +8428,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 463
+  "total_skills": 464
 }
