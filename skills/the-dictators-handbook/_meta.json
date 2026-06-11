@@ -1,0 +1,19 @@
+{
+ "name": "the-dictators-handbook",
+ "version": "1.0.0",
+ "description": "Bruce Bueno de Mesquita and Alastair Smith's The Dictator's Handbook — game theory toolkit revealing why bad behavior is almost always good politics, how leaders stay in power, and what drives political decision-making",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-dictators-handbook",
+ "useCase": "Understand selectorate theory, predict political behavior, analyze institutional incentives, and design better governance systems",
+ "knownRisks": [
+  "The theory's reduction of all political motivation to survival is controversial — some leaders may be driven by ideology",
+  "The game-theoretic framework can feel overly cynical to readers who believe in public service",
+  "Historical examples are selectively chosen to support the theory — contrary cases may be underemphasized"
+ ],
+ "tags": ["political-science", "game-theory", "dictatorships", "democracy", "corruption", "leadership", "institutions", "strategy", "public-choice", "bm"],
+ "openclaw": {
+  "emoji": "👑",
+  "category": "political-science"
+ }
+}

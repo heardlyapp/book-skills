@@ -5708,6 +5708,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-dictators-handbook",
+      "title": "Bruce Bueno de Mesquita and Alastair Smith's The Dictator's Handbook — game theory toolkit revealing why bad behavior is",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "political-science",
+        "game-theory",
+        "dictatorships",
+        "democracy",
+        "corruption",
+        "leadership",
+        "institutions",
+        "strategy",
+        "public-choice",
+        "bm"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-education-of-a-value-investor",
       "title": "Guy Spier's The Education of a Value Investor — apply value investing principles to both money and life: think independe",
       "author": "heardlyapp",
@@ -7646,5 +7665,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 423
+  "total_skills": 424
 }
