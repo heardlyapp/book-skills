@@ -4859,6 +4859,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "silent-spring",
+      "title": "Rachel Carson's Silent Spring — environmental science and activism toolkit exposing how DDT and synthetic pesticides poi",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "environment",
+        "science",
+        "ecology",
+        "rachel-carson",
+        "pesticides",
+        "ddt",
+        "conservation",
+        "activism",
+        "public-health",
+        "nature"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "skincare",
       "title": "Caroline Hirons' 'Skincare: The ultimate no-nonsense guide' — the straight-talking guide to understanding your skin, bui",
       "author": "heardlyapp",
@@ -8029,5 +8048,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 443
+  "total_skills": 444
 }

@@ -1,0 +1,19 @@
+{
+ "name": "silent-spring",
+ "version": "1.0.0",
+ "description": "Rachel Carson's Silent Spring — environmental science and activism toolkit exposing how DDT and synthetic pesticides poison ecosystems, accumulate in food chains, and threaten all life, launching the modern environmental movement",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/silent-spring",
+ "useCase": "Understand the pesticide crisis, learn ecological principles, identify alternatives to chemical control, and take action for environmental health",
+ "knownRisks": [
+  "Some scientific details have been updated since 1962 — but Carson's core findings remain valid",
+  "The book has been criticized for creating 'chemophobia' and leading to overly restrictive pesticide policies",
+  "DDT remains controversial for malaria control in some developing countries"
+ ],
+ "tags": ["environment", "science", "ecology", "rachel-carson", "pesticides", "ddt", "conservation", "activism", "public-health", "nature"],
+ "openclaw": {
+  "emoji": "🌿",
+  "category": "environment"
+ }
+}
