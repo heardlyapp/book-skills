@@ -1,0 +1,19 @@
+{
+ "name": "benjamin-franklin",
+ "version": "1.0.0",
+ "description": "Walter Isaacson's Benjamin Franklin — American biography tracing Franklin from runaway apprentice to printer, scientist, inventor, diplomat, and founding father, exploring how he invented the American character through practical wisdom and self-improvement",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/benjamin-franklin",
+ "useCase": "Understand the life of Benjamin Franklin, his scientific contributions, diplomatic achievements, and the self-improvement system that defined him",
+ "knownRisks": [
+  "The book is sympathetic to Franklin and may underemphasize his flaws (slavery, treatment of his wife)",
+  "Isaacson is a journalist, not an academic historian — some scholars may prefer more depth",
+  "The skill condenses a 20,000-line biography significantly"
+ ],
+ "tags": ["biography", "history", "america", "founding-fathers", "science", "invention", "diplomacy", "self-improvement", "publishing", "18th-century"],
+ "openclaw": {
+  "emoji": "🇺🇸",
+  "category": "biography"
+ }
+}

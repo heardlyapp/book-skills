@@ -987,6 +987,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "benjamin-franklin",
+      "title": "Walter Isaacson's Benjamin Franklin — American biography tracing Franklin from runaway apprentice to printer, scientist,",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "biography",
+        "history",
+        "america",
+        "founding-fathers",
+        "science",
+        "invention",
+        "diplomacy",
+        "self-improvement",
+        "publishing",
+        "18th-century"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "beyonce-biography",
       "title": "Lavaille Lavette's 'Beyoncé: A Little Golden Book Biography' — an inspiring introduction to Beyoncé's life story for you",
       "author": "heardlyapp",
@@ -8371,5 +8390,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 461
+  "total_skills": 462
 }
