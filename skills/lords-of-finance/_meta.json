@@ -1,0 +1,19 @@
+{
+ "name": "lords-of-finance",
+ "version": "1.0.1",
+ "description": "Liaquat Ahamed's Lords of Finance: The Bankers Who Broke the World — a decision-making toolkit that reveals how four central bankers (Montagu Norman, Benjamin Strong, Hjalmar Schacht, and Émile Moreau) shaped the interwar economy through monetary orthodoxy, gold standard dogma, and political miscalculation — and what it teaches us about financial crises, policy traps, and the human psychology of power.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/lords-of-finance",
+ "useCase": "Understand the human and institutional roots of the Great Depression, diagnose policy traps in modern economics, and learn from the failures of four of the most powerful central bankers in history.",
+ "knownRisks": [
+  "The book focuses on the Western financial system — the Asian, African, and Latin American perspectives are not covered",
+  "Some character portraits may be colored by Ahamed's sources and biases",
+  "Complex economic concepts are simplified into biographical narrative — advanced economists may want the original Keynes texts"
+ ],
+ "tags": ["economics", "history", "finance", "central-banking", "monetary-policy", "great-depression", "leadership", "decision-making", "financial-crisis", "gold-standard"],
+ "openclaw": {
+  "emoji": "🏦",
+  "category": "economics"
+ }
+}
