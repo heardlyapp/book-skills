@@ -5183,6 +5183,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "taste-by-stanley-tucci",
+      "title": "Stanley Tucci's Taste — food and life memoir exploring how food connects us to family, love, grief, travel, and identity",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "food",
+        "cooking",
+        "italian",
+        "family",
+        "grief",
+        "travel",
+        "celebrity",
+        "joy",
+        "culture"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "technical-analysis",
       "title": "John J. Murphy's definitive textbook on technical analysis — trend analysis, chart patterns, oscillators, moving average",
       "author": "heardlyapp",
@@ -8162,5 +8181,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 450
+  "total_skills": 451
 }

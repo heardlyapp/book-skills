@@ -1,0 +1,19 @@
+{
+ "name": "taste",
+ "version": "1.0.0",
+ "description": "Stanley Tucci's Taste — food and life memoir exploring how food connects us to family, love, grief, travel, and identity, from an Italian-American childhood to Big Night to cooking through loss",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/taste",
+ "useCase": "Understand the power of food as memory, learn to cook with joy, navigate grief through cooking, and reconnect with family through shared meals",
+ "knownRisks": [
+  "This is a celebrity memoir — it is entertaining but not a systematic guide to cooking",
+  "Tucci's privilege (travel, restaurant access, famous friends) is not representative",
+  "Some may find the grief chapters emotionally difficult"
+ ],
+ "tags": ["memoir", "food", "cooking", "italian", "family", "grief", "travel", "celebrity", "joy", "culture"],
+ "openclaw": {
+  "emoji": "🍝",
+  "category": "memoir"
+ }
+}
