@@ -6574,6 +6574,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-little-book-of-stoicism",
+      "title": "Jonas Salzgeber's The Little Book of Stoicism — modern Stoic philosophy toolkit distilling Epictetus, Seneca, and Marcus",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "stoicism",
+        "wisdom",
+        "resilience",
+        "self-improvement",
+        "ancient-greece",
+        "rome",
+        "epictetus",
+        "seneca",
+        "marcus-aurelius"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-look",
       "title": "Michelle Obama's 'The Look' — a personal and cultural exploration of fashion, style, and identity from the first Black F",
       "author": "heardlyapp",
@@ -8200,5 +8219,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 452
+  "total_skills": 453
 }

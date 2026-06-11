@@ -1,0 +1,19 @@
+{
+ "name": "the-little-book-of-stoicism",
+ "version": "1.0.0",
+ "description": "Jonas Salzgeber's The Little Book of Stoicism — modern Stoic philosophy toolkit distilling Epictetus, Seneca, and Marcus Aurelius into practical exercises for resilience, confidence, calmness, and living a good life through mastery of what is within our power",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-little-book-of-stoicism",
+ "useCase": "Understand Stoic philosophy, practice the dichotomy of control, build resilience through negative visualization and Memento Mori, and apply Stoic virtues in daily life",
+ "knownRisks": [
+  "This is a simplified introduction — serious students should read the original texts",
+  "Some interpretations (e.g., Amor Fati) are modern adaptations, not strict ancient Stoicism",
+  "The dichotomy of control can be misused to justify inaction"
+ ],
+ "tags": ["philosophy", "stoicism", "wisdom", "resilience", "self-improvement", "ancient-greece", "rome", "epictetus", "seneca", "marcus-aurelius"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "philosophy"
+ }
+}
