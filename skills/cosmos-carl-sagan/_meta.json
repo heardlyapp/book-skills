@@ -1,0 +1,19 @@
+{
+ "name": "cosmos",
+ "version": "1.0.0",
+ "description": "Carl Sagan's Cosmos — astronomy and science toolkit exploring the universe, the history of scientific discovery, the search for life beyond Earth, and our place in the vast cosmos",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/cosmos",
+ "useCase": "Understand the scale of the universe, explore the history of astronomy, learn about SETI and the meaning of life in the cosmos, and apply the cosmic perspective",
+ "knownRisks": [
+  "The book was published in 1980 — some scientific data has been updated since then",
+  "Sagan's poetic style may not appeal to readers who prefer dry, technical science writing",
+  "The section on Venus and its greenhouse effect was prescient but some specifics are now better understood"
+ ],
+ "tags": ["astronomy", "science", "carl-sagan", "cosmos", "space", "universe", "evolution", "seti", "planets", "philosophy-of-science"],
+ "openclaw": {
+  "emoji": "🌌",
+  "category": "science"
+ }
+}

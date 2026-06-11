@@ -1438,6 +1438,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "cosmos-carl-sagan",
+      "title": "Carl Sagan's Cosmos — astronomy and science toolkit exploring the universe, the history of scientific discovery, the sea",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "astronomy",
+        "science",
+        "carl-sagan",
+        "cosmos",
+        "space",
+        "universe",
+        "evolution",
+        "seti",
+        "planets",
+        "philosophy-of-science"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "countdown-1945",
       "title": "Chris Wallace and Mitch Weiss's Countdown 1945 — leadership and decision-making toolkit from the 116 days between FDR's ",
       "author": "heardlyapp",
@@ -7912,5 +7931,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 437
+  "total_skills": 438
 }
