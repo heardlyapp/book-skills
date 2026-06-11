@@ -1,0 +1,19 @@
+{
+ "name": "the-great-bridge",
+ "version": "1.0.0",
+ "description": "David McCullough's The Great Bridge — engineering and history narrative recounting the building of the Brooklyn Bridge, from John Roebling's vision to Washington's heroic determination through caisson disease and wire fraud to the bridge as a monument to American ingenuity",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-great-bridge",
+ "useCase": "Understand the story of the Brooklyn Bridge, learn from the Roeblings' determination, explore 19th century engineering and corruption",
+ "knownRisks": [
+  "The book was first published in 1972 — some historical interpretations may have evolved",
+  "McCullough is a narrative historian who prioritizes story over academic analysis",
+  "The technical aspects of bridge building may be dense for some readers"
+ ],
+ "tags": ["history", "engineering", "new-york", "biography", "architecture", "innovation", "politics", "triumph", "19th-century", "america"],
+ "openclaw": {
+  "emoji": "🌉",
+  "category": "history"
+ }
+}

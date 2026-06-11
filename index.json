@@ -6333,6 +6333,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-great-bridge",
+      "title": "David McCullough's The Great Bridge — engineering and history narrative recounting the building of the Brooklyn Bridge, ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "engineering",
+        "new-york",
+        "biography",
+        "architecture",
+        "innovation",
+        "politics",
+        "triumph",
+        "19th-century",
+        "america"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-great-displacement",
       "title": "Jake Bittle's The Great Displacement — understand how climate change is forcing the largest migration in American histor",
       "author": "heardlyapp",
@@ -8181,5 +8200,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 451
+  "total_skills": 452
 }
