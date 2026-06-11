@@ -1,0 +1,19 @@
+{
+ "name": "a-distant-mirror",
+ "version": "1.0.0",
+ "description": "Barbara Tuchman's A Distant Mirror — medieval history toolkit examining the calamitous 14th century through plague, war, church schism, and social upheaval, mirroring our own troubled times",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/a-distant-mirror",
+ "useCase": "Understand the Black Death, Hundred Years War, church crisis, medieval society, and the parallels between the 14th century and modern era",
+ "knownRisks": [
+  "Tuchman's interpretive framework (the 'distant mirror' thesis) is a narrative device, not a rigorous historical argument",
+  "Some specialists have criticized her use of a single noble (de Coucy) as representative of the entire century",
+  "The book was published in 1978 — scholarship on the 14th century has evolved since then"
+ ],
+ "tags": ["history", "medieval", "europe", "plague", "hundred-years-war", "barbara-tuchman", "14th-century", "chivalry", "church-history", "calamity"],
+ "openclaw": {
+  "emoji": "🏰",
+  "category": "history"
+ }
+}

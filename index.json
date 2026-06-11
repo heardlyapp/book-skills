@@ -185,6 +185,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "a-distant-mirror",
+      "title": "Barbara Tuchman's A Distant Mirror — medieval history toolkit examining the calamitous 14th century through plague, war,",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "medieval",
+        "europe",
+        "plague",
+        "hundred-years-war",
+        "barbara-tuchman",
+        "14th-century",
+        "chivalry",
+        "church-history",
+        "calamity"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "a-history-of-western-philosophy",
       "title": "Bertrand Russell's 'A History of Western Philosophy' — a sweeping survey of Western thought from the pre-Socratics to th",
       "author": "heardlyapp",
@@ -7855,5 +7874,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 434
+  "total_skills": 435
 }
