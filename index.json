@@ -1364,6 +1364,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "churchill-walking-with-destiny",
+      "title": "Andrew Roberts's Churchill: Walking with Destiny — comprehensive historical biography of Winston Churchill tracing his l",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "biography",
+        "churchill",
+        "wwii",
+        "britain",
+        "leadership",
+        "war",
+        "politics",
+        "20th-century",
+        "destiny"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "cloudbuster-nine",
       "title": "Anne Keene's Cloudbuster Nine — baseball and WWII history toolkit telling the untold story of Ted Williams and the Navy ",
       "author": "heardlyapp",
@@ -8352,5 +8371,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 460
+  "total_skills": 461
 }

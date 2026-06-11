@@ -1,0 +1,19 @@
+{
+ "name": "churchill-walking-with-destiny",
+ "version": "1.0.0",
+ "description": "Andrew Roberts's Churchill: Walking with Destiny — comprehensive historical biography of Winston Churchill tracing his life from childhood and Gallipoli through the wilderness years, the finest hour as WWII prime minister, to the Iron Curtain and his enduring legacy as the man who walked with destiny",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/churchill-walking-with-destiny",
+ "useCase": "Understand Churchill's life, his wilderness years, his wartime leadership, his flaws, and what he teaches about destiny, resilience, and crisis management",
+ "knownRisks": [
+  "The book is a massive 1,000+ page biography — the skill condenses it significantly",
+  "Andrew Roberts is a Churchill partisan — some critics say he downplays Churchill's flaws",
+  "The Bengal famine and other controversies are handled briefly in this condensed version"
+ ],
+ "tags": ["history", "biography", "churchill", "wwii", "britain", "leadership", "war", "politics", "20th-century", "destiny"],
+ "openclaw": {
+  "emoji": "🇬🇧",
+  "category": "history"
+ }
+}
