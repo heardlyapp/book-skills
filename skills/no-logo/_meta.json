@@ -1,0 +1,19 @@
+{
+ "name": "no-logo",
+ "version": "1.0.0",
+ "description": "Naomi Klein's No Logo — anti-corporate globalization toolkit exposing brand power, sweatshop labor, the corporate takeover of public space, and the rise of global activism fighting for democratic control of the commons",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/no-logo",
+ "useCase": "Understand the power of brands, the global supply chain, corporate expansion into public space, and the activism that fights back",
+ "knownRisks": [
+  "The book was published in 1999 — some specific examples are dated (though the analysis remains relevant)",
+  "Klein's perspective is explicitly anti-corporate — not all readers will agree with her conclusions",
+  "Some activists have criticized the book for overstating the effectiveness of consumer campaigns"
+ ],
+ "tags": ["politics", "economics", "globalization", "activism", "brands", "labor", "environment", "justice", "culture", "corporations"],
+ "openclaw": {
+  "emoji": "📢",
+  "category": "politics"
+ }
+}

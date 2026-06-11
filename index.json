@@ -4249,6 +4249,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "no-logo",
+      "title": "Naomi Klein's No Logo — anti-corporate globalization toolkit exposing brand power, sweatshop labor, the corporate takeov",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "politics",
+        "economics",
+        "globalization",
+        "activism",
+        "brands",
+        "labor",
+        "environment",
+        "justice",
+        "culture",
+        "corporations"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "nobodys-girl",
       "title": "Virginia Roberts Giuffre's 'Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice' — the devastating memoi",
       "author": "heardlyapp",
@@ -8314,5 +8333,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 458
+  "total_skills": 459
 }
