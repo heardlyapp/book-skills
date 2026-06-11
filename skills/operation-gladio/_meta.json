@@ -1,0 +1,20 @@
+{
+ "name": "operation-gladio",
+ "version": "1.0.0",
+ "description": "Paul L. Williams's Operation Gladio — geopolitical conspiracy investigation into the secret alliance between the Vatican, the CIA, and the Mafia, covering WWII stay-behind networks, drug trafficking, P2 lodge, the Vatican Bank scandal, and the assassination attempt on John Paul II",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/operation-gladio",
+ "useCase": "Understand the alleged secret networks behind Cold War history, the Vatican-CIA-Mafia connection, the strategy of tension, and the importance of intelligence oversight",
+ "knownRisks": [
+  "The book makes extremely controversial and unverified allegations — treat all claims as the author's interpretation, not established fact",
+  "Many documents remain classified — the full story may never be known",
+  "The book relies heavily on secondary sources and conspiracy researchers, not primary documents",
+  "Some mainstream historians dispute Williams's interpretation of events like the Bologna bombing and JP2 assassination attempt"
+ ],
+ "tags": ["history", "politics", "intelligence", "cold-war", "conspiracy", "vatican", "cia", "mafia", "italy", "turkey", "drug-traffic", "terrorism"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "history"
+ }
+}

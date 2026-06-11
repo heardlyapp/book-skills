@@ -4315,6 +4315,27 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "operation-gladio",
+      "title": "Paul L. Williams's Operation Gladio — geopolitical conspiracy investigation into the secret alliance between the Vatican",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "politics",
+        "intelligence",
+        "cold-war",
+        "conspiracy",
+        "vatican",
+        "cia",
+        "mafia",
+        "italy",
+        "turkey",
+        "drug-traffic",
+        "terrorism"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "outgrowing-god",
       "title": "Richard Dawkins' 'Outgrowing God: A Beginner's Guide' — a clear, accessible argument against religion written for young ",
       "author": "heardlyapp",
@@ -7931,5 +7952,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 438
+  "total_skills": 439
 }
