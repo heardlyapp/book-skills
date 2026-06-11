@@ -4356,6 +4356,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "presidents-of-war",
+      "title": "Michael Beschloss's Presidents of War — presidential history toolkit examining how American commanders-in-chief wielded ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "american-history",
+        "presidency",
+        "war",
+        "politics",
+        "constitution",
+        "leadership",
+        "military-history",
+        "presidential-power",
+        "beschloss",
+        "government"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "psychological-types",
       "title": "C.G. Jung's 'Psychological Types' — the foundational work of modern personality theory, introducing extraversion and int",
       "author": "heardlyapp",
@@ -7589,5 +7608,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 420
+  "total_skills": 421
 }

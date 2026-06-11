@@ -1,0 +1,19 @@
+{
+ "name": "presidents-of-war",
+ "version": "1.0.0",
+ "description": "Michael Beschloss's Presidents of War — presidential history toolkit examining how American commanders-in-chief wielded war powers from 1807 to modern times and the evolution of the imperial presidency",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/presidents-of-war",
+ "useCase": "Understand the evolution of presidential war powers, learn from key wartime presidencies, analyze crisis decision-making, and recognize patterns of executive war-making",
+ "knownRisks": [
+  "The book is focused on the American presidency — its analysis may not apply to other political systems",
+  "Beschloss writes from a constitutional perspective that may not suit readers with different political philosophies",
+  "The book was published in 2018 — it does not cover the most recent presidential actions"
+ ],
+ "tags": ["american-history", "presidency", "war", "politics", "constitution", "leadership", "military-history", "presidential-power", "beschloss", "government"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "history"
+ }
+}
