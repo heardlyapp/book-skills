@@ -1,0 +1,19 @@
+{
+ "name": "the-motorcycle-diaries",
+ "version": "1.0.0",
+ "description": "Che Guevara's The Motorcycle Diaries — travel memoir toolkit exploring how a young medical student's journey across Latin America transformed him into a revolutionary through firsthand encounters with poverty and injustice",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-motorcycle-diaries",
+ "useCase": "Understand Che's transformation, learn from his encounters with poverty, explore the power of transformative travel, and connect personal journey to political awakening",
+ "knownRisks": [
+  "Che Guevara is a controversial figure — this book focuses on his early life and transformation, not his later revolutionary activities",
+  "The diaries were written by a 23-year-old — they are not a mature political manifesto",
+  "The book has been adapted and edited in various editions — some versions differ from Che's original journals"
+ ],
+ "tags": ["travel-memoir", "latin-america", "revolution", "che-guevara", "biography", "adventure", "politics", "social-justice", "coming-of-age", "road-trip"],
+ "openclaw": {
+  "emoji": "🏍️",
+  "category": "biography"
+ }
+}

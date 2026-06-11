@@ -6279,6 +6279,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-motorcycle-diaries",
+      "title": "Che Guevara's The Motorcycle Diaries — travel memoir toolkit exploring how a young medical student's journey across Lati",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "travel-memoir",
+        "latin-america",
+        "revolution",
+        "che-guevara",
+        "biography",
+        "adventure",
+        "politics",
+        "social-justice",
+        "coming-of-age",
+        "road-trip"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-mountain-is-you",
       "title": "Brianna Wiest's The Mountain Is You — transform self-sabotage into self-mastery by uncovering the unconscious needs behi",
       "author": "heardlyapp",
@@ -7684,5 +7703,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 425
+  "total_skills": 426
 }
