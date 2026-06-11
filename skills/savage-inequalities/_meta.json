@@ -1,0 +1,19 @@
+{
+ "name": "savage-inequalities",
+ "version": "1.0.0",
+ "description": "Jonathan Kozol's Savage Inequalities — education justice toolkit examining America's deeply unequal public schools, the property-tax funding trap, and the voices of children in a system that has abandoned them",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/savage-inequalities",
+ "useCase": "Understand educational inequality in America, learn how property-tax funding entrenches segregation, and develop a moral framework for justice in education",
+ "knownRisks": [
+  "The book was published in 1991 — some data and policies have changed since then",
+  "Kozol's passionate advocacy sometimes overshadows nuance (e.g., some research suggests money alone is not sufficient)",
+  "The book focuses on urban districts and does not cover rural poor schools in equal depth"
+ ],
+ "tags": ["education", "inequality", "race", "poverty", "policy", "america", "civil-rights", "segregation", "children", "justice"],
+ "openclaw": {
+  "emoji": "📚",
+  "category": "education"
+ }
+}

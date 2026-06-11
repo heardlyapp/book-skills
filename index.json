@@ -4744,6 +4744,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "savage-inequalities",
+      "title": "Jonathan Kozol's Savage Inequalities — education justice toolkit examining America's deeply unequal public schools, the ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "education",
+        "inequality",
+        "race",
+        "poverty",
+        "policy",
+        "america",
+        "civil-rights",
+        "segregation",
+        "children",
+        "justice"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "save-the-cat",
       "title": "Blake Snyder's legendary screenwriting guide — the 15-beat story structure, the 'Save the Cat' principle, the logline fo",
       "author": "heardlyapp",
@@ -7990,5 +8009,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 441
+  "total_skills": 442
 }
