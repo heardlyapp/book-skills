@@ -6041,6 +6041,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "the-history-of-the-ancient-world",
+      "title": "Susan Wise Bauer's The History of the Ancient World — comprehensive narrative toolkit covering civilization from the ear",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "ancient-civilizations",
+        "rome",
+        "greece",
+        "egypt",
+        "mesopotamia",
+        "classical-history",
+        "empire",
+        "archaeology",
+        "world-history"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "the-hundred-year-marathon",
       "title": "Michael Pillsbury's controversial exposé of China's long-term strategy to surpass America as the global superpower by 20",
       "author": "heardlyapp",
@@ -7627,5 +7646,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 422
+  "total_skills": 423
 }

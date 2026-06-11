@@ -1,0 +1,19 @@
+{
+ "name": "the-history-of-the-ancient-world",
+ "version": "1.0.0",
+ "description": "Susan Wise Bauer's The History of the Ancient World — comprehensive narrative toolkit covering civilization from the earliest accounts to the fall of Rome, revealing ancient foundations of modern society",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-history-of-the-ancient-world",
+ "useCase": "Understand the major ancient civilizations, trace the arc of empire, learn from ancient leadership, and identify patterns that still shape our world",
+ "knownRisks": [
+  "One-volume coverage of 5,000 years necessitates simplification and omission",
+  "Bauer's narrative favors political and military history over social and cultural history",
+  "The book is written from a Western perspective — non-Western civilizations receive less coverage"
+ ],
+ "tags": ["history", "ancient-civilizations", "rome", "greece", "egypt", "mesopotamia", "classical-history", "empire", "archaeology", "world-history"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "history"
+ }
+}
