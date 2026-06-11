@@ -2064,6 +2064,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "fragile-lives",
+      "title": "Stephen Westaby's Fragile Lives — surgical memoir toolkit exploring the mindset of a world-class heart surgeon, the real",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "medicine",
+        "surgery",
+        "memoir",
+        "cardiology",
+        "healthcare",
+        "innovation",
+        "biography",
+        "life-and-death",
+        "heart-surgery",
+        "westaby"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "future-bright",
       "title": "Michael E. Martinez's 'Future Bright: A Transforming Vision of Human Intelligence' — a comprehensive exploration of inte",
       "author": "heardlyapp",
@@ -7570,5 +7589,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 419
+  "total_skills": 420
 }

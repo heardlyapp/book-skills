@@ -1,0 +1,19 @@
+{
+ "name": "fragile-lives",
+ "version": "1.0.0",
+ "description": "Stephen Westaby's Fragile Lives — surgical memoir toolkit exploring the mindset of a world-class heart surgeon, the reality of cardiac surgery, and the human cost of pushing medical boundaries",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/fragile-lives",
+ "useCase": "Understand the surgeon's mindset, learn how innovation happens in medicine, cope with high-stakes decisions, and find meaning in life-or-death work",
+ "knownRisks": [
+  "The book contains graphic descriptions of surgery that may disturb some readers",
+  "Westaby's views on medical bureaucracy are his personal opinions, not universally held",
+  "The memoir is one surgeon's perspective — not necessarily representative of cardiac surgery generally"
+ ],
+ "tags": ["medicine", "surgery", "memoir", "cardiology", "healthcare", "innovation", "biography", "life-and-death", "heart-surgery", "westaby"],
+ "openclaw": {
+  "emoji": "🫀",
+  "category": "medicine"
+ }
+}
