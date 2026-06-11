@@ -8278,6 +8278,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "your-inner-fish",
+      "title": "Neil Shubin's Your Inner Fish — paleontology and evolutionary biology toolkit revealing how the 3.5-billion-year history",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "science",
+        "evolution",
+        "biology",
+        "paleontology",
+        "anatomy",
+        "fish",
+        "fossils",
+        "genetics",
+        "human-body",
+        "natural-history"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "zen-mind-beginners-mind",
       "title": "Shunryu Suzuki's Zen Mind, Beginner's Mind — an executable toolkit for Zen meditation and mindful living: how to cultiva",
       "author": "heardlyapp",
@@ -8333,5 +8352,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 459
+  "total_skills": 460
 }

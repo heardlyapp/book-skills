@@ -1,0 +1,19 @@
+{
+ "name": "your-inner-fish",
+ "version": "1.0.0",
+ "description": "Neil Shubin's Your Inner Fish — paleontology and evolutionary biology toolkit revealing how the 3.5-billion-year history of life is written in our bodies, anchored in the discovery of Tiktaalik, the fossil fish that walked, and tracing our hands, ears, and genes back to ancient fish",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/your-inner-fish",
+ "useCase": "Understand human evolution through fossils, learn how our bodies reveal our fish ancestry, and explore the genetic and developmental evidence for common descent",
+ "knownRisks": [
+  "The book was published in 2008 — some genetic and fossil discoveries have been made since",
+  "Shubin's teaching-through-fish-anatomy approach may not suit all learning styles",
+  "Evolution is a politicized topic in some contexts — the book presents the scientific consensus"
+ ],
+ "tags": ["science", "evolution", "biology", "paleontology", "anatomy", "fish", "fossils", "genetics", "human-body", "natural-history"],
+ "openclaw": {
+  "emoji": "🐟",
+  "category": "science"
+ }
+}
