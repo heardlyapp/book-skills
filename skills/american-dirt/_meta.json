@@ -1,0 +1,19 @@
+{
+ "name": "american-dirt",
+ "version": "1.0.0",
+ "description": "Jeanine Cummins's American Dirt — migration narrative following Lydia and her son Luca as they flee a Mexican cartel massacre and journey north through La Bestia to the US border, exploring survival, motherhood, and the human cost of migration",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/american-dirt",
+ "useCase": "Understand the migrant journey through fiction, explore the human dimension of border politics, and engage with the controversy of who tells whose story",
+ "knownRisks": [
+  "This is a novel, not a work of nonfiction or journalism",
+  "The book has been widely criticized for cultural appropriation by Latinx critics",
+  "The author's perspective is that of an outsider to the migrant experience"
+ ],
+ "tags": ["narrative", "migration", "mexico", "border", "cartel", "survival", "motherhood", "immigration", "family", "social-issues"],
+ "openclaw": {
+  "emoji": "📖",
+  "category": "narrative"
+ }
+}
