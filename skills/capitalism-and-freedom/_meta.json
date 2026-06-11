@@ -1,0 +1,19 @@
+{
+ "name": "capitalism-and-freedom",
+ "version": "1.0.0",
+ "description": "Milton Friedman's Capitalism and Freedom — free-market economics and political philosophy toolkit arguing that economic freedom is necessary for political freedom, with proposals for school vouchers, negative income tax, monetarism, and limited government",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/capitalism-and-freedom",
+ "useCase": "Understand the connection between capitalism and political freedom, learn Friedman's policy proposals, and apply free-market principles to evaluate government intervention",
+ "knownRisks": [
+  "Friedman's free-market prescriptions are not universally accepted and have been criticized by many economists",
+  "The book was written in 1962 — some specific policy contexts have changed",
+  "Friedman's positions (e.g., on corporate social responsibility, minimum wage) remain deeply controversial"
+ ],
+ "tags": ["economics", "politics", "freedom", "capitalism", "friedman", "liberty", "markets", "government", "policy", "monetarism"],
+ "openclaw": {
+  "emoji": "📊",
+  "category": "economics"
+ }
+}

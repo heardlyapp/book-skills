@@ -1276,6 +1276,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "capitalism-and-freedom",
+      "title": "Milton Friedman's Capitalism and Freedom — free-market economics and political philosophy toolkit arguing that economic ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "economics",
+        "politics",
+        "freedom",
+        "capitalism",
+        "friedman",
+        "liberty",
+        "markets",
+        "government",
+        "policy",
+        "monetarism"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "caste",
       "title": "Isabel Wilkerson's 'Caste: The Origins of Our Discontents' — a groundbreaking examination of America's hidden caste syst",
       "author": "heardlyapp",
@@ -8295,5 +8314,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 457
+  "total_skills": 458
 }
