@@ -1,0 +1,30 @@
+{
+  "name": "elon-musk-walter-isaacson",
+  "version": "1.0.0",
+  "description": "Walter Isaacson's Elon Musk — a risk-and-innovation toolkit that dissects how the world's most audacious entrepreneur operates: first-principles engineering, maniacal urgency, moonshot visions, and a management style that breaks people and companies alike. Covers the psychology of extreme risk-taking, the cost of relentless ambition, and the art of making the impossible merely late.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/elon-musk-walter-isaacson",
+  "useCase": "Learn from both the genius and the damage of Elon Musk's approach — first-principles thinking, crisis management, all-in decision-making, and the human cost of world-changing ambition.",
+  "knownRisks": [
+    "The book is based on two years of access to Musk but was not approved by him — some may dispute Isaacson's framing",
+    "Musk's story is still unfolding — some conclusions may date quickly",
+    "The management techniques described can be destructive if applied without nuance; Musk's methods are not universally recommended"
+  ],
+  "tags": [
+    "business",
+    "entrepreneurship",
+    "technology",
+    "innovation",
+    "biography",
+    "management",
+    "engineering",
+    "leadership",
+    "risk-taking",
+    "start-ups"
+  ],
+  "openclaw": {
+    "emoji": "⚡",
+    "category": "technology"
+  }
+}
