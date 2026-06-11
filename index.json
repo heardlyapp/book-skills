@@ -7500,6 +7500,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-untethered-soul",
+      "title": "Michael Singer's The Untethered Soul — spiritual consciousness toolkit teaching how to transcend the inner voice, releas",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "spirituality",
+        "consciousness",
+        "meditation",
+        "mindfulness",
+        "ego",
+        "healing",
+        "awareness",
+        "letting-go",
+        "self-help",
+        "psychology"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-vaccine-book",
       "title": "Dr. Robert W. Sears' 'The Vaccine Book: Making the Right Decision for Your Child' — a comprehensive guide to childhood v",
       "author": "heardlyapp",
@@ -8390,5 +8409,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 462
+  "total_skills": 463
 }

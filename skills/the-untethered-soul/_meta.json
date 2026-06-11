@@ -1,0 +1,19 @@
+{
+ "name": "the-untethered-soul",
+ "version": "1.0.0",
+ "description": "Michael Singer's The Untethered Soul — spiritual consciousness toolkit teaching how to transcend the inner voice, release stored energy, open the heart, and experience freedom by recognizing yourself as the awareness behind thoughts rather than the thoughts themselves",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-untethered-soul",
+ "useCase": "Understand the nature of consciousness, learn to let go of thoughts and emotions, open the spiritual heart, and face the fear of death through the practice of releasing resistance",
+ "knownRisks": [
+  "The book's teachings are experiential and may not resonate with intellectually-oriented readers",
+  "Some critics have noted that Singer's 'letting go' practice can be misunderstood as passivity",
+  "The book's perspective on death as liberation may not align with all spiritual traditions"
+ ],
+ "tags": ["spirituality", "consciousness", "meditation", "mindfulness", "ego", "healing", "awareness", "letting-go", "self-help", "psychology"],
+ "openclaw": {
+  "emoji": "🧘",
+  "category": "spirituality"
+ }
+}
