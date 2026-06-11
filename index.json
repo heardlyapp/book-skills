@@ -6243,6 +6243,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-glass-castle",
+      "title": "Jeannette Walls's The Glass Castle — memoir and resilience toolkit about growing up in a dysfunctional family, surviving",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "family",
+        "resilience",
+        "poverty",
+        "addiction",
+        "forgiveness",
+        "childhood",
+        "survival",
+        "overcoming",
+        "truth"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-go-giver-influencer",
       "title": "Bob Burg and John David Mann's The Go-Giver Influencer — build genuine influence through giving value, finding the third",
       "author": "heardlyapp",
@@ -8105,5 +8124,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 447
+  "total_skills": 448
 }

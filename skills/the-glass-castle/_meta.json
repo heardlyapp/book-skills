@@ -1,0 +1,19 @@
+{
+ "name": "the-glass-castle",
+ "version": "1.0.0",
+ "description": "Jeannette Walls's The Glass Castle — memoir and resilience toolkit about growing up in a dysfunctional family, surviving poverty and neglect, and learning to forgive without forgetting",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-glass-castle",
+ "useCase": "Understand the experience of growing up in a dysfunctional family, learn from a story of resilience, and explore the paradox of forgiving parents without excusing their behavior",
+ "knownRisks": [
+  "This is one person's memoir — memory is subjective and family members have disputed some details",
+  "Some readers may find the parents' neglect triggering",
+  "The book's message of forgiveness may not apply to all abusive situations"
+ ],
+ "tags": ["memoir", "family", "resilience", "poverty", "addiction", "forgiveness", "childhood", "survival", "overcoming", "truth"],
+ "openclaw": {
+  "emoji": "🏚️",
+  "category": "memoir"
+ }
+}
