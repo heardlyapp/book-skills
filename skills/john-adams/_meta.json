@@ -1,0 +1,19 @@
+{
+ "name": "john-adams",
+ "version": "1.0.0",
+ "description": "David McCullough's John Adams — biography toolkit exploring the life of the second US president, his partnership with Abigail, his rivalry with Jefferson, and his role in the American Revolution",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/john-adams",
+ "useCase": "Understand the American Revolution through Adams's eyes, learn from his leadership and mistakes, and draw lessons from his marriage, presidency, and philosophy",
+ "knownRisks": [
+  "McCullough's biography is sympathetic to Adams — not all historians agree with his positive assessment",
+  "The book focuses heavily on Adams's personal life and character — readers seeking detailed political analysis may want a different source",
+  "Adams owned slaves, though he was personally opposed to slavery — the book does not dwell on this contradiction"
+ ],
+ "tags": ["biography", "american-history", "revolution", "presidency", "founding-fathers", "john-adams", "abigail-adams", "david-mccullough", "leadership", "us-history"],
+ "openclaw": {
+  "emoji": "🇺🇸",
+  "category": "history"
+ }
+}

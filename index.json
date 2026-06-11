@@ -3062,6 +3062,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "john-adams",
+      "title": "David McCullough's John Adams — biography toolkit exploring the life of the second US president, his partnership with Ab",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "biography",
+        "american-history",
+        "revolution",
+        "presidency",
+        "founding-fathers",
+        "john-adams",
+        "abigail-adams",
+        "david-mccullough",
+        "leadership",
+        "us-history"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "john-adams-a-life",
       "title": "John Ferling's 'John Adams: A Life' — comprehensive biography of the second US president. From Massachusetts childhood t",
       "author": "heardlyapp",
@@ -7722,5 +7741,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 427
+  "total_skills": 428
 }
