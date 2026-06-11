@@ -1,0 +1,19 @@
+{
+ "name": "women-who-love-too-much",
+ "version": "1.0.0",
+ "description": "Robin Norwood's Women Who Love Too Much: When You Keep Wishing and Hoping He'll Change — a codependency recovery toolkit that explains why some women are attracted to emotionally unavailable men, how love becomes an addiction, and a proven 10-step path to breaking the cycle and finding healthy relationships.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/women-who-love-too-much",
+ "useCase": "Recognize and break the pattern of loving too much — stop choosing unavailable partners, heal from childhood wounds that shape relationship patterns, and build healthy reciprocal love.",
+ "knownRisks": [
+  "The book was first published in 1985 — some language and framing may feel dated",
+  "The focus is on heterosexual women's relationships with men — patterns apply to other dynamics but are not directly addressed",
+  "The 10-step program is not a substitute for professional therapy"
+ ],
+ "tags": ["relationships", "psychology", "self-help", "codependency", "recovery", "women", "addiction", "boundaries", "love", "healing"],
+ "openclaw": {
+  "emoji": "💔",
+  "category": "psychology"
+ }
+}
