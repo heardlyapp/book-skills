@@ -1,0 +1,19 @@
+{
+ "name": "escape-from-freedom",
+ "version": "1.0.0",
+ "description": "Erich Fromm's Escape from Freedom — psychoanalytic and social psychology toolkit examining why people flee from the burden of freedom into authoritarianism, conformity, and destructiveness",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/escape-from-freedom",
+ "useCase": "Understand the paradox of freedom, identify escape mechanisms, analyze authoritarianism, recognize pseudo-individuality, and achieve genuine positive freedom",
+ "knownRisks": [
+  "Fromm's psychoanalytic framework may not appeal to readers who prefer empirical social science",
+  "The book was written in 1941 — some historical examples are specific to that era, even if the principles remain relevant",
+  "Fromm's critique of modern democracy can feel overly pessimistic"
+ ],
+ "tags": ["psychology", "psychoanalysis", "politics", "freedom", "authoritarianism", "social-psychology", "erich-fromm", "nazism", "conformity", "democracy"],
+ "openclaw": {
+  "emoji": "🕊️",
+  "category": "psychology"
+ }
+}

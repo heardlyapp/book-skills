@@ -1824,6 +1824,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "escape-from-freedom",
+      "title": "Erich Fromm's Escape from Freedom — psychoanalytic and social psychology toolkit examining why people flee from the burd",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "psychology",
+        "psychoanalysis",
+        "politics",
+        "freedom",
+        "authoritarianism",
+        "social-psychology",
+        "erich-fromm",
+        "nazism",
+        "conformity",
+        "democracy"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "essentialism",
       "title": "Gold-standard skill for Greg McKeown's *Essentialism: The Disciplined Pursuit of Less*. Master the disciplined pursuit o",
       "author": "heardlyapp",
@@ -7551,5 +7570,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 418
+  "total_skills": 419
 }
