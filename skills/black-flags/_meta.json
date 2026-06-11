@@ -1,0 +1,19 @@
+{
+ "name": "black-flags",
+ "version": "1.0.0",
+ "description": "Joby Warrick's Black Flags — terrorism history toolkit tracing the rise of ISIS from its origins in Jordanian prisons through Zarqawi to the caliphate, revealing how Western missteps fueled its growth",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/black-flags",
+ "useCase": "Understand the origins of ISIS, Zarqawi's trajectory, the role of the Iraq War, Jordan's counterterrorism approach, and the US intelligence failures",
+ "knownRisks": [
+  "The book was published in 2015 — it does not cover the defeat of the ISIS caliphate in 2017-2019",
+  "Warrick is a journalist, not a historian — some analysis may lack academic depth",
+  "The book focuses heavily on individuals (Zarqawi, King Abdullah) and may underemphasize structural factors"
+ ],
+ "tags": ["history", "terrorism", "isis", "middle-east", "iraq", "zarqawi", "jordan", "islamic-state", "war", "intelligence"],
+ "openclaw": {
+  "emoji": "🏴",
+  "category": "history"
+ }
+}

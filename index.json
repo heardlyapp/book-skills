@@ -1075,6 +1075,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "black-flags",
+      "title": "Joby Warrick's Black Flags — terrorism history toolkit tracing the rise of ISIS from its origins in Jordanian prisons th",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "terrorism",
+        "isis",
+        "middle-east",
+        "iraq",
+        "zarqawi",
+        "jordan",
+        "islamic-state",
+        "war",
+        "intelligence"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "blood-and-oil",
       "title": "Bradley Hope and Justin Scheck's Blood and Oil — extract strategic and geopolitical lessons from Mohammed bin Salman's r",
       "author": "heardlyapp",
@@ -7893,5 +7912,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 436
+  "total_skills": 437
 }
