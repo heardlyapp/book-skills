@@ -4708,6 +4708,25 @@
       "updated": "2026-06-11"
     },
     {
+      "slug": "string-theory",
+      "title": "David Foster Wallace's String Theory — literary toolkit exploring tennis as art, athletic genius, the psychology of elit",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "tennis",
+        "sport",
+        "essays",
+        "literature",
+        "david-foster-wallace",
+        "athleticism",
+        "writing",
+        "journalism",
+        "sports-psychology",
+        "beauty"
+      ],
+      "updated": "2026-06-11"
+    },
+    {
       "slug": "successful-time-management",
       "title": "Patrick Forsyth's 'Successful Time Management: How to be Organized, Productive and Get Things Done' — a practical guide ",
       "author": "heardlyapp",
@@ -7532,5 +7551,5 @@
       "updated": "2026-06-11"
     }
   ],
-  "total_skills": 417
+  "total_skills": 418
 }

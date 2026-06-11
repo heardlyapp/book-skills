@@ -1,0 +1,19 @@
+{
+ "name": "string-theory",
+ "version": "1.0.0",
+ "description": "David Foster Wallace's String Theory — literary toolkit exploring tennis as art, athletic genius, the psychology of elite performance, and the deep meaning found in sport's most solitary game",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/string-theory",
+ "useCase": "Understand tennis as an art form, learn the psychology of elite performance, appreciate DFW's literary craft, and find meaning in athletic discipline",
+ "knownRisks": [
+  "DFW's dense footnotes and stylistic complexity may not appeal to all readers",
+  "The book is a collection of previously published essays, not a unified argument",
+  "Some readers may find DFW's intellectual approach to sport pretentious"
+ ],
+ "tags": ["tennis", "sport", "essays", "literature", "david-foster-wallace", "athleticism", "writing", "journalism", "sports-psychology", "beauty"],
+ "openclaw": {
+  "emoji": "🎾",
+  "category": "sports"
+ }
+}
