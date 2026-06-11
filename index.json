@@ -6031,6 +6031,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-gay-science",
+      "title": "Friedrich Nietzsche's The Gay Science — philosophical toolkit exploring the death of God, eternal recurrence, self-creat",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "nietzsche",
+        "existentialism",
+        "ethics",
+        "nihilism",
+        "self-creation",
+        "german-philosophy",
+        "eternal-recurrence",
+        "god-is-dead",
+        "joy"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-go-giver-influencer",
       "title": "Bob Burg and John David Mann's The Go-Giver Influencer — build genuine influence through giving value, finding the third",
       "author": "heardlyapp",
@@ -7874,5 +7893,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 435
+  "total_skills": 436
 }

@@ -1,0 +1,19 @@
+{
+ "name": "the-gay-science",
+ "version": "1.0.0",
+ "description": "Friedrich Nietzsche's The Gay Science — philosophical toolkit exploring the death of God, eternal recurrence, self-creation, and joyful wisdom, offering a radically affirmative approach to life",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-gay-science",
+ "useCase": "Understand the death of God, practice eternal recurrence as a test of life affirmation, learn self-creation, embrace amor fati, and develop joyful wisdom",
+ "knownRisks": [
+  "Nietzsche's aphoristic style can be misinterpreted — passages taken out of context can mean the opposite of what he intended",
+  "The death of God thesis has been used by some to justify nihilism, which Nietzsche explicitly rejected",
+  "The Gay Science is a demanding philosophical text — not all readers will connect with its style or ideas"
+ ],
+ "tags": ["philosophy", "nietzsche", "existentialism", "ethics", "nihilism", "self-creation", "german-philosophy", "eternal-recurrence", "god-is-dead", "joy"],
+ "openclaw": {
+  "emoji": "🌟",
+  "category": "philosophy"
+ }
+}
