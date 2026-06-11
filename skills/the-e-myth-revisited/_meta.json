@@ -1,0 +1,19 @@
+{
+ "name": "the-e-myth-revisited",
+ "version": "1.0.0",
+ "description": "Michael E. Gerber's The E-Myth Revisited — a small business systems toolkit that diagnoses why most businesses fail (founders get trapped 'in' their business doing the technical work instead of 'on' their business building systems) and provides the Entrepreneur-Manager-Technician framework to design a business that works without you.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-e-myth-revisited",
+ "useCase": "Break free from the Technician trap, systematize your small business using the franchise prototype model, and learn to work ON your business instead of IN it — so your business can grow without you.",
+ "knownRisks": [
+  "The book was first published in 1986 — some examples (like the operations manual) predate modern software tools",
+  "The franchise prototype model may not apply to all business types, especially creative or highly customized services",
+  "The three-personality model (Entrepreneur-Manager-Technician) is a simplification — real people are more complex"
+ ],
+ "tags": ["business", "entrepreneurship", "management", "small-business", "systems", "start-up", "operations", "strategy", "leadership", "scaling"],
+ "openclaw": {
+  "emoji": "🏢",
+  "category": "business"
+ }
+}
