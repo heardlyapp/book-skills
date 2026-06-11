@@ -1,0 +1,19 @@
+{
+ "name": "collapse",
+ "version": "1.0.0",
+ "description": "Jared Diamond's Collapse — historical and environmental toolkit exploring why societies fail or succeed, examining past collapses from Easter Island to the Maya, and drawing lessons for our civilization",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/collapse",
+ "useCase": "Understand Diamond's five-point collapse framework, learn from past societal collapses, analyze modern environmental challenges, and apply lessons to avoid our own collapse",
+ "knownRisks": [
+  "Diamond's framework has been criticized by some historians as overly deterministic",
+  "The case studies simplify complex historical events — specialists may disagree with specific interpretations",
+  "The book was published in 2004 — some data on modern cases may be outdated"
+ ],
+ "tags": ["history", "environment", "anthropology", "sustainability", "collapse", "sociology", "ecology", "jared-diamond", "climate-change", "civilization"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "history"
+ }
+}

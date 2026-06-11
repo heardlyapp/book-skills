@@ -1288,6 +1288,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "collapse",
+      "title": "Jared Diamond's Collapse — historical and environmental toolkit exploring why societies fail or succeed, examining past ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "environment",
+        "anthropology",
+        "sustainability",
+        "collapse",
+        "sociology",
+        "ecology",
+        "jared-diamond",
+        "climate-change",
+        "civilization"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "collapse-how-societies-choose-to-fail-or-succeed",
       "title": "Jared Diamond's 'Collapse: How Societies Choose to Fail or Succeed' — the landmark study of why societies collapse. From",
       "author": "heardlyapp",
@@ -7779,5 +7798,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 430
+  "total_skills": 431
 }
