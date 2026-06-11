@@ -3062,6 +3062,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "into-thin-air",
+      "title": "Jon Krakauer's Into Thin Air — mountaineering narrative exploring the 1996 Everest disaster, the commercialization of hi",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "narrative",
+        "mountaineering",
+        "everest",
+        "jon-krakauer",
+        "adventure",
+        "survival",
+        "leadership",
+        "decision-making",
+        "psychology",
+        "trauma"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "into-thin-air-a-personal-account-of-the-mt-everest-disaster",
       "title": "Jon Krakauer's 'Into Thin Air: A Personal Account of the Mt. Everest Disaster' — the definitive account of the 1996 Ever",
       "author": "heardlyapp",
@@ -7952,5 +7971,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 439
+  "total_skills": 440
 }

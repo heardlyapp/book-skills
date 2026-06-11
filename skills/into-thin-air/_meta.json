@@ -1,0 +1,19 @@
+{
+ "name": "into-thin-air",
+ "version": "1.0.0",
+ "description": "Jon Krakauer's Into Thin Air — mountaineering narrative exploring the 1996 Everest disaster, the commercialization of high-altitude climbing, human error under extreme pressure, the ethics of mountain guiding, and the psychology of survival",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/into-thin-air",
+ "useCase": "Understand the 1996 Everest disaster, learn from decision-making failures at extreme altitude, explore the ethics of commercial expeditions, and apply lessons about risk and survival",
+ "knownRisks": [
+  "Krakauer's account has been criticized by some survivors (particularly Anatoli Boukreev) as one-sided",
+  "The book is memoir, not journalism — Krakauer was a participant, not an objective observer",
+  "Mountaineering lessons may not translate directly to other domains of risk"
+ ],
+ "tags": ["narrative", "mountaineering", "everest", "jon-krakauer", "adventure", "survival", "leadership", "decision-making", "psychology", "trauma"],
+ "openclaw": {
+  "emoji": "🏔️",
+  "category": "narrative"
+ }
+}
