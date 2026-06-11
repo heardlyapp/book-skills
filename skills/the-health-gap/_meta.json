@@ -1,0 +1,19 @@
+{
+ "name": "the-health-gap",
+ "version": "1.0.0",
+ "description": "Michael Marmot's The Health Gap — public health and social justice toolkit revealing how social inequality determines health outcomes through the social gradient, status syndrome, and the conditions of life, with evidence-based policy solutions for a fairer, healthier world",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-health-gap",
+ "useCase": "Understand social determinants of health, the Whitehall gradient, status syndrome, and what policies close the health gap",
+ "knownRisks": [
+  "The book is heavily UK-focused — some policy recommendations may not apply in different contexts",
+  "Health inequality is politically charged — some readers may reject the premise",
+  "The book contains extensive epidemiological data that some readers may find dense"
+ ],
+ "tags": ["health", "inequality", "public-health", "social-justice", "policy", "medicine", "society", "determinants", "epidemiology", "equity"],
+ "openclaw": {
+  "emoji": "🏥",
+  "category": "health"
+ }
+}

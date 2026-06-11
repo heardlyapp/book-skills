@@ -6403,6 +6403,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-health-gap",
+      "title": "Michael Marmot's The Health Gap — public health and social justice toolkit revealing how social inequality determines he",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "health",
+        "inequality",
+        "public-health",
+        "social-justice",
+        "policy",
+        "medicine",
+        "society",
+        "determinants",
+        "epidemiology",
+        "equity"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-heart-of-a-woman",
       "title": "Maya Angelou's 'The Heart of a Woman' — the fourth volume of her acclaimed autobiography series, covering 1957–1962. Fro",
       "author": "heardlyapp",
@@ -8238,5 +8257,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 454
+  "total_skills": 455
 }
