@@ -6519,6 +6519,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-india-way",
+      "title": "S. Jaishankar's The India Way — foreign policy and strategic thinking toolkit examining India's role in a changing world",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "politics",
+        "india",
+        "foreign-policy",
+        "strategy",
+        "china",
+        "us-india",
+        "geopolitics",
+        "asia",
+        "diplomacy",
+        "security"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-infinite-game",
       "title": "Simon Sinek's guide to leading with an infinite mindset — shifting from short-term competition to long-term purpose, bui",
       "author": "heardlyapp",
@@ -8219,5 +8238,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 453
+  "total_skills": 454
 }

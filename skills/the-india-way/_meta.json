@@ -1,0 +1,19 @@
+{
+ "name": "the-india-way",
+ "version": "1.0.0",
+ "description": "S. Jaishankar's The India Way — foreign policy and strategic thinking toolkit examining India's role in a changing world, from avoiding strategic complacency to managing China's rise and building multi-alignment in an uncertain century",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-india-way",
+ "useCase": "Understand Indian foreign policy, the strategic challenge of China, multi-alignment, and think strategically about a changing world",
+ "knownRisks": [
+  "Jaishankar is a sitting government minister — the book reflects official Indian government perspectives",
+  "The book is written for an Indian audience and assumes familiarity with Indian history and politics",
+  "Some critiques of Western policies may be more pointed than academic analysis would be"
+ ],
+ "tags": ["politics", "india", "foreign-policy", "strategy", "china", "us-india", "geopolitics", "asia", "diplomacy", "security"],
+ "openclaw": {
+  "emoji": "🇮🇳",
+  "category": "politics"
+ }
+}
