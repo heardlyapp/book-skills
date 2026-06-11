@@ -1,0 +1,19 @@
+{
+ "name": "heavy",
+ "version": "1.0.0",
+ "description": "Kiese Laymon's Heavy — American memoir about growing up Black in Mississippi, the weight of trauma and abuse in a mother-son relationship, the struggle with body image and addiction, and the redemptive power of writing to tell the truth",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/heavy",
+ "useCase": "Understand the complexity of family trauma, explore the relationship between body and memory, and learn the practice of revision as an act of love",
+ "knownRisks": [
+  "The book contains graphic depictions of child abuse, sexual violence, and addiction",
+  "Laymon's experimental style (writing to 'you') may be difficult for some readers",
+  "The memoir does not offer neat resolutions — readers seeking closure may be frustrated"
+ ],
+ "tags": ["memoir", "race", "family", "trauma", "body", "writing", "addiction", "mississippi", "black-studies", "healing"],
+ "openclaw": {
+  "emoji": "⚖️",
+  "category": "memoir"
+ }
+}

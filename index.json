@@ -2507,6 +2507,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "heavy",
+      "title": "Kiese Laymon's Heavy — American memoir about growing up Black in Mississippi, the weight of trauma and abuse in a mother",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "race",
+        "family",
+        "trauma",
+        "body",
+        "writing",
+        "addiction",
+        "mississippi",
+        "black-studies",
+        "healing"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "hidden-valley-road",
       "title": "Robert Kolker's Hidden Valley Road — extract lessons from the Galvin family's story of mental illness: understanding sch",
       "author": "heardlyapp",
@@ -8143,5 +8162,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 449
+  "total_skills": 450
 }
