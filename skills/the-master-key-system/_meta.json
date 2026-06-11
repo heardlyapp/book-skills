@@ -1,0 +1,19 @@
+{
+ "name": "the-master-key-system",
+ "version": "1.0.0",
+ "description": "Charles F. Haanel's The Master Key System — New Thought and personal development toolkit using 24 weekly lessons to teach the creative power of thought, the Universal Mind, the Law of Attraction, and how to harness mental principles for health, wealth, success, and spiritual growth",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-master-key-system",
+ "useCase": "Understand the creative power of thought, learn the Law of Attraction, practice daily visualization and silence, and systematically transform your life through 24 lessons",
+ "knownRisks": [
+  "The book was published in 1912 — some concepts (like the Universal Mind) may not resonate with all readers",
+  "The Law of Attraction has been heavily commercialized and oversimplified by later authors",
+  "The book's metaphysical claims are not scientifically supported"
+ ],
+ "tags": ["philosophy", "self-help", "new-thought", "mind", "success", "spirituality", "law-of-attraction", "visualization", "personal-development", "metaphysics"],
+ "openclaw": {
+  "emoji": "🔑",
+  "category": "philosophy"
+ }
+}

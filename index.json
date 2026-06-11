@@ -6705,6 +6705,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-master-key-system",
+      "title": "Charles F. Haanel's The Master Key System — New Thought and personal development toolkit using 24 weekly lessons to teac",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "self-help",
+        "new-thought",
+        "mind",
+        "success",
+        "spirituality",
+        "law-of-attraction",
+        "visualization",
+        "personal-development",
+        "metaphysics"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-mastery-of-love",
       "title": "Don Miguel Ruiz's 'The Mastery of Love: A Practical Guide to the Art of Relationship' — a Toltec wisdom guide to underst",
       "author": "heardlyapp",
@@ -8257,5 +8276,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 455
+  "total_skills": 456
 }
