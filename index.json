@@ -6852,6 +6852,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "the-presidents-club",
+      "title": "Nancy Gibbs and Michael Duffy's The Presidents Club — presidential history toolkit exploring the secret relationships am",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "presidents",
+        "politics",
+        "america",
+        "biography",
+        "leadership",
+        "relationships",
+        "white-house",
+        "power",
+        "diplomacy"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "the-price-of-inequality",
       "title": "Joseph E. Stiglitz's The Price of Inequality — an executable toolkit exploring how inequality damages economies, democra",
       "author": "heardlyapp",
@@ -8124,5 +8143,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 448
+  "total_skills": 449
 }

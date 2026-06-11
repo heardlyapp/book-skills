@@ -1,0 +1,19 @@
+{
+ "name": "the-presidents-club",
+ "version": "1.0.0",
+ "description": "Nancy Gibbs and Michael Duffy's The Presidents Club — presidential history toolkit exploring the secret relationships among modern US presidents after they leave office, from Truman-Hoover to Bush-Clinton to Obama's learning curve",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-presidents-club",
+ "useCase": "Understand the hidden network of former US presidents, learn from their relationships, and apply the club's wisdom to leadership transitions",
+ "knownRisks": [
+  "The book focuses heavily on personality and anecdote rather than systematic analysis",
+  "Some claims (especially about Nixon) are disputed by partisans on both sides",
+  "The club's relevance diminishes with fewer living former presidents"
+ ],
+ "tags": ["history", "presidents", "politics", "america", "biography", "leadership", "relationships", "white-house", "power", "diplomacy"],
+ "openclaw": {
+  "emoji": "🇺🇸",
+  "category": "history"
+ }
+}
