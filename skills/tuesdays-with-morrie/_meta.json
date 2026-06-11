@@ -1,0 +1,19 @@
+{
+ "name": "tuesdays-with-morrie",
+ "version": "1.0.0",
+ "description": "Mitch Albom's Tuesdays With Morrie — life wisdom toolkit exploring Morrie Schwartz's 14 Tuesday lessons on love, work, family, aging, forgiveness, money, and dying with dignity while truly learning how to live",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/tuesdays-with-morrie",
+ "useCase": "Understand what matters most in life, learn to accept death, forgive others, reject cultural lies, and love more fully",
+ "knownRisks": [
+  "The book is a memoir, not a philosophy text — Morrie's teachings are anecdotal, not systematic",
+  "Some readers find the book sentimental or saccharine",
+  "Death acceptance is deeply personal — what worked for Morrie may not work for everyone"
+ ],
+ "tags": ["philosophy", "death", "life", "love", "relationships", "grief", "forgiveness", "meaning", "memoir", "wisdom"],
+ "openclaw": {
+  "emoji": "🧑‍🏫",
+  "category": "philosophy"
+ }
+}

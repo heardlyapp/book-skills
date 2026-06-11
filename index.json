@@ -7547,6 +7547,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "tuesdays-with-morrie",
+      "title": "Mitch Albom's Tuesdays With Morrie — life wisdom toolkit exploring Morrie Schwartz's 14 Tuesday lessons on love, work, f",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "philosophy",
+        "death",
+        "life",
+        "love",
+        "relationships",
+        "grief",
+        "forgiveness",
+        "meaning",
+        "memoir",
+        "wisdom"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "uncommon-favor",
       "title": "Dawn Staley's memoir of rising from North Philly projects to basketball stardom and championship coaching — discipline, ",
       "author": "heardlyapp",
@@ -8048,5 +8067,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 444
+  "total_skills": 445
 }
