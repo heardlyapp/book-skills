@@ -1,0 +1,19 @@
+{
+ "name": "a-short-history-of-nearly-everything",
+ "version": "1.0.0",
+ "description": "Bill Bryson's A Short History of Nearly Everything — popular science toolkit making the biggest questions about the universe, Earth, life, and science accessible, entertaining, and memorable",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/a-short-history-of-nearly-everything",
+ "useCase": "Understand the Big Bang, how Earth formed, how life evolved, how science works, and the building blocks of matter",
+ "knownRisks": [
+  "Bryson is a journalist, not a scientist — some scientific explanations are simplified",
+  "The book was published in 2003 — some facts may be dated by newer discoveries",
+  "Bryson's humorous style may not appeal to readers who prefer more serious science writing"
+ ],
+ "tags": ["science", "popular-science", "bill-bryson", "universe", "evolution", "history-of-science", "geology", "physics", "biology", "astronomy"],
+ "openclaw": {
+  "emoji": "🌍",
+  "category": "science"
+ }
+}

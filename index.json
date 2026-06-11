@@ -260,6 +260,25 @@
       "updated": "2026-06-13"
     },
     {
+      "slug": "a-short-history-of-nearly-everything",
+      "title": "Bill Bryson's A Short History of Nearly Everything — popular science toolkit making the biggest questions about the univ",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "science",
+        "popular-science",
+        "bill-bryson",
+        "universe",
+        "evolution",
+        "history-of-science",
+        "geology",
+        "physics",
+        "biology",
+        "astronomy"
+      ],
+      "updated": "2026-06-13"
+    },
+    {
       "slug": "a-theory-of-justice",
       "title": "John Rawls' 'A Theory of Justice' — the most influential work of political philosophy of the 20th century. Rawls propose",
       "author": "heardlyapp",
@@ -7836,5 +7855,5 @@
       "updated": "2026-06-13"
     }
   ],
-  "total_skills": 433
+  "total_skills": 434
 }
