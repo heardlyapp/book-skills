@@ -1,0 +1,19 @@
+{
+ "name": "the-guns-of-august",
+ "version": "1.0.0",
+ "description": "Barbara W. Tuchman's The Guns of August — a narrative history of the first month of WWI, tracing the catastrophic miscalculations, rigid war plans, and the Battle of the Marne that determined the course of the 20th century.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-guns-of-august",
+ "useCase": "Understand the first month of WWI — the Schlieffen Plan, the Battle of the Marne, and how inflexible plans and failed assumptions led to catastrophe.",
+ "knownRisks": [
+  "Tuchman's narrative style prioritizes storytelling over analytical history — some details are dramatized",
+  "The book focuses almost exclusively on Western leadership — minimal coverage of ordinary soldiers or non-European perspectives",
+  "Written in 1962 — some interpretations have been updated by subsequent scholarship"
+ ],
+ "tags": ["history", "war", "world-war-i", "military", "europe", "strategy", "20th-century", "germany", "france", "diplomacy"],
+ "openclaw": {
+  "emoji": "🔫",
+  "category": "history"
+ }
+}
