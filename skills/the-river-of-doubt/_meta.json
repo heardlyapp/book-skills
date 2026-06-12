@@ -1,0 +1,19 @@
+{
+ "name": "the-river-of-doubt",
+ "version": "1.0.0",
+ "description": "Candice Millard's The River of Doubt: Theodore Roosevelt's Darkest Journey — a leadership-under-extremis and survival-history toolkit chronicling TR's nearly fatal 1914 expedition down an uncharted Amazon tributary, featuring TR's post-presidential depression, the Cinta Larga tribe, a murder within the expedition, and Roosevelt's refusal to give up despite life-threatening infection.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-river-of-doubt",
+ "useCase": "Understand what leadership looks like when everything goes wrong — when the river is uncharted, the food is gone, and death is a real possibility.",
+ "knownRisks": [
+  "The book's focus on Roosevelt may underrepresent Rondon's contributions to the expedition's survival",
+  "Millard's narrative dramatizes some events for readability — primary sources provide alternative perspectives",
+  "The portrayal of the Cinta Larga relies on limited 1914-era accounts"
+ ],
+ "tags": ["history", "biography", "adventure", "survival", "exploration", "presidents", "brazil", "amazon", "leadership", "nature"],
+ "openclaw": {
+  "emoji": "🛶",
+  "category": "history"
+ }
+}
