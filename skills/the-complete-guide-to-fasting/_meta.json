@@ -1,0 +1,19 @@
+{
+ "name": "complete-guide-to-fasting-heal-your-body-through-intermittent-alternate-day-and-extended-fasting",
+ "version": "1.0.0",
+ "description": "Dr. Jason Fung's Complete Guide to Fasting — a metabolic health and therapeutic fasting toolkit covering the insulin theory of obesity, fasting protocols (16:8, 24h, 36h, 48h+), autophagy, managing hunger, breaking fasts, and reversing Type 2 diabetes through dietary timing.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/complete-guide-to-fasting-heal-your-body-through-intermittent-alternate-day-and-extended-fasting",
+ "useCase": "Learn how to use therapeutic fasting for weight loss, metabolic health, and longevity — the science, the protocols, and practical tips for starting and sustaining a fasting practice.",
+ "knownRisks": [
+  "This skill provides educational information — it is NOT medical advice. Consult a doctor before starting fasting, especially if on medication or with health conditions",
+  "Fasting is not appropriate for everyone (pregnancy, eating disorders, underweight, Type 1 diabetes)",
+  "Some of Fung's claims (especially about calorie restriction) are contested by mainstream nutrition science"
+ ],
+ "tags": ["health", "nutrition", "weight-loss", "diabetes", "science", "medicine", "longevity", "fitness", "metabolism", "self-improvement"],
+ "openclaw": {
+  "emoji": "🥗",
+  "category": "health"
+ }
+}
