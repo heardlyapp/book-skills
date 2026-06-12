@@ -1,0 +1,19 @@
+{
+ "name": "autobiography-of-a-spiritually-incorrect-mystic",
+ "version": "1.0.0",
+ "description": "Osho's Autobiography of a Spiritually Incorrect Mystic — a spiritual autobiography from one of the most controversial spiritual teachers of the 20th century, covering his enlightenment, dynamic meditation, the Rajneeshpuram commune, and his teachings on consciousness, love, and freedom.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/autobiography-of-a-spiritually-incorrect-mystic",
+ "useCase": "Understand Osho's radical approach to spirituality — meditation techniques, enlightenment, and the path of awareness and rebellion.",
+ "knownRisks": [
+  "Osho is a deeply controversial figure — some view him as enlightened, others as a cult leader",
+  "The book presents his perspective — does not provide balanced coverage of controversies",
+  "His teachings on sex and relationships may offend some readers"
+ ],
+ "tags": ["spirituality", "biography", "meditation", "consciousness", "mysticism", "india", "zen", "philosophy", "awakening", "rebellion"],
+ "openclaw": {
+  "emoji": "🧘",
+  "category": "spirituality"
+ }
+}
