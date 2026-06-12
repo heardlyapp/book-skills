@@ -1,0 +1,19 @@
+{
+ "name": "the-bully-pulpit",
+ "version": "1.0.0",
+ "description": "Doris Kearns Goodwin's The Bully Pulpit — a political history and leadership toolkit chronicling the friendship and rupture between Theodore Roosevelt and William Howard Taft, the rise of muckraking journalism (Ida Tarbell, Lincoln Steffens), and the Progressive Era's fight against corporate power.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-bully-pulpit",
+ "useCase": "Understand the Progressive Era through the TR-Taft relationship and the muckraking journalists who exposed corruption and drove reform.",
+ "knownRisks": [
+  "The book is very long (700+ pages) and covers multiple narratives — some readers find the journalism story distracting from the TR-Taft story",
+  "Goodwin is generally sympathetic to TR, which may color the portrayal of Taft",
+  "The Progressive Era lens is critical of corporate power — readers with different political views may disagree"
+ ],
+ "tags": ["history", "politics", "biography", "journalism", "presidents", "progressivism", "america", "20th-century", "leadership", "tr"],
+ "openclaw": {
+  "emoji": "🎪",
+  "category": "history"
+ }
+}
