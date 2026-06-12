@@ -1,0 +1,19 @@
+{
+ "name": "the-sports-gene",
+ "version": "1.0.0",
+ "description": "David Epstein's The Sports Gene: Inside the Science of Extraordinary Athletic Performance — a nature-vs-nurture toolkit exploring the science of what makes elite athletes exceptional: from genetic advantages (ACTN3, anatomy, vision) to training effects (10,000 hours), showing how both inheritance and effort interact to produce greatness.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-sports-gene",
+ "useCase": "Understand the complex interaction between genetics and training in elite athletic performance — debunk the 10,000-hour myth, learn what trainability really means, and apply the hardware-software model to any performance domain.",
+ "knownRisks": [
+  "The book was published in 2013 — some genetic findings may have advanced since then",
+  "The nature-nurture debate remains scientifically and politically charged",
+  "Individual genetic testing for athletic talent prediction is not recommended and has ethical implications"
+ ],
+ "tags": ["science", "sports", "genetics", "physiology", "psychology", "training", "biology", "performance", "health", "expertise"],
+ "openclaw": {
+  "emoji": "🧬",
+  "category": "science"
+ }
+}
