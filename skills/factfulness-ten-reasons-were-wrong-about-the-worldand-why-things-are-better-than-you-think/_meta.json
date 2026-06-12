@@ -1,0 +1,19 @@
+{
+ "name": "factfulness-ten-reasons-were-wrong-about-the-worldand-why-things-are-better-than-you-think",
+ "version": "1.0.0",
+ "description": "Hans Rosling's Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think — a critical thinking and data literacy toolkit diagnosing the 10 dramatic instincts that systematically distort our worldview, with practical thinking tools to replace dramatic misconceptions with a fact-based understanding of global progress.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/factfulness-ten-reasons-were-wrong-about-the-worldand-why-things-are-better-than-you-think",
+ "useCase": "Replace your dramatic worldview with a fact-based one — learn the 10 instincts that make you wrong about the world and the thinking tools to see reality clearly.",
+ "knownRisks": [
+  "The book's optimism about global trends may feel naive to those who know the data intimately — progress is real but uneven",
+  "Rosling's framework risks being used to dismiss legitimate concerns about inequality and injustice",
+  "The 'factfulness' mindset can become a form of privilege if it ignores the real suffering that remains"
+ ],
+ "tags": ["psychology", "statistics", "data-science", "critical-thinking", "education", "sociology", "self-improvement", "science", "journalism", "decision-making"],
+ "openclaw": {
+  "emoji": "📊",
+  "category": "self-improvement"
+ }
+}
