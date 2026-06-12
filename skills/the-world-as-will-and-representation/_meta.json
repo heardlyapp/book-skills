@@ -1,0 +1,19 @@
+{
+ "name": "the-world-as-will-and-representation",
+ "version": "1.0.0",
+ "description": "Arthur Schopenhauer's The World as Will and Representation, Vol. 1 — a metaphysical philosophy toolkit: the world has two aspects — Will (blind, endless striving, the thing-in-itself) and Representation (the perceived world shaped by space, time, and causality).",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-world-as-will-and-representation",
+ "useCase": "Understand Schopenhauer's system — the Will as the essence of reality, why life is suffering, how art provides escape, and the path to peace through denial of the will.",
+ "knownRisks": [
+  "Schopenhauer's system is deeply pessimistic — may not be suitable for all readers",
+  "His views on women have been widely criticized as misogynistic",
+  "The book is dense and challenging — requires background in Kant and Plato"
+ ],
+ "tags": ["philosophy", "metaphysics", "aesthetics", "ethics", "pessimism", "german-philosophy", "will", "art", "buddhism", "kant"],
+ "openclaw": {
+  "emoji": "🎭",
+  "category": "philosophy"
+ }
+}
