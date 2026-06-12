@@ -1,0 +1,19 @@
+{
+ "name": "the-power-of-broke",
+ "version": "1.0.0",
+ "description": "Daymond John's The Power of Broke — an entrepreneurial scrappiness toolkit showing how limited resources force creativity, discipline, and hustle that wealthy competitors can't replicate.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-power-of-broke",
+ "useCase": "Turn having no money into a competitive advantage — bootstrap smarter, build brand love, develop hustle, and learn Daymond John's lawnmower approach to building a business one customer at a time.",
+ "knownRisks": [
+  "Daymond's approach assumes the reader has the time and energy for extreme hustle — not everyone does",
+  "Bootstrapping is not suitable for capital-intensive businesses",
+  "The Power of Broke mindset works best for consumer brands and service businesses"
+ ],
+ "tags": ["business", "entrepreneurship", "branding", "marketing", "hustle", "bootstrapping", "motivation", "success", "start-up", "finance"],
+ "openclaw": {
+  "emoji": "💪",
+  "category": "business"
+ }
+}
