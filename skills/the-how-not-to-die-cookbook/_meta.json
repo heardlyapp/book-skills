@@ -1,0 +1,19 @@
+{
+ "name": "the-how-not-to-die-cookbook",
+ "version": "1.0.0",
+ "description": "Dr. Michael Greger's The How Not to Die Cookbook — a plant-based nutrition and cooking toolkit based on the Daily Dozen framework, with 100+ evidence-based whole-food plant-based recipes for preventing and reversing disease.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-how-not-to-die-cookbook",
+ "useCase": "Learn the Daily Dozen framework for optimal nutrition, cook evidence-based plant-based meals, and prevent and reverse disease through diet.",
+ "knownRisks": [
+  "This skill provides nutritional education — it is not medical advice. Consult a doctor before making significant dietary changes",
+  "Some of Greger's claims about specific food effects may be overstated — the overall plant-based framework is well-supported",
+  "The recipes are designed for plant-based eating — not everyone will be able or willing to follow this approach"
+ ],
+ "tags": ["health", "nutrition", "cooking", "plant-based", "vegan", "medicine", "longevity", "recipes", "disease-prevention", "lifestyle"],
+ "openclaw": {
+  "emoji": "🥦",
+  "category": "health"
+ }
+}
