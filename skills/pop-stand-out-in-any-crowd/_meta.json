@@ -1,0 +1,19 @@
+{
+ "name": "pop-stand-out-in-any-crowd",
+ "version": "1.0.0",
+ "description": "Sam Horn's POP! — a personal branding and communication toolkit using Purpose, Originality, and Pizzazz to help professionals get noticed and make a lasting impression in a crowded marketplace.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/pop-stand-out-in-any-crowd",
+ "useCase": "Learn how to stand out with purpose, originality, and pizzazz — create your own IP, craft memorable messages, and get noticed.",
+ "knownRisks": [
+  "The framework is high-level — needs personalization to be effective",
+  "Pizzazz without substance is empty",
+  "Not all industries reward standing out — some prefer conformity"
+ ],
+ "tags": ["communication", "branding", "marketing", "personal-development", "public-speaking", "career", "entrepreneurship", "creativity", "leadership", "presentation"],
+ "openclaw": {
+  "emoji": "🎯",
+  "category": "communication"
+ }
+}
