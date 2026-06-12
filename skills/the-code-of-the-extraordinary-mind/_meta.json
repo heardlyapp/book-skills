@@ -1,0 +1,19 @@
+{
+ "name": "the-code-of-the-extraordinary-mind",
+ "version": "1.0.0",
+ "description": "Vishen Lakhiani's The Code of the Extraordinary Mind — a personal transformation and consciousness engineering toolkit teaching you to question society's 'Brules,' rewrite your models of reality, and bend reality through blissipline, six-phase meditation, and vision-driven goals.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-code-of-the-extraordinary-mind",
+ "useCase": "Learn to question society's programming, consciously choose your beliefs, and live an extraordinary life on your own terms.",
+ "knownRisks": [
+  "The book's anti-establishment tone may feel dismissive of traditional paths that work well for many people",
+  "The 'bending reality' concepts can feel overly mystical for practical-minded readers",
+  "Mindvalley is a commercial entity — some content is designed to drive product sales"
+ ],
+ "tags": ["self-help", "personal-development", "spirituality", "mindfulness", "entrepreneurship", "psychology", "consciousness", "transformation", "habits", "productivity"],
+ "openclaw": {
+  "emoji": "🧠",
+  "category": "self-help"
+ }
+}
