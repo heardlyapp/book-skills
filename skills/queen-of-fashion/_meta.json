@@ -1,0 +1,19 @@
+{
+ "name": "queen-of-fashion",
+ "version": "1.0.0",
+ "description": "Caroline Weber's Queen of Fashion — a cultural history of Marie Antoinette's use of fashion as political expression, from the towering pouf hairstyle to the scandalous chemise dress and the Diamond Necklace Affair, showing how style shaped the French Revolution.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/queen-of-fashion",
+ "useCase": "Understand Marie Antoinette's fashion as political language — how she used clothing to assert power and how the same choices turned public opinion against her.",
+ "knownRisks": [
+  "The book focuses solely on fashion — does not provide comprehensive political/military history of the revolution",
+  "Some interpretations of fashion symbolism are speculative",
+  "The narrative may romanticize Marie Antoinette's intentions"
+ ],
+ "tags": ["history", "fashion", "french-revolution", "biography", "culture", "royalty", "women", "politics", "18th-century", "style"],
+ "openclaw": {
+  "emoji": "👗",
+  "category": "history"
+ }
+}
