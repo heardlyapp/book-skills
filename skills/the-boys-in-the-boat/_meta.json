@@ -1,0 +1,19 @@
+{
+ "name": "the-boys-in-the-boat",
+ "version": "1.0.0",
+ "description": "Daniel James Brown's The Boys in the Boat — a team dynamics and perseverance toolkit chronicling the University of Washington's eight-oar crew team, nine working-class boys who overcame the Depression to win Olympic gold in front of Hitler, embodying teamwork, sacrifice, and collective flow.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-boys-in-the-boat",
+ "useCase": "Understand how nine individuals became one team — the power of synchronization, egoless teamwork, and the pursuit of 'swing' in any collective undertaking.",
+ "knownRisks": [
+  "The book idealizes the working-class narrative — some historical details are simplified for narrative flow",
+  "The Nazi Germany context is secondary to the rowing story — not a comprehensive history of the 1936 Olympics",
+  "Rowing technique described may not be accessible to non-rowers without some explanation"
+ ],
+ "tags": ["history", "sports", "olympics", "biography", "team-building", "perseverance", "wwii", "leadership", "rowing", "inspiration"],
+ "openclaw": {
+  "emoji": "🚣",
+  "category": "history"
+ }
+}
