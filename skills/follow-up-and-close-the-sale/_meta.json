@@ -1,0 +1,19 @@
+{
+ "name": "follow-up-and-close-the-sale",
+ "version": "1.0.0",
+ "description": "Jeff Shore's Follow Up and Close the Sale — a sales methodology toolkit focused on follow-up as the most underrated sales skill: buyer psychology, the first follow-up rule, value-driven contact, follow-up cadence, and closing the sale.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/follow-up-and-close-the-sale",
+ "useCase": "Master the art of sales follow-up — learn when to follow up, what to say, how to provide value, and how to close without pressure.",
+ "knownRisks": [
+  "Some of Shore's specific cadence recommendations may not suit all industries or products",
+  "The 'value-first' principle is sound but requires effort to implement consistently",
+  "Persistence can cross into harassment if not done with genuine value"
+ ],
+ "tags": ["sales", "business", "entrepreneurship", "psychology", "communication", "persuasion", "marketing", "customer-relations", "closing", "strategy"],
+ "openclaw": {
+  "emoji": "📞",
+  "category": "business"
+ }
+}
