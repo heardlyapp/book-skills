@@ -1,0 +1,19 @@
+{
+ "name": "trick-or-treat-a-history-of-halloween",
+ "version": "1.0.0",
+ "description": "Lisa Morton's Trick or Treat: A History of Halloween — a cultural history tracing Halloween from Celtic Samhain through Roman and Christian influences to its American evolution as a secular community celebration of costumes, candy, and the supernatural.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/trick-or-treat-a-history-of-halloween",
+ "useCase": "Understand two thousand years of Halloween history — from Celtic spirits to American candy, the traditions that survived and the ones that didn't.",
+ "knownRisks": [
+  "Some historical details about pre-Christian Celtic practices are based on limited evidence",
+  "The book focuses on American/Western Halloween — limited coverage of global celebrations",
+  "Halloween's commercialization is treated neutrally — not a deep critique of consumer culture"
+ ],
+ "tags": ["history", "folklore", "culture", "halloween", "paganism", "celtic", "america", "religion", "sociology", "anthropology"],
+ "openclaw": {
+  "emoji": "🎃",
+  "category": "history"
+ }
+}
