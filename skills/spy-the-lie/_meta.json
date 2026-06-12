@@ -1,0 +1,19 @@
+{
+ "name": "spy-the-lie",
+ "version": "1.0.0",
+ "description": "Spy the Lie by former CIA officers — a deception detection toolkit teaching the CIA method: baseline establishment, cluster analysis, verbal/non-verbal/para-linguistic cues, the bait question, and effective interviewing to detect deception.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/spy-the-lie",
+ "useCase": "Learn the CIA method for detecting deception — establish baselines, identify clusters, ask effective questions, and avoid false positives.",
+ "knownRisks": [
+  "The CIA method is designed for high-stakes interrogations — not everyday conversations",
+  "False positives are dangerous — accusing someone of lying based on incomplete evidence can destroy trust",
+  "The techniques require practice and should not be applied casually"
+ ],
+ "tags": ["psychology", "communication", "self-defense", "cia", "deception", "interviewing", "interrogation", "human-behavior", "negotiation", "security"],
+ "openclaw": {
+  "emoji": "🕵️",
+  "category": "psychology"
+ }
+}
