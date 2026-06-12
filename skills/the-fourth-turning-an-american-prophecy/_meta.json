@@ -1,0 +1,19 @@
+{
+ "name": "the-fourth-turning-an-american-prophecy",
+ "version": "1.0.0",
+ "description": "William Strauss and Neil Howe's The Fourth Turning: An American Prophecy — a generational theory and historical cycles toolkit mapping American history into repeating 80-100 year saeculum cycles of four turnings (High, Awakening, Unraveling, Crisis) driven by four generational archetypes (Prophet, Nomad, Hero, Artist), predicting the Crisis of the 2020s.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-fourth-turning-an-american-prophecy",
+ "useCase": "Understand the generational cycles that shape history — where we are in the saeculum, what generational archetype you belong to, and how to navigate the crisis period.",
+ "knownRisks": [
+  "The Strauss-Howe theory is controversial and not widely accepted by academic historians",
+  "The cycle framework can be used to justify fatalism ('the crisis is inevitable')",
+  "The book was written before 9/11 and many predictions are vague enough to be interpreted after the fact"
+ ],
+ "tags": ["history", "sociology", "politics", "generations", "cycles", "prophecy", "america", "future", "civilization", "forecasting"],
+ "openclaw": {
+  "emoji": "🔄",
+  "category": "history"
+ }
+}
