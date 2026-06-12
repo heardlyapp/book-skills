@@ -1,0 +1,19 @@
+{
+ "name": "nothing-to-envy",
+ "version": "1.0.0",
+ "description": "Barbara Demick's Nothing to Envy: Ordinary Lives in North Korea — a human rights and investigative journalism toolkit that follows six North Korean citizens over decades, revealing how the Kim family's regime operates: the cult of personality, the prison camps, the 1990s famine, and the impossible choice between loyalty and freedom.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/nothing-to-envy",
+ "useCase": "Understand how North Korea's totalitarian system operates through the lives of ordinary citizens — the songbun caste system, the cult of personality, the famine, the prison camps, and the defector experience.",
+ "knownRisks": [
+  "The book's subjects are defectors whose stories may be influenced by their circumstances",
+  "Some details about the camps and famine are graphic and may be distressing",
+  "North Korea is an active dictatorship — information about the regime is difficult to verify independently"
+ ],
+ "tags": ["history", "politics", "human-rights", "journalism", "korea", "totalitarianism", "biography", "war", "society", "communism"],
+ "openclaw": {
+  "emoji": "🇰🇵",
+  "category": "history"
+ }
+}
