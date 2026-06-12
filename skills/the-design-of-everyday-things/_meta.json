@@ -1,0 +1,19 @@
+{
+ "name": "the-design-of-everyday-things",
+ "version": "1.0.0",
+ "description": "Don Norman's The Design of Everyday Things — the foundational UX design toolkit covering affordances, signifiers, mapping, feedback, constraints, the seven stages of action, gulfs of execution and evaluation, human error (slips vs mistakes), and user-centered design methodology.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-design-of-everyday-things",
+ "useCase": "Understand the principles of good design — make products that are discoverable, usable, and delightful by applying Norman's foundational UX framework.",
+ "knownRisks": [
+  "The book was first published in 1988 — some digital examples are dated, though the principles remain current",
+  "Norman's framework is primarily for product design, not visual/graphic design",
+  "The 'user is never wrong' philosophy can be over-applied — users can and do act irrationally"
+ ],
+ "tags": ["design", "ux", "psychology", "product-design", "human-factors", "interaction", "technology", "innovation", "usability", "engineering"],
+ "openclaw": {
+  "emoji": "🚪",
+  "category": "design"
+ }
+}
