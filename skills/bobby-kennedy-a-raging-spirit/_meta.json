@@ -1,0 +1,19 @@
+{
+ "name": "bobby-kennedy-a-raging-spirit",
+ "version": "1.0.0",
+ "description": "Chris Matthews' Bobby Kennedy: A Raging Spirit — a political biography tracing Robert F. Kennedy's transformation from ruthless political operative to compassionate champion of civil rights, the poor, and social justice, culminating in his 1968 campaign and assassination.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/bobby-kennedy-a-raging-spirit",
+ "useCase": "Understand RFK's remarkable political evolution — from McCarthy aide to compassionate leader — and the leadership lessons his transformation offers.",
+ "knownRisks": [
+  "Matthews is an admirer of RFK — the biography is sympathetic rather than critical",
+  "Some political analysis reflects Matthews' own liberal perspective",
+  "The book focuses heavily on RFK's transformation narrative, downplaying inconsistencies"
+ ],
+ "tags": ["biography", "politics", "history", "kennedy", "civil-rights", "1960s", "america", "leadership", "assassination", "cold-war"],
+ "openclaw": {
+  "emoji": "🇺🇸",
+  "category": "history"
+ }
+}
