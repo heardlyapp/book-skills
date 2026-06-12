@@ -1,0 +1,19 @@
+{
+ "name": "thank-you-for-arguing",
+ "version": "1.0.0",
+ "description": "Jay Heinrichs' Thank You for Arguing — a rhetoric and persuasion toolkit covering ethos/pathos/logos, Cicero's five canons, concession, reframing, and how to win arguments by changing the terms of the debate.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/thank-you-for-arguing",
+ "useCase": "Master the art of persuasion — use rhetorical techniques to win arguments, change minds, and persuade effectively.",
+ "knownRisks": [
+  "Rhetoric can be used unethically — the book focuses on persuasion, which some may view as manipulation",
+  "Heinrichs' casual tone may oversimplify complex rhetorical theory",
+  "American-centric examples may not translate to all cultures"
+ ],
+ "tags": ["rhetoric", "persuasion", "communication", "philosophy", "language", "debate", "argument", "sales", "negotiation", "public-speaking"],
+ "openclaw": {
+  "emoji": "🎭",
+  "category": "communication"
+ }
+}
