@@ -1,0 +1,19 @@
+{
+ "name": "a-return-to-love",
+ "version": "1.0.0",
+ "description": "Marianne Williamson's A Return to Love — a spiritual psychology toolkit based on A Course in Miracles, teaching the choice between love and fear, the practice of forgiveness, releasing the ego, and living from miraculous perception.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/a-return-to-love",
+ "useCase": "Understand the Course in Miracles framework — learn to shift from fear to love, forgive grievances, and live from a place of inner peace.",
+ "knownRisks": [
+  "The book is based on metaphysical assumptions (non-duality, the unreality of the world) that not all readers will accept",
+  "Some Christian readers may object to the Course's reinterpretation of Christian terminology",
+  "The framework can feel dismissive of real-world problems and legitimate emotions if taken to an extreme"
+ ],
+ "tags": ["spirituality", "psychology", "self-help", "philosophy", "love", "forgiveness", "transformation", "consciousness", "religion", "metaphysics"],
+ "openclaw": {
+  "emoji": "❤️",
+  "category": "spirituality"
+ }
+}
