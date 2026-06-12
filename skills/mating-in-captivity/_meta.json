@@ -1,0 +1,19 @@
+{
+ "name": "mating-in-captivity",
+ "version": "1.0.0",
+ "description": "Esther Perel's Mating in Captivity: Reconciling the Erotic and the Domestic — a couples psychology and erotic intelligence toolkit exploring why love and desire are in tension, how children affect intimacy, the need for separateness, and how to cultivate lasting passion within long-term relationships.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/mating-in-captivity",
+ "useCase": "Understand the paradox of desire in long-term relationships — learn erotic intelligence, create erotic space, and navigate the tension between security and passion.",
+ "knownRisks": [
+  "The book challenges deeply held cultural beliefs about love and monogamy — may feel uncomfortable",
+  "Some readers may interpret Perel as justifying affairs (she does not — she analyzes them)",
+  "The framework is primarily Western and may not translate to all cultural contexts"
+ ],
+ "tags": ["psychology", "relationships", "sexuality", "self-help", "marriage", "therapy", "intimacy", "gender", "family", "sociology"],
+ "openclaw": {
+  "emoji": "❤️‍🔥",
+  "category": "psychology"
+ }
+}
