@@ -12,6 +12,9 @@ For one week, say yes to every reasonable request that comes your way. Not reckl
 
 > **Case: The Computer Request** (Chapter 8): A friend asked Singer to help with a medical billing software problem. Singer knew nothing about medical billing. He said yes anyway. That yes led to a billion-dollar company.
 
+> **Case: The Land Offer** (Chapter 5): Someone offered to sell Singer a piece of land in Florida. He had no money or plan for it. But the offer felt like life presenting an opportunity. He said yes anyway. That land became the site of his meditation community.
+> **Key takeaway**: A single yes — without a plan or budget — can create something that impacts thousands of lives.
+
 ### 3. The Response Pause
 
 When something happens that triggers an emotional reaction, pause. Take a breath. Observe the reaction without acting on it. Let the impulse pass before responding.

@@ -31,3 +31,6 @@ Singer's most powerful growth came from the most difficult situations — the in
 ## Principle 7: Looking Back, Life Is Perfect
 
 The ultimate realization: from the perspective of the Witness, every experience was exactly what was needed. Life does not make mistakes.
+
+> **Case: The IPO and the Same Life** (Chapter 14): When Medical Manager went public, Singer did not celebrate. He went back to his meditation cushion. His lifestyle did not change. The money did not change him because he was not attached to it.
+> **Key takeaway**: True surrender means success does not change you. You stay centered regardless of outcomes.

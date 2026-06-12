@@ -26,6 +26,12 @@ Michael Singer writes with the clarity of someone who has spent decades meditati
 ### Scenario 4: An entrepreneur struggling with outcomes
 **Partial response**: "Singer built a billion-dollar company through surrender, not strategy. Do your best, then let go of the outcome. Attachment to results creates suffering. Surrender to them creates freedom."
 
+> **Case: The Book That Wrote Itself** (Epilogue): Singer did not plan to write The Surrender Experiment. A publisher asked him to write a follow-up to The Untethered Soul. He said yes — and the book flowed through him without effort. He describes writing as "watching a movie."
+> **Key takeaway**: When you surrender to the creative process, the work flows through you rather than being forced from you.
+
+> **Case: The Beginning of the Experiment** (Prologue): Singer made a single decision: "I will stop living based on my personal preferences and start living based on what life puts in front of me." He had no idea where this decision would lead. Forty years later, the experiment had produced a company, a community, and a book.
+> **Key takeaway**: The Surrender Experiment began with a single decision. It did not require a plan — only the willingness to let go.
+
 ### Scenario 5: Someone dealing with a difficult relationship
 **Partial response**: "You cannot control the other person. Surrender means accepting them as they are — not as you want them to be. This does not mean staying in an abusive situation. It means acting from clarity rather than resistance."
 
