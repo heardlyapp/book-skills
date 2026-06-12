@@ -1,0 +1,19 @@
+{
+ "name": "what-every-body-is-saying-an-ex-fbi-agents-guide-to-speed-reading-people",
+ "version": "1.0.0",
+ "description": "Joe Navarro's What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People — a body language and nonverbal communication toolkit for reading people's true feelings and intentions by observing their limbic system responses: feet, legs, torso, arms, hands, and face signals.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/what-every-body-is-saying-an-ex-fbi-agents-guide-to-speed-reading-people",
+ "useCase": "Learn to read people's nonverbal signals — detect discomfort, confidence, deception, and interest through limbic-driven body language cues.",
+ "knownRisks": [
+  "No single cue proves deception or emotion — context and baseline are essential",
+  "Overconfidence in body reading can lead to false accusations or misinterpretation",
+  "Cultural differences affect body language — what means confidence in one culture may mean disrespect in another"
+ ],
+ "tags": ["psychology", "communication", "self-defense", "fbi", "criminal-justice", "behavior", "negotiation", "self-improvement", "body-language", "human-behavior"],
+ "openclaw": {
+  "emoji": "👁️",
+  "category": "psychology"
+ }
+}
