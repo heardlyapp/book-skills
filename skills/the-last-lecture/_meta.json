@@ -1,0 +1,19 @@
+{
+ "name": "the-last-lecture",
+ "version": "1.0.0",
+ "description": "Randy Pausch's The Last Lecture — a life wisdom and legacy-building toolkit from a Carnegie Mellon professor dying of pancreatic cancer, about achieving childhood dreams, overcoming brick walls, enabling others' dreams, humility, gratitude, and living meaningfully when time is running out.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-last-lecture",
+ "useCase": "Learn how to live a meaningful life, achieve childhood dreams, persist through obstacles, and leave a legacy — from a dying professor's final lecture.",
+ "knownRisks": [
+  "Pausch's story is emotionally powerful and may be difficult for those who have lost someone to cancer",
+  "His success story is exceptional — persistence alone does not guarantee dream achievement",
+  "The 'just positive thinking' tone may feel dismissive to those facing serious hardship"
+ ],
+ "tags": ["self-help", "inspiration", "death-and-dying", "motivation", "life-lessons", "education", "family", "legacy", "biography", "perseverance"],
+ "openclaw": {
+  "emoji": "🎓",
+  "category": "self-help"
+ }
+}
