@@ -1,0 +1,19 @@
+{
+ "name": "the-virtue-of-selfishness",
+ "version": "1.0.0",
+ "description": "Ayn Rand's The Virtue of Selfishness: A New Concept of Egoism — an Objectivist ethics toolkit that argues rational self-interest is the foundation of morality, rejecting altruism as the moral ideal and defending individual rights, capitalism, and the pursuit of one's own happiness as the highest moral purpose.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-virtue-of-selfishness",
+ "useCase": "Understand and apply Objectivist ethics — rational self-interest, the rejection of altruism, the trader principle, individual rights, and the moral case for capitalism.",
+ "knownRisks": [
+  "Ayn Rand's philosophy is controversial and has been criticized from many perspectives",
+  "Objectivist ethics require a high degree of abstraction and may not resonate with all readers",
+  "The rejection of altruism can be misinterpreted as a rejection of kindness and generosity"
+ ],
+ "tags": ["philosophy", "ethics", "politics", "individualism", "capitalism", "Objectivism", "Ayn Rand", "reason", "freedom", "morality"],
+ "openclaw": {
+  "emoji": "📚",
+  "category": "philosophy"
+ }
+}
