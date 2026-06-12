@@ -1,0 +1,19 @@
+{
+ "name": "meetings-with-remarkable-men",
+ "version": "1.0.0",
+ "description": "G. I. Gurdjieff's Meetings with Remarkable Men — a spiritual autobiography and esoteric wisdom toolkit chronicling Gurdjieff's travels through Central Asia in search of hidden knowledge, his encounters with teachers, and the foundations of the Fourth Way teaching.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/meetings-with-remarkable-men",
+ "useCase": "Understand Gurdjieff's Fourth Way — the search for hidden knowledge, self-remembering, the Law of Three and Seven, and the Work of inner transformation.",
+ "knownRisks": [
+  "Gurdjieff's claims about his travels and the Sarmoung Brotherhood are unverified and likely legendary",
+  "The Fourth Way system is complex and deliberately esoteric — it is not a quick self-help method",
+  "Some readers may find Gurdjieff's writing style (especially in Beelzebub's Tales) impenetrable"
+ ],
+ "tags": ["spirituality", "philosophy", "biography", "esoteric", "fourth-way", "gurdjieff", "consciousness", "self-development", "mysticism", "travel"],
+ "openclaw": {
+  "emoji": "🌍",
+  "category": "spirituality"
+ }
+}
