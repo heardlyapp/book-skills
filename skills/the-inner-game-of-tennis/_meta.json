@@ -1,0 +1,19 @@
+{
+ "name": "the-inner-game-of-tennis",
+ "version": "1.0.0",
+ "description": "W. Timothy Gallwey's The Inner Game of Tennis — a performance psychology toolkit revealing that the greatest opponent is the mind itself (Self 1 vs Self 2), and that excellence comes not from trying harder but from quieting judgment, trusting the body, and letting natural capability emerge.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-inner-game-of-tennis",
+ "useCase": "Master the mental side of peak performance — quiet the inner critic, trust your body's natural capability, and learn through non-judgmental awareness. Applicable to sports, business, creativity, and any performance domain.",
+ "knownRisks": [
+  "The book uses tennis as a metaphor — non-tennis readers may need patience with the sports context",
+  "The Self 1/Self 2 framework is a simplification and may not capture all aspects of performance psychology",
+  "Trusting the body is not appropriate for all situations (e.g., learning dangerous physical skills)"
+ ],
+ "tags": ["psychology", "sports", "performance", "mindfulness", "coaching", "focus", "self-improvement", "flow", "awareness", "excellence"],
+ "openclaw": {
+  "emoji": "🎾",
+  "category": "psychology"
+ }
+}
