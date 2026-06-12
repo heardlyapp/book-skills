@@ -1,0 +1,19 @@
+{
+ "name": "the-fourth-part-of-the-world",
+ "version": "1.0.0",
+ "description": "Toby Lester's The Fourth Part of the World — a cartography history and Age of Discovery toolkit tracing the 1507 Waldseemüller map, the first to name 'America,' through 1000 years of exploration, mapmaking, and the race to chart the unknown world.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-fourth-part-of-the-world",
+ "useCase": "Understand how America got its name, the history of cartography, and how the 1507 Waldseemüller map changed the European worldview forever.",
+ "knownRisks": [
+  "The book covers 1000+ years of history — some sections are dense with detail",
+  "The Vespucci controversy (whether he fabricated voyages) is unresolved — Lester presents but does not settle it",
+  "The Eurocentric perspective is inherent in the subject matter but should be acknowledged"
+ ],
+ "tags": ["history", "exploration", "cartography", "geography", "renaissance", "america", "science", "biography", "adventure", "discovery"],
+ "openclaw": {
+  "emoji": "🗺️",
+  "category": "history"
+ }
+}
