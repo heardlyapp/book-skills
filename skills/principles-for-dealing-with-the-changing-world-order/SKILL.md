@@ -1,5 +1,5 @@
 ---
-name: changing-world-order
+name: principles-for-dealing-with-the-changing-world-order
 description: >-
   Ray Dalio's Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail — an economic history and geopolitical forecasting toolkit that identifies the archetypal Big Cycle of empires (rising, peaking, declining) through 500 years of history, applied to understand the current US-China transition and prepare for the coming new world order.
 
