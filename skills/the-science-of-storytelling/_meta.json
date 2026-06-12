@@ -1,0 +1,19 @@
+{
+ "name": "the-science-of-storytelling",
+ "version": "1.0.0",
+ "description": "Will Storr's The Science of Storytelling — a narrative writing and cognitive science toolkit exploring why stories affect us so deeply and how to craft compelling narratives using neuroscience, character development, and attention control.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-science-of-storytelling",
+ "useCase": "Understand the science behind storytelling — learn how to craft narratives that engage, persuade, and create meaning.",
+ "knownRisks": [
+  "Some neuroscience claims are simplified for a general audience",
+  "The book focuses on narrative fiction — business storytellers may need to adapt the principles",
+  "The 'controlling consciousness' concept may not apply to all narrative forms"
+ ],
+ "tags": ["writing", "psychology", "neuroscience", "storytelling", "communication", "creativity", "narrative", "self-help", "business", "entertainment"],
+ "openclaw": {
+  "emoji": "📖",
+  "category": "writing"
+ }
+}
