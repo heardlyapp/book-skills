@@ -1,0 +1,19 @@
+{
+ "name": "the-beak-of-the-finch",
+ "version": "1.0.0",
+ "description": "Jonathan Weiner's The Beak of the Finch — a Pulitzer Prize-winning natural history and evolutionary biology toolkit chronicling Peter and Rosemary Grant's decades-long research on Darwin's finches, showing evolution happening in real time through drought, food availability, and natural selection.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-beak-of-the-finch",
+ "useCase": "Understand evolution through the most detailed study of natural selection ever conducted — how finches on a remote Galapagos island show evolution happening in real time.",
+ "knownRisks": [
+  "The book focuses heavily on the Grants' research — not a comprehensive survey of evolutionary biology",
+  "Some evolutionary concepts are simplified for general readers",
+  "The 1977 drought was an extreme event — not all selection pressures are that strong"
+ ],
+ "tags": ["science", "biology", "evolution", "ecology", "nature", "darwin", "galapagos", "natural-history", "genetics", "pulitzer"],
+ "openclaw": {
+  "emoji": "🐦",
+  "category": "science"
+ }
+}
