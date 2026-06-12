@@ -1,0 +1,19 @@
+{
+ "name": "the-righteous-mind",
+ "version": "1.0.0",
+ "description": "Jonathan Haidt's The Righteous Mind: Why Good People Are Divided by Politics and Religion — a moral psychology toolkit explaining political division through moral foundations theory (Care, Fairness, Loyalty, Authority, Sanctity, Liberty), the intuition-first rider-and-elephant model, the hive hypothesis, and why liberals and conservatives are both partially right.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-righteous-mind",
+ "useCase": "Understand why people disagree so fundamentally about politics and morality — learn moral foundations theory and how to bridge the divide.",
+ "knownRisks": [
+  "The framework has been criticized for oversimplifying moral diversity",
+  "The 'conservative advantage' claim can be weaponized by either side",
+  "Some of Haidt's policy implications (e.g., on political tribalism) have been debated"
+ ],
+ "tags": ["psychology", "politics", "philosophy", "sociology", "morality", "religion", "cognitive-science", "neuroscience", "culture", "evolutionary-psychology"],
+ "openclaw": {
+  "emoji": "🐘",
+  "category": "psychology"
+ }
+}
