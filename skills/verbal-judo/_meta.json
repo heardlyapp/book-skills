@@ -1,0 +1,19 @@
+{
+ "name": "verbal-judo",
+ "version": "1.0.0",
+ "description": "George Thompson's Verbal Judo: The Gentle Art of Persuasion — a conflict communication toolkit using words to disarm conflict, deflect criticism, and generate voluntary compliance without force or aggression, based on techniques from a former police officer.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/verbal-judo",
+ "useCase": "Master the art of verbal conflict resolution — use LEAPS, the 5 universal truths, and redirection techniques to de-escalate conflicts and communicate effectively.",
+ "knownRisks": [
+  "The police context may not directly translate to all civilian situations",
+  "Techniques require practice — reading the book alone is not enough",
+  "In genuine power imbalances, verbal skills alone may not be sufficient"
+ ],
+ "tags": ["communication", "self-defense", "psychology", "conflict", "persuasion", "police", "de-escalation", "leadership", "professionalism", "verbal-communication"],
+ "openclaw": {
+  "emoji": "🥋",
+  "category": "communication"
+ }
+}
