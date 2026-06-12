@@ -1,0 +1,19 @@
+{
+ "name": "ordinary-men-reserve-police-battalion-101-and-the-final-solution-in-poland",
+ "version": "1.0.0",
+ "description": "Christopher R. Browning's Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland — a Holocaust history and social psychology toolkit investigating how 500 middle-aged German policemen became mass murderers, killing 38,000 Jews and deporting 45,000 more, revealing the terrifying power of conformity, obedience, and the banality of evil.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/ordinary-men-reserve-police-battalion-101-and-the-final-solution-in-poland",
+ "useCase": "Understand how ordinary people become perpetrators of genocide — the psychology of conformity, obedience, and desensitization that turned average middle-aged men into mass murderers.",
+ "knownRisks": [
+  "This book describes graphic violence and mass murder — content may be distressing",
+  "Browning's thesis challenges both the 'evil Nazi' and 'forced to obey' narratives, which may feel uncomfortable",
+  "The book has been criticized by some scholars who emphasize ideological motivation more than Browning does"
+ ],
+ "tags": ["history", "psychology", "holocaust", "war", "genocide", "sociology", "world-war-ii", "human-rights", "totalitarianism", "social-psychology"],
+ "openclaw": {
+  "emoji": "👥",
+  "category": "history"
+ }
+}
