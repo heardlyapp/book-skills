@@ -1,0 +1,19 @@
+{
+ "name": "resurrection-from-the-underground",
+ "version": "1.0.0",
+ "description": "René Girard's Resurrection from the Underground: Feodor Dostoevsky — a literary theory and mimetic philosophy toolkit applying Girard's mimetic desire theory to Dostoevsky's major works, tracing the arc from the 'underground' of mimetic rivalry to the 'resurrection' of spiritual transformation.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/resurrection-from-the-underground",
+ "useCase": "Understand mimetic desire through Dostoevsky's novels — learn how borrowed desire drives conflict, envy, and spiritual crisis.",
+ "knownRisks": [
+  "Girard's reading of Dostoevsky is one interpretation — not the only one",
+  "The book is dense and theoretical — requires familiarity with Dostoevsky's works",
+  "Girard's Christian framework may not resonate with secular readers"
+ ],
+ "tags": ["philosophy", "literature", "psychology", "religion", "violence", "russian-literature", "criticism", "theory", "dostoevsky", "mimetic-theory"],
+ "openclaw": {
+  "emoji": "📚",
+  "category": "philosophy"
+ }
+}
