@@ -1,0 +1,19 @@
+{
+ "name": "the-great-influenza-the-story-of-the-deadliest-pandemic-in-history",
+ "version": "1.0.0",
+ "description": "John M. Barry's The Great Influenza: The Story of the Deadliest Pandemic in History — a medical history and pandemic preparedness toolkit chronicling the 1918 Spanish flu (50-100 million deaths), the scientific race to find the pathogen, the catastrophic political response under Wilson's wartime censorship, and the birth of modern medicine through public health disaster.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-great-influenza-the-story-of-the-deadliest-pandemic-in-history",
+ "useCase": "Understand the worst pandemic in history — the science, the political failures, the public health lessons, and the human tragedy that 50-100 million deaths left behind.",
+ "knownRisks": [
+  "The book contains graphic descriptions of illness and death — may be distressing",
+  "Some scientific understanding has advanced since 2004 (e.g., reconstruction of the 1918 virus in 2005)",
+  "The political critique of Wilson is historically controversial and may feel one-sided"
+ ],
+ "tags": ["history", "medicine", "science", "public-health", "pandemic", "biology", "infectious-diseases", "war", "virology", "epidemiology"],
+ "openclaw": {
+  "emoji": "🦠",
+  "category": "history"
+ }
+}
