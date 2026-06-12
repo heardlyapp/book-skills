@@ -1,0 +1,19 @@
+{
+ "name": "the-forgotten-highlander-an-incredible-wwii-story-of-survival-in-the-pacific",
+ "version": "1.0.0",
+ "description": "Alistair Urquhart's The Forgotten Highlander: An Incredible WWII Story of Survival in the Pacific — a war memoir and survival psychology toolkit chronicling one man's unimaginable ordeal: capture by the Japanese in Singapore, 750 days as a slave on the Death Railway, torpedoing of the hellship Kachidoki Maru, five days adrift alone at sea, and the atomic bombing of Nagasaki.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-forgotten-highlander-an-incredible-wwii-story-of-survival-in-the-pacific",
+ "useCase": "Understand the forgotten Pacific War — the Death Railway, hellships, and the Asian Holocaust — through one survivor's extraordinary story of survival against impossible odds.",
+ "knownRisks": [
+  "The book describes extreme violence, torture, and suffering — may be deeply distressing",
+  "Urquhart's account is from memory 60+ years later — some details may be imprecise",
+  "His anger toward Japan may feel one-sided; he does not attempt balanced historical analysis"
+ ],
+ "tags": ["history", "war", "wwii", "biography", "survival", "japan", "pacific-war", "memoir", "trauma", "human-rights"],
+ "openclaw": {
+  "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "category": "history"
+ }
+}
