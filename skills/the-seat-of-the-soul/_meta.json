@@ -1,0 +1,19 @@
+{
+ "name": "the-seat-of-the-soul",
+ "version": "1.0.0",
+ "description": "Gary Zukav's The Seat of the Soul — a spiritual growth and consciousness evolution toolkit exploring the shift from five-sensory (external power, competition, fear) to multi-sensory perception (authentic power, intuition, alignment with soul). Covers karma, intuition, intention, reverence, and spiritual relationships.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-seat-of-the-soul",
+ "useCase": "Understand the evolution from external power to authentic power — develop intuition, set soul-level intentions, and live with reverence for all life.",
+ "knownRisks": [
+  "The book's metaphysical claims (reincarnation, karma, multi-sensory perception) are not scientifically verifiable",
+  "The framework can feel dismissive of ambition and material success, which are valid for many people",
+  "Zukav's concepts of 'karma' and 'soul contracts' differ significantly from traditional religious teachings"
+ ],
+ "tags": ["spirituality", "consciousness", "self-help", "philosophy", "new-age", "psychology", "transformation", "soul", "intuition", "karma"],
+ "openclaw": {
+  "emoji": "💫",
+  "category": "spirituality"
+ }
+}
