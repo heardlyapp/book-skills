@@ -1,0 +1,19 @@
+{
+ "name": "convict-conditioning",
+ "version": "1.0.0",
+ "description": "Paul Wade's Convict Conditioning — a bodyweight strength training toolkit using progressive master steps for the Big Six movements (pushups, squats, pullups, leg raises, bridges, handstand pushups) to build functional strength without weights, based on prison survival training methods.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/convict-conditioning",
+ "useCase": "Build functional bodyweight strength through progressive calisthenics — no gym, no weights, just your own body and the will to improve.",
+ "knownRisks": [
+  "Consult a doctor before starting any exercise program",
+  "Wade's claims about prison origins are unverified — the author is pseudonymous",
+  "Some biomechanical claims are not supported by sports science research"
+ ],
+ "tags": ["fitness", "strength", "calisthenics", "bodyweight", "health", "exercise", "prison-training", "self-defense", "no-equipment", "functional-strength"],
+ "openclaw": {
+  "emoji": "💪",
+  "category": "fitness"
+ }
+}
