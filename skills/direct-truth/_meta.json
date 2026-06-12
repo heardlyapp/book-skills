@@ -1,0 +1,19 @@
+{
+ "name": "direct-truth",
+ "version": "1.0.0",
+ "description": "Kapil Gupta's Direct Truth — a direct perception and self-inquiry toolkit using aphorisms to cut through the mind's illusions about success, mastery, relationships, happiness, and the nature of reality. Uncompromising, non-prescriptive, and radically honest.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/direct-truth",
+ "useCase": "See the truth about life, mind, and mastery — directly, without methods, practices, or prescriptions.",
+ "knownRisks": [
+  "Kapil Gupta's approach rejects all methods and practices — it may destabilize those who depend on 'how-to' guidance",
+  "The radical non-prescriptive stance can be frustrating for readers seeking practical help",
+  "Some of Gupta's aphorisms may feel nihilistic or dismissive of genuine suffering"
+ ],
+ "tags": ["philosophy", "self-help", "spirituality", "mind", "truth", "wisdom", "mastery", "ego", "perception", "inquiry"],
+ "openclaw": {
+  "emoji": "🎯",
+  "category": "philosophy"
+ }
+}
