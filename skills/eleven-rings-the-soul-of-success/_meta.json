@@ -1,0 +1,19 @@
+{
+ "name": "eleven-rings-the-soul-of-success",
+ "version": "1.0.0",
+ "description": "Phil Jackson's Eleven Rings: The Soul of Success — a leadership and team-building toolkit from the most successful coach in NBA history, blending Zen mindfulness, the triangle offense, and managing superstar egos to build championship cultures winning 11 titles across two dynasties.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/eleven-rings-the-soul-of-success",
+ "useCase": "Learn how to build championship teams — manage superstar egos, create trust-based culture, use mindfulness as competitive advantage, and know when to lead and when to get out of the way.",
+ "knownRisks": [
+  "Jackson's Zen approach may not translate to all industries or cultures",
+  "His success is intertwined with having all-time great players — replicable but not guaranteed",
+  "The triangle offense is basketball-specific; the leadership principles are broader"
+ ],
+ "tags": ["leadership", "sports", "basketball", "mindfulness", "zen", "team-building", "management", "psychology", "coaching", "nba"],
+ "openclaw": {
+  "emoji": "🏀",
+  "category": "sports"
+ }
+}
