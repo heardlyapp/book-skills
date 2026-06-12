@@ -1,0 +1,19 @@
+{
+ "name": "the-power-worshippers",
+ "version": "1.0.0",
+ "description": "Katherine Stewart's The Power Worshippers: Inside the Dangerous Rise of Religious Nationalism — an investigative journalism toolkit exposing the organized Christian nationalist movement: dominionist theology (Seven Mountains Mandate), Project Blitz state-level strategy, court takeover, school board battles, and the alliance with the Trump administration.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-power-worshippers",
+ "useCase": "Understand the organized Christian nationalist movement — its theology, strategy, legal tactics, and how it seeks to transform American government into a Christian theocracy.",
+ "knownRisks": [
+  "The book is from 2019 — some specific details may be dated (post-Trump presidency)",
+  "The author is clearly opposed to the movement she describes — not a neutral account",
+  "Distinguishing between faith and political movement is essential — the book critiques a political movement, not Christianity itself"
+ ],
+ "tags": ["politics", "religion", "journalism", "america", "law", "sociology", "human-rights", "christianity", "government", "current-events"],
+ "openclaw": {
+  "emoji": "✝️",
+  "category": "politics"
+ }
+}
