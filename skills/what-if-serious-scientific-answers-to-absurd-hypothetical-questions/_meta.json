@@ -1,0 +1,19 @@
+{
+ "name": "what-if-serious-scientific-answers-to-absurd-hypothetical-questions",
+ "version": "1.0.0",
+ "description": "Randall Munroe's What If? — a scientific thinking and Fermi estimation toolkit answering absurd hypothetical questions with real physics, chemistry, and biology, teaching scientific literacy through curiosity, humor, and approximation.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/what-if-serious-scientific-answers-to-absurd-hypothetical-questions",
+ "useCase": "Learn scientific thinking through absurd hypotheticals — master Fermi estimation, risk assessment, and the joy of curiosity-driven science.",
+ "knownRisks": [
+  "The book prioritizes entertainment over depth — it is not a physics textbook",
+  "Some scenarios are deliberately shocking (relativistic baseball = nuclear explosion)",
+  "The 'back-of-envelope' method has limits — not all problems can be approximated"
+ ],
+ "tags": ["science", "humor", "physics", "math", "curiosity", "education", "critical-thinking", "entertainment", "estimation", "popular-science"],
+ "openclaw": {
+  "emoji": "⚡",
+  "category": "science"
+ }
+}
