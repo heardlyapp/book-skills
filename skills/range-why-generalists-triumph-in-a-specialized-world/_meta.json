@@ -1,0 +1,19 @@
+{
+ "name": "range-why-generalists-triumph-in-a-specialized-world",
+ "version": "1.0.0",
+ "description": "David Epstein's Range: Why Generalists Triumph in a Specialized World — a cognitive science and career development toolkit challenging the cult of early specialization and the 10,000-hour rule, showing that in complex, unpredictable domains, generalists with broad experience consistently outperform narrow specialists.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/range-why-generalists-triumph-in-a-specialized-world",
+ "useCase": "Understand why breadth beats depth in complex domains — learn how to develop range through broad sampling, desirable difficulties, analogical thinking, and knowing when to quit and when to persist.",
+ "knownRisks": [
+  "The generalist advantage is domain-dependent — in kind learning environments like surgery or competitive chess, specialization still matters",
+  "The book's thesis challenges deeply ingrained cultural beliefs about early specialization, which may feel counterintuitive",
+  "Young professionals might use 'exploration' as an excuse to avoid commitment — the key is productive sampling, not aimless drifting"
+ ],
+ "tags": ["psychology", "business", "education", "career", "creativity", "innovation", "science", "cognitive-science", "self-improvement", "decision-making"],
+ "openclaw": {
+  "emoji": "🎯",
+  "category": "psychology"
+ }
+}
