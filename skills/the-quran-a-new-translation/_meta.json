@@ -1,0 +1,19 @@
+{
+ "name": "the-quran-a-new-translation",
+ "version": "1.0.0",
+ "description": "The Qur'an translated by M.A.S. Abdel Haleem (Oxford World's Classics) — a sacred scripture toolkit for Islam's holy book: 114 surahs, covering monotheism, prophethood, the afterlife, law, and mercy, with access to themes, structure, major figures, and teachings.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-quran-a-new-translation",
+ "useCase": "Understand the Quran's structure, themes, and teachings — monotheism, prophethood, the afterlife, Islamic law, and how Muslims use their holy book.",
+ "knownRisks": [
+  "Translation always involves interpretation — no translation perfectly captures the original Arabic",
+  "The Quran is deeply embedded in Islamic theology and practice — a skill cannot replace studying with qualified teachers",
+  "Some verses have been interpreted differently by different Islamic schools throughout history"
+ ],
+ "tags": ["religion", "islam", "spirituality", "philosophy", "theology", "middle-east", "classics", "literature", "sacred-texts", "comparative-religion"],
+ "openclaw": {
+  "emoji": "📖",
+  "category": "religion"
+ }
+}
