@@ -1,0 +1,19 @@
+{
+ "name": "the-big-leap",
+ "version": "1.0.0",
+ "description": "Gay Hendricks' The Big Leap — a self-sabotage and peak performance toolkit diagnosing the 'Upper Limit Problem' (why people unconsciously sabotage success), with the Zone of Genius framework, the Einstein Principle, and tools to transcend hidden fears and live in your highest contribution.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-big-leap",
+ "useCase": "Identify why you self-sabotage at new levels of success — find your Zone of Genius, overcome hidden fears, and make the leap to extraordinary living.",
+ "knownRisks": [
+  "The framework can feel simplistic for complex psychological issues — the upper limit problem is real but may have deeper roots",
+  "The Zone of Genius concept assumes everyone has a unique genius — some may not resonate with this framing",
+  "The 'Einstein Principle' is loosely attributed and not rigorously evidenced"
+ ],
+ "tags": ["self-help", "psychology", "personal-development", "success", "peak-performance", "mindset", "leadership", "productivity", "entrepreneurship", "spirituality"],
+ "openclaw": {
+  "emoji": "🦁",
+  "category": "self-help"
+ }
+}
