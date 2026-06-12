@@ -1,0 +1,19 @@
+{
+ "name": "the-sovereign-individual",
+ "version": "1.0.0",
+ "description": "James Dale Davidson and Lord William Rees-Mogg's The Sovereign Individual — a futurology and economic transformation toolkit predicting the information age revolution: decline of the nation-state, rise of the sovereign individual, end of mass democracy, and the transition from industrial-age authority to network-age autonomy.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-sovereign-individual",
+ "useCase": "Understand the megapolitical shift from industrial to information age — how the microprocessor will undermine the nation-state and empower the sovereign individual.",
+ "knownRisks": [
+  "The book was written in 1997 — some specifics are dated, though the framework remains prescient",
+  "The libertarian/anti-state bias is strong and may not appeal to all readers",
+  "The 'collapse' framing may overstate the speed of decline — governments have proven more resilient than predicted"
+ ],
+ "tags": ["futurism", "economics", "politics", "technology", "society", "cryptocurrency", "cybernetics", "information", "sovereignty", "history"],
+ "openclaw": {
+  "emoji": "👑",
+  "category": "futurism"
+ }
+}
