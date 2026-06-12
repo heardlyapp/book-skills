@@ -1,0 +1,19 @@
+{
+ "name": "no-bullshit-guide-to-math-and-physics",
+ "version": "1.0.0",
+ "description": "Ivan Savov's No bullshit guide to math and physics — a STEM education and textbook reference toolkit covering high school to first-year university mathematics and physics with concise explanations, worked examples, and problem sets for self-study.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/no-bullshit-guide-to-math-and-physics",
+ "useCase": "Learn or review essential math (algebra, calculus, vectors) and physics (mechanics, electromagnetism, waves) through concise explanations and practice problems.",
+ "knownRisks": [
+  "The book covers a broad range of topics at a survey level — not deep enough for advanced study",
+  "Self-study requires discipline — the material is dense and may be overwhelming without a teacher",
+  "Math notation and equations are best understood with practice; reading alone is insufficient"
+ ],
+ "tags": ["math", "physics", "education", "science", "textbook", "stem", "calculus", "algebra", "mechanics", "reference"],
+ "openclaw": {
+  "emoji": "📐",
+  "category": "education"
+ }
+}
