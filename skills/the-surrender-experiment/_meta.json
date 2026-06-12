@@ -1,0 +1,19 @@
+{
+ "name": "the-surrender-experiment",
+ "version": "1.0.0",
+ "description": "Michael A. Singer's The Surrender Experiment: My Journey Into Life's Perfection — a spiritual autobiography and surrender practice toolkit chronicling Singer's 40-year experiment of letting go of personal preferences and letting life unfold naturally, leading to unexpected success as a software entrepreneur, spiritual teacher, and philanthropist.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-surrender-experiment",
+ "useCase": "Learn the practice of spiritual surrender — letting go of personal preferences, trusting life's unfolding, and finding peace through acceptance rather than control.",
+ "knownRisks": [
+  "The surrender practice can feel counterintuitive for Type A personalities and may require patience",
+  "Singer's story is extraordinary and may not be replicable — surrender does not guarantee success",
+  "The practice should not replace taking responsibility for important life decisions"
+ ],
+ "tags": ["spirituality", "meditation", "mindfulness", "philosophy", "self-help", "yoga", "consciousness", "peace", "transformation", "surrender"],
+ "openclaw": {
+  "emoji": "🧘",
+  "category": "spirituality"
+ }
+}
