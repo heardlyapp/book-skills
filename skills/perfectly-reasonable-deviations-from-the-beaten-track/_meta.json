@@ -1,0 +1,19 @@
+{
+ "name": "perfectly-reasonable-deviations-from-the-beaten-track",
+ "version": "1.0.0",
+ "description": "Richard P. Feynman's Perfectly Reasonable Deviations from the Beaten Track — a scientific correspondence and life-wisdom toolkit of Feynman's letters from teenage to Nobel laureate, revealing his philosophy, curiosity, humor, love, grief, and passion for understanding the world.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/perfectly-reasonable-deviations-from-the-beaten-track",
+ "useCase": "Discover Feynman through his own letters — raw, unfiltered, personal. Learn his philosophy of science, love, education, and life.",
+ "knownRisks": [
+  "The letters are personal — they do not provide a structured introduction to Feynman's physics",
+  "Some letters contain politically incorrect views (1960s attitudes that have aged poorly)",
+  "The Arline letters are emotionally intense — may be difficult for those who have lost loved ones"
+ ],
+ "tags": ["physics", "science", "biography", "letters", "education", "humor", "philosophy", "curiosity", "feynman", "inspiration"],
+ "openclaw": {
+  "emoji": "🔬",
+  "category": "science"
+ }
+}
