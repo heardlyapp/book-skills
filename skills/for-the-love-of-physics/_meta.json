@@ -1,0 +1,19 @@
+{
+ "name": "for-the-love-of-physics",
+ "version": "1.0.0",
+ "description": "Walter Lewin's For the Love of Physics — a physics appreciation toolkit from the MIT professor whose passionate lectures made physics accessible to millions, covering Newton's laws, electromagnetism, optics, astronomy, and the beauty of understanding the physical world.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/for-the-love-of-physics",
+ "useCase": "See the wonder in physics — understand rainbows, pendulums, electricity, and the universe through the eyes of a passionate teacher.",
+ "knownRisks": [
+  "In 2014, MIT found Lewin had sexually harassed a student — the book (2011) predates this. The physics teaching remains valuable; the author's misconduct should be acknowledged",
+  "The book is designed for general readers, not physics students — it prioritizes wonder over rigor",
+  "Some demonstrations described may be dangerous to replicate at home"
+ ],
+ "tags": ["physics", "science", "education", "curiosity", "astronomy", "electromagnetism", "optics", "mit", "teaching", "popular-science"],
+ "openclaw": {
+  "emoji": "⚡",
+  "category": "science"
+ }
+}
