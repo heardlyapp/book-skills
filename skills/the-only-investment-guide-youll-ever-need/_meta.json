@@ -1,0 +1,19 @@
+{
+ "name": "the-only-investment-guide-youll-ever-need",
+ "version": "1.0.0",
+ "description": "Andrew Tobias's The Only Investment Guide You'll Ever Need — a personal finance toolkit covering saving, investing, insurance, taxes, and spending, with a practical emphasis on low-cost index fund investing, diversification, and avoiding common financial mistakes.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-only-investment-guide-youll-ever-need",
+ "useCase": "Master the fundamentals of personal finance — build an emergency fund, invest in low-cost index funds, buy the right insurance, minimize taxes, and avoid the common mistakes that derail financial success.",
+ "knownRisks": [
+  "This book was first published in 1978 and has been updated multiple times — some specific tax and policy details may be outdated",
+  "Index fund investing assumes a long-term horizon and the discipline to hold through market downturns",
+  "Financial advice should be tailored to individual circumstances"
+ ],
+ "tags": ["finance", "investing", "personal-finance", "saving", "retirement", "insurance", "taxes", "index-funds", "wealth", "money"],
+ "openclaw": {
+  "emoji": "💰",
+  "category": "finance"
+ }
+}
