@@ -1,0 +1,19 @@
+{
+ "name": "poor-economics",
+ "version": "1.0.0",
+ "description": "Banerjee and Duflo's Poor Economics — a Nobel Prize-winning development economics toolkit using randomized controlled trials to test what works in fighting poverty: education, healthcare, microfinance, savings, governance, and the everyday decisions of the poor.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/poor-economics",
+ "useCase": "Understand evidence-based development economics — what actually works in fighting poverty, tested through randomized controlled trials.",
+ "knownRisks": [
+  "RCTs test narrow questions — the book does not address systemic issues like global inequality, trade policy, or climate change",
+  "The case for small, targeted interventions may underestimate the need for structural change",
+  "Some findings from specific contexts may not generalize globally"
+ ],
+ "tags": ["economics", "development", "poverty", "policy", "education", "health", "microfinance", "evidence", "social-science", "international"],
+ "openclaw": {
+  "emoji": "📊",
+  "category": "economics"
+ }
+}
