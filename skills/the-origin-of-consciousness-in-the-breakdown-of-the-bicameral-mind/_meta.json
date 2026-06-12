@@ -1,0 +1,19 @@
+{
+ "name": "the-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind",
+ "version": "1.0.0",
+ "description": "Julian Jaynes' The Origin of Consciousness in the Breakdown of the Bicameral Mind — a cognitive archaeology and consciousness studies toolkit proposing that before ~1000 BCE humans lacked subjective consciousness and operated with a 'bicameral' mind where right-hemisphere commands were experienced as the voices of gods.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind",
+ "useCase": "Understand the most provocative theory of consciousness — how the bicameral mind worked, when and why it broke down, and how modern vestiges reveal its traces.",
+ "knownRisks": [
+  "Jaynes' theory is not widely accepted in mainstream neuroscience or psychology",
+  "The evidence is largely circumstantial and interpretive",
+  "The theory has been criticized for oversimplifying ancient texts and neurology"
+ ],
+ "tags": ["psychology", "neuroscience", "philosophy", "history", "consciousness", "anthropology", "religion", "classics", "cognitive-science", "ancient-history"],
+ "openclaw": {
+  "emoji": "🧠",
+  "category": "psychology"
+ }
+}
