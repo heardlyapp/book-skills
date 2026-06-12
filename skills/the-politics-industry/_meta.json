@@ -1,0 +1,19 @@
+{
+ "name": "the-politics-industry",
+ "version": "1.0.0",
+ "description": "Katherine M. Gehl and Michael E. Porter's The Politics Industry — a strategic analysis toolkit that applies Porter's Five Forces to the U.S. political system, diagnosing America's political dysfunction as a duopoly problem and prescribing practical innovations to fix it.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-politics-industry",
+ "useCase": "Diagnose the structural causes of political gridlock, understand how the two-party duopoly suppresses competition, and evaluate reforms like Final-Five Voting and ranked-choice voting.",
+ "knownRisks": [
+  "The book focuses on U.S. federal politics — reforms may not apply to other political systems",
+  "Political reform is inherently contentious and progress is slow",
+  "The Porter Five Forces framework, while useful, is a simplification of complex political dynamics"
+ ],
+ "tags": ["politics", "government", "strategy", "reform", "democracy", "policy", "innovation", "elections", "voting", "leadership"],
+ "openclaw": {
+  "emoji": "🏛️",
+  "category": "politics"
+ }
+}
