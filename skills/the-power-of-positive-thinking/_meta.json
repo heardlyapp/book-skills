@@ -1,0 +1,19 @@
+{
+ "name": "the-power-of-positive-thinking",
+ "version": "1.0.0",
+ "description": "Norman Vincent Peale's The Power of Positive Thinking — a classic self-help and faith-based psychology toolkit teaching the transformative power of belief, prayer, affirmations, and visualization to overcome worry, fear, insecurity, and defeat, and achieve success and peace of mind.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-power-of-positive-thinking",
+ "useCase": "Learn the power of positive thinking — build self-confidence, break the worry habit, create happiness, and handle defeat through faith-based psychological techniques.",
+ "knownRisks": [
+  "The book has been criticized for oversimplifying complex psychological issues",
+  "The faith-based approach may not resonate with secular readers",
+  "Some critics argue positive thinking can become toxic positivity — denying legitimate problems"
+ ],
+ "tags": ["self-help", "religion", "psychology", "christianity", "motivation", "faith", "success", "optimism", "personal-development", "spirituality"],
+ "openclaw": {
+  "emoji": "🙏",
+  "category": "self-help"
+ }
+}
