@@ -1,24 +1,23 @@
 {
-  "name": "destiny-of-the-republic",
+  "name": "destiny-of-the-republic-a-tale-of-madness-medicine-and-the-murder-of-a-president",
   "version": "1.0.0",
-  "description": "Candice Millard's 'Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President' — the gripping story of President James Garfield's assassination and the medical malpractice that killed him. A tale of a brilliant president, a delusional assassin, Alexander Graham Bell, and the state of 1880s medicine that turned a survivable wound into a death sentence.",
+  "description": "Candice Millard's Destiny of the Republic — a medical history and political biography toolkit about President James Garfield's assassination: the delusional assassin Charles Guiteau, the medical malpractice by Dr. Bliss that killed Garfield, Alexander Graham Bell's failed attempt to save him with his metal detector invention, and the state of medicine in 1880s America.",
   "publisher": "heardlyapp",
   "license": "MIT",
   "tags": [
     "history",
-    "assassination",
-    "james-garfield",
-    "american-presidents",
-    "medicine",
-    "19th-century",
     "biography",
-    "political-history",
-    "alexander-graham-bell",
+    "medicine",
+    "politics",
+    "presidents",
     "crime",
-    "true-crime"
+    "science",
+    "journalism",
+    "19th-century",
+    "murder"
   ],
   "openclaw": {
-    "emoji": "🔫",
+    "emoji": "🇺🇸",
     "category": "history"
   }
 }

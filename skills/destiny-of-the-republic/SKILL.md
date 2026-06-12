@@ -1,5 +1,5 @@
 ---
-name: destiny-of-the-republic
+name: destiny-of-the-republic-a-tale-of-madness-medicine-and-the-murder-of-a-president
 description: "Candice Millard's 'Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President' — the gripping story of President James Garfield's assassination and the medical malpractice that killed him. A tale of a brilliant president, a delusional assassin, a pioneering inventor (Alexander Graham Bell), and the state of medicine in the 1880s that turned a survivable bullet wound into a death sentence."
 version: 1.0.0
 license: MIT
