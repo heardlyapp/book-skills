@@ -1,0 +1,19 @@
+{
+ "name": "the-hot-zone",
+ "version": "1.0.0",
+ "description": "Richard Preston's The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus — a science thriller and pandemic preparedness toolkit about filoviruses (Ebola, Marburg), the Reston incident, Level 4 biosafety, and the hot zones where nature's deadliest pathogens cross into human populations.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/the-hot-zone",
+ "useCase": "Understand the emergence of filoviruses (Ebola, Marburg), how they kill, what Level 4 containment means, and how close we have already come to a devastating pandemic.",
+ "knownRisks": [
+  "The book contains graphic medical descriptions that may be distressing or traumatic",
+  "Some details have been debated by scientists — Preston's narrative style prioritizes drama over dry accuracy",
+  "The book focuses on rare, dramatic viruses — the threat of more common diseases (malaria, tuberculosis) is far greater but less dramatic"
+ ],
+ "tags": ["science", "medicine", "biology", "virology", "pandemic", "nonfiction-thriller", "ebola", "public-health", "history-of-science", "disease"],
+ "openclaw": {
+  "emoji": "🦠",
+  "category": "science"
+ }
+}
