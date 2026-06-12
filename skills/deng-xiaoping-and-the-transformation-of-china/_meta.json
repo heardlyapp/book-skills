@@ -1,0 +1,19 @@
+{
+ "name": "deng-xiaoping-and-the-transformation-of-china",
+ "version": "1.0.0",
+ "description": "Ezra F. Vogel's Deng Xiaoping and the Transformation of China — a leadership biography chronicling Deng's role in transforming China from a poor, isolated country after Mao into a global economic superpower through market reforms, the Four Modernizations, and his pragmatic approach.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/deng-xiaoping-and-the-transformation-of-china",
+ "useCase": "Understand Deng Xiaoping's life and leadership — how his pragmatic reforms transformed China's economy and society.",
+ "knownRisks": [
+  "The book covers Tiananmen up to 1989 — the account is criticized by human rights advocates for not being more condemnatory",
+  "Vogel was criticized by some for being too sympathetic to Deng",
+  "The 1992 Southern Tour and post-1989 reform acceleration is compressed"
+ ],
+ "tags": ["history", "biography", "china", "politics", "economics", "asia", "communism", "leadership", "20th-century", "reform"],
+ "openclaw": {
+  "emoji": "🇨🇳",
+  "category": "history"
+ }
+}
