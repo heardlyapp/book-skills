@@ -1,0 +1,19 @@
+{
+ "name": "neuro-linguistic-programming-for-dummies",
+ "version": "1.0.0",
+ "description": "Romilla Ready and Kate Burton's Neuro-linguistic Programming For Dummies — an NLP toolkit covering rapport, anchoring, reframing, Meta Model, Milton Model, submodalities, timelines, and techniques for personal change and effective communication.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/neuro-linguistic-programming-for-dummies",
+ "useCase": "Learn the foundations of NLP — rapport building, anchoring, reframing, and the Meta Model for personal change and better communication.",
+ "knownRisks": [
+  "NLP is controversial — some techniques lack rigorous scientific evidence",
+  "The field has been criticized for pseudoscientific claims and overpromising",
+  "Some NLP techniques (like eye accessing cues) are not universally reliable"
+ ],
+ "tags": ["psychology", "communication", "self-improvement", "nlp", "therapy", "coaching", "personal-development", "language", "persuasion", "hypnosis"],
+ "openclaw": {
+  "emoji": "🧠",
+  "category": "psychology"
+ }
+}
