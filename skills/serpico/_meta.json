@@ -1,0 +1,19 @@
+{
+  "name": "serpico",
+  "version": "1.0.0",
+  "description": "Peter Maas's true story of Frank Serpico, the NYPD detective who took on systemic police corruption alone — integrity, betrayal, the blue wall of silence, and the Knapp Commission.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/serpico",
+  "useCase": "Learn how one whistleblower exposed NYPD corruption, the blue wall of silence, and the personal cost of integrity. Lessons for anyone facing ethical choices in a corrupt system.",
+  "knownRisks": [
+    "Contains graphic violence and police corruption",
+    "Depicts events from the 1960s-70s",
+    "May be triggering for those who have experienced institutional betrayal"
+  ],
+  "tags": ["true-crime", "police", "corruption", "whistleblower", "nypd", "knapp-commission", "integrity", "biography", "peter-maas", "frank-serpico"],
+  "openclaw": {
+    "emoji": "👮",
+    "category": "true-crime"
+  }
+}
