@@ -1,0 +1,18 @@
+{
+  "name": "the-perfectionists-how-precision-engineers-created-the-modern-world",
+  "version": "1.0.0",
+  "description": "Simon Winchester's history of precision engineering — from John Wilkinson's cannon borer to GPS, how the quest for accuracy created the modern world.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-perfectionists-how-precision-engineers-created-the-modern-world",
+  "useCase": "Understand how precision engineering shaped history and how the pursuit of accuracy drives progress.",
+  "knownRisks": [
+    "Complex technical history — may require basic understanding of engineering concepts",
+    "Covers multiple centuries and disciplines"
+  ],
+  "tags": ["engineering", "history", "precision", "technology", "science", "invention", "manufacturing", "measurement", "innovation", "standards"],
+  "openclaw": {
+    "emoji": "🔧",
+    "category": "science"
+  }
+}
