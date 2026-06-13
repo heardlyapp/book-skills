@@ -1,0 +1,19 @@
+{
+  "name": "prepared-for-the-worst-selected-essays-and-minority-reports",
+  "version": "1.0.0",
+  "description": "Christopher Hitchens' essays on politics, literature, religion, and culture — showcasing the polemical style and contrarian brilliance of one of the 20th century's greatest public intellectuals.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/prepared-for-the-worst-selected-essays-and-minority-reports",
+  "useCase": "Understand the art of polemical writing, political and literary criticism, and the role of the public intellectual through Hitchens' essays.",
+  "knownRisks": [
+    "Essay collection — not a single argument but many",
+    "Some political references are dated",
+    "Hitchens' strong opinions may be controversial"
+  ],
+  "tags": ["essays", "politics", "literature", "criticism", "journalism", "public-intellectual", "polemic", "contrarian", "christopher-hitchens", "writing"],
+  "openclaw": {
+    "emoji": "✍️",
+    "category": "writing"
+  }
+}
