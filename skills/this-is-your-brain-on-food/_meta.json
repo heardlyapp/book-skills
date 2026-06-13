@@ -1,0 +1,30 @@
+{
+  "name": "this-is-your-brain-on-food",
+  "version": "1.0.0",
+  "description": "Dr. Uma Naidoo's nutritional psychiatry guide \u2014 how food affects depression, anxiety, PTSD, ADHD, OCD, dementia, insomnia, and bipolar disorder.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/this-is-your-brain-on-food",
+  "useCase": "Understand how food affects mental health and use targeted nutrition to support specific conditions.",
+  "knownRisks": [
+    "Not a substitute for professional medical treatment",
+    "Individual responses to dietary changes vary",
+    "Some supplements can interact with medications"
+  ],
+  "tags": [
+    "nutrition",
+    "mental-health",
+    "brain",
+    "health",
+    "food",
+    "gut-health",
+    "psychiatry",
+    "wellness",
+    "depression",
+    "anxiety"
+  ],
+  "openclaw": {
+    "emoji": "\ud83e\udd57",
+    "category": "health"
+  }
+}
