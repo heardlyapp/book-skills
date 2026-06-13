@@ -1,0 +1,19 @@
+{
+  "name": "the-science-of-leonardo-inside-the-mind-of-the-great-genius-of-the-renaissance",
+  "version": "1.0.0",
+  "description": "Fritjof Capra's revelatory look at Leonardo da Vinci as a scientist — his observation-based method, study of patterns, water, flight, anatomy, and a systems view of nature that foreshadows modern ecology.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-science-of-leonardo-inside-the-mind-of-the-great-genius-of-the-renaissance",
+  "useCase": "Understand Leonardo da Vinci's scientific method — observation, pattern recognition, and systems thinking — and how it differs from modern mechanistic science.",
+  "knownRisks": [
+    "Capra's interpretation differs from mainstream Leonardo scholarship",
+    "Some may find the systems-thinking emphasis too modernizing",
+    "Assumes interest in both art and science"
+  ],
+  "tags": ["leonardo-da-vinci", "science", "art", "renaissance", "biography", "systems-thinking", "creativity", "observation", "patterns-in-nature", "fritjof-capra"],
+  "openclaw": {
+    "emoji": "🎨",
+    "category": "science"
+  }
+}
