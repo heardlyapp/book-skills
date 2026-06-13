@@ -1,0 +1,18 @@
+{
+  "name": "road-to-heaven-encounters-with-chinese-hermits",
+  "version": "1.0.0",
+  "description": "Bill Porter's (Red Pine) Road to Heaven — a journey into China's ancient hermit tradition in the Chungnan Mountains.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/road-to-heaven-encounters-with-chinese-hermits",
+  "useCase": "Understand China's five-thousand-year hermit tradition and what solitude, simplicity, and silence teach us.",
+  "knownRisks": [
+    "Content discusses traditional Chinese spiritual practices within a modern political context",
+    "Some readers may find descriptions of extreme solitude challenging"
+  ],
+  "tags": ["china", "hermits", "spirituality", "buddhism", "taoism", "philosophy", "solitude", "travel", "culture", "meditation"],
+  "openclaw": {
+    "emoji": "🏔️",
+    "category": "philosophy"
+  }
+}
