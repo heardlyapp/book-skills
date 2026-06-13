@@ -1,0 +1,19 @@
+{
+  "name": "the-optimal-dose-restore-your-health-with-the-power-of-vitamin-d3",
+  "version": "1.0.0",
+  "description": "Dr. Judson Somerville's guide to optimal vitamin D3 supplementation for immune health, sleep, metabolic function, and overall wellness.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-optimal-dose-restore-your-health-with-the-power-of-vitamin-d3",
+  "useCase": "Understand optimal vitamin D3 dosing and how to restore health through proper supplementation.",
+  "knownRisks": [
+    "Not a substitute for medical advice — consult your doctor before changing supplement regimen",
+    "High-dose vitamin D requires monitoring to avoid hypercalcemia",
+    "Individual needs vary based on genetics, geography, and health status"
+  ],
+  "tags": ["vitamin-d", "nutrition", "supplements", "health", "immunity", "sleep", "wellness", "d3", "hormones", "metabolism"],
+  "openclaw": {
+    "emoji": "☀️",
+    "category": "health"
+  }
+}
