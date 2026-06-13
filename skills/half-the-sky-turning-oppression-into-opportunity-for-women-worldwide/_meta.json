@@ -1,0 +1,19 @@
+{
+  "name": "half-the-sky-turning-oppression-into-opportunity-for-women-worldwide",
+  "version": "1.0.0",
+  "description": "Nicholas Kristof and Sheryl WuDunn's landmark investigation into the oppression of women worldwide — sex trafficking, gender violence, maternal mortality — and the proven solutions that empower women and transform communities.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/half-the-sky-turning-oppression-into-opportunity-for-women-worldwide",
+  "useCase": "Understand the scale of global women's oppression and the most effective ways to empower women through education, microfinance, healthcare, and legal reform.",
+  "knownRisks": [
+    "Contains disturbing accounts of violence and abuse",
+    "Some may disagree with the authors' policy recommendations",
+    "Statistics are from 2009 — some data has changed"
+  ],
+  "tags": ["women's-rights", "gender-equality", "human-rights", "development", "sex-trafficking", "education", "microfinance", "maternal-health", "social-justice", "nonfiction"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "society"
+  }
+}
