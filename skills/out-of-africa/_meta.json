@@ -1,0 +1,19 @@
+{
+  "name": "out-of-africa",
+  "version": "1.0.0",
+  "description": "Isak Dinesen's memoir of seventeen years on a coffee farm in colonial Kenya — a meditation on loss, belonging, nature, and the complexity of love across cultures.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/out-of-africa",
+  "useCase": "Explore Isak Dinesen's life in Kenya — her relationships with the Kikuyu, her love for Denys Finch Hatton, her profound connection to the African landscape, and how she transformed loss into literary art.",
+  "knownRisks": [
+    "Depicts colonial Africa from a European perspective",
+    "Some readers may find the colonial context uncomfortable",
+    "Does not represent African voices directly"
+  ],
+  "tags": ["memoir", "africa", "kenya", "nature", "colonial", "love", "loss", "classic", "isak-dinesen", "karen-blixen"],
+  "openclaw": {
+    "emoji": "📖",
+    "category": "literature"
+  }
+}
