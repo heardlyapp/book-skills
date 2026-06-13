@@ -1,0 +1,19 @@
+{
+  "name": "the-art-of-gathering-how-we-meet-and-why-it-matters",
+  "version": "1.0.0",
+  "description": "Priya Parker's guide to creating meaningful gatherings — meetings, dinners, parties, weddings — with bold purpose, generous authority, deliberate design, and memorable closings.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-art-of-gathering-how-we-meet-and-why-it-matters",
+  "useCase": "Design gatherings that matter — with clear purpose, intentional hosting, well-chosen guests, and memorable structure.",
+  "knownRisks": [
+    "Some recommendations (exclusion, controversy) may feel counterintuitive",
+    "Not a logistic manual — focuses on psychology and design",
+    "Requires courage to implement — being a chill host is easier"
+  ],
+  "tags": ["gathering", "hosting", "meetings", "event-design", "leadership", "community", "facilitation", "connection", "purpose", "hospitality"],
+  "openclaw": {
+    "emoji": "🎪",
+    "category": "lifestyle"
+  }
+}
