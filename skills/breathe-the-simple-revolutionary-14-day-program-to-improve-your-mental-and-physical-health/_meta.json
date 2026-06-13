@@ -1,0 +1,19 @@
+{
+  "name": "breathe-the-simple-revolutionary-14-day-program-to-improve-your-mental-and-physical-health",
+  "version": "1.0.0",
+  "description": "Dr. Belisa Vranich's breathing retraining program — a 14-day protocol to correct dysfunctional breathing patterns using anatomy, neuroscience, and daily practice.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/breathe-the-simple-revolutionary-14-day-program-to-improve-your-mental-and-physical-health",
+  "useCase": "Learn correct breathing, reduce anxiety, improve athletic performance, and retrain your respiratory system in 14 days.",
+  "knownRisks": [
+    "Not a substitute for medical treatment for diagnosed respiratory conditions",
+    "Breathing exercises may cause initial lightheadedness",
+    "Consult a physician before starting if you have serious respiratory issues"
+  ],
+  "tags": ["breathing", "health", "anxiety", "wellness", "fitness", "meditation", "resilience", "self-help", "neuroscience", "sleep"],
+  "openclaw": {
+    "emoji": "🌬️",
+    "category": "health"
+  }
+}
