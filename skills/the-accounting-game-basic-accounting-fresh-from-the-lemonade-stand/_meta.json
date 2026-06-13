@@ -1,0 +1,18 @@
+{
+  "name": "the-accounting-game-basic-accounting-fresh-from-the-lemonade-stand",
+  "version": "1.0.0",
+  "description": "Darrell Mullis and Judith Orloff's The Accounting Game — learn accounting through the lemonade stand method.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-accounting-game-basic-accounting-fresh-from-the-lemonade-stand",
+  "useCase": "Learn the basics of accounting — balance sheet, income statement, cash flow — through the lemonade stand analogy.",
+  "knownRisks": [
+    "Simplified examples may not cover complex corporate accounting scenarios",
+    "Tax regulations and accounting standards vary by country"
+  ],
+  "tags": ["accounting", "finance", "business", "entrepreneurship", "financial-literacy", "bookkeeping", "management", "education", "money", "startup"],
+  "openclaw": {
+    "emoji": "🍋",
+    "category": "business"
+  }
+}
