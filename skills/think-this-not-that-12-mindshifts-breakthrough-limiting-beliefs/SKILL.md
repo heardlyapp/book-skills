@@ -37,7 +37,7 @@ A belief is a mental certainty that something is true. Beliefs are like tabletop
 
 **Case — The memory transplant:** Axe's high school teacher Mrs. Nobel laughed at his dream of becoming a doctor. Her words, combined with his 2.3 GPA and ADHD diagnosis, created a powerful limiting belief. Years later, college teacher Mrs. Williams gave him an A+ on his first paper and said, "Have you ever thought about becoming a writer?" Axe calls this a "memory transplant" — consciously replacing a false narrative with a true one. He put the A+ paper on his bathroom mirror so he saw it every day. After the summer program, he finished with a 3.5 GPA, got accepted into the University of Kentucky, and maintained high grades throughout undergrad.
 
-**Case — The nocebo effect (cited in the book):** A 1970s patient was diagnosed with end-stage liver cancer and told he had months to live. He died within the predicted time frame. The autopsy revealed only a small, localized tumor that was not life-threatening. Doctors had been wrong, but his belief that he was dying killed him anyway. Axe also describes a patient in his clinic who was wheelchair-bound with what doctors said was multiple sclerosis. He discovered she actually had mold toxicity. Within days of the correct diagnosis, she walked again. Her new belief acted as medicine for the mind.
+**Case — The nocebo effect:** A 1970s patient was diagnosed with end-stage liver cancer and told he had months to live. He died within the predicted time frame. The autopsy revealed only a small, localized tumor that was not life-threatening. Doctors had been wrong, but his belief that he was dying killed him anyway. Axe also describes a patient in his clinic who was wheelchair-bound with what doctors said was multiple sclerosis. He discovered she actually had mold toxicity. Within days of the correct diagnosis, she walked again. Her new belief acted as medicine for the mind.
 
 **Case — Jamie Kern Lima (IT Cosmetics):** One potential investor told Lima that "no one would want to buy makeup from someone who looked like her." She chose to believe otherwise. In 2016, L'Oréal bought IT Cosmetics for $1.2 billion. Lima became the first female CEO in L'Oréal's 108-year history.
 
@@ -51,7 +51,7 @@ Most people measure success by external markers: money, status, titles, possessi
 
 **Case — Lance Armstrong:** The most influential athlete in America in 2010 — until the doping scandal cost him his career, sponsorships, reputation, and personal relationships. Axe's point: "When you accumulate accomplishments while ignoring your character, it's like building a house on sand."
 
-**Case — Steve Jobs' regrets:** Jobs left behind a $10.2 billion fortune and world-changing innovations, but told his biographer: "I wanted my kids to know me. I wasn't always there for them." Research cited: a *Journal of Research in Personality* study tracked 147 college graduates; those who valued material goals over relationships had less life satisfaction.
+**Case — Steve Jobs' regrets:** Jobs left behind a $10.2 billion fortune and world-changing innovations, but told his biographer: "I wanted my kids to know me. I wasn't always there for them." Research cited in the book: a *Journal of Research in Personality* study tracked 147 college graduates; those who valued material goals over relationships had less life satisfaction.
 
 ---
 
@@ -91,9 +91,9 @@ Most people live as victims — "it's not my fault," "I'm stuck," "nothing I can
 
 Axe identifies three foundations for identity: modern (self-focused, based on feelings and culture — building on sand), traditional (based on family, duty, heritage — building on soil), and divine (based on higher power and unchanging principles — building on stone). He then introduces the seven divine virtues (wisdom, justice, self-control, courage, faith, hope, love) and the opposite seven vices (pride, envy, wrath, greed, lust, gluttony, sloth).
 
-**Case — Virtue-building practice:** Axe identified encouragement as a virtue he lacked. He made an index card with "encouragement" on one side and Bible verses and quotes on the other. He practiced saying encouraging words in every conversation. "At first, it was uncomfortable." After a few months, multiple people told him he "seemed like a different person." The virtue became a habit.
+**Case — Virtue-building practice:** Axe identified encouragement as a virtue he lacked. He made an index card with "encouragement" on one side and Bible verses and quotes on the other. He practiced saying encouraging words in every conversation. "At first, it was uncomfortable." After a few months, multiple people told him he "seemed like a different person."
 
-**Case — Financial principles learned from Dave Ramsey and Jordan Rubin:** After losing his savings, Axe sought advice from financially wise mentors. The principles: get out of debt, give 10 percent, invest 10 percent into real estate or stocks. Simple but profound.
+**Case — Financial principles from Dave Ramsey and Jordan Rubin:** After losing his savings, Axe sought advice from financially wise mentors. The principles: get out of debt, give 10 percent, invest 10 percent into real estate or stocks.
 
 **Case — Warren Buffett and Michael Burry:** Axe cites Buffett who ignores media hype and invests based on simple principles. Burry recognized in 2008 that basic economic principles were being violated; his principled analysis grew his investors' wealth by $700 million.
 
@@ -101,13 +101,13 @@ Axe identifies three foundations for identity: modern (self-focused, based on fe
 
 ### 7. Flip Fear, Visualize, Persevere Positively
 
-Fear is not the enemy — letting it stop you is. Axe differentiates fear-based mindset (threatened by others' success, sees failure as the end) from flourishing mindset (grows from failure, prioritizes process over perfection). He then introduces "positive perseverance": a fusion of hope (Snyder's three components: goals, pathways, agency), grit (Angela Duckworth's research), and gratitude (UC San Diego heart study showing gratitude improves health outcomes).
+Fear is not the enemy — letting it stop you is. Axe differentiates fear-based mindset (threatened by others' success, sees failure as the end) from flourishing mindset (grows from failure, prioritizes process over perfection). He introduces positive perseverance: a fusion of hope (Snyder's three components: goals, pathways, agency), grit (Angela Duckworth's research), and gratitude (UC San Diego heart study showing gratitude improves health outcomes).
 
-**Case — Axe's spinal infection:** After a stem cell procedure went wrong, Axe was diagnosed with a spinal infection causing osteomyelitis. He couldn't walk. Doctors said he might never fully recover, could be permanently disabled, or could die. He spent a year learning to walk again — crawling first, then shuffling with a walker, then walking. He lost 40 pounds. He chose hope, grit, and gratitude. "Instead of feeling pity for myself, I strove to rise above my feelings."
+**Case — Axe's spinal infection:** After a stem cell procedure went wrong, Axe was diagnosed with a spinal infection causing osteomyelitis. He couldn't walk. Doctors said he might never fully recover, could be permanently disabled, or could die. He spent a year learning to walk again — crawling first, then shuffling with a walker, then walking. He lost 40 pounds. He chose hope, grit, and gratitude.
 
 **Case — Sara Blakely (Spanx):** Her father encouraged her to celebrate failures. When she came home with a D, he asked: "What did you learn?" This reframe allowed her to persist through constant rejection and build a billion-dollar company. She credits visualization as "a top determining factor of SPANX's success."
 
-**Case — Carol Dweck's fifth graders (cited in the book):** Children praised for effort outperformed those praised for intelligence on difficult problems. The effort-praised group saw failure as motivation. This is the essence of the flourishing mindset.
+**Case — Carol Dweck's fifth graders:** Children praised for effort outperformed those praised for intelligence on difficult problems. The effort-praised group saw failure as motivation. This is the essence of the flourishing mindset.
 
 **Case — Deion Sanders:** Two-time Super Bowl champion who attempted suicide at the height of his success. After surviving, he turned to coaching — teaching young men character, honor, and responsibility at the University of Colorado. His message: "You send us a boy, we'll send you back a man."
 
