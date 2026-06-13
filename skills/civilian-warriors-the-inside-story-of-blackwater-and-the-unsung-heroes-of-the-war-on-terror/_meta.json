@@ -1,0 +1,19 @@
+{
+  "name": "civilian-warriors-the-inside-story-of-blackwater-and-the-unsung-heroes-of-the-war-on-terror",
+  "version": "1.0.0",
+  "description": "Erik Prince's account of building Blackwater from a swamp training facility to the world's most controversial private security company.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/civilian-warriors-the-inside-story-of-blackwater-and-the-unsung-heroes-of-the-war-on-terror",
+  "useCase": "Understand private security contracting, crisis management in war zones, and what happens when a company becomes a political target.",
+  "knownRisks": [
+    "Content discusses politically and legally controversial topics",
+    "Author's perspective is strongly partisan",
+    "Some sections redacted by CIA review"
+  ],
+  "tags": ["security", "military", "blackwater", "government", "contracting", "war", "iraq", "crisis-management", "leadership", "entrepreneurship"],
+  "openclaw": {
+    "emoji": "🛡️",
+    "category": "business"
+  }
+}
