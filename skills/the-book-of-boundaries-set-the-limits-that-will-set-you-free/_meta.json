@@ -1,0 +1,19 @@
+{
+  "name": "the-book-of-boundaries-set-the-limits-that-will-set-you-free",
+  "version": "1.0.0",
+  "description": "Melissa Urban's practical guide to setting boundaries with scripts — specific language for family, work, relationships, and digital life. Stop people-pleasing and start living free.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-book-of-boundaries-set-the-limits-that-will-set-you-free",
+  "useCase": "Learn to set and maintain healthy boundaries in every area of life using scripts, Mirror and Shine, and self-boundary practices.",
+  "knownRisks": [
+    "Some scripts may feel unnatural at first",
+    "Boundaries may upset people used to unlimited access",
+    "Cultural differences may affect boundary expectations"
+  ],
+  "tags": ["boundaries", "self-help", "relationships", "communication", "people-pleasing", "mental-health", "assertiveness", "self-care", "parenting", "work-life-balance"],
+  "openclaw": {
+    "emoji": "🚧",
+    "category": "self-improvement"
+  }
+}
