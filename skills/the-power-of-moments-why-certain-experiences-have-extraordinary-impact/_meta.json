@@ -1,0 +1,19 @@
+{
+  "name": "the-power-of-moments-why-certain-experiences-have-extraordinary-impact",
+  "version": "1.0.0",
+  "description": "Chip and Dan Heath's guide to creating memorable, defining moments — the EPIC framework of Elevation, Insight, Pride, and Connection for designing extraordinary experiences.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-power-of-moments-why-certain-experiences-have-extraordinary-impact",
+  "useCase": "Design memorable experiences — in work, customer service, events, relationships — using the EPIC framework of Elevation, Insight, Pride, and Connection.",
+  "knownRisks": [
+    "Some examples are US-centric",
+    "Requires intentional effort — not a passive read",
+    "Over-designing moments can feel forced"
+  ],
+  "tags": ["psychology", "experience-design", "customer-experience", "leadership", "creativity", "memory", "peak-experiences", "employee-recognition", "event-design", "behavioral-science"],
+  "openclaw": {
+    "emoji": "✨",
+    "category": "psychology"
+  }
+}
