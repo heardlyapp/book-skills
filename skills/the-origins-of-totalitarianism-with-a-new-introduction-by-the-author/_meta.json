@@ -1,0 +1,19 @@
+{
+  "name": "the-origins-of-totalitarianism-with-a-new-introduction-by-the-author",
+  "version": "1.0.0",
+  "description": "Hannah Arendt's foundational analysis of Nazism and Stalinism — tracing the roots of totalitarianism through antisemitism, imperialism, and the breakdown of the nation-state.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-origins-of-totalitarianism-with-a-new-introduction-by-the-author",
+  "useCase": "Understand how totalitarian movements arise — the roles of antisemitism, imperialism, mass society, isolation, and ideological terror.",
+  "knownRisks": [
+    "Dense academic text — requires careful reading",
+    "Some historical details have been updated since publication",
+    "Arendt's views on antisemitism have been debated"
+  ],
+  "tags": ["political-theory", "totalitarianism", "history", "hannah-arendt", "nazism", "stalinism", "antisemitism", "imperialism", "human-rights", "philosophy"],
+  "openclaw": {
+    "emoji": "📚",
+    "category": "politics"
+  }
+}
