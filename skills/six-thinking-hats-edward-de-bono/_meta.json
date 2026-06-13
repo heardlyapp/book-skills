@@ -1,0 +1,30 @@
+{
+  "name": "six-thinking-hats-edward-de-bono",
+  "version": "1.0.0",
+  "description": "Edward de Bono's Six Thinking Hats \u2014 the parallel thinking framework that separates emotion from logic, creativity from information, and criticism from optimism.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/six-thinking-hats",
+  "useCase": "Run better meetings, make better decisions, and generate creative ideas using structured parallel thinking.",
+  "knownRisks": [
+    "Simple framework may be dismissed as too basic by those who prefer complexity",
+    "Requires discipline to use correctly \u2014 everyone must use each hat in sequence",
+    "Hats should not be used as personality labels"
+  ],
+  "tags": [
+    "thinking",
+    "creativity",
+    "meetings",
+    "decision-making",
+    "problem-solving",
+    "leadership",
+    "communication",
+    "productivity",
+    "innovation",
+    "management"
+  ],
+  "openclaw": {
+    "emoji": "\ud83c\udfa9",
+    "category": "self-improvement"
+  }
+}
