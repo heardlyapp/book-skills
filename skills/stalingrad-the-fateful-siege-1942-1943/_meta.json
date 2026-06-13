@@ -1,0 +1,19 @@
+{
+ "name": "stalingrad-the-fateful-siege-1942-1943",
+ "version": "1.0.0",
+ "description": "Antony Beevor's Stalingrad: The Fateful Siege: 1942-1943 — the definitive account of the battle that broke the back of the Third Reich. Covers strategic hubris, urban combat tactics (Rattenkrieg), Operation Uranus encirclement, command failure, and the human cost of total war.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/stalingrad-the-fateful-siege-1942-1943",
+ "useCase": "Understand the Battle of Stalingrad — strategic lessons, urban warfare tactics, leadership failure, encirclement dynamics, and human endurance under extreme conditions.",
+ "knownRisks": [
+  "May oversimplify complex strategic decisions if not cross-referenced with primary sources",
+  "Rattenkrieg tactics are context-specific to Stalingrad's rubble terrain — not directly transferable to all urban warfare",
+  "Some statistics are debated among historians (exact prisoner count, Hiwis numbers)"
+ ],
+ "tags": ["stalingrad", "world-war-ii", "military-history", "eastern-front", "urban-warfare", "leadership", "strategy", "history"],
+ "openclaw": {
+  "emoji": "🔥",
+  "category": "history"
+ }
+}
