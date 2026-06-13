@@ -1,0 +1,19 @@
+{
+  "name": "value-proposition-design-how-to-create-products-and-services-customers-want",
+  "version": "1.0.0",
+  "description": "Alexander Osterwalder's guide to the Value Proposition Canvas — map customers' jobs, pains, and gains, then design products that fit.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/value-proposition-design-how-to-create-products-and-services-customers-want",
+  "useCase": "Design products and services customers actually want using the Value Proposition Canvas and fit methodology.",
+  "knownRisks": [
+    "Simplifies complex product development into a two-sided canvas",
+    "Customer discovery requires real interviews, not just desk research",
+    "Fit is harder to achieve than the framework suggests"
+  ],
+  "tags": ["product-design", "innovation", "customer-development", "lean-startup", "ux", "strategy", "value-proposition", "design-thinking", "entrepreneurship"],
+  "openclaw": {
+    "emoji": "🎯",
+    "category": "business"
+  }
+}
