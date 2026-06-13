@@ -1,0 +1,19 @@
+{
+  "name": "american-savage-insights-slights-and-fights-on-faith-sex-love-and-politics",
+  "version": "1.0.0",
+  "description": "Dan Savage's provocative collection of essays on sex, relationships, gay rights, parenting, and the culture wars — from the creator of the It Gets Better Project.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/american-savage-insights-slights-and-fights-on-faith-sex-love-and-politics",
+  "useCase": "Understand Dan Savage's perspectives on sex ethics, LGBTQ rights, parenting, and political activism with humor and compassion.",
+  "knownRisks": [
+    "Contains explicit sexual content and strong opinions",
+    "Some may find Savage's views on monogamy controversial",
+    "Essay collection — not a systematic guide"
+  ],
+  "tags": ["sex-advice", "lgbtq", "memoir", "politics", "relationships", "parenting", "culture-wars", "gay-rights", "marriage-equality", "it-gets-better"],
+  "openclaw": {
+    "emoji": "🇺🇸",
+    "category": "society"
+  }
+}
