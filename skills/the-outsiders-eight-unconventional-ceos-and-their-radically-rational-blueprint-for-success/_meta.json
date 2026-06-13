@@ -1,0 +1,19 @@
+{
+  "name": "the-outsiders-eight-unconventional-ceos-and-their-radically-rational-blueprint-for-success",
+  "version": "1.0.0",
+  "description": "William Thorndike's study of eight unconventional CEOs who created extraordinary shareholder value through superior capital allocation — buybacks, acquisitions, and disciplined rationality.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-outsiders-eight-unconventional-ceos-and-their-radically-rational-blueprint-for-success",
+  "useCase": "Learn capital allocation from the best CEOs — how to deploy cash, when to buy back shares, when to acquire, and how to think like an outsider CEO.",
+  "knownRisks": [
+    "Case studies may be difficult to replicate directly",
+    "Capital allocation requires long time horizons",
+    "Some strategies (buybacks) are controversial"
+  ],
+  "tags": ["business", "ceo", "capital-allocation", "value-investing", "management", "shareholder-value", "leadership", "buybacks", "william-thorndike", "outsider-ceos"],
+  "openclaw": {
+    "emoji": "📊",
+    "category": "business"
+  }
+}
