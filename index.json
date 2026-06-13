@@ -8482,7 +8482,23 @@
         "sleep"
       ],
       "updated": "2026-06-13"
+    },
+    {
+      "slug": "secrets-of-power-negotiating-inside-secrets-from-a-master-negotiator",
+      "title": "Roger Dawson's Secrets of Power Negotiating \u2014 an executable toolkit that translates any negotiation situation into the Gambits framework (Beginning \u2192 Middle \u2192 Ending) and applies pressure points, power dynamics, and the Power Negotiator's Creed.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "negotiation",
+        "business",
+        "sales",
+        "communication",
+        "persuasion",
+        "conflict-resolution",
+        "salary-negotiation"
+      ],
+      "updated": "2026-06-13"
     }
   ],
-  "total_skills": 466
+  "total_skills": 468
 }
