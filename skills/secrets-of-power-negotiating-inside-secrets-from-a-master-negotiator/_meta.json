@@ -1,0 +1,20 @@
+{
+ "name": "secrets-of-power-negotiating-inside-secrets-from-a-master-negotiator",
+ "version": "1.0.0",
+ "description": "Roger Dawson's Secrets of Power Negotiating — an executable toolkit that translates any negotiation situation into the Gambits framework (Beginning → Middle → Ending) and applies pressure points, power dynamics, and the Power Negotiator's Creed to get the best deal while leaving the other side feeling they won.",
+ "publisher": "heardlyapp",
+ "license": "MIT",
+ "homepage": "https://clawhub.ai/heardlyapp/secrets-of-power-negotiating-inside-secrets-from-a-master-negotiator",
+ "useCase": "Real-world negotiation skills for sales, purchasing, salary negotiation, real estate, business deals, and conflict resolution — covering 50+ Gambits, 10 power sources, and 3-tier conflict resolution (impasse/stalemate/deadlock).",
+ "knownRisks": [
+  "Some Gambits (Decoy, Deliberate Mistake, Escalation) are unethical — the AI should flag them as such before teaching.",
+  "Good Guy/Bad Guy and Higher Authority can damage trust if overused or detected.",
+  "Cross-cultural differences: Gambits that work in American culture may backfire in high-context cultures (Japan, Middle East).",
+  "The Flinch technique can offend if done theatrically — the AI should teach it as a subtle reaction, not a performance."
+ ],
+ "tags": ["negotiation", "business", "sales", "communication", "persuasion"],
+ "openclaw": {
+  "emoji": "🤝",
+  "category": "business"
+ }
+}
