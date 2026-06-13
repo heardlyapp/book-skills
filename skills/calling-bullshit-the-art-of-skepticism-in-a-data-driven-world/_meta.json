@@ -1,0 +1,19 @@
+{
+  "name": "calling-bullshit-the-art-of-skepticism-in-a-data-driven-world",
+  "version": "1.0.0",
+  "description": "Carl Bergstrom and Jevin West's practical guide to critical thinking in the age of data — spotting statistical nonsense, misleading graphs, and misinformation that masquerades as science.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/calling-bullshit-the-art-of-skepticism-in-a-data-driven-world",
+  "useCase": "Develop the critical thinking skills to spot, analyze, and refute bullshit in scientific claims, news, advertising, and social media.",
+  "knownRisks": [
+    "Some examples may be politically charged",
+    "Repeated emphasis on skepticism could lead to cynicism",
+    "Not a substitute for formal statistical training"
+  ],
+  "tags": ["critical-thinking", "statistics", "misinformation", "data-literacy", "skepticism", "science", "media-literacy", "fake-news", "logical-fallacies", "rationality"],
+  "openclaw": {
+    "emoji": "🚨",
+    "category": "thinking"
+  }
+}
