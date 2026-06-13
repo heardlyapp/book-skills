@@ -1,0 +1,19 @@
+{
+  "name": "my-stroke-of-insight-a-brain-scientists-personal-journey",
+  "version": "1.0.0",
+  "description": "Jill Bolte Taylor's account of experiencing a massive stroke and observing her own cognitive decline — a Harvard neuroanatomist's journey through brain injury, recovery, and the discovery of inner peace.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/my-stroke-of-insight-a-brain-scientists-personal-journey",
+  "useCase": "Understand stroke, left-right brain function, and how inner peace is accessible through shifting consciousness.",
+  "knownRisks": [
+    "Some readers may find descriptions of brain injury distressing",
+    "Stroke experiences vary widely; Taylor's is one of many",
+    "Not medical advice — always consult a doctor for stroke symptoms"
+  ],
+  "tags": ["neuroscience", "brain", "stroke", "psychology", "recovery", "inner-peace", "neuroplasticity", "memoir", "science", "health"],
+  "openclaw": {
+    "emoji": "🧬",
+    "category": "science"
+  }
+}
