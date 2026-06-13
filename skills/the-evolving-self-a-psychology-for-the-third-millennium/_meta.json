@@ -1,0 +1,19 @@
+{
+  "name": "the-evolving-self-a-psychology-for-the-third-millennium",
+  "version": "1.0.0",
+  "description": "Mihaly Csikszentmihalyi's exploration of how consciousness evolves — from flow and psychic entropy to the autotelic self and the future of human evolution.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-evolving-self-a-psychology-for-the-third-millennium",
+  "useCase": "Understand how consciousness and the self evolve through flow, attention cultivation, and complexity — toward a more meaningful and integrated life.",
+  "knownRisks": [
+    "Dense and theoretical — not a quick read",
+    "Some concepts overlap with Csikszentmihalyi's other works",
+    "Visionary sections may seem speculative"
+  ],
+  "tags": ["psychology", "consciousness", "flow", "evolution", "self", "meaning", "complexity", "attention", "optimal-experience", "mihaly"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "psychology"
+  }
+}
