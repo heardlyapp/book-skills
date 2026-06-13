@@ -1,0 +1,19 @@
+{
+  "name": "get-your-sht-together-how-to-stop-worrying-about-what-you-should-do-and-start-doing-what-matters",
+  "version": "1.0.0",
+  "description": "Sarah Knight's profane, practical guide to getting your life together — beating anxiety, procrastination, financial chaos, and career uncertainty with the No Zero Days method.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/get-your-sht-together-how-to-stop-worrying-about-what-you-should-do-and-start-doing-what-matters",
+  "useCase": "Get your mental health, time, money, career, and relationships under control with a no-nonsense, actionable framework.",
+  "knownRisks": [
+    "Profane language may not suit all readers",
+    "Simplified advice — not a substitute for therapy",
+    "Some techniques may not work for all personality types"
+  ],
+  "tags": ["self-help", "productivity", "anxiety", "mental-health", "time-management", "personal-finance", "career", "relationships", "procrastination", "confidence"],
+  "openclaw": {
+    "emoji": "💪",
+    "category": "self-improvement"
+  }
+}
