@@ -1,0 +1,19 @@
+{
+  "name": "thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well",
+  "version": "1.0.0",
+  "description": "Douglas Stone and Sheila Heen's guide to receiving feedback well — understanding the three triggers (truth, relationship, identity), managing blind spots, and cultivating a growth identity.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well",
+  "useCase": "Learn to receive feedback with less defensiveness, understand the triggers that block learning, and develop the skill of sorting useful feedback from noise.",
+  "knownRisks": [
+    "Requires willingness to self-reflect and be uncomfortable",
+    "Some may find the framework too analytical for emotional situations",
+    "Change takes practice — not a quick fix"
+  ],
+  "tags": ["feedback", "communication", "personal-development", "psychology", "relationships", "leadership", "growth-mindset", "emotional-intelligence", "self-awareness", "difficult-conversations"],
+  "openclaw": {
+    "emoji": "🎯",
+    "category": "communication"
+  }
+}
