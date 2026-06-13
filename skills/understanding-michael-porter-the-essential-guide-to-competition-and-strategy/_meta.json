@@ -1,0 +1,19 @@
+{
+  "name": "understanding-michael-porter-the-essential-guide-to-competition-and-strategy",
+  "version": "1.0.0",
+  "description": "Joan Magretta's guide to Michael Porter's frameworks for competition and strategy — Five Forces, value chain, trade-offs, and competitive advantage.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/understanding-michael-porter-the-essential-guide-to-competition-and-strategy",
+  "useCase": "Understand industry competition through Five Forces, build competitive advantage, and develop sustainable strategy through trade-offs and fit.",
+  "knownRisks": [
+    "Porter's frameworks may oversimplify complex market dynamics",
+    "Long-term strategy can be disrupted by technological change",
+    "Some criticize Porter's work for being too static"
+  ],
+  "tags": ["strategy", "competition", "business", "management", "porter", "five-forces", "value-chain", "competitive-advantage", "leadership", "industry-analysis"],
+  "openclaw": {
+    "emoji": "🏢",
+    "category": "business"
+  }
+}
