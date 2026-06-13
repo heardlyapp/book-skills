@@ -1,0 +1,19 @@
+{
+  "name": "golden-gates-fighting-for-housing-in-america",
+  "version": "1.0.0",
+  "description": "Conor Dougherty's account of America's housing crisis through the San Francisco Bay Area, where technology growth collides with anti-development zoning.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/golden-gates-fighting-for-housing-in-america",
+  "useCase": "Understand the housing crisis, its causes, and the political battles over zoning, rent control, and development.",
+  "knownRisks": [
+    "Focuses on San Francisco Bay Area, other cities may have different dynamics",
+    "Content discusses politically contentious issues",
+    "Housing policy varies significantly by jurisdiction"
+  ],
+  "tags": ["housing", "urban-planning", "politics", "economics", "san-francisco", "zoning", "rent", "inequality", "cities", "policy"],
+  "openclaw": {
+    "emoji": "🏘️",
+    "category": "current-affairs"
+  }
+}
