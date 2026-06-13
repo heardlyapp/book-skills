@@ -1,0 +1,19 @@
+{
+  "name": "one-from-many-visa-and-the-rise-of-chaordic-organization",
+  "version": "1.0.0",
+  "description": "Dee Hock's revolutionary concept of the chaordic organization — blending chaos and order — told through the creation story of VISA, where 25,000 competing banks cooperated through shared purpose and principles.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/one-from-many-visa-and-the-rise-of-chaordic-organization",
+  "useCase": "Understand chaordic organizational design — how purpose, principles, and distributed governance create adaptive, innovative organizations that outperform traditional hierarchies.",
+  "knownRisks": [
+    "VISA-specific examples may not apply to all organizations",
+    "Chaordic concepts require significant cultural change to implement",
+    "Some may find the philosophy too abstract for practical application"
+  ],
+  "tags": ["organizational-design", "leadership", "innovation", "visa", "chaordic", "management", "business", "cooperative", "decentralization", "purpose-driven"],
+  "openclaw": {
+    "emoji": "🏦",
+    "category": "business"
+  }
+}
