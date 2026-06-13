@@ -1,0 +1,19 @@
+{
+  "name": "playing-to-win-how-strategy-really-works",
+  "version": "1.0.0",
+  "description": "A.G. Lafley and Roger Martin's five-question strategy framework used to transform Procter & Gamble — Winning Aspiration, Where to Play, How to Win, Capabilities, and Management Systems.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/playing-to-win-how-strategy-really-works",
+  "useCase": "Develop a practical strategy for any business or initiative using the Strategy Logic Flow — a proven framework for making strategic choices and driving competitive advantage.",
+  "knownRisks": [
+    "P&G-specific examples may not apply to all industries",
+    "Framework requires honest answers — wishful thinking invalidates it",
+    "Strategy execution depends on organizational factors beyond the framework"
+  ],
+  "tags": ["strategy", "business", "leadership", "competitive-advantage", "management", "pg", "corporate-strategy", "decision-making", "marketing", "innovation"],
+  "openclaw": {
+    "emoji": "🏆",
+    "category": "business"
+  }
+}
