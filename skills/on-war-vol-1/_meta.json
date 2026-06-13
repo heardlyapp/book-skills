@@ -1,0 +1,19 @@
+{
+  "name": "on-war-vol-1",
+  "version": "1.0.0",
+  "description": "Carl von Clausewitz's foundational work on military strategy — the nature of war, the trinity, war as politics, friction, fog, and the center of gravity. Essential reading for strategy, leadership, and conflict understanding.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/on-war-vol-1",
+  "useCase": "Understand the fundamental nature of war and conflict, strategic principles, and how political objectives guide military action.",
+  "knownRisks": [
+    "19th century prose can be dense and difficult",
+    "Some concepts have been misinterpreted by later readers",
+    "Written before modern warfare technology — needs thoughtful application"
+  ],
+  "tags": ["strategy", "military", "war", "politics", "clausewitz", "philosophy", "history", "leadership", "conflict", "classic"],
+  "openclaw": {
+    "emoji": "⚔️",
+    "category": "strategy"
+  }
+}
