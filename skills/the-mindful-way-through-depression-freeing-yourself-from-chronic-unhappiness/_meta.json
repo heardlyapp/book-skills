@@ -1,0 +1,19 @@
+{
+  "name": "the-mindful-way-through-depression-freeing-yourself-from-chronic-unhappiness",
+  "version": "1.0.0",
+  "description": "Williams, Teasdale, Segal, and Kabat-Zinn's MBCT guide — mindfulness-based cognitive therapy to break the cycle of depression and prevent relapse.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-mindful-way-through-depression-freeing-yourself-from-chronic-unhappiness",
+  "useCase": "Understand and apply MBCT to break the rumination cycle, prevent depression relapse, and build a daily mindfulness practice.",
+  "knownRisks": [
+    "Not a substitute for medical treatment for major depression",
+    "Mindfulness practice can initially bring up difficult emotions",
+    "Consult a doctor before stopping or changing medication"
+  ],
+  "tags": ["mindfulness", "depression", "meditation", "psychology", "mental-health", "mbct", "cognitive-therapy", "self-help", "relapse-prevention", "wellness"],
+  "openclaw": {
+    "emoji": "🧘",
+    "category": "mental-health"
+  }
+}
