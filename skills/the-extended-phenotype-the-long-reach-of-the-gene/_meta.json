@@ -1,0 +1,19 @@
+{
+  "name": "the-extended-phenotype-the-long-reach-of-the-gene",
+  "version": "1.0.0",
+  "description": "Richard Dawkins' revolutionary concept that a gene's effects extend beyond the body — spider webs, beaver dams, bird nests, and parasite manipulation are all extended phenotypes.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-extended-phenotype-the-long-reach-of-the-gene",
+  "useCase": "Understand the extended phenotype concept — how genes reach beyond the body to shape the environment, animal artifacts, and even manipulate other species.",
+  "knownRisks": [
+    "Dense and theoretical — Dawkins' most academic work",
+    "Requires basic understanding of evolutionary biology",
+    "Some concepts may seem counterintuitive or controversial"
+  ],
+  "tags": ["evolution", "biology", "genetics", "dawkins", "extended-phenotype", "natural-selection", "animal-behavior", "parasite", "selfish-gene", "science"],
+  "openclaw": {
+    "emoji": "🧬",
+    "category": "science"
+  }
+}
