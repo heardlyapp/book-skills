@@ -1,0 +1,30 @@
+{
+  "name": "built-to-last-successful-habits-of-visionary-companies",
+  "version": "1.0.1",
+  "description": "Jim Collins and Jerry I. Porras's Built to Last — the definitive research-based toolkit for building an enduring great company that thrives across generations.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/built-to-last-successful-habits-of-visionary-companies",
+  "useCase": "Research-based framework for building visionary companies that endure across generations. Covers clock building, core ideology, BHAGs, cult-like cultures, evolutionary progress, home-grown management, and continuous self-improvement.",
+  "knownRisks": [
+    "May oversimplify what makes companies succeed — context matters and not all findings apply to every industry or stage",
+    "Research conducted on US-based companies primarily — application in different cultural contexts requires adaptation",
+    "Some comparison companies (like Ames, Norton) no longer exist independently, making the contrast even starker but also limiting current relevance"
+  ],
+  "tags": [
+    "business",
+    "leadership",
+    "strategy",
+    "organizational-design",
+    "entrepreneurship",
+    "management",
+    "enduring-companies",
+    "jim-collins",
+    "bhag",
+    "core-ideology"
+  ],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "self-improvement"
+  }
+}
