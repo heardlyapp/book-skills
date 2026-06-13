@@ -1,77 +1,75 @@
 # Anti-Patterns: What Not to Do
 
-This reference documents the common customer experience mistakes that Joey Coleman identifies — and the alternative approaches that successful companies use instead.
+## Overview
 
----
+Coleman's book is as much a diagnosis of what's broken in modern business as it is a prescription for how to fix it. The most common anti-patterns are structural and cultural — they're built into how companies operate. This file identifies them and shows through book cases why they fail.
 
-## Anti-Pattern 1: The "Post-Sale Abandonment" Trap
+## Anti-Pattern 1: The Acquisition Obsession
 
-**The problem**: Most businesses treat the sale as the finish line. Once money changes hands, the customer becomes an afterthought. Marketing moves on to chasing the next lead. Customer service handles complaints reactively.
+Companies spend 80 percent of their marketing budget on acquisition and almost nothing on retention. The chase is celebrated; the catch is ignored. Sales teams have lavish budgets for wining and dining prospects. Account managers have shoestring budgets.
 
-The result: the customer goes from feeling like the most important person in the world (during sales) to feeling invisible (after purchase). The emotional crash (Phase 3) goes unaddressed. The customer quietly disengages, then leaves.
+**Why it fails:** Acquisition costs are front-loaded and high. Retention costs are low and compound. Increasing retention by 5 percent can increase profits by 25 to 95 percent (Bain & Company). Every customer who leaves before the payback period is a net loss.
 
-**What successful companies do instead**: The sale is not the end — it's the beginning. The real work starts after the money changes hands. Coleman's framework dedicates 7 of 8 phases to the post-sale journey.
+**Case — Banking customer math:** It costs $300 to acquire a banking customer. The customer pays $12/month in fees. It takes 25 months to break even. Yet 32 percent leave before 12 months. The bank loses money on nearly a third of acquired customers — a direct result of spending everything on acquisition and nothing on retention.
 
-**Book case**: Banks that spend $300 to acquire a customer, then do nothing for 100 days except send a monthly statement. No welcome call. No check-in. No reassurance. The result: 32% leave in year one. The solution: a 10-touchpoint onboarding sequence that addresses every phase.
+**Case — 4Knines sales collapse:** When the company's post-purchase auto-responders (which cost almost nothing to run) were turned off, monthly sales dropped from $260,000 to $74,000. The acquisition-dependent mindset of the new management team nearly destroyed the business. The retention system, once restored, rebuilt the revenue.
 
-**Book case**: The Corporate Executive Board report showed that 20% of customers who leave in the first year never conducted a single transaction. They never even used the account. They left during Phase 3 (buyer's remorse) before ever reaching Phase 4 (Activate). A simple welcome call would have prevented most of these defections.
+**Fix:** Calculate your customer payback period. Track churn rate by cohort (customers acquired in the same month). If more than 20 percent leave before payback, you have a retention crisis, not an acquisition problem.
 
----
+## Anti-Pattern 2: The Tumbleweed Zone
 
-## Anti-Pattern 2: Ignoring Buyer's Remorse
+After the sale, the customer hears nothing. The sales team celebrates and moves to the next prospect. The account manager hasn't been briefed. The customer is left alone with their doubts.
 
-**The problem**: Businesses assume that once a customer buys, they're happy. They don't realize that almost every customer experiences doubt within hours or days of purchase. This doubt is invisible — the customer won't tell you they're having second thoughts.
+**Why it fails:** The "tumbleweed zone" reinforces buyer's remorse. The customer's brain is already flooding with fear, doubt, and uncertainty. Silence from the company confirms their worst fear: "They don't care about me now that they have my money."
 
-**What successful companies do instead**: Proactively address buyer's remorse before it becomes a decision to leave. Send reassurance. Share social proof. Make it easy to reach a human. Acknowledge the fear and neutralize it.
+**Case — Insurance company failure:** Coleman describes a situation where the salesperson promised personalized service. After the sale, the account manager who took over had never seen the file, didn't know the customer's expressed needs, and couldn't answer basic questions. The customer realized the promises made during the Assess phase were meaningless.
 
-**Book case — CD Baby**: Derek Sivers understood that the moment after purchase is the moment of maximum doubt. His legendary confirmation email was designed specifically to counter this. The email was so warm, personal, and funny that customers forgot their doubts and started sharing the email with friends.
+**Case — Banking tumbleweed:** The Corporate Executive Board research found that 32 percent of new bank customers leave within a year. Twenty percent of defectors leave before their first transaction — meaning they opened the account, got nothing from the bank, and left. The bank never made any attempt to engage them after the sale.
 
-**Book case — Zappos**: The 365-day return policy eliminates buyer's remorse at the structural level. The customer can never be wrong. If they change their mind, they can return anything. This is Phase 3 defense built into the company's operating model.
+**Fix:** Create a "no silent days" policy for the first 100 days. After the sale, the customer should receive a communication within 24 hours. Schedule touchpoints for days 1, 3, 7, 14, 30, 60, and 90. Never let a new customer go more than 7 days without hearing from you.
 
----
+## Anti-Pattern 3: Asking for Referrals Too Early
 
-## Anti-Pattern 3: One-Size-Fits-All Communication
+Many businesses ask for referrals or reviews immediately after the sale, before the customer has experienced any value. This feels transactional and damages the relationship.
 
-**The problem**: Businesses use the same communication channels for every customer interaction. Usually email, sometimes phone. They don't vary the medium based on the phase or the emotional state of the customer.
+**Why it fails:** The customer hasn't accomplished their goal yet. They can't honestly recommend you because they don't know if your product works. Asking before value delivery makes you seem desperate and self-interested.
 
-**What successful companies do instead**: Match the medium to the phase. Use high-impact mediums (physical mail, presents, video) for emotionally sensitive phases. Use scalable mediums (email) for regular updates. Use in-person for critical moments.
+**Case — 4Knines timing experiment:** The company tested asking for reviews at different intervals. Asking immediately after purchase yielded low response rates and poor reviews. Asking at 30 days — when the customer had used the product successfully — yielded 24 percent response rate, three times the industry average.
 
-**Book case**: Most companies send a PDF welcome packet. Great companies send a physical welcome package with a handwritten note, a small gift, and a personal video link. The emotional impact of physical mail in a digital inbox is disproportionate to its cost.
+**Case — Amazon review best practices:** Coleman notes that the most effective product reviews on Amazon come from customers who have had enough time to use the product thoroughly. The best reviews reference specific use cases and outcomes, which requires experience.
 
-**Book case**: A financial advisor who switched from sending a "welcome letter" (email) to a "welcome package" (physical mail + video) saw a 40% increase in client retention. The medium change alone made the difference.
+**Fix:** Identify the "success moment" for your customer — when they've achieved their goal. Wait until after this moment to ask for a review or referral. Automate the timing so it's consistent and scalable.
 
----
+## Anti-Pattern 4: One-Size-Fits All Communication
 
-## Anti-Pattern 4: The "We're Too Busy" Excuse
+Sending the same email to every customer ignores their individual context, preferences, and journey stage. Generic communications feel impersonal and are easily ignored.
 
-**The problem**: Business owners and executives know they should improve customer experience, but they say "we're too busy selling / building / shipping to focus on retention right now." This is a self-inflicted wound — every customer lost is a customer that required acquisition cost to replace.
+**Why it fails:** Customers can tell when they're part of a blast. Personalization is not just about inserting a name token. It's about referencing specific information the customer shared, tailoring the message to their journey stage, and communicating through their preferred channel.
 
-**What successful companies do instead**: Recognize that retention is not optional. It's the highest-ROI activity in the business. Acquiring a new customer costs 5-25x more than keeping an existing one.
+**Case — Notes from the Universe:** The daily inspirational email service asks detailed intake questions during signup. These answers are stored and later reflected back in personalized messages months later. The customer feels heard and remembered.
 
-**Book case**: Coleman points to the banking industry. Banks focus billions on acquisition while losing 32% of customers in year one. A fraction of that budget, redirected to retention, would save billions. It's not a resource problem — it's a priority problem.
+**Case — Corporate Executive Board FedEx package:** The physical package sent to prospects was not generic. It contained materials tailored to the prospect's industry, role, and expressed interests. The personalization signaled that CEB had been paying attention during the sales process.
 
-**Book case**: Zappos built its entire reputation on customer experience. While competitors focused on price wars and advertising, Zappos invested in free shipping, 365-day returns, and legendary customer service. The result: 75% of purchases come from repeat customers.
+**Fix:** Ask better questions during intake. Store the answers. Use them later. Segment by phase, industry, role, and expressed needs. Never send a communication that couldn't be from a human who knows the customer.
 
----
+## Anti-Pattern 5: Treating B2B and B2C as Fundamentally Different
 
-## Anti-Pattern 5: Treating All Customers Equally
+Many companies assume B2B and B2C customers require completely different approaches. This is a false dichotomy that prevents both from creating H2H experiences.
 
-**The problem**: Businesses apply the same experience to every customer, regardless of their value, loyalty, or potential. High-value customers get the same treatment as one-time buyers.
+**Why it fails:** At the end of the day, a "business customer" is still a human. They have emotions, fears, and desires. They want to feel valued and understood. The corporate buyer who chooses your software wants the same emotional experience as the consumer who buys your shoes.
 
-**What successful companies do instead**: Segment your customer experience by value and potential. Your best customers should get your best experience. This is not unfair — it's strategic.
+**Case — Maverick1000 (B2B community):** James Altucher's entrepreneurial community is a B2B offering, but it uses H2H techniques: personalized books, handwritten notes, custom gifts, direct access to the founder. The community operates like a family, not a business.
 
-**Book case — Sephora Beauty Insider**: Tiered program with increasing benefits. "Insider" gets basic rewards. "VIB" (Very Important Beauty Insider) gets more. "Rouge" (top tier) gets exclusive events, free shipping on every order, and a dedicated hotline. Customers aspire to reach the next tier, which drives more purchases.
+**Case — Zogics (B2B):** The commercial cleaning supplies company sends personalized holiday gifts to facility managers — not corporate brochures but thoughtful items like premium chocolate or gourmet coffee. The gifts acknowledge the human behind the purchasing decision.
 
-**Book case — American Express**: Centurion (Black) Card holders get a completely different experience than Green or Gold card holders. Concierge service, exclusive events, priority support. The experience itself is a status symbol.
+**Fix:** Stop talking about B2B vs B2C. Talk about H2H. Every customer-facing decision should be evaluated on one criterion: "Would this feel good if I were the recipient?"
 
----
+## Anti-Pattern 6: Ignoring the Emotional Journey
 
-## Anti-Pattern 6: Asking for Referrals Too Late (or Too Early)
+Most customer experience design focuses on functional outcomes (speed, accuracy, cost) and ignores emotional outcomes. The result: efficient but forgettable.
 
-**The problem**: Most businesses either never ask for referrals (missed opportunity) or ask too early (before the customer has experienced value). Asking for a referral during Phase 3 (buyer's remorse) is counterproductive — the customer is still doubting their own decision.
+**Why it fails:** Humans don't remember processes — they remember feelings. Daniel Kahneman's peak-end rule: people judge an experience based on how they felt at the peak and at the end. If the functional process is smooth but the emotional journey is flat, the experience is forgettable.
 
-**What successful companies do instead**: Ask for referrals at the peak emotional moment — Phase 6 (Accomplish) or Phase 7 (Adopt). When the customer has just achieved their desired result or feels pride in belonging, they are most likely to refer.
+**Case — Typical dentist vs. Dr. McCann:** A typical dentist visit is efficient but emotionally negative (pain, fear, confusion about costs, multiple visits). Dr. McCann's approach was functionally excellent but emotionally remarkable — the call two hours after, the personal phone number, the recognition by name. The difference wasn't in the dental work. It was in the emotional design.
 
-**Book case — Dropbox**: The referral program was timed perfectly. Users couldn't refer until they had experienced the value of Dropbox — syncing files across devices. The referral incentive (free storage) was directly tied to the value of the product.
-
-**Book case — Audible**: The referral ask comes right after the customer finishes an audiobook (Phase 6). They're feeling accomplished and satisfied. "Share with a friend" is natural in this moment.
+**Fix:** After mapping the functional journey, map the emotional journey. Identify the low points. Design interventions at each low point. Measure customer emotions, not just satisfaction scores.
