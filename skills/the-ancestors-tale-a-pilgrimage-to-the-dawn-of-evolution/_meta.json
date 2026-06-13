@@ -1,0 +1,19 @@
+{
+  "name": "the-ancestors-tale-a-pilgrimage-to-the-dawn-of-evolution",
+  "version": "1.0.0",
+  "description": "Richard Dawkins' grand pilgrimage backward through evolution — 40 rendezvous points from humans to the dawn of life, exploring common ancestry, deep time, and the evidence for natural selection.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-ancestors-tale-a-pilgrimage-to-the-dawn-of-evolution",
+  "useCase": "Understand evolution, common ancestry, deep time, and the overwhelming evidence for natural selection through Dawkins' pilgrimage metaphor.",
+  "knownRisks": [
+    "Long and detailed — may be overwhelming for casual readers",
+    "Some scientific concepts require basic biology knowledge",
+    "Dawkins' atheism colors some passages"
+  ],
+  "tags": ["evolution", "biology", "science", "dawkins", "natural-selection", "deep-time", "human-evolution", "tree-of-life", "common-ancestry", "popular-science"],
+  "openclaw": {
+    "emoji": "🌳",
+    "category": "science"
+  }
+}
