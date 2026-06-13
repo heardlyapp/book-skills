@@ -1,0 +1,19 @@
+{
+  "name": "the-power-of-a-positive-no-save-the-deal-save-the-relationship-and-still-say-no",
+  "version": "1.0.0",
+  "description": "William Ury's guide to saying no powerfully and respectfully — the Yes-No-Yes formula for protecting your interests while preserving relationships.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-power-of-a-positive-no-save-the-deal-save-the-relationship-and-still-say-no",
+  "useCase": "Learn to say no firmly and respectfully using the Positive No framework — protect your interests without damaging relationships.",
+  "knownRisks": [
+    "Some may find the formula too structured for emotional situations",
+    "Requires practice to feel natural",
+    "May not work with abusive or manipulative individuals"
+  ],
+  "tags": ["negotiation", "communication", "boundaries", "assertiveness", "leadership", "conflict-resolution", "relationships", "saying-no", "personal-development", "management"],
+  "openclaw": {
+    "emoji": "🙅",
+    "category": "communication"
+  }
+}
