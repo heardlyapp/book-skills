@@ -1,0 +1,19 @@
+{
+  "name": "the-long-covid-handbook",
+  "version": "1.0.0",
+  "description": "Gez Medinger and Prof. Danny Altmann's comprehensive guide to understanding, managing, and recovering from Long Covid.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-long-covid-handbook",
+  "useCase": "Understand Long Covid, manage symptoms through pacing, and navigate recovery.",
+  "knownRisks": [
+    "Medical information evolves rapidly — consult a healthcare provider",
+    "Not a substitute for individualized medical treatment",
+    "Long Covid research is ongoing; recommendations may change"
+  ],
+  "tags": ["long-covid", "health", "chronic-illness", "pacing", "covid", "immunology", "fatigue", "brain-fog", "recovery", "patient-advocacy"],
+  "openclaw": {
+    "emoji": "🫁",
+    "category": "health"
+  }
+}
