@@ -1,6 +1,6 @@
 ---
 displayName: "Think This, Not That"
-summary: "Josh Axe's 12-mindshift framework for breaking through limiting beliefs and unlocking your full potential. Drawing from his journey from a 2.3 GPA high school graduate told he'd never be a doctor to a functional medicine physician and multimillion-dollar entrepreneur, Axe shows how replacing limiting beliefs with empowering truths transforms every area of life. Covers the memory transplant technique, the ABCDE model, SWOT for personal growth, community of greatness, mentoring, identity foundations, virtue building, principled thinking, fear flipping, visualization, and positive perseverance."
+summary: "Josh Axe's 12-mindshift framework for breaking through limiting beliefs and unlocking your full potential. Drawing from his journey from a 2.3 GPA high school graduate told he'd never be a doctor to a functional medicine physician and multimillion-dollar entrepreneur, Axe shows how replacing limiting beliefs with empowering truths transforms every area of life."
 tags:
   - mindset
   - personal-development
@@ -23,9 +23,9 @@ tags:
 
 Your mindset is the ultimate catalyst for change — and the ultimate barrier to it. Josh Axe, a functional medicine physician and entrepreneur, spent a decade studying how beliefs shape outcomes. His conclusion: "Nothing could match the transformative impact of mindset medicine."
 
-Axe's own story proves it. His freshman English teacher laughed when he said he wanted to become a doctor. He graduated with a 2.3 GPA. He was diagnosed with ADHD. Every piece of evidence told him he wasn't smart enough. But a single encouraging comment from a college teacher — "You got an A+, the highest grade in the class" — sparked what Axe calls a "memory transplant." That one moment replaced a limiting belief with an unlimited one. He went on to earn a doctorate, build multiple multimillion-dollar businesses, and write seven books.
+Axe's own story proves it. His freshman English teacher laughed when he said he wanted to become a doctor. He graduated with a 2.3 GPA. He was diagnosed with ADHD. Every piece of evidence told him he wasn't smart enough. But a single encouraging comment from a college teacher — "You got an A+, the highest grade in the class" — sparked what Axe calls a "memory transplant." That one moment replaced a limiting belief with an unlimited one. He went on to earn a doctorate, build multiple multimillion-dollar businesses (Ancient Nutrition, leaders.com), and write seven books.
 
-"Whether you think you can or you can't, you're right," Axe writes, quoting Henry Ford. The difference between people who achieve their dreams and those who don't is rarely talent, resources, or opportunity. The research backs this up: the average person has fifty thousand thoughts a day, and 95 percent are on repeat. Most of those repeating thoughts are lies we've been told or have told ourselves. This book provides twelve specific mindshifts — from limiting beliefs to empowering truths — that unlock the person you were born to be.
+Research cited in the book: the average person has 50,000 thoughts per day, and 95 percent are on repeat (Wharton School). Most of those repeating thoughts are lies we've been told or have told ourselves. Axe provides twelve specific mindshifts to replace those lies with empowering truths.
 
 ---
 
@@ -35,69 +35,81 @@ Axe's own story proves it. His freshman English teacher laughed when he said he 
 
 A belief is a mental certainty that something is true. Beliefs are like tabletops supported by "legs" — events, experiences, and opinions that reinforce them. The more legs, the stronger the belief. Limiting beliefs cap your potential; unlimited beliefs expand it.
 
-**Case — The memory transplant:** Axe's high school teacher Mrs. Nobel laughed at his dream of becoming a doctor. Her words, combined with his 2.3 GPA and ADHD diagnosis, created a powerful limiting belief. Years later, college teacher Mrs. Williams gave him an A+ on his first paper and said, "Have you ever thought about becoming a writer?" This moment replaced the old belief with a new one. Axe calls this a "memory transplant" — consciously replacing a false narrative with a true one. He put the A+ paper on his bathroom mirror so he saw it every day until the limiting belief lost its power.
+**Case — The memory transplant:** Axe's high school teacher Mrs. Nobel laughed at his dream of becoming a doctor. Her words, combined with his 2.3 GPA and ADHD diagnosis, created a powerful limiting belief. Years later, college teacher Mrs. Williams gave him an A+ on his first paper and said, "Have you ever thought about becoming a writer?" Axe calls this a "memory transplant" — consciously replacing a false narrative with a true one. He put the A+ paper on his bathroom mirror so he saw it every day. After the summer program, he finished with a 3.5 GPA, got accepted into the University of Kentucky, and maintained high grades throughout undergrad.
 
-**Case — The nocebo effect:** A 1970s patient was diagnosed with end-stage liver cancer and told he had months to live. He died within the predicted time frame. The autopsy revealed only a small, localized tumor that was not life-threatening. Doctors had been wrong, but his belief that he was dying killed him anyway. Conversely, a patient in Axe's clinic was wheelchair-bound with what doctors said was multiple sclerosis. Axe discovered she actually had mold toxicity. Within days of the correct diagnosis, she walked again. Her new belief acted as medicine for the mind.
+**Case — The nocebo effect (cited in the book):** A 1970s patient was diagnosed with end-stage liver cancer and told he had months to live. He died within the predicted time frame. The autopsy revealed only a small, localized tumor that was not life-threatening. Doctors had been wrong, but his belief that he was dying killed him anyway. Axe also describes a patient in his clinic who was wheelchair-bound with what doctors said was multiple sclerosis. He discovered she actually had mold toxicity. Within days of the correct diagnosis, she walked again. Her new belief acted as medicine for the mind.
+
+**Case — Jamie Kern Lima (IT Cosmetics):** One potential investor told Lima that "no one would want to buy makeup from someone who looked like her." She chose to believe otherwise. In 2016, L'Oréal bought IT Cosmetics for $1.2 billion. Lima became the first female CEO in L'Oréal's 108-year history.
 
 ---
 
 ### 2. Success Is Becoming, Not Accomplishing
 
-Most people measure success by external markers: money, status, titles, possessions. These are temporary. Real success is who you become in the process — the character built, the virtues cultivated, the growth achieved. Axe emphasizes that becoming takes priority over doing.
+Most people measure success by external markers: money, status, titles, possessions. These are temporary. Real success is who you become in the process — the character built, the virtues cultivated. An accomplishing mindset focuses on things; a becoming mindset focuses on character.
 
-**Case — Patients who reversed disease:** Axe's patients who committed to an "all-in, positive, and hopeful mindset" reversed chronic disease, lost weight, and had more energy. Those stuck in limiting beliefs remained stuck. The treatment was identical; only the mindset differed. The difference was not what they accomplished but who they became in the process.
+**Case — Grandfather Howard's funeral:** Axe's 96-year-old grandfather had no wealth, no social media presence, no Forbes listing. At his funeral, person after person called him "my best friend." "Howard gave me money when I lost my job." "Howard showed me what a great father looked like." Axe realized: "I needed to reexamine my definition of success." He developed the formula: Success = maximizing your unique skill for the good of others.
 
-**Case — Team members who outperformed:** When Axe led teams in his multimillion-dollar businesses, he noticed that employees who focused on personal development (becoming) outperformed those focused only on revenue targets (accomplishing). The former built skills, character, and resilience; the latter burned out or plateaued. Growth in character produced growth in results.
+**Case — Lance Armstrong:** The most influential athlete in America in 2010 — until the doping scandal cost him his career, sponsorships, reputation, and personal relationships. Axe's point: "When you accumulate accomplishments while ignoring your character, it's like building a house on sand."
 
----
-
-### 3. Self-Awareness + Purpose = Direction
-
-You cannot change what you do not see. Self-awareness is the foundation of all growth. Axe identifies four barriers to self-awareness: pride (refusing to see faults), busyness (constant motion prevents reflection), character sabotage (vices create blinders), and entertainment addiction (dopamine replaces growth). Once you see clearly, you need a why — a purpose that gives direction to your efforts.
-
-**Case — The SWOT analysis for personal growth:** Axe adapted the Stanford-developed SWOT tool (Strengths, Weaknesses, Opportunities, Threats) for personal development. He uses it to help people honestly assess themselves across four areas: career, relationships, faith, finances, and health. The exercise is deliberately uncomfortable — "the unexamined life is not worth living," as Socrates said. Pride is the first casualty of honest self-assessment.
-
-**Case — Axe's mother's cancer:** When Axe's mom was diagnosed with stage 4 breast cancer, it crystallized his purpose: to use food as medicine. Her cancer became the catalyst for his life's work. After conventional treatment failed, his mother adopted a holistic protocol — dietary changes, supplements, gratitude, visualization, prayer. Her tumors shrank 52 percent in four months. At 68, she still water-skis. The crisis didn't just create purpose for Axe; it became the mother's own mission to inspire others.
+**Case — Steve Jobs' regrets:** Jobs left behind a $10.2 billion fortune and world-changing innovations, but told his biographer: "I wanted my kids to know me. I wasn't always there for them." Research cited: a *Journal of Research in Personality* study tracked 147 college graduates; those who valued material goals over relationships had less life satisfaction.
 
 ---
 
-### 4. Rewrite Your Story and Build Your Community
+### 3. Self-Awareness Reveals What You Cannot See
 
-The narratives you tell about your past powerfully shape your future. But these stories are choices — you can rewrite them. Axe introduces the ABCDE model from psychologist Albert Ellis: identify the Activating event, the Belief it created, the Consequences, Dispute the belief, and create new Effects. Equally critical: you cannot do this alone. You need a community of greatness — an intentional tribe of 6-8 people who share your values and push you to grow.
+You cannot change what you do not see. Axe identifies four barriers to self-awareness: pride (believing you know it all), busyness (constant motion prevents reflection), character sabotage (vices create blinders), and entertainment addiction (dopamine replaces growth). He cites Tasha Eurich's *Harvard Business Review* research: 90 percent of people believe they are self-aware, but only 10-15 percent actually are.
 
-**Case — The ABCDE model in action:** Axe used this for his own limiting belief. Activating event: Mrs. Nobel laughed at his dream. Belief: "I'm not smart." Consequences: failing, not trying. Disputation: "I can study harder. I have succeeded when I've applied myself." Effects: better grades, improved skills. Research shows this technique reduces burnout, helps overcome depression and anxiety, and improves performance in sports psychology.
+**Case — The Batman Effect study:** Four- and six-year-olds were given a project with the option of taking a break to play a video game. Group 1 acted naturally. Group 2 thought in third person. Group 3 took on a superhero identity. Group 1 had poorest performance. Group 2 (self-aware) had 13 percent improvement. Group 3 (Batman/Disney princess) had 23 percent improvement.
 
-**Case — Community of greatness:** Axe was unfulfilled in college until he found a mentor who invited him into a group of 6-8 men committed to growth. This community transformed his trajectory. He later created his own groups, applying the multiplication formula: one group becomes two, then four. Studies show 76 percent of people believe in the importance of mentors, but only 37 percent have one. Mentored employees are promoted five times more often.
+**Case — Axe's Ethiopia trip:** Visiting a landfill where hundreds lived and worked, Axe saw children scavenging for food. The experience "unlocked more than sympathy; it developed a deep awareness that suffering was real and unjust." He came home weeping. It transformed his perspective: he became more intentional about serving others.
 
----
-
-### 5. Build Identity on Stone, Not Sand or Soil
-
-Axe identifies three foundations for identity: modern (self-focused, based on feelings and popular culture — building on sand), traditional (based on family, duty, and heritage — building on soil), and divine (based on a higher power and unchanging principles — building on stone). Without a stable identity foundation, you're a slave to culture, craving external validation.
-
-**Case — The Frozen critique:** Axe uses Disney's Frozen to illustrate the modern identity trap. Elsa's anthem "Let It Go" celebrates self-liberation from rules and responsibilities: "No right, no wrong, no rules for me." But Axe argues this is false freedom — it's running away from responsibility rather than facing it. True heroism is "inner transformation, growing in character, and sacrificing yourself to save the lives of others."
-
-**Case — Michael Jordan and identity:** Growing up, Axe wanted to be "like Mike." He wore Air Jordans, drank Gatorade, and modeled his identity on a celebrity. He points out that identity is always connected to something or someone. Carl Jung said, "The world will ask you who you are, and if you don't know, the world will tell you." The key is consciously choosing where your identity comes from.
+**Case — SWOT analysis (applied to personal growth):** Axe adapted the Stanford business tool — Strengths, Weaknesses, Opportunities, Threats — for personal development across five areas (faith, fitness, finances/work, family, free time). The exercise is designed to be uncomfortable. "Pride is the first casualty of honest self-assessment."
 
 ---
 
-### 6. Bust Vices by Building Virtues
+### 4. Purpose Sustains Through Hardship
 
-The most effective way to eliminate a bad habit is not to fight it directly but to build the opposing virtue. Virtues naturally crowd out vices. Axe argues that "we are what we repeatedly do; therefore, virtue is a habit." Principles — not opinions — should guide your decisions.
+Without a compelling why, motivation fades when things get hard. Purpose converts work from obligation to mission. Axe introduces the Japanese concept of ikigai — where what you love, what you're good at, what the world needs, and what brings reward intersect.
 
-**Case — The 10 life principles:** Axe developed ten principles that guide his life, learned from mentors like Dave Ramsey, Jordan Rubin, and studying figures like Warren Buffett and Ray Dalio. Among them: "Recognize the wise by their results," "The greatest of all is the servant of all," "Iron sharpens iron," and "Love (agape) wins." He applies these across health, career, and marriage.
+**Case — Axe's mother's cancer:** When his mom was diagnosed with stage 4 breast cancer at age 41, it crystallized Axe's purpose: to use food as medicine. After a mastectomy and four cycles of chemotherapy, his mother adopted a holistic protocol — dietary changes, supplements, gratitude, prayer. Her tumors shrank 52 percent in four months. At age 68, she still water-skis. She later became a guide for other cancer patients.
 
-**Case — Financial principles:** After losing his entire savings on a failed business venture (his business "cost him every penny of savings"), Axe sought advice from financially wise mentors. Dave Ramsey and Jordan Rubin gave him consistent counsel: get out of debt, give 10 percent, invest 10 percent into real estate or stocks. These simple principles rebuilt his wealth and eventually led to Ancient Nutrition's success.
+**Case — The STARS goal method:** Axe created this framework — Specific, Trackable, Accountable, Realistic, Significant — for pursuing purpose. His own purpose evolved with life stages: from healing patients one-on-one, to building the #1 natural health website, to founding Ancient Nutrition, to leadership development with leaders.com.
 
 ---
 
-### 7. Flip Fear and Persevere Positively
+### 5. Rewrite Your Role in the Story (Victim → Hero → Guide)
 
-Fear is not the enemy — letting it stop you is. Axe distinguishes between a fear-based mindset (fixed, threatened by others' success, sees failure as the end) and a flourishing mindset (growth-oriented, learns from failure, prioritizes progress over perfection). Carol Dweck's Stanford research showed that children praised for effort outperformed those praised for intelligence. The same principle applies to adults.
+Most people live as victims — "it's not my fault," "I'm stuck," "nothing I can do changes this." The hero's journey requires taking ownership and acting. Axe adapts Joseph Campbell's 17 stages into 8: Comfort, Awaken, Assemble a Team, Quest, Trials, Transformation, Triumph, Return with Wisdom.
 
-**Case — The failed business that led to Ancient Nutrition:** After moving to Florida and pouring everything into a business that failed completely, Axe found himself with two months of savings left. He sought counsel, focused on his core mission, and launched an online health course in ten weeks. That course became the foundation for the largest natural health website and later Ancient Nutrition, one of the most successful supplement companies globally. The failure was "one of my greatest teachers."
+**Case — Harriet Tubman:** Born into slavery in 1820, beaten as a child, suffering head injuries that caused lifelong seizures. She escaped but returned to help approximately 70 others to freedom via the Underground Railroad. Later led an armed Civil War expedition freeing 700+ slaves. "Tubman had every right to remain a victim. She became a hero because she kept saying yes to the cycle of action."
 
-**Case — Sara Blakely's failure reframe:** Axe cites Spanx founder Sara Blakely's story. A former door-to-door fax machine salesperson, Blakely learned to see failure as a guide rather than a verdict. Her father encouraged her to celebrate her failures. This mindset allowed her to persist through rejection and build a billion-dollar company. Process trumps performance — a truth Axe says is backed by decades of research.
+**Case — Axe's failed business:** After moving to Florida and pouring everything into a business that failed "costing him every penny of savings," Axe had two months of savings left. He sought counsel, found a mentor who introduced him to a community of greatness, and relaunched. He went on to build Ancient Nutrition, a top supplement company. "That opportunity-turned-failure was one of my greatest teachers."
+
+---
+
+### 6. Build Identity and Virtues on Principles, Not Opinions
+
+Axe identifies three foundations for identity: modern (self-focused, based on feelings and culture — building on sand), traditional (based on family, duty, heritage — building on soil), and divine (based on higher power and unchanging principles — building on stone). He then introduces the seven divine virtues (wisdom, justice, self-control, courage, faith, hope, love) and the opposite seven vices (pride, envy, wrath, greed, lust, gluttony, sloth).
+
+**Case — Virtue-building practice:** Axe identified encouragement as a virtue he lacked. He made an index card with "encouragement" on one side and Bible verses and quotes on the other. He practiced saying encouraging words in every conversation. "At first, it was uncomfortable." After a few months, multiple people told him he "seemed like a different person." The virtue became a habit.
+
+**Case — Financial principles learned from Dave Ramsey and Jordan Rubin:** After losing his savings, Axe sought advice from financially wise mentors. The principles: get out of debt, give 10 percent, invest 10 percent into real estate or stocks. Simple but profound.
+
+**Case — Warren Buffett and Michael Burry:** Axe cites Buffett who ignores media hype and invests based on simple principles. Burry recognized in 2008 that basic economic principles were being violated; his principled analysis grew his investors' wealth by $700 million.
+
+---
+
+### 7. Flip Fear, Visualize, Persevere Positively
+
+Fear is not the enemy — letting it stop you is. Axe differentiates fear-based mindset (threatened by others' success, sees failure as the end) from flourishing mindset (grows from failure, prioritizes process over perfection). He then introduces "positive perseverance": a fusion of hope (Snyder's three components: goals, pathways, agency), grit (Angela Duckworth's research), and gratitude (UC San Diego heart study showing gratitude improves health outcomes).
+
+**Case — Axe's spinal infection:** After a stem cell procedure went wrong, Axe was diagnosed with a spinal infection causing osteomyelitis. He couldn't walk. Doctors said he might never fully recover, could be permanently disabled, or could die. He spent a year learning to walk again — crawling first, then shuffling with a walker, then walking. He lost 40 pounds. He chose hope, grit, and gratitude. "Instead of feeling pity for myself, I strove to rise above my feelings."
+
+**Case — Sara Blakely (Spanx):** Her father encouraged her to celebrate failures. When she came home with a D, he asked: "What did you learn?" This reframe allowed her to persist through constant rejection and build a billion-dollar company. She credits visualization as "a top determining factor of SPANX's success."
+
+**Case — Carol Dweck's fifth graders (cited in the book):** Children praised for effort outperformed those praised for intelligence on difficult problems. The effort-praised group saw failure as motivation. This is the essence of the flourishing mindset.
+
+**Case — Deion Sanders:** Two-time Super Bowl champion who attempted suicide at the height of his success. After surviving, he turned to coaching — teaching young men character, honor, and responsibility at the University of Colorado. His message: "You send us a boy, we'll send you back a man."
 
 ---
 
@@ -107,7 +119,7 @@ This skill contains insights from Josh Axe's *Think This, Not That*. Use it to i
 
 ---
 
-**Action:** Identify one limiting belief you hold right now. Write down where it came from. Then use the memory transplant technique: write the opposite, empowering belief. Find one piece of evidence that supports it. Put it where you'll see it every day.
+**Action:** Identify one limiting belief you hold right now. Write down where it came from — the specific event, conversation, or experience. Use the memory transplant technique: write the opposite empowering belief. Find one piece of evidence that supports it. Put it where you'll see it every day.
 
 ---
 

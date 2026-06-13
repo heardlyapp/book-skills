@@ -2,66 +2,52 @@
 
 ## Overview
 
-Axe provides an extensive toolkit of specific techniques for implementing each mindshift. These techniques are drawn from clinical psychology, sports psychology, business strategy, and Axe's personal experience.
+Axe provides an extensive toolkit of techniques drawn from clinical psychology, sports psychology, business strategy, and his personal experience. Each technique is designed to be practiced daily until it becomes habit.
 
 ## The Memory Transplant
 
-The most powerful technique in the book. When a limiting belief is blocking you, consciously replace it with a new memory or narrative.
+**How to do it:** Identify the specific event where the limiting belief was formed. Create a counter-memory that provides evidence against the old belief. Write it down. Place it where you'll see it daily. Repeat until the old belief loses its power.
 
-**How to do it:** Identify the moment when the limiting belief was formed. Create a counter-memory that proves the limiting belief wrong. Write it down. Put it somewhere you see daily. Repeat until the old belief loses its power.
+**Case — Axe's A+ paper:** His college teacher Mrs. Williams returned his first paper with an A+ and said, "Have you ever thought about becoming a writer?" He put the paper on his bathroom mirror. Every morning, he saw evidence that Mrs. Nobel had been wrong. Eventually, the new belief overwrote the old one.
 
-**Case — Axe's A+ paper:** After Mrs. Williams gave him an A+, Axe put the paper on his bathroom mirror. Every morning he saw physical evidence that he was capable. The new evidence eventually overwrote Mrs. Nobel's mockery.
-
-**Case — Daily reinforcement:** "After my memory transplant, the limiting beliefs still crept into my mind. Every time I heard, 'Josh, you're not smart,' I fought it off with the facts."
+**Case — The 10x Strategy:** Axe's client John believed that growing his business would mean more work and less freedom. Axe asked him to imagine the business ten times bigger. At that scale, John realized he would hire people to do the tasks he hated. The limiting belief dissolved, and his business actually grew 10x.
 
 ## The ABCDE Model (Albert Ellis)
 
-A clinical tool adapted from rational emotive behavior therapy.
+From rational emotive behavior therapy. A = Activating event (what triggered the limiting belief). B = Belief (what you told yourself). C = Consequences (what happens if you keep believing this). D = Disputation (challenge the belief rationally). E = Effects (new, healthier outcome).
 
-**How to do it:** A = Activating event (what triggered the limiting belief). B = Belief (what you told yourself). C = Consequences (what happens if you keep believing this). D = Disputation (how can you challenge this belief rationally?). E = Effects (the new, healthier outcome).
+**Case — Axe's classroom belief:** A = Mrs. Nobel laughed at his dream. B = "I'm not smart." C = I won't try, I'll fail. D = "I can study harder. I have succeeded when I've applied myself." E = Admission to medical school, doctorate, multimillion-dollar businesses.
 
-**Case — Axe's limiting belief:** A = Mrs. Nobel's mockery. B = "I'm not smart." C = I won't try, I'll fail. D = "I can study harder and have succeeded when I've applied myself." E = Better grades, improved skills, admission to medical school.
+## Personal SWOT Analysis
 
-## The Personal SWOT Analysis
+Axe adapted the Stanford business tool for personal growth. Assess Strengths (character and skill), Weaknesses (bad habits, valid criticism), Opportunities (mentors, courses, community), Threats (people, situations, distractions that hinder growth). Be brutally honest.
 
-Axe adapted the Stanford business tool for personal growth.
+**Case — Pride as the first barrier:** When Axe hurt his back doing deadlifts, his wife Chelsea showed him he had been using poor form. His pride had prevented him from accepting instruction — even from his own wife, a fellow health expert. The SWOT exercise is designed to reveal such blind spots.
 
-**How to do it:** List Strengths (character and skill), Weaknesses (bad habits, valid criticism), Opportunities (mentors, courses, community), Threats (external forces, people, situations that hinder growth). Be brutally honest. "Pride doesn't bolster personal growth; it stunts it."
+## Community of Greatness Protocol
 
-**Case — Using SWOT for blind spots:** Axe used this to identify that his pride was preventing him from seeking advice. The threat column revealed toxic relationships he needed to end.
+6-8 people sharing purpose and values. Axe's group had a signed agreement: monthly meetings, one-on-ones between meetings, annual retreats, shared reading, strict confidentiality. Members prioritized the group above almost everything else.
 
-## The Community of Greatness Protocol
+**Case — The Target meeting:** A Target executive wanted to meet with Axe about placing his supplements in their stores. The only available time conflicted with his men's group retreat. Axe chose the retreat. Target waited.
 
-An intentional small group for mutual growth.
+**Case — Shawn Johnson and Andrew East:** A chance meeting at a Nashville coffee shop led to a four-person community that grew into a network of groups. Axe, his wife Chelsea, Olympic gymnast Shawn, and NFL player Andrew East started with Saturday workouts and brunch. Eventually they each started their own communities.
 
-**How to do it:** Recruit 6-8 people who are hungry, coachable, humble, virtuous, and ready to pay it forward. Meet regularly. Share goals, challenges, and progress. Hold each other accountable. Scale through multiplication.
+## The Virtue Card Method
 
-**Case — The multiplication effect:** Axe's mentor group → his own leadership group → his wife's women's group → his friend's men's group. Each group multiplied organically.
+Write a virtue on an index card. Practice it in every interaction for one month. At first it's uncomfortable; then it becomes natural.
 
-## The Virtue-Building Method
+**Case — Encouragement practice:** Axe identified encouragement as a virtue he lacked. He typed "encouragement" on one side of an index card, added Bible verses and quotes on the other. He said genuinely encouraging words in every conversation. "At first, it was uncomfortable." After a few months, people told him he "seemed like a different person."
 
-Instead of fighting vices directly, build the opposing virtue until it crowds out the vice.
+## The Stop-Start-Keep System
 
-**How to do it:** Identify a vice. Identify the opposing virtue. Practice the virtue daily in small ways. "We are what we repeatedly do; therefore, virtue is a habit."
+For each of the five life areas (faith, fitness, finances/work, family, free time), list: behaviors to stop, habits to start, practices to keep.
 
-**Case — Generosity practice:** To build generosity, tip an extra 5 percent. Donate time on weekends. Practice until generosity becomes habitual.
+**Case — Family example:** Stop giving kids iPads when they're bored. Start playing outside with them. Keep weekly date night. This simple audit prevents drift.
 
-## The Fear Flip Protocol
+## Visualization Protocol
 
-When fear arises, reinterpret it as a growth signal.
+Find a quiet space. Close your eyes. Visualize your desired outcome in full sensory detail — sights, sounds, feelings, smells. Practice daily for 5 minutes.
 
-**How to do it:** Recognize fear. Label it: "This is a growth opportunity." Ask: "What would I attempt if I knew I couldn't fail?" Take action despite the fear.
+**Case — Sara Blakely:** She visualized being on Oprah's show before it happened. She also visualized specific product features of Spanx before they were developed. Her practice was "a top determining factor of SPANX's success."
 
-**Case — Axe's business failure:** After losing his savings, he could have retreated to a safe job. Instead, he identified his core mission and launched an online course in ten weeks. The fear response became a growth response.
-
-## The Flourishing Mindset Checklist
-
-Axe provides a comparison table between fear-based and flourishing mindsets. The flourishing mindset: accepts feedback, celebrates others' success, works on weaknesses, embraces challenges, prioritizes learning over looking smart, sees failure as the beginning.
-
-**Case — Sara Blakely:** Her father encouraged her to celebrate failures. When she came home with a D, he asked, "What did you learn?" This reframe allowed her to persist through rejection and build Spanx.
-
-## The 10 Principles for Life
-
-Axe's curated list of principles from mentors and study: (1) Recognize the wise by their results, (2) Model the wise, (3) You reap what you sow, (4) The word is mightier than the sword, (5) The greatest is the servant of all, (6) Find the truth, (7) Iron sharpens iron, (8) Virtue is a habit, (9) Be the change, (10) Love (agape) wins.
-
-**Case — Financial principles from Dave Ramsey:** Get out of debt, give 10 percent, invest 10 percent into real estate or stocks. Simple principles that rebuilt Axe's wealth after his business failed.
+**Case — Basketball free-throw study:** Three groups: one practiced physical free throws (24 percent improvement), one did nothing (no improvement), one visualized (23 percent improvement — nearly equal to physical practice).
