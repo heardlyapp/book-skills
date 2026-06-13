@@ -1,0 +1,19 @@
+{
+  "name": "contagious-why-things-catch-on",
+  "version": "1.0.0",
+  "description": "Jonah Berger's guide to word-of-mouth and social transmission — the STEPPS framework explains why certain products, ideas, and stories go viral.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/contagious-why-things-catch-on",
+  "useCase": "Learn the six principles of contagiousness (STEPPS) — Social Currency, Triggers, Emotion, Public, Practical Value, Stories — to make any product, idea, or campaign more shareable.",
+  "knownRisks": [
+    "Principles may not apply equally across cultures",
+    "Viral success is not guaranteed by following steps alone",
+    "Some examples may feel dated"
+  ],
+  "tags": ["marketing", "viral", "word-of-mouth", "social-media", "psychology", "consumer-behavior", "stepss", "jonah-berger", "wharton", "business"],
+  "openclaw": {
+    "emoji": "📣",
+    "category": "business"
+  }
+}
