@@ -1,0 +1,19 @@
+{
+  "name": "the-creative-thinking-handbook-your-step-by-step-guide-to-problem-solving-in-business",
+  "version": "1.0.0",
+  "description": "Chris Griffiths' practical guide to creative problem solving — the Solution Finder framework, SCAMPER, mind mapping, Decision Radar, and techniques for overcoming creative blocks in business.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-creative-thinking-handbook-your-step-by-step-guide-to-problem-solving-in-business",
+  "useCase": "Develop creative problem-solving skills for business — overcome mental blocks, generate innovative ideas, evaluate solutions, and implement them effectively.",
+  "knownRisks": [
+    "Some techniques may seem basic to experienced innovators",
+    "Requires practice to master — not a one-time read",
+    "May need adaptation for non-business contexts"
+  ],
+  "tags": ["creativity", "innovation", "problem-solving", "business", "mind-mapping", "thinking", "ideation", "decision-making", "scamper", "brainstorming"],
+  "openclaw": {
+    "emoji": "💡",
+    "category": "business"
+  }
+}
