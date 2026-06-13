@@ -1,0 +1,24 @@
+{
+  "name": "more-money-than-god-hedge-funds-and-the-making-of-a-new-elite",
+  "displayName": "More Money Than God: Hedge Funds and the Making of a New Elite",
+  "description": "Sebastian Mallaby's definitive history of the hedge fund industry — from A.W. Jones's 1949 invention through Soros, Robertson, Steinhardt, Simons, and the LTCM collapse. An executable toolkit covering hedge fund strategies, investment philosophies of legendary managers, risk management lessons from major blowups, and practical applications for modern investors.",
+  "author": "Sebastian Mallaby",
+  "published": 2010,
+  "score": 9.6,
+  "category": "finance",
+  "tags": ["hedge funds", "investing", "finance", "history", "risk management", "George Soros", "Renaissance Technologies", "Long-Term Capital Management", "global macro", "quantitative trading"],
+  "readTime": "5-8 hours (full book)",
+  "useCases": [
+    "Understanding hedge fund history and the A.W. Jones invention",
+    "Learning investment philosophies from Soros, Robertson, Steinhardt, Simons",
+    "Risk analysis of major hedge fund blowups (LTCM, 1994, 2008)",
+    "Hedge fund strategy frameworks (long/short, macro, quant, arbitrage)",
+    "Applying hedge fund thinking to personal investing and risk management"
+  ],
+  "intents": {
+    "history": "Track the evolution of hedge funds from 1949 to the 2008 crisis",
+    "strategy": "Learn the specific investment approaches of legendary fund managers",
+    "risk": "Understand how and why hedge funds fail",
+    "personal": "Apply hedge fund discipline to your own portfolio"
+  }
+}
