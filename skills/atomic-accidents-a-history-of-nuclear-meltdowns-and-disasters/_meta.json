@@ -1,0 +1,19 @@
+{
+  "name": "atomic-accidents-a-history-of-nuclear-meltdowns-and-disasters",
+  "version": "1.0.0",
+  "description": "James Mahaffey's history of nuclear disasters — from early radiation experiments through Chernobyl and Fukushima — exploring the science, human error, and engineering failures behind each accident.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/atomic-accidents-a-history-of-nuclear-meltdowns-and-disasters",
+  "useCase": "Understand the causes and consequences of major nuclear accidents and the lessons learned for safety and risk management.",
+  "knownRisks": [
+    "Technical content may require basic science literacy",
+    "Some accident descriptions are disturbing",
+    "Author has clear views on nuclear energy that not everyone shares"
+  ],
+  "tags": ["nuclear", "history", "science", "disasters", "engineering", "safety", "chernobyl", "fukushima", "energy", "technology"],
+  "openclaw": {
+    "emoji": "☢️",
+    "category": "science"
+  }
+}
