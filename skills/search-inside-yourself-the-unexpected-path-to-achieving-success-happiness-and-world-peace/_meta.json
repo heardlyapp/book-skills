@@ -1,0 +1,19 @@
+{
+  "name": "search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace",
+  "version": "1.0.0",
+  "description": "Chade-Meng Tan's mindfulness and emotional intelligence program from Google — practical techniques for attention training, EQ, self-confidence, empathy, and leadership, designed for busy professionals.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/search-inside-yourself-the-unexpected-path-to-achieving-success-happiness-and-world-peace",
+  "useCase": "Develop mindfulness and emotional intelligence skills for personal wellbeing, professional success, and better relationships.",
+  "knownRisks": [
+    "Requires consistent practice — no quick fixes",
+    "Some may find the 'world peace' framing too idealistic",
+    "Corporate mindfulness programs have been criticized as superficial"
+  ],
+  "tags": ["mindfulness", "emotional-intelligence", "meditation", "leadership", "self-improvement", "google", "productivity", "empathy", "self-awareness", "well-being"],
+  "openclaw": {
+    "emoji": "🧘",
+    "category": "wellness"
+  }
+}
