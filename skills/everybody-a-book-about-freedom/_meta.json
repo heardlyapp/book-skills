@@ -1,0 +1,19 @@
+{
+  "name": "everybody-a-book-about-freedom",
+  "version": "1.0.0",
+  "description": "Olivia Laing's radical exploration of the body as the site of freedom and oppression, blending memoir with cultural history through Reich, Simone, Malcolm X, Sontag, and Stonewall.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/everybody-a-book-about-freedom",
+  "useCase": "Understand how freedom is embodied — how bodies are controlled by society and how bodily liberation is political, psychological, and collective.",
+  "knownRisks": [
+    "Contains explicit discussions of sex and the body",
+    "Left-leaning political perspective may not suit all readers",
+    "Dense cultural references require some background"
+  ],
+  "tags": ["body", "freedom", "politics", "sexuality", "race", "illness", "protest", "psychoanalysis", "queer", "cultural-history", "wilhelm-reich", "feminism"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "culture"
+  }
+}
