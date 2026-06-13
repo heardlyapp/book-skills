@@ -1,0 +1,18 @@
+{
+  "name": "the-icarus-deception-how-high-will-you-fly",
+  "version": "1.0.0",
+  "description": "Seth Godin's manifesto on why the Icarus myth is wrong — don't fly too low. We are all artists now in the connection economy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-icarus-deception-how-high-will-you-fly",
+  "useCase": "Learn why the Icarus myth is backwards, how to make art in any career, and why vulnerability is the price of creating.",
+  "knownRisks": [
+    "Highly opinionated — Godin takes strong positions against traditional career advice",
+    "Not a step-by-step guide; more of a manifesto"
+  ],
+  "tags": ["creativity", "business", "art", "vulnerability", "grit", "marketing", "career", "innovation", "mindset", "seth-godin"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "business"
+  }
+}
