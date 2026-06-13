@@ -1,0 +1,19 @@
+{
+  "name": "flash-crash-a-trading-savant-a-global-manhunt-and-the-most-mysterious-market-crash-in-history",
+  "version": "1.0.0",
+  "description": "Liam Vaughan's true story of Navinder Sarao, the British trader who used spoofing to manipulate markets and allegedly triggered the 2010 Flash Crash — a financial thriller about algorithmic trading, criminal investigation, and market fragility.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/flash-crash-a-trading-savant-a-global-manhunt-and-the-most-mysterious-market-crash-in-history",
+  "useCase": "Understand the 2010 Flash Crash, spoofing, market manipulation, high-frequency trading, and how one trader affected global markets.",
+  "knownRisks": [
+    "Some may dispute the extent of Sarao's role in the Flash Crash",
+    "Technical concepts may require basic market knowledge",
+    "The legal case is complex and ongoing in some aspects"
+  ],
+  "tags": ["finance", "trading", "crime", "crime-nonfiction", "stock-market", "high-frequency-trading", "flash-crash", "market-manipulation", "algorithms", "investigation"],
+  "openclaw": {
+    "emoji": "📉",
+    "category": "finance"
+  }
+}
