@@ -1,0 +1,19 @@
+{
+  "name": "creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration",
+  "version": "1.0.0",
+  "description": "Ed Catmull's inside story of Pixar's creative culture — the Braintrust, candor, protecting the creative process, and embracing failure as essential to innovation.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/creativity-inc-overcoming-the-unseen-forces-that-stand-in-the-way-of-true-inspiration",
+  "useCase": "Learn how Pixar built and sustained a creative culture — the Braintrust, candor, protecting the process, and embracing failure.",
+  "knownRisks": [
+    "Pixar-specific examples may not apply to all organizations",
+    "Some may find the culture difficult to replicate",
+    "Leadership lessons are contextual"
+  ],
+  "tags": ["creativity", "leadership", "pixar", "culture", "innovation", "management", "teamwork", "feedback", "ed-catmull", "animation"],
+  "openclaw": {
+    "emoji": "🎬",
+    "category": "business"
+  }
+}
