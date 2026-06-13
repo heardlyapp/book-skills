@@ -1,0 +1,19 @@
+{
+  "name": "the-portable-atheist-essential-readings-for-the-nonbeliever",
+  "version": "1.0.0",
+  "description": "Christopher Hitchens' curated anthology of essential atheist writings from Lucretius to Dawkins — the case for reason, science, and secular humanism across 2000 years.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-portable-atheist-essential-readings-for-the-nonbeliever",
+  "useCase": "Understand the case for atheism, secular humanism, and reason through the best writings from 2000 years of freethought.",
+  "knownRisks": [
+    "Anthology — not a single argument but many voices",
+    "Hitchens' editorial voice is strongly present",
+    "May challenge deeply held religious beliefs"
+  ],
+  "tags": ["atheism", "religion", "philosophy", "science", "humanism", "freethought", "secular", "reason", "rationality", "christopher-hitchens"],
+  "openclaw": {
+    "emoji": "🕊️",
+    "category": "philosophy"
+  }
+}
