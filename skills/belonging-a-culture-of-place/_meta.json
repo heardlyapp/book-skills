@@ -1,0 +1,19 @@
+{
+  "name": "belonging-a-culture-of-place",
+  "version": "1.0.0",
+  "description": "bell hooks' essays on home, belonging, race, and the land — returning to Kentucky, reclaiming roots, and building a culture of place through community and care.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/belonging-a-culture-of-place",
+  "useCase": "Understand what it means to belong to a place, the politics of returning home, and how community and land can heal historical wounds.",
+  "knownRisks": [
+    "Essay collection — not a single argument but multiple perspectives",
+    "Some essays are deeply personal while others are academic",
+    "hooks' intersectional perspective may challenge some readers"
+  ],
+  "tags": ["race", "place", "home", "belonging", "kentucky", "bell-hooks", "feminism", "community", "land", "american-south", "geography", "culture"],
+  "openclaw": {
+    "emoji": "🏡",
+    "category": "culture"
+  }
+}
