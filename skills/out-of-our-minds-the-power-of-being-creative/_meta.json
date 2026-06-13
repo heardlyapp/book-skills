@@ -1,0 +1,19 @@
+{
+  "name": "out-of-our-minds-the-power-of-being-creative",
+  "version": "1.0.0",
+  "description": "Ken Robinson's passionate argument that creativity is as important as literacy — and how education systems systematically suppress it. Explores divergent thinking, multiple intelligences, and fostering creativity.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/out-of-our-minds-the-power-of-being-creative",
+  "useCase": "Understand why creativity is suppressed by education and culture, and how to reclaim and foster creative capacity in yourself, schools, and organizations.",
+  "knownRisks": [
+    "Strong critique of mainstream education may upset some",
+    "Some may find the arguments too focused on Western education",
+    "Solutions are more philosophical than prescriptive"
+  ],
+  "tags": ["creativity", "education", "innovation", "psychology", "intelligence", "learning", "arts", "personal-development", "thinking", "school-reform"],
+  "openclaw": {
+    "emoji": "🎨",
+    "category": "education"
+  }
+}
