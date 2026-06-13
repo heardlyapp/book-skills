@@ -1,0 +1,19 @@
+{
+  "name": "dark-money-the-hidden-history-of-the-billionaires-behind-the-rise-of-the-radical-right",
+  "version": "1.0.0",
+  "description": "Jane Mayer's investigative account of how the Koch brothers and their billionaire network built a secret political machine that reshaped American politics and policy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/dark-money-the-hidden-history-of-the-billionaires-behind-the-rise-of-the-radical-right",
+  "useCase": "Understand how untraceable political money flows through the American system, who funds it, and how it affects elections, legislation, and public policy.",
+  "knownRisks": [
+    "Investigative journalism — readers may question some sourcing",
+    "Partisan topic — some may disagree with the framing",
+    "Dense with names, dates, and organizations"
+  ],
+  "tags": ["politics", "money-in-politics", "campaign-finance", "investigative-journalism", "koch-brothers", "citizens-united", "american-politics", "conservatism", "lobbying", "democracy"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "politics"
+  }
+}
