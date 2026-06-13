@@ -1,0 +1,19 @@
+{
+  "name": "wishful-drinking",
+  "version": "1.0.0",
+  "description": "Carrie Fisher's hilariously candid memoir of Hollywood royalty, Princess Leia, addiction, bipolar disorder, and learning to laugh through it all.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/wishful-drinking",
+  "useCase": "Understand the life and perspective of Carrie Fisher — addiction recovery, mental health advocacy, and how humor survives trauma.",
+  "knownRisks": [
+    "Memoir — not a clinical guide to addiction or bipolar disorder",
+    "Some material is very personal and may trigger readers",
+    "Fisher's humor can be dark and irreverent"
+  ],
+  "tags": ["memoir", "celebrity", "hollywood", "addiction", "mental-health", "bipolar-disorder", "star-wars", "humor", "recovery", "women-writers"],
+  "openclaw": {
+    "emoji": "🥤",
+    "category": "memoir"
+  }
+}
