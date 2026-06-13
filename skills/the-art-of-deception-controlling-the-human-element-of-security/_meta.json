@@ -1,0 +1,19 @@
+{
+  "name": "the-art-of-deception-controlling-the-human-element-of-security",
+  "version": "1.0.0",
+  "description": "Kevin Mitnick's guide to social engineering — the art of manipulating people, not computers, to breach security. Real case studies of pretexting, phishing, tailgating, and the best defenses.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-art-of-deception-controlling-the-human-element-of-security",
+  "useCase": "Understand social engineering attacks and defenses — how psychological manipulation, not technical hacking, is the biggest security threat.",
+  "knownRisks": [
+    "Case studies are from early 2000s — techniques have evolved",
+    "Some practical examples could be used for harm (educational use only)",
+    "Not a comprehensive cybersecurity guide"
+  ],
+  "tags": ["security", "social-engineering", "hacking", "cybersecurity", "phishing", "pretexting", "manipulation", "psychology", "deception", "mitnick"],
+  "openclaw": {
+    "emoji": "🎭",
+    "category": "security"
+  }
+}
