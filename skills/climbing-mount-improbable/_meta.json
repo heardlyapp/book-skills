@@ -1,0 +1,19 @@
+{
+  "name": "climbing-mount-improbable",
+  "version": "1.0.0",
+  "description": "Richard Dawkins' masterful explanation of how natural selection builds complex biological structures — eyes, wings, spider silk, shells — through cumulative, gradual evolution.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/climbing-mount-improbable",
+  "useCase": "Understand how natural selection creates apparent design in nature through the Mount Improbable metaphor of cumulative selection.",
+  "knownRisks": [
+    "Assumes acceptance of evolution as scientific fact",
+    "Dawkins' polemical style may alienate some readers",
+    "Some concepts require basic biology understanding"
+  ],
+  "tags": ["evolution", "biology", "science", "natural-selection", "darwin", "richard-dawkins", "complexity", "spiders", "flight", "co-evolution"],
+  "openclaw": {
+    "emoji": "🏔️",
+    "category": "science"
+  }
+}
