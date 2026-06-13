@@ -1,0 +1,19 @@
+{
+  "name": "the-broken-ladder-how-inequality-affects-the-way-we-think-live-and-die",
+  "version": "1.0.0",
+  "description": "Keith Payne's The Broken Ladder — how economic inequality rewires our brains, distorts our decisions, and shortens our lives.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-broken-ladder-how-inequality-affects-the-way-we-think-live-and-die",
+  "useCase": "Understand how inequality affects psychology, health, decisions, and politics — and learn how to escape the comparison trap.",
+  "knownRisks": [
+    "Content discusses sensitive topics including racial bias and police violence",
+    "Some readers may find descriptions of inequality stress-inducing",
+    "Solutions are primarily individual-level; structural change requires collective action"
+  ],
+  "tags": ["inequality", "psychology", "status", "social-psychology", "economics", "health", "politics", "bias", "class", "society"],
+  "openclaw": {
+    "emoji": "📊",
+    "category": "self-improvement"
+  }
+}
