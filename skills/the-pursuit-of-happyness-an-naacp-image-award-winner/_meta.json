@@ -1,0 +1,19 @@
+{
+  "name": "the-pursuit-of-happyness-an-naacp-image-award-winner",
+  "version": "1.0.0",
+  "description": "Chris Gardner's inspiring true story of rising from homelessness, sleeping in train stations with his toddler son, to become a successful stockbroker — a testament to resilience, fatherhood, and the American dream.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-pursuit-of-happyness-an-naacp-image-award-winner",
+  "useCase": "Find inspiration and resilience lessons from a true story of overcoming homelessness, single fatherhood, and poverty through persistence and determination.",
+  "knownRisks": [
+    "Memoir — not a how-to guide",
+    "Some details may differ from the movie adaptation",
+    "Gardner's success story may not be replicable for everyone"
+  ],
+  "tags": ["memoir", "inspiration", "resilience", "fatherhood", "homelessness", "success", "determination", "american-dream", "biography", "motivation"],
+  "openclaw": {
+    "emoji": "🌟",
+    "category": "memoir"
+  }
+}
