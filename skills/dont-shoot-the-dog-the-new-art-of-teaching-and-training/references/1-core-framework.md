@@ -1,59 +1,89 @@
-# Core Framework: The Five Training Tools
+# Core Framework: Reinforcement, Shaping, and the 8 Methods
 
 ## Overview
 
-Pryor's system breaks down into five interconnected tools. Each builds on the previous one.
+Karen Pryor's framework rests on three pillars: reinforcement theory (the science of how consequences affect behavior), shaping (the art of building complex behaviors through successive approximation), and the 8 methods of untraining (a hierarchy for eliminating unwanted behavior). Together they form a complete system for behavior change that works with any species.
 
-## Tool 1: Reinforcement
+Pryor, a marine mammal trainer who revolutionized dog training with the clicker, based her framework on behavioral science but presents it as a practical toolkit — not academic theory. The key distinction: reinforcement theory is the science; reinforcement training is the practical application.
 
-The bedrock concept. A reinforcer is defined by its effect — if the behavior increases, it's reinforcing. If it doesn't increase, it's not a reinforcer, no matter how nice it seems.
+## The Foundation: What Is Reinforcement?
 
-**Key rules**:
-- Reinforcers must be immediate (within 1 second of the behavior)
-- Reinforcers must be contingent on the behavior (behavior → reinforcer)
-- Different subjects find different things reinforcing
-- Timing is more important than magnitude
+Reinforcement is an event that (a) occurs during or upon completion of a behavior, and (b) increases the likelihood of that behavior occurring in the future. The two key elements: the events are connected in real time (the behavior engenders the reinforcer), and then the behavior occurs more frequently.
 
-**Book case — Dolphin training origin**: At Sea Life Park, Pryor discovered that punishment was impossible with dolphins. A bucket of fish was the only tool. This forced pure positive reinforcement. The dolphins learned complex behaviors — jumps, flips, synchronized routines — faster and more reliably than any trained dog or horse she'd worked with. The lesson: when you can only use positive reinforcement, you learn to use it masterfully.
+**Positive reinforcement:** Adding something pleasant that the learner wants more of — a smile, a pat, a treat, a kind word.
 
-**Book case — The crabby colleague**: Pryor describes how a grumpy coworker can be transformed by catching them being pleasant and reinforcing that moment. The instinct is to ignore the good and punish the bad. The effective approach is the opposite: selectively reinforce pleasant behavior and let the grumpiness undergo extinction.
+**Negative reinforcement:** Removing something aversive — a yank on a leash stops when the dog walks at heel, a nagging sound stops when the task is done.
 
-## Tool 2: Shaping
+**Critical distinction from reward/punishment:** The concept of reward and punishment carries emotional baggage — guilt, obligation, shoulds and ought-to's. Scientists don't use these words. Reinforcement is defined purely by its effect: if the behavior increases, it was reinforced. If not, it wasn't.
 
-Shaping is the process of building behavior in small steps. You don't reinforce only the final behavior — you reinforce any movement in the right direction.
+**Case — B.F. Skinner influence:** Pryor dedicates the book to the behavioral science tradition. Skinner's experiments showed that behavior could be shaped without punishment — a revolutionary idea that Pryor translated from lab to real life.
 
-**Book case — Chicken training**: Pryor describes the famous "train a chicken" exercise. A chicken must be trained to peck a target, turn in a circle, or discriminate between colors. You cannot force, scold, or intimidate a chicken. You must shape: reinforce any head movement toward the target, then a step toward it, then pecking it. This exercise is so instructive that it's used in college courses and corporate training.
+**Case — The grumpy gorilla:** Pryor describes working with a gorilla at a zoo where keepers had been using punishment. When she switched to positive reinforcement — rewarding calm behavior with preferred foods — the gorilla's aggression vanished within two sessions.
 
-**Book case — The ten rules applied to tennis**: A faulty tennis swing can be reshaped. Rule 1: raise criteria in small increments (fix grip first, then stance, then swing). Rule 5: plan ahead (have a sequence in mind). Rule 9: if it deteriorates, go back to basics (go back to grip). Shaping turns frustration into progress.
+## Shaping: Building Behavior Step by Step
 
-## Tool 3: Stimulus Control
+Shaping consists of taking a very small tendency in the right direction and shifting it, one small step at a time, toward an ultimate goal. The laboratory term is "successive approximation."
 
-The behavior happens when you ask (cue) and doesn't happen when you don't.
+**The core insight:** The behavior of living things is variable. Whatever a creature does, it will do it with more vigor at some times than others, in different directions, and so on. No matter how elaborate the ultimate behavior, you can always find some behavior presently occurring to use as a first step.
 
-**Book case — Dolphin precision**: A dolphin trainer can signal "jump" from 50 yards with a subtle hand gesture. The dolphin jumps exactly once, at exactly the right height, then looks for the next cue. No anticipation, no extra behaviors. This precision comes from careful stimulus control training.
+**Case — The dancing chicken step by step:**
+1. Watch the chicken moving around. Reinforce any movement to the left.
+2. When left movement is frequent, selectively reinforce only strong movements — turning a quarter circle.
+3. Raise criteria again: select for half circle turns.
+4. Select for full turns at high speed.
+5. Result: a "dancing" chicken. Each step took only minutes because the criteria were small enough that the chicken always had a realistic chance for reinforcement.
 
-**Book case — Saying "please"**: Pryor uses the example of teaching a child to say "please." Without stimulus control, the child may say "please" constantly (prompt dependency). With good stimulus control, the child says "please" when asking for something and not at other times. The cue (the request situation) must be clear and consistent.
+**Case — The Training Game teaches shaping principles:** When Brynn played the "animal" in a classroom Training Game, she was shaped to stand on a specific spot facing the wall. When the spot was moved and the trainer didn't adjust, Brynn stood at the old spot facing the wrong direction — demonstrating that the trainer had inadvertently shaped location AND orientation. The lesson: every reinforcement shapes multiple aspects of behavior simultaneously.
 
-## Tool 4: Untraining (8 Methods)
+## The 8 Methods of Untraining
 
-A systematic approach to eliminating unwanted behavior. The eight methods cover the full spectrum from drastic (Method 1) to elegant (Method 8).
+This is the most famous framework from the book — a hierarchy of methods for eliminating unwanted behavior, ranked from least to most desirable.
 
-**Book case — Barking dog across all methods**: Pryor walks a barking dog problem through all eight methods as an extended example. Method 1: debark. Method 2: hit or spray. Method 3: shock collar that stops when dog stops. Method 4: wait out the barking. Method 5: teach "speak" on cue, then reinforce quiet. Method 6: put barking on cue, never give cue. Method 7: reinforce everything except barking. Method 8: address the dog's needs — exercise, attention, security.
+### Method 1: Shoot the Animal
+Kill the animal. Definitely works. For humans: fire the employee, end the relationship, move away, remove yourself. Limited application but sometimes necessary.
 
-**Book case — The cat on the kitchen table**: Another repeated example. Method 1: keep cat outdoors. Method 2: squirt with water (punishment). Method 4: ignore (unlikely to work). Method 5: provide a comfortable cat bed elsewhere that's more attractive. Method 8: understand why the cat likes the table (warm, elevated, near people) and provide alternatives.
+### Method 2: Punishment
+Add an aversive stimulus or remove a pleasant one. Works temporarily but creates side effects: fear of the punisher, aggression, avoidance. The punished behavior often returns when the punisher leaves. Yet this is the method most people default to.
 
-## Tool 5: Clicker Training
+**Case — Prison as punishment:** Sending people to prison long after the behavior occurred. Creates retribution but has little effect on future behavior. It's called "education" — "I taught him a lesson" — but it's actually just punishment.
 
-A marker signal (click) that identifies the exact instant of correct behavior. The click becomes a conditioned reinforcer through pairing with primary reinforcers (food).
+### Method 3: Negative Reinforcement
+Remove an aversive when the desired behavior occurs. A choke chain tightens when the dog pulls and loosens when the dog walks at heel. The dog learns to perform the behavior (heeling) to escape the aversive (chain tightening). Works but the aversive is still present.
 
-**Book case — From dolphins to dogs**: Pryor pioneered the use of the whistle (and later the clicker) for dolphin training. The sound marked the exact moment the dolphin performed the correct behavior — even if the trainer couldn't deliver fish until 10 seconds later. Dog trainers later adopted the clicker, creating a revolution in dog training.
+### Method 4: Extinction
+Stop reinforcing the behavior. If a behavior has been reinforced and the reinforcement stops, the behavior decreases. BUT: there is an extinction burst — the behavior initially gets worse before it fades. This is why people give up on extinction too soon.
 
-**Book case — Hollywood movies**: Films like *Babe* and *Free Willy* depended on clicker training. The precision of the marker signal allowed trainers to capture behaviors that were previously impossible to train — a pig herding sheep, an orca leaping over a barrier. The clicker made the impossible possible.
+**Case — The arguing lawyer:** When colleagues stopped paying attention to the interruption-prone lawyer (extinction of social reinforcement), his interruptions initially increased before fading.
 
-## How the Five Tools Work Together
+### Method 5: Train an Incompatible Behavior
+Teach a behavior that physically cannot happen at the same time as the unwanted one. The simplest and most effective method for most situations.
 
-1. Use **reinforcement** to build any behavior
-2. Use **shaping** to build complex behaviors step by step
-3. Use **stimulus control** to get behavior on cue
-4. Use **untraining methods** to eliminate unwanted behavior
-5. Use **clicker training** to accelerate and precision-train all of the above
+**Case — Dog barking at the door:** Instead of teaching "stop barking," teach the dog to go to a mat and lie down when the doorbell rings. The dog can't bark and lie quietly at the same time. By reinforcing the incompatible behavior, barking disappears naturally.
+
+### Method 6: Put the Behavior on Cue
+Make the unwanted behavior a "trick" — only performed when cued. Magicians and mentalists use this: the subject thinks they're doing something spontaneously, but actually they're responding to a hidden cue.
+
+**Case — Teaching a dog to bark on cue:** Teach "speak" as a trick. Once the dog only barks when asked, the barking problem is solved without any punishment. The dog still gets to bark — just on your terms.
+
+### Method 7: Shape the Absence
+Reinforce everything except the unwanted behavior. This is the most elegant method — the animal learns that not doing X is more rewarding than doing X.
+
+**Case — Cat scratching the furniture:** Instead of scolding the cat for scratching the sofa, reinforce every time the cat uses the scratching post. Place the post near the sofa initially, then gradually move it to where you want it. The cat learns that the post — not the sofa — produces reinforcement.
+
+### Method 8: Change the Motivation
+Alter the environment so the behavior is no longer rewarding. The most permanent and least interventionist solution.
+
+**Case — Messy roommate:** Instead of nagging, change the environment. Provide a laundry hamper where the roommate actually drops clothes. Make it easy to do the right thing and slightly inconvenient to do the wrong thing. The behavior changes without anyone knowing it was trained.
+
+## Stimulus Control
+
+Once a behavior is established, add a cue so it occurs reliably when asked. Stimulus control has five criteria: the behavior occurs immediately on cue, never occurs without the cue, never occurs in response to other cues, no other behavior occurs in response to the cue, and the subject is happy to perform.
+
+**Case — The Kraken at Sea Life Park:** A killer whale learned to respond to specific hand signals for different behaviors. Only the trainer's signals worked — not the audience's. This precision is the hallmark of good stimulus control.
+
+## References
+
+1. Pryor, K. (1999). *Don't Shoot the Dog!: The New Art of Teaching and Training*. Revised Edition. Bantam Books.
+2. Skinner, B.F. (1938). *The Behavior of Organisms: An Experimental Analysis*. Appleton-Century.
+3. Pryor, K. (2002). *Getting Started: Clicker Training for Dogs*. Sunshine Books.
+4. Breland, K. & Breland, M. (1961). "The Misbehavior of Organisms." *American Psychologist*, 16(11), 681-684.

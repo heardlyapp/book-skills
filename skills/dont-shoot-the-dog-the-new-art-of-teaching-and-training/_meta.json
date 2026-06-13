@@ -3,7 +3,18 @@
   "title": "Don't Shoot the Dog!: The New Art of Teaching and Training",
   "author": "Karen Pryor",
   "score": 9.6,
-  "version": "1.0.0",
-  "tags": ["training", "behavior-modification", "positive-reinforcement", "psychology", "parenting", "animal-training", "clicker-training", "self-improvement", "operant-conditioning", "communication"],
+  "version": "1.0.1",
+  "tags": [
+    "behavior-modification",
+    "positive-reinforcement",
+    "dog-training",
+    "animal-training",
+    "psychology",
+    "parenting",
+    "self-improvement",
+    "habit-change",
+    "clicker-training",
+    "learning"
+  ],
   "language": "en"
 }

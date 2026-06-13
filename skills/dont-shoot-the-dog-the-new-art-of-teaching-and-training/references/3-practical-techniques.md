@@ -1,84 +1,72 @@
 # Practical Techniques
 
-This reference covers the specific, actionable techniques from *Don't Shoot the Dog!*
+## Overview
 
----
+Beyond the core framework, Pryor provides a toolkit of specific techniques for applying reinforcement training in real-world situations. This file catalogs the most actionable techniques with book cases.
 
-## The 10 Rules of Shaping
+## The Training Game: Nonverbal Shaping Practice
 
-Pryor's most practical contribution. These rules ensure that shaping works efficiently:
+The most powerful technique in the book is the Training Game — a nonverbal shaping exercise that any group can play. One person (the "trainer") shapes another (the "animal") using only a whistle or click. No talking. No gestures. No cues.
 
-1. **Raise criteria in sufficiently small increments** — If the subject keeps failing, the increments are too big.
-2. **Train one aspect at a time** — Don't try to fix speed, accuracy, and duration simultaneously.
-3. **Put current level on a variable schedule before raising criteria** — Once a step is reliable, vary the reinforcement. Then raise criteria.
-4. **When introducing a new criterion, temporarily relax old ones** — The subject may backslide on previous achievements.
-5. **Stay ahead of your subject** — Plan the shaping program. Know the next step before you need it.
-6. **Don't change trainers midstream** — Different trainers have different criteria and timing.
-7. **If one procedure isn't working, try another** — The problem is the approach, not the subject.
-8. **Don't interrupt a training session gratuitously** — Interruption is punishment.
-9. **If behavior deteriorates, go back to kindergarten** — Reduce criteria to the last successful level.
-10. **End each session on a high note** — The last behavior should be successful and reinforced.
+**How to play:**
+1. The "animal" leaves the room while the group chooses a simple behavior (touch the light switch, stand on a specific spot, open a book).
+2. The animal returns and begins moving around the room.
+3. The trainer clicks or whistles when the animal does anything in the right direction.
+4. The animal explores, the trainer marks, and gradually the behavior emerges.
+5. No one speaks until the target behavior is performed.
 
-**Book case — Chicken training**: Trainees in Pryor's seminars try to shape a chicken to turn in a circle. Most fail because they violate Rule 1 (increments too big) or Rule 3 (don't reinforce too predictably). Those who succeed learn a lesson that applies to all future training: the subject isn't stubborn; the trainer's increments are too big.
+**Why it works:** The game teaches timing, criteria-setting, and the subject's perspective. Players discover that many training problems are caused by the trainer, not the trainee.
 
-**Book case — Learning a musical instrument**: Rule 1: learn one chord before learning the next. Rule 4: when learning a new chord, your old chords may sound worse briefly. Rule 9: if you hit a wall, go back to the last thing you could play well.
+**Case — Leonard and the light switch:** Leonard, a high school student playing the "animal," walked into the room with his hands in his pockets. The trainer Beth reinforced him for moving around — but with hands in pockets. Soon his hands were "glued" there. He bumped the wall, leaned on the light switch, but couldn't trigger it with his hands trapped. Another student, Maria, took over and tripped Leonard, making his hands fly out. She caught the moment with the whistle. Within seconds, Leonard found the switch. The lesson: sometimes you need to change the trainer to change the result.
 
----
+**Case — Gregory Bateson, the untrainable philosopher:** The famous anthropologist played the animal and proved "impossible to train" — not because he stood still, but because he offered so much variety that the trainer was swamped. This taught a different lesson: when the subject offers too many behaviors, it's the trainer's problem, not the subject's.
 
-## The Clicker Training Method
+## Targeting: Using a Physical Cue
 
-The clicker creates instant, precise communication. Here's how to use it:
+Targeting is a shortcut technique where you shape the subject to touch a specific target — a hand, a stick, a spot on the wall. Then you move the target to elicit desired behavior.
 
-1. **Charge the clicker**: Click, then give a treat. Repeat 10-20 times. The click becomes a conditioned reinforcer.
-2. **Capture**: Click the exact moment a desired behavior occurs naturally.
-3. **Shape**: Click successive approximations toward a complex behavior.
-4. **Add a cue**: Present the cue before the behavior, click and reinforce when the behavior follows the cue.
-5. **Fade the clicker**: Gradually reduce click frequency as the behavior becomes reliable.
+**How to do it:** Shape the subject to touch a target (your closed fist, a stick, a spot on the wall). Reinforce enthusiastically. Once the subject reliably touches the target, move the target to where you want the subject to go. The subject follows the target.
 
-**Why the clicker works**: It solves the timing problem. A click is instantaneous. You can click the exact moment the dog touches its nose to the target, even if you're 10 feet away and the treat is in your pocket.
+**Applications:** Getting a dog into a crate, a child into a chair, a horse into a trailer. Targeting replaces force and coercion with a game.
 
-**Book case — Hollywood animals**: The *Babe* pig learned to herd sheep using clicker training. The trainer could click the exact instant the pig moved in the right direction, then deliver a treat. This precision made it possible to shape complex herding behavior.
+**Case — Marine mammal targeting:** Sea lions are trained to touch their noses to a target pole. Trainers then use the target to move the animal anywhere — onto a scale, through a gate, into a transport crate. The animal thinks it's playing a game.
 
----
+**Case — Tourists following a flag:** Japanese tour groups use a flag held above the crowd as a target. The group stays together because everyone follows the flag. Same principle.
 
-## The "Be a Better Observer" Technique
+## Modeling and Mimicry
 
-Pryor emphasizes that most people don't observe behavior accurately. We see what we expect to see, not what's actually happening.
+Modeling (physically guiding the subject through the movement) and mimicry (learning by watching) are shaping shortcuts. They can speed up training but have pitfalls.
 
-**The exercise**: Pick one person (or animal) and watch them for 10 minutes. Without judgment, describe what you see. Not "he's being lazy" but "he's sitting on the couch looking at his phone." Behavior description, not interpretation.
+**When modeling works:** Combine modeling with shaping. While you guide the subject through the motion, stay sensitive to the smallest effort on the subject's part to initiate the motion. Reinforce that effort.
 
-**Why it matters**: You can't reinforce or shape behavior you can't see. Most training failures stem from inaccurate observation.
+**When modeling fails:** Pushing a dog into a sit or forcing a child's hand around a pencil teaches the subject to let you do the work. The subject learns to be passive, not active.
 
-**Book case — The crabby spouse**: A husband who complained about his wife's nagging discovered (through observation) that she only nagged when he didn't respond to her first request. The behavior sequence: wife asks → husband ignores → wife nags. The solution wasn't to stop the nagging (Method 2 — punish). It was to respond to the first request (Method 8 — change motivation).
+**Case — The stuck cat:** Pryor shaped a cat to climb down a tree backward — a skill cats normally learn from watching their mothers. This cat had been separated from its mother too early. Modeling wouldn't work (the cat was in a tree). She used targeting and successive approximation instead.
 
----
+**Case — Living statues horses:** Trainers massaged horses for hours until deeply relaxed, then modeled them into poses, reinforcing stillness. The combination of relaxation, modeling, and reinforcement created horses that held poses for minutes.
 
-## The Extinction Burst Strategy
+## Record Keeping for Self-Shaping
 
-When you stop reinforcing a behavior, it often gets worse before it gets better. This is the extinction burst. Knowing this in advance is critical — if you give in during the burst, you've trained persistence.
+When training yourself, one technique proves most useful: visual record keeping. A graph showing improvement is its own reinforcer.
 
-**Strategy**:
-1. Identify the behavior you want to extinguish
-2. Identify the reinforcer maintaining it
-3. Make sure you can withstand the extinction burst
-4. Be consistent — every reinforcement during extinction resets the clock
-5. Prepare alternatives — reinforce a replacement behavior simultaneously
+**How to do it:** Track behavior on a graph. Show a line moving in the right direction. When you slip, the graph reminds you that overall you're improving. The visible proof of progress provides motivation when immediate rewards are absent.
 
-**Book case — The candy aisle tantrum**: A child throws a tantrum in the grocery store for candy. The reinforcer: parental attention and occasional candy. If parents decide to extinguish this, they must be prepared for a worse tantrum first (extinction burst). If they give in after 5 minutes of screaming, they've taught the child to scream for exactly 5 minutes on future attempts.
+**Case — Smoking cessation:** Pryor tried four programs to quit smoking. None worked immediately. Record keeping — graphing progress over months — provided enough motivation to keep going even during setbacks. "Perfection might still be a long way off," she writes, "but the 'curve' of the graph was in the right direction, and this visible proof of improvement, while itself a weak and slow-operating reinforcer, did provide enough motivation to keep me going most of the time."
 
-**Book case — The interrupting colleague**: A colleague who constantly interrupts meetings. The reinforcer: being heard. If you start ignoring interruptions (extinction), expect more interruptions initially (extinction burst). Simultaneously reinforce appropriate turn-taking.
+## Going Back to Kindergarten
 
----
+When behavior deteriorates — the subject stops performing, becomes frustrated, or makes errors — the solution is never to increase pressure. The solution is to drop criteria and review with easily earned reinforcers.
 
-## Training Yourself
+**How to do it:** Return to the last step where the subject was successful. Reinforce generously. Rebuild the sequence from there. This almost always resolves the problem faster than pushing through.
 
-Pryor applies the framework to self-improvement. The same principles work for your own behavior:
+**Case — The Brearley school student:** A student shaping her father to stop yelling hit a plateau. She "went back to kindergarten" — reinforcing quiet conversation for a few days, then gradually building back to the higher criteria. It worked.
 
-- **Reinforce yourself**: Celebrate small wins. The dopamine hit reinforces productive behavior.
-- **Shape your own habits**: Start with tiny behavior changes. Want to exercise? Start with one pushup.
-- **Use incompatible behaviors**: Can't stop biting your nails? Keep your hands busy with a fidget toy.
-- **Change your motivation**: Don't rely on willpower. Change your environment to make good behavior easy and bad behavior hard.
+**Case — The killer whale (Kraken):** When a trained behavior deteriorated, trainers went back to the beginning — not punishing the failure, but reviewing the shaping process with easy reinforcers. Within one session, the behavior was restored.
 
-**Book case — Nail biting**: Pryor describes using incompatible behavior training on herself. She couldn't stop biting her nails, so she kept her hands occupied with a small object. The incompatible behavior (holding something) made nail biting impossible. Eventually the habit faded.
+## The Cardio-Pulmonary Training Technique
 
-**Book case — Thank-you notes**: Many people hate writing thank-you notes. Instead of forcing themselves (punishment-based), Pryor suggests changing the environment (Method 8): keep notecards and pens accessible, write them immediately after receiving a gift, and pair the writing with something pleasant (music, tea).
+The book concludes with specific guidance for trainers: don't interrupt sessions, don't change trainers midstream, end on a high note. These are rules that apply to any training context.
+
+**Ending on a high note:** Quit while you're ahead. If the subject performs beautifully, stop the session — even if you planned to go longer. Ending on success leaves the subject wanting more.
+
+**Case — The puppy who quit:** If a puppy performs three perfect sits, stop. Don't ask for a fourth. The puppy will be eager for tomorrow's session. Asking for too many repetitions creates boredom and aversion.
