@@ -3,7 +3,18 @@
   "title": "The Presentation Secrets of Steve Jobs",
   "author": "Carmine Gallo",
   "score": 9.6,
-  "version": "1.0.0",
-  "tags": ["presentation", "public-speaking", "steve-jobs", "communication", "storytelling", "keynote", "pitch", "leadership", "apple", "persuasion"],
+  "version": "1.0.1",
+  "tags": [
+    "presentation",
+    "public-speaking",
+    "steve-jobs",
+    "communication",
+    "storytelling",
+    "keynote",
+    "pitch",
+    "leadership",
+    "apple",
+    "persuasion"
+  ],
   "language": "en"
 }
