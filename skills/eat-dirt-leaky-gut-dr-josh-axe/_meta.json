@@ -1,0 +1,31 @@
+{
+  "name": "eat-dirt-leaky-gut-dr-josh-axe",
+  "version": "1.0.0",
+  "description": "Dr. Josh Axe's Eat Dirt — a comprehensive gut-health toolkit for identifying, treating, and preventing leaky gut syndrome through dietary changes, lifestyle microexposures, and targeted gut-type protocols.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/eat-dirt-leaky-gut-dr-josh-axe",
+  "useCase": "Helps users diagnose leaky gut, heal their gut lining, identify their specific gut type, apply the 5-step Eat Dirt program, and restore microbiome diversity through microexposures, diet changes, and targeted supplements.",
+  "knownRisks": [
+    "Gut healing can cause temporary detox symptoms (fatigue, headaches, digestive changes) — advise users to push through the initial 1-2 weeks",
+    "Patients on prescription medications should not stop them without consulting their doctor",
+    "Severe autoimmune conditions require medical supervision alongside functional medicine approaches",
+    "Some fermented foods may trigger histamine reactions in sensitive individuals — start with small amounts"
+  ],
+  "tags": [
+    "gut-health",
+    "leaky-gut",
+    "microbiome",
+    "autoimmune",
+    "functional-medicine",
+    "nutrition",
+    "probiotics",
+    "wellness",
+    "digestion",
+    "inflammation"
+  ],
+  "openclaw": {
+    "emoji": "🦠",
+    "category": "health-and-fitness"
+  }
+}
