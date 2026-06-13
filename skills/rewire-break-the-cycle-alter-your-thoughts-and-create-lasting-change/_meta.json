@@ -1,0 +1,19 @@
+{
+  "name": "rewire-break-the-cycle-alter-your-thoughts-and-create-lasting-change",
+  "version": "1.0.0",
+  "description": "Nicole Vignola's Rewire — a neuroscience-based 3-phase protocol for identifying, interrupting, and rewriting subconscious thought patterns and self-limiting beliefs through neuroplasticity.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/rewire-break-the-cycle-alter-your-thoughts-and-create-lasting-change",
+  "useCase": "Apply the 3-phase Rewire Protocol (Ditch the Negative → Shift Your Narrative → Boost the Positive) to rewire automatic negative thoughts, build self-trust, and create lasting behavioral change through neuroscience.",
+  "knownRisks": [
+    "Not a substitute for professional mental health treatment for clinical depression, anxiety disorders, or trauma",
+    "Some individuals with severe neurodivergent conditions may need professional guidance to adapt the protocol",
+    "Sleep and exercise recommendations should be adjusted for individuals with specific health conditions"
+  ],
+  "tags": ["neuroscience", "neuroplasticity", "mental-health", "habits", "self-help", "psychology", "brain", "behavior-change", "mindset", "growth-mindset", "stress", "dopamine", "sleep", "visualization", "confidence", "self-trust", "cognitive-science", "resilience", "habit-formation", "nicole-vignola"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "self-development"
+  }
+}
