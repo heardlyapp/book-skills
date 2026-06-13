@@ -1,0 +1,19 @@
+{
+  "name": "the-bond-book-everything-investors-need-to-know-about-treasuries-munis-corporate-bonds-and-more",
+  "version": "1.0.0",
+  "description": "Annette Thau's comprehensive guide to bond investing — covering Treasuries, municipals, corporates, MBS, zeros, bond funds, and portfolio strategies.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-bond-book-everything-investors-need-to-know-about-treasuries-munis-corporate-bonds-and-more",
+  "useCase": "Understand bond investing — from bond basics and pricing to building a diversified fixed-income portfolio with individual bonds or funds.",
+  "knownRisks": [
+    "Bond market conditions change — yields and prices are dynamic",
+    "Tax treatment varies by jurisdiction and individual circumstances",
+    "Calls and early redemptions can disrupt ladder strategies"
+  ],
+  "tags": ["investing", "bonds", "fixed-income", "treasuries", "municipal-bonds", "corporate-bonds", "personal-finance", "retirement", "portfolio-management", "financial-literacy"],
+  "openclaw": {
+    "emoji": "📊",
+    "category": "finance"
+  }
+}
