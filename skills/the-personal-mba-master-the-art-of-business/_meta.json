@@ -1,0 +1,19 @@
+{
+  "name": "the-personal-mba-master-the-art-of-business",
+  "version": "1.0.0",
+  "description": "Josh Kaufman's comprehensive business education — the core concepts of value creation, marketing, sales, finance, psychology, and systems thinking.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-personal-mba-master-the-art-of-business",
+  "useCase": "Learn the fundamentals of business without an MBA — from value creation to finance to systems thinking.",
+  "knownRisks": [
+    "Not a substitute for formal business education for regulated fields",
+    "Concepts are simplified for accessibility",
+    "Practical application requires real-world experimentation"
+  ],
+  "tags": ["business", "entrepreneurship", "marketing", "sales", "finance", "management", "startup", "leadership", "strategy", "education"],
+  "openclaw": {
+    "emoji": "💼",
+    "category": "business"
+  }
+}
