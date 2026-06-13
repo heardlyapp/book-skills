@@ -1,0 +1,19 @@
+{
+  "name": "we-should-all-be-feminists",
+  "version": "1.0.0",
+  "description": "Chimamanda Ngozi Adichie's powerful essay on why gender equality benefits everyone — examining gender socialization, workplace bias, and how to create change.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/we-should-all-be-feminists",
+  "useCase": "Understand feminism, how gender roles harm both men and women, and how to create a more equal society.",
+  "knownRisks": [
+    "Short essay — depth is limited compared to full-length books",
+    "Some may disagree with the author's perspective",
+    "Cultural context of Nigeria may differ from readers' experiences"
+  ],
+  "tags": ["feminism", "gender", "equality", "society", "culture", "women", "human-rights", "social-justice", "education", "changing-norms"],
+  "openclaw": {
+    "emoji": "✊",
+    "category": "society"
+  }
+}
