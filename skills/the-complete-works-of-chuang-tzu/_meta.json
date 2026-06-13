@@ -1,0 +1,19 @@
+{
+  "name": "the-complete-works-of-chuang-tzu",
+  "version": "1.0.0",
+  "description": "Chuang Tzu's foundational Taoist text — parables and philosophy on freedom from convention, spontaneous action, and merging with the Tao.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-complete-works-of-chuang-tzu",
+  "useCase": "Understand Taoist philosophy through the parables and paradoxes of Chuang Tzu — freedom, spontaneity, and the relativiry of all things.",
+  "knownRisks": [
+    "Ancient text with complex cultural and historical context",
+    "Multiple authorship — not all chapters convey the same philosophy",
+    "Some passages describe magical or supernatural powers that should be read metaphorically"
+  ],
+  "tags": ["philosophy", "taoism", "chinese-philosophy", "spirituality", "wisdom", "classics", "eastern-philosophy", "chinese-literature", "self-cultivation", "zen"],
+  "openclaw": {
+    "emoji": "🦋",
+    "category": "philosophy"
+  }
+}
