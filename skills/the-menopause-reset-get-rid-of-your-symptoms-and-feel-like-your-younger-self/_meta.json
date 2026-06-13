@@ -1,0 +1,19 @@
+{
+  "name": "the-menopause-reset-get-rid-of-your-symptoms-and-feel-like-your-younger-self",
+  "version": "1.0.0",
+  "description": "Dr. Mindy Pelz's guide to managing menopause through cellular health, intermittent fasting, ketogenic diet, and detox — addressing the root cause of hormone imbalance.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-menopause-reset-get-rid-of-your-symptoms-and-feel-like-your-younger-self",
+  "useCase": "Manage menopause symptoms naturally through cellular repair, fasting, keto nutrition, and lifestyle changes that address root causes, not symptoms.",
+  "knownRisks": [
+    "Medical advice — consult your doctor before starting fasting or keto",
+    "Not all approaches work for everyone",
+    "Some concepts may conflict with conventional medical advice"
+  ],
+  "tags": ["menopause", "hormones", "women's-health", "fasting", "keto", "wellness", "cellular-health", "detox", "nutrition", "lifestyle"],
+  "openclaw": {
+    "emoji": "🌸",
+    "category": "health"
+  }
+}
