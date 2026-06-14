@@ -1,6 +1,23 @@
 {
   "skills": [
     {
+      "slug": "the-secret",
+      "title": "Rhonda Byrne's The Secret \u2014 a comprehensive guide to the Law of Attraction. Covers the 3-step Creative Process (Ask, Believe, Receive), gratitude practice, visualization techniques, and practical application across money, relationships, health, and life.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "self-help",
+        "law-of-attraction",
+        "new-thought",
+        "manifestation",
+        "personal-development",
+        "spirituality",
+        "mindset",
+        "gratitude"
+      ],
+      "updated": "2026-06-14"
+    },
+    {
       "slug": "100m-offers",
       "title": "Alex Hormozi's $100M Offers \u2014 an executable toolkit for creating offers so compelling that people feel stupid saying no.",
       "author": "heardlyapp",
