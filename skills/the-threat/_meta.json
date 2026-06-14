@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "name": "the-threat",
+  "title": "The Threat: How the FBI Protects America in the Age of Terror and Trump",
+  "author": "Andrew G. McCabe",
+  "published": 2019,
+  "isbn": "978-1-250-20757-3",
+  "publisher": "St. Martin's Press",
+  "category": "Politics & Government",
+  "description": "A former FBI Deputy Director's insider account of the Bureau's transformation after 9/11, the Russia investigation (Crossfire Hurricane), and the unprecedented political pressures during the Trump administration.",
+  "triggers": [
+    "Andrew McCabe",
+    "The Threat",
+    "FBI",
+    "Trump Russia",
+    "Crossfire Hurricane",
+    "Comey",
+    "Obstruction of justice",
+    "FBI independence",
+    "Rule of law",
+    "National security",
+    "Counterintelligence",
+    "Russia investigation",
+    "How the FBI works"
+  ],
+  "use_cases": [
+    "Understanding the FBI's Mission",
+    "The Russia Investigation",
+    "Political Pressure on Law Enforcement",
+    "The Rule of Law",
+    "National Security Threats"
+  ]
+}
