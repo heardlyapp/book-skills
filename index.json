@@ -1,6 +1,22 @@
 {
   "skills": [
     {
+      "slug": "self-love-workbook-for-women",
+      "title": "Megan Logans Self-Love Workbook for Women \u2014 a practical guided workbook to release self-doubt, build self-compassion, and embrace authentic identity through exercises, journaling prompts, and reflection activities.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "self-love",
+        "self-compassion",
+        "women-empowerment",
+        "self-help",
+        "personal-development",
+        "mindset",
+        "boundaries"
+      ],
+      "updated": "2026-06-14"
+    },
+    {
       "slug": "the-founders-speech-to-a-nation-in-crisis",
       "title": "Steven Rabb's The Founders' Speech \u2014 a fictional speech by Washington, Adams, Jefferson, Madison, Hamilton, and Franklin to modern America, drawn entirely from their actual writings.",
       "author": "heardlyapp",
