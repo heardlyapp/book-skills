@@ -1,6 +1,22 @@
 {
   "skills": [
     {
+      "slug": "the-manual-a-philosophers-guide-to-life",
+      "title": "Epictetus's The Manual (Enchiridion) \u2014 a concise Stoic handbook on the dichotomy of control, managing desire, facing adversity, and living with virtue. 53 short chapters of practical ancient wisdom rendered in contemporary English.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "stoicism",
+        "philosophy",
+        "self-help",
+        "ancient-wisdom",
+        "practical-philosophy",
+        "epictetus",
+        "enchiridion"
+      ],
+      "updated": "2026-06-14"
+    },
+    {
       "slug": "the-secret",
       "title": "Rhonda Byrne's The Secret \u2014 a comprehensive guide to the Law of Attraction. Covers the 3-step Creative Process (Ask, Believe, Receive), gratitude practice, visualization techniques, and practical application across money, relationships, health, and life.",
       "author": "heardlyapp",
