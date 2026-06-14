@@ -1,6 +1,23 @@
 {
   "skills": [
     {
+      "slug": "the-advocates-homicides",
+      "title": "Teresa Burrells The Advocates Homicides \u2014 Book 8 of The Advocate series. A legal suspense/murder mystery featuring juvenile court attorney Sabre Brown defending three teenagers accused in linked serial murders. GOOF signature, vigilante justice theme.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "legal-thriller",
+        "murder-mystery",
+        "teresa-burrell",
+        "the-advocate-series",
+        "sabre-brown",
+        "courtroom-drama",
+        "suspense",
+        "crime"
+      ],
+      "updated": "2026-06-14"
+    },
+    {
       "slug": "the-threat",
       "title": "Andrew G. McCabes The Threat \u2014 an insider account of the FBI during the Trump era: the Russia investigation, threats to FBI independence, and the fight to protect the rule of law.",
       "author": "heardlyapp",
