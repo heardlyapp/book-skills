@@ -1,0 +1,19 @@
+{
+  "name": "american-caesar",
+  "version": "1.0.0",
+  "description": "William Manchester's classic biography of General Douglas MacArthur (1880-1964). Covers his entire life: WWI heroics with the Rainbow Division, West Point superintendency, defense of the Philippines, WWII Pacific Commander, occupation of Japan, and the Korean War culminating in his dismissal by President Truman. Manchester portrays MacArthur as the 'American Caesar'—brilliant, arrogant, tragic.",
+  "author": "William Manchester",
+  "isbn": "978-0316544988",
+  "category": ["biography", "military-history", "leadership", "american-history"],
+  "skills": ["military-strategy", "leadership-analysis", "historical-analysis", "biographical-insight"],
+  "trigger_words": ["MacArthur", "American Caesar", "Philippines campaign", "Inchon", "Korean War", "I shall return", "old soldiers"],
+  "language": "en",
+  "min_skill_bytes": 9000,
+  "references": [
+    "references/ref-01.md",
+    "references/ref-02.md",
+    "references/ref-03.md",
+    "references/ref-04.md",
+    "references/ref-05.md"
+  ]
+}
