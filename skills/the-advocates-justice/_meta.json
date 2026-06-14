@@ -1,0 +1,33 @@
+{
+  "name": "the-advocates-justice",
+  "version": "1.0.0",
+  "title": "The Advocate's Justice: Legal Suspense Murder Mystery",
+  "author": "Teresa Burrell",
+  "series": "The Advocate Series, Book 10",
+  "isbn": "9781938680304",
+  "publisher": "Silent Thunder Publishing",
+  "year": 2019,
+  "genre": "Legal Thriller / Murder Mystery / Suspense",
+  "format": "Paperback, Kindle, Audiobook",
+  "mainCharacter": "Sabre Orin Brown",
+  "description": "Attorney Sabre Brown defends fifteen-year-old Conner, accused of murdering his grandmother's abusive boyfriend. With all evidence pointing to the boy and JP's family secrets threatening to unravel, Sabre must untangle a web of lies to uncover the truth.",
+  "themes": ["Justice vs. the Law", "Family Secrets", "Protecting the Vulnerable", "Truth and Deception", "Personal vs. Professional Boundaries"],
+  "keyPrinciples": [
+    "The Advocate's Role — The lawyer is both legal representative and truth-seeker",
+    "Evidence vs. Truth — What the evidence shows may not be the whole story",
+    "Family Ties — Blood relations can be both a source of strength and a web of deceit",
+    "The Vulnerable Client — Defending those who society has already judged",
+    "Buried Secrets — The past always catches up; old grudges shape present crimes",
+    "Personal Cost — The pursuit of justice exacts a toll on the advocate",
+    "The Courtroom as Arena — Legal procedure and strategy drive the narrative"
+  ],
+  "intents": {
+    "summary": "Get a concise overview of the book's plot and themes",
+    "characters": "Learn about the main characters and their relationships",
+    "legal_analysis": "Understand the legal and procedural elements of the story",
+    "thematic_analysis": "Explore the deeper themes and motifs of the book",
+    "series_context": "Understand how this book fits into the larger Advocate series",
+    "chapter_guide": "Navigate the chapter-by-chapter structure of the novel",
+    "reader_guide": "Get recommendations for reading order and related books"
+  }
+}
