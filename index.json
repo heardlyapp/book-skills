@@ -1,6 +1,22 @@
 {
   "skills": [
     {
+      "slug": "the-founders-speech-to-a-nation-in-crisis",
+      "title": "Steven Rabb's The Founders' Speech \u2014 a fictional speech by Washington, Adams, Jefferson, Madison, Hamilton, and Franklin to modern America, drawn entirely from their actual writings.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "american-history",
+        "founding-fathers",
+        "constitution",
+        "politics",
+        "civics",
+        "liberty",
+        "federalist-papers"
+      ],
+      "updated": "2026-06-14"
+    },
+    {
       "slug": "the-manual-a-philosophers-guide-to-life",
       "title": "Epictetus's The Manual (Enchiridion) \u2014 a concise Stoic handbook on the dichotomy of control, managing desire, facing adversity, and living with virtue. 53 short chapters of practical ancient wisdom rendered in contemporary English.",
       "author": "heardlyapp",
