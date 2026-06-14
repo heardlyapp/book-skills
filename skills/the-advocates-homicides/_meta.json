@@ -1,0 +1,34 @@
+{
+  "name": "the-advocates-homicides",
+  "version": "1.0.0",
+  "title": "The Advocate's Homicides: Legal Suspense Murder Mystery",
+  "author": "Teresa Burrell",
+  "series": "The Advocate Series, Book 8",
+  "isbn": "9781938680212",
+  "publisher": "Silent Thunder Publishing",
+  "year": 2016,
+  "genre": "Legal Thriller / Murder Mystery / Suspense",
+  "format": "Paperback, Kindle, Audiobook",
+  "mainCharacter": "Sabre Orin Brown",
+  "description": "Attorney Sabre O. Brown defends an abused fourteen-year-old boy accused of murder after a body is discovered in a shallow grave with the word GOOF scrawled across the victim's forehead. When more bodies are unearthed bearing the same signature, two more abused juveniles are accused. Sabre must determine whether this is vigilante justice, a copycat killer, or a case of wrongful accusation.",
+  "themes": ["Vigilante Justice vs. Rule of Law", "Child Abuse and Its Aftermath", "Serial Crime Patterns", "Wrongful Accusation", "The Advocate's Moral Duty"],
+  "keyPrinciples": [
+    "The GOOF Signature — A serial killer's calling card reveals pattern and intent",
+    "Vigilante Justice — When society fails to protect, who decides punishment?",
+    "Multiple Clients, One Pattern — Defending three accused juveniles across linked cases",
+    "Copycat vs. Serial Killer — Distinguishing between imitation and the real perpetrator",
+    "Abused Children as Defendants — Understanding trauma-driven behavior in juvenile court",
+    "The Serial Investigation — Connecting murders across time to expose a hidden killer",
+    "Trial by Pattern — Using forensic linkage and motive analysis to build a defense"
+  ],
+  "intents": {
+    "summary": "Get a concise overview of the book's plot and themes",
+    "characters": "Learn about the main characters and their relationships",
+    "legal_analysis": "Understand the legal and procedural elements of the story",
+    "thematic_analysis": "Explore the deeper themes and motifs of the book",
+    "series_context": "Understand how this book fits into the larger Advocate series",
+    "chapter_guide": "Navigate the chapter-by-chapter structure of the novel",
+    "reader_guide": "Get recommendations for reading order and related books",
+    "serial_analysis": "Analyze the serial killer pattern and copycat elements in the plot"
+  }
+}
