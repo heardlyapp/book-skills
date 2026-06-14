@@ -1,0 +1,12 @@
+{
+  "id": "the-manual-a-philosophers-guide-to-life",
+  "title": "The Manual: A Philosopher's Guide to Life",
+  "author": "Epictetus (modern rendition by Sam Torode)",
+  "category": "philosophy",
+  "subcategory": "stoicism",
+  "tags": ["stoicism", "philosophy", "self-help", "ancient-wisdom", "practical-philosophy", "epictetus", "enchiridion"],
+  "summary": "A modern rendering of Epictetus's Enchiridion — the concise handbook of Stoic ethics. 53 short chapters offering practical wisdom on the dichotomy of control, managing desire, facing adversity, and living with virtue. One of the most influential philosophical texts ever written, used by Roman soldiers, medieval monks, and modern readers alike.",
+  "version": "1.0.0",
+  "created": "2026-06-14",
+  "updated": "2026-06-14"
+}
