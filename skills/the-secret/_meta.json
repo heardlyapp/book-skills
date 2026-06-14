@@ -1,0 +1,19 @@
+{
+  "name": "the-secret",
+  "version": "1.0.0",
+  "description": "朗达·拜恩《秘密》的全面指南：吸引力法则的操作手册，涵盖创造过程（要求·相信·接收）、感恩练习、可视化技巧，以及财富、关系、健康和人生的实际应用",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-secret",
+  "useCase": "Developers and AI agents can use this skill to help users understand and apply the Law of Attraction in all areas of life including wealth, relationships, health, career, and personal fulfillment. Covers the Creative Process (Ask, Believe, Receive), the power of gratitude, visualization techniques, and how to break the habit of focusing on what you don't want.",
+  "knownRisks": [
+    "The Secret has been criticized for oversimplifying complex life circumstances and potentially leading to victim-blaming in cases of illness or trauma",
+    "The Law of Attraction is a metaphysical concept not validated by mainstream science — users with serious mental health issues should seek professional help",
+    "Some interpretations of the Law of Attraction can discourage practical action in favor of passive 'waiting for the universe'"
+  ],
+  "tags": ["self-help", "law-of-attraction", "new-thought", "manifestation", "personal-development", "spirituality", "mindset", "gratitude", "visualization", "rhonda-byrne"],
+  "openclaw": {
+    "emoji": "🔮",
+    "category": "self-help"
+  }
+}
