@@ -1,6 +1,23 @@
 {
   "skills": [
     {
+      "slug": "the-threat",
+      "title": "Andrew G. McCabes The Threat \u2014 an insider account of the FBI during the Trump era: the Russia investigation, threats to FBI independence, and the fight to protect the rule of law.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "fbi",
+        "trump",
+        "russia-investigation",
+        "crossfire-hurricane",
+        "comey",
+        "rule-of-law",
+        "national-security",
+        "counterintelligence"
+      ],
+      "updated": "2026-06-14"
+    },
+    {
       "slug": "self-love-workbook-for-women",
       "title": "Megan Logans Self-Love Workbook for Women \u2014 a practical guided workbook to release self-doubt, build self-compassion, and embrace authentic identity through exercises, journaling prompts, and reflection activities.",
       "author": "heardlyapp",
