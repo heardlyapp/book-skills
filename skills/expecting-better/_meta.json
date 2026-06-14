@@ -1,0 +1,62 @@
+{
+  "book": {
+    "title": "Expecting Better: Why the Conventional Pregnancy Wisdom Is Wrong — and What You Really Need to Know",
+    "author": "Emily Oster",
+    "year": 2013,
+    "isbn": "978-0143125709",
+    "pages": 352,
+    "publisher": "Penguin Books",
+    "genre": ["Health", "Parenting", "Data Science", "Economics"],
+    "subtitle": "Why the Conventional Pregnancy Wisdom Is Wrong — and What You Really Need to Know",
+    "summary": "A data-driven guide to pregnancy that applies economic methodology (causal inference, cost-benefit analysis, meta-analysis) to evaluate conventional pregnancy advice. Emily Oster, an economics professor at the University of Chicago, systematically reviews the evidence behind common pregnancy rules—from caffeine and alcohol to epidurals and induction—and empowers women to make their own informed decisions rather than following fear-based recommendations.",
+    "thesis": "Most pregnancy 'rules' are based on weak evidence. Women deserve real data to make informed decisions, not one-size-fits-all fear-based recommendations drawn from flawed observational studies that confuse correlation with causation.",
+    "methodology": "Oster applies econometric tools to pregnancy research: distinguishing randomized trials from observational studies, separating correlation from causation, using meta-analysis for aggregated estimates, and applying cost-benefit analysis to weigh risks against benefits in personal decision-making."
+  },
+  "skill": {
+    "type": "book",
+    "version": "1.0.0",
+    "language": "en",
+    "target_audience": "AI agents and developers building health, parenting, or pregnancy-related applications",
+    "domain": "Health & Parenting",
+    "key_principles_count": 7,
+    "recall_triggers_count": 10,
+    "reference_count": 5,
+    "intent_count": 8,
+    "watermark_present": true
+  },
+  "keywords": [
+    "pregnancy",
+    "data-driven pregnancy",
+    "evidence-based pregnancy",
+    "causal inference",
+    "caffeine pregnancy",
+    "alcohol pregnancy",
+    "epidural",
+    "labor induction",
+    "prenatal testing",
+    "miscarriage risk",
+    "fertility age",
+    "Emily Oster",
+    "behavioral economics",
+    "health economics",
+    "risk assessment",
+    "cost-benefit analysis",
+    "parenting decisions"
+  ],
+  "related_skills": [
+    "cribsheet",
+    "the-family-firm",
+    "bringing-up-bebe",
+    "what-to-expect"
+  ],
+  "intents": {
+    "what_can_i_eat": "Diet & Substances (ref-02)",
+    "is_x_safe_in_pregnancy": "Risk Assessment (ref-05) + Diet & Substances (ref-02)",
+    "how_to_make_pregnancy_decisions": "Methodology (ref-01)",
+    "labor_and_delivery_choices": "Labor & Delivery (ref-04)",
+    "prenatal_testing_advice": "Risk Assessment (ref-05)",
+    "fertility_and_conception": "Methodology (ref-01)",
+    "exercise_and_prenatal_health": "Prenatal Health (ref-03)",
+    "general_pregnancy_risk_questions": "Risk Assessment (ref-05)"
+  }
+}
