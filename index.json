@@ -9121,7 +9121,23 @@
       "emoji": "\ud83d\udc11",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/lamb-the-gospel-according-to-biff-christs-childhood-pal"
+    },
+    {
+      "title": "The Red Tent",
+      "slug": "the-red-tent",
+      "tags": [
+        "fiction",
+        "historical-fiction",
+        "women",
+        "biblical",
+        "motherhood",
+        "feminism",
+        "sisterhood"
+      ],
+      "emoji": "\ud83c\udfd5\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-red-tent"
     }
   ],
-  "total_skills": 509
+  "total_skills": 510
 }

@@ -1,0 +1,12 @@
+{
+  "name": "the-red-tent",
+  "version": "1.0.0",
+  "description": "Anita Diamant's The Red Tent — a novel reclaiming the voice of Dinah, daughter of Jacob, and celebrating the world of ancient womanhood, sisterhood, and the sacred bonds between women.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-red-tent",
+  "useCase": "Reclaiming silenced stories, female community, tradition and heritage, motherhood and birth, finding your voice, love and loss.",
+  "knownRisks": ["The novel is fiction, not biblical scholarship — some details are imagined", "The depiction of ancient womanhood is idealized in places", "The novel's portrayal of biblical figures may challenge traditional religious views"],
+  "tags": ["fiction","historical-fiction","women","biblical","motherhood","feminism","sisterhood"],
+  "openclaw": {"emoji": "🏕️", "category": "literature"}
+}
