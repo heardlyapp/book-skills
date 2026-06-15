@@ -1,0 +1,27 @@
+{
+  "name": "a-promised-land",
+  "version": "1.0.0",
+  "description": "Barack Obama's A Promised Land — a presidential memoir and leadership toolkit for navigating crises, coalition-building, and sustaining hope in the face of systemic obstruction.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/a-promised-land",
+  "useCase": "Leading through crisis, navigating bureaucracy and obstruction, sustaining hope after setbacks, balancing public service and family, coalition-building and compromise, leading as a first or only.",
+  "knownRisks": [
+    "This skill draws from a political memoir — apply the leadership lessons without importing partisan battles",
+    "The book reflects Obama's perspective — other participants may remember events differently",
+    "Leadership in government differs from leadership in business — adapt the frameworks to your context"
+  ],
+  "tags": [
+    "leadership",
+    "memoir",
+    "politics",
+    "biography",
+    "history",
+    "public-service",
+    "race"
+  ],
+  "openclaw": {
+    "emoji": "🇺🇸",
+    "category": "leadership"
+  }
+}

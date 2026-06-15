@@ -8609,7 +8609,23 @@
     {
       "slug": "eat-dirt-leaky-gut-dr-josh-axe",
       "version": "1.0.0"
+    },
+    {
+      "title": "A Promised Land",
+      "slug": "a-promised-land",
+      "tags": [
+        "leadership",
+        "memoir",
+        "politics",
+        "biography",
+        "history",
+        "public-service",
+        "race"
+      ],
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/a-promised-land"
     }
   ],
-  "total_skills": 468
+  "total_skills": 478
 }
