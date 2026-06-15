@@ -1,0 +1,12 @@
+{
+  "name": "on-the-road",
+  "version": "1.0.0",
+  "description": "Jack Kerouac's On the Road (The Original Scroll) — the iconic Beat Generation novel about cross-country journeys, friendship, jazz, and the search for IT.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/on-the-road",
+  "useCase": "Embracing spontaneity, searching for meaning, creative expression, navigating intense friendships, road travel, seeing America.",
+  "knownRisks": ["The novel romanticizes drug use and reckless behavior — read critically", "Dean's treatment of women reflects its era — do not mistake description for endorsement", "The 'scroll' version contains language that may be offensive to modern readers"],
+  "tags": ["fiction","literature","american-literature","beat-generation","travel","freedom","jazz"],
+  "openclaw": {"emoji": "🛣️", "category": "literature"}
+}

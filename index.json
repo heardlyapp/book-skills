@@ -8769,7 +8769,23 @@
       "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/grain-brain"
+    },
+    {
+      "title": "On the Road",
+      "slug": "on-the-road",
+      "tags": [
+        "fiction",
+        "literature",
+        "american-literature",
+        "beat-generation",
+        "travel",
+        "freedom",
+        "jazz"
+      ],
+      "emoji": "\ud83d\udee3\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/on-the-road"
     }
   ],
-  "total_skills": 487
+  "total_skills": 488
 }
