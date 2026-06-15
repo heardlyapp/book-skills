@@ -1,0 +1,12 @@
+{
+  "name": "the-boy-in-the-striped-pajamas",
+  "version": "1.0.0",
+  "description": "John Boyne's The Boy in the Striped Pajamas — a devastating novel about innocence, friendship, and prejudice at Auschwitz, told through the eyes of a nine-year-old German boy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-boy-in-the-striped-pajamas",
+  "useCase": "Understanding innocence and ignorance, friendship across divides, the banality of evil, questioning authority, boundaries that divide, the cost of prejudice.",
+  "knownRisks": ["The novel's historical accuracy has been criticized by some Holocaust scholars", "The ending is devastating — be prepared for an emotional response", "The book uses a deliberately naive narrator — younger readers may miss the horror"],
+  "tags": ["fiction","historical-fiction","holocaust","world-war-ii","childrens-literature","friendship","prejudice"],
+  "openclaw": {"emoji": "🧒", "category": "literature"}
+}

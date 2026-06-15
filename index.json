@@ -8913,7 +8913,23 @@
       "emoji": "\ud83c\udf38",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/reviving-ophelia"
+    },
+    {
+      "title": "The Boy in the Striped Pajamas",
+      "slug": "the-boy-in-the-striped-pajamas",
+      "tags": [
+        "fiction",
+        "historical-fiction",
+        "holocaust",
+        "world-war-ii",
+        "childrens-literature",
+        "friendship",
+        "prejudice"
+      ],
+      "emoji": "\ud83e\uddd2",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-boy-in-the-striped-pajamas"
     }
   ],
-  "total_skills": 496
+  "total_skills": 497
 }
