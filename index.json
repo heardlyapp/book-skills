@@ -9057,7 +9057,23 @@
       "emoji": "\u2744\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/wintergirls"
+    },
+    {
+      "title": "The Agony and the Ecstasy",
+      "slug": "the-agony-and-the-ecstasy",
+      "tags": [
+        "fiction",
+        "biographical-fiction",
+        "art",
+        "creativity",
+        "renaissance",
+        "perseverance",
+        "biography"
+      ],
+      "emoji": "\ud83c\udfa8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-agony-and-the-ecstasy"
     }
   ],
-  "total_skills": 505
+  "total_skills": 506
 }

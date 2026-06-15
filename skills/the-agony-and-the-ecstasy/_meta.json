@@ -1,0 +1,12 @@
+{
+  "name": "the-agony-and-the-ecstasy",
+  "version": "1.0.0",
+  "description": "Irving Stone's The Agony and the Ecstasy — a biographical novel of Michelangelo, capturing the creative struggle, discipline, and sacrifice behind the Sistine Chapel ceiling and other masterpieces.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-agony-and-the-ecstasy",
+  "useCase": "Understanding the creative struggle, persevering against odds, managing clients while staying true to vision, building discipline, sacrificing for your calling, leaving a legacy.",
+  "knownRisks": ["This is a biographical novel, not a strict biography — some scenes are invented", "Michelangelo's life as depicted is extreme — do not take every detail as a model", "The book romanticizes suffering — balance with self-care"],
+  "tags": ["fiction","biographical-fiction","art","creativity","renaissance","perseverance","biography"],
+  "openclaw": {"emoji": "🎨", "category": "art"}
+}
