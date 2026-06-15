@@ -1,0 +1,12 @@
+{
+  "name": "the-new-economics",
+  "version": "1.0.0",
+  "description": "W. Edwards Deming's The New Economics — a revolutionary management framework based on the System of Profound Knowledge for transforming industry, government, and education.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-new-economics",
+  "useCase": "Understanding systems thinking, managing variation, eliminating performance ratings, leading transformation, improving quality, fostering intrinsic motivation.",
+  "knownRisks": ["Deming's ideas challenge deeply held management assumptions — expect resistance", "The statistical tools (control charts) require training to apply correctly", "Transformation requires top-level commitment — cannot be done from the middle"],
+  "tags": ["management","business","quality","systems-thinking","leadership","statistics","organizational-change"],
+  "openclaw": {"emoji": "📊", "category": "business"}
+}

@@ -8705,7 +8705,23 @@
       "emoji": "\ud83d\udcd6",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/james-a-novel"
+    },
+    {
+      "title": "The New Economics",
+      "slug": "the-new-economics",
+      "tags": [
+        "management",
+        "business",
+        "quality",
+        "systems-thinking",
+        "leadership",
+        "statistics",
+        "organizational-change"
+      ],
+      "emoji": "\ud83d\udcca",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-economics"
     }
   ],
-  "total_skills": 483
+  "total_skills": 484
 }
