@@ -8689,7 +8689,23 @@
       "emoji": "\ud83c\udfdb\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-gatekeepers"
+    },
+    {
+      "title": "James: A Novel",
+      "slug": "james-a-novel",
+      "tags": [
+        "fiction",
+        "literature",
+        "race",
+        "identity",
+        "storytelling",
+        "american-literature",
+        "social-justice"
+      ],
+      "emoji": "\ud83d\udcd6",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/james-a-novel"
     }
   ],
-  "total_skills": 482
+  "total_skills": 483
 }

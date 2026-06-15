@@ -1,0 +1,12 @@
+{
+  "name": "james-a-novel",
+  "version": "1.0.0",
+  "description": "Percival Everett's James — a reimagining of Adventures of Huckleberry Finn from Jim's perspective, exploring identity, language as survival, and the act of reclaiming one's story.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/james-a-novel",
+  "useCase": "Understanding perspective, navigating identity performance, language and power, confronting injustice, claiming your story.",
+  "knownRisks": ["This is a literary novel — themes are interpretive, apply frameworks with care", "Race and systemic injustice are central themes — handle with sensitivity", "The novel reimagines a classic — readers may have attachments to the original"],
+  "tags": ["fiction", "literature", "race", "identity", "storytelling", "american-literature", "social-justice"],
+  "openclaw": {"emoji": "📖", "category": "literature"}
+}
