@@ -8977,7 +8977,23 @@
       "emoji": "\ud83e\udd16",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/i-robot"
+    },
+    {
+      "title": "The Girl from the Train",
+      "slug": "the-girl-from-the-train",
+      "tags": [
+        "fiction",
+        "historical-fiction",
+        "world-war-ii",
+        "survival",
+        "identity",
+        "love",
+        "displacement"
+      ],
+      "emoji": "\ud83d\ude82",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-girl-from-the-train"
     }
   ],
-  "total_skills": 500
+  "total_skills": 501
 }

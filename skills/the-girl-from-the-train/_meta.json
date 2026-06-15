@@ -1,0 +1,12 @@
+{
+  "name": "the-girl-from-the-train",
+  "version": "1.0.0",
+  "description": "Irma Joubert's The Girl from the Train — a sweeping historical novel about a Polish girl rescued from Auschwitz and raised in South Africa, exploring survival, dual identity, displacement, and love across divides.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-girl-from-the-train",
+  "useCase": "Surviving childhood trauma, dual cultural identity, displacement and rebuilding home, love across boundaries, the courage to remember.",
+  "knownRisks": ["The novel is a work of fiction set against historical events — some liberties are taken", "The book deals with the Holocaust and WWII trauma — handle with sensitivity", "The South African context includes apartheid-era dynamics"],
+  "tags": ["fiction","historical-fiction","world-war-ii","survival","identity","love","displacement"],
+  "openclaw": {"emoji": "🚂", "category": "literature"}
+}
