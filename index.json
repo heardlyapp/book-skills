@@ -8945,7 +8945,23 @@
       "emoji": "\ud83c\udf93",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/sophies-world"
+    },
+    {
+      "title": "She's Come Undone",
+      "slug": "shes-come-undone",
+      "tags": [
+        "fiction",
+        "literary-fiction",
+        "women",
+        "trauma",
+        "mental-health",
+        "coming-of-age",
+        "resilience"
+      ],
+      "emoji": "\ud83e\udd8b",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/shes-come-undone"
     }
   ],
-  "total_skills": 498
+  "total_skills": 499
 }

@@ -1,0 +1,14 @@
+{
+  "name": "shes-come-undone",
+  "version": "1.0.0",
+  "description": "Wally Lamb's She's Come Undone — a novel about surviving trauma, body shame, mental breakdown, and the long road back to self-acceptance, told through the unforgettable voice of Dolores Price.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/shes-come-undone",
+  "useCase": "Surviving trauma, body image and eating disorders, mental health and healing, storytelling as survival, rebuilding after loss, unlikely friendship as salvation.",
+  "knownRisks": ["The novel contains scenes of rape and sexual abuse — handle with care",
+"The narrator uses derogatory language about her own body — this is the character's voice, not endorsement"
+],
+  "tags": ["fiction","literary-fiction","women","trauma","mental-health","coming-of-age","resilience"],
+  "openclaw": {"emoji": "🦋", "category": "literature"}
+}
