@@ -1,0 +1,12 @@
+{
+  "name": "the-master-and-margarita",
+  "version": "1.0.0",
+  "description": "Mikhail Bulgakov's The Master and Margarita — a satirical masterpiece about the Devil in Moscow, the story of Pontius Pilate, and a love story about courage, cowardice, and the power of art.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-master-and-margarita",
+  "useCase": "Speaking truth to power, love as total commitment, the artist vs society, facing cowardice, understanding evil, finding your voice.",
+  "knownRisks": ["The novel's multiple timelines and narrative layers can be challenging", "The Soviet satire requires some historical context to fully appreciate", "Some translations differ significantly — the Ginsburg translation is one of several"],
+  "tags": ["fiction","classic","russian-literature","satire","fantasy","philosophy","love"],
+  "openclaw": {"emoji": "🎭", "category": "literature"}
+}

@@ -9009,7 +9009,23 @@
       "emoji": "\ud83d\udee1\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/delay-deny-defend"
+    },
+    {
+      "title": "The Master and Margarita",
+      "slug": "the-master-and-margarita",
+      "tags": [
+        "fiction",
+        "classic",
+        "russian-literature",
+        "satire",
+        "fantasy",
+        "philosophy",
+        "love"
+      ],
+      "emoji": "\ud83c\udfad",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-master-and-margarita"
     }
   ],
-  "total_skills": 502
+  "total_skills": 503
 }
