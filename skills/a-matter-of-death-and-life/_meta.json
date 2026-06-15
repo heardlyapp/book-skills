@@ -1,0 +1,19 @@
+{
+  "name": "a-matter-of-death-and-life",
+  "description": "A dual memoir by Irvin D. Yalom and Marilyn Yalom about facing terminal illness, death anxiety, and the power of love. Alternating chapters from the patient (Marilyn) and caregiver (Irv) perspectives offer a masterclass in dying with dignity, the ripple effect, and the grief that follows profound loss.",
+  "tags": [
+    "death-and-dying",
+    "existential-psychotherapy",
+    "grief",
+    "memoir",
+    "terminal-illness",
+    "caregiving",
+    "assisted-suicide",
+    "philosophy",
+    "irvin-yalom"
+  ],
+  "version": "1.0.0",
+  "author": "Irvin D. Yalom & Marilyn Yalom",
+  "source": "A Matter of Death and Life (Stanford University Press, 2021)",
+  "slug": "a-matter-of-death-and-life"
+}
