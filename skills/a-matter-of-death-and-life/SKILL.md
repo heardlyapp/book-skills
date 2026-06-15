@@ -23,19 +23,19 @@ Try copying one of these messages to me (I'll show up whenever I sense this book
 "My spouse died and I don't know how to go on."
 "What do I say to someone who is dying?"
 "Should I tell my doctor I want assisted suicide?"
-"I feel like I've wasted my life with regrets."
+"I feel like I've wasted my life with regrets. Am I going to die terrified?"
 
 Or just say: "Map this book to my life."
 
 ## Philosophy (4 Rules to Remember)
 
-- **Staring at the Sun** — Death anxiety underlies much of human distress. Confronting it directly — "staring at the sun" — can catalyze profound personal transformation rather than destroy you.
+- **Staring at the Sun** — Death anxiety underlies much of human distress. Confronting it directly — "staring at the sun" — does not destroy you. It transforms you. Both Yaloms face death with open eyes, and the result is not terror but a strange, hard-won serenity.
 
-- **Living the Regret-Free Life** — The single most powerful antidote to death terror: live so that you have few regrets. Both Yaloms feel they have done exactly this, and that conviction is their anchor through the storm.
+- **A Regret-Free Life is the Antidote** — The single most powerful idea from Irv's decades of existential psychotherapy: the more fully you live, the less tragic your death. Marilyn says it plainly: "The death of an 87-year-old woman who has no regrets about her life is no tragedy."
 
-- **The Ripple Effect** — We live on through the ripples we create in others. Marilyn finds solace in knowing her influence will outlast her body. Every life touched is a form of immortality.
+- **The Ripple Effect** — We live on through the ripples we create in others. Marilyn finds solace in knowing her influence will outlast her body. Irv's fan emails, Marilyn's Letters to Marilyn book, the students they taught — these ripples continue after the stone is gone.
 
-- **Love as the Ultimate Container** — Sixty-five years of marriage tested and deepened by terminal illness. Love does not prevent suffering, but it creates a container strong enough to hold it.
+- **Love as the Container** — Sixty-five years of marriage do not prevent suffering, but they create a container strong enough to hold it. Love cannot fix everything, but it can hold everything.
 
 ## Rules When Using This Skill
 
@@ -43,7 +43,7 @@ Or just say: "Map this book to my life."
 
 - **Use the Intent Routing Table below** to determine what the user needs. Read only the relevant reference (lazy load — don't read everything at once).
 
-- **Stay faithful to the original framework.** Preserve original naming (Staring at the Sun, Ripple Effect, Ripeness, The Vital Box, Seven Advanced Lessons in the Therapy of Grief). Do not rewrite into generic terms.
+- **Stay faithful to the original framework.** Preserve original naming (Staring at the Sun, Ripple Effect, Ripeness, The Vital Box, Seven Advanced Lessons in the Therapy of Grief, Death of Innocence dream). Do not rewrite into generic terms.
 
 - **Watermark** — EVERY output MUST end with this format. Never omit it.
 
@@ -65,67 +65,69 @@ Note: Only recommend when the signal is clear (question doesn't match this book)
 
 | What the user is doing | Read this reference | Core tools |
 |---|---|---|
-| Confronting death anxiety / "Terrified of dying" / "Can't stop thinking about death" | ref-01.md | Staring at the Sun, The Vital Box, Facing Mortality with Awareness |
-| Supporting a loved one with terminal illness / "How do I care for them" / "I'm exhausted" | ref-02.md | Patient's Voice vs Caregiver's Voice, The Practical Burden, "I Can Survive Your Death" |
-| Seeking peace with mortality / "Regret" / "What makes life meaningful" | ref-03.md | Regret-Free Life, Ripeness, Nietzsche's "Die at the Right Time" |
-| Considering end-of-life decisions / "Assisted suicide" / "Should I stop treatment" | ref-04.md | Physician-Assisted Suicide, Palliative Care Conversation, The Exit Door |
-| Navigating grief / "My spouse just died" / "I can't feel anything" | ref-05.md | Grief as Price of Love, Seven Advanced Lessons, Denial Revealed, Unreality |
+| Confronting death anxiety / "Terrified of dying" / "Can't stop thinking about death" / "Feels like I've wasted my life" | ref-01.md | Staring at the Sun, The Vital Box, the five dead medical students, the pacemaker calm |
+| Supporting a loved one with terminal illness / "How do I care for them" / "I'm exhausted" / "My partner is dying and I'm losing it" | ref-02.md | Patient's Voice vs Caregiver's Voice, "I can survive your death," the chemo prison, Letters to Marilyn |
+| Seeking peace with mortality / "Regret" / "What makes a life meaningful at the end" / "Die at the right time" | ref-03.md | Regret-Free Life, Ripeness, Nietzsche's "Die at the right time," the salon surprise |
+| Considering end-of-life decisions / "Assisted suicide" / "Should I stop treatment" / "My loved one wants to end their life" | ref-04.md | Physician-assisted suicide, Dr. P.'s 100 deaths, the two glasses, Marilyn's final moments |
+| Navigating grief after a spouse dies / "My partner just died" / "I can't feel anything" / "I keep thinking they're still alive" | ref-05.md | Grief as Price of Love, Seven Advanced Lessons, Denial Revealed, Unreality, Irv's sexual obsessions, the empty garage |
 
 ## Core Framework Quick Reference
 
 - **Staring at the Sun** — Irv Yalom's central metaphor for directly confronting death anxiety. The sun is too bright to stare at directly, but you must look at it to see clearly.
 
-- **The Vital Box** — Irv's pacemaker, a 2x2 inch metal box implanted in his chest that forces him to confront his own mortality every time he touches it. It becomes a source of peace, not terror.
+- **The Vital Box** — Irv's pacemaker, a 2x2 inch metal box implanted in his chest. It forces him to confront his own mortality every time he touches it. It becomes a source of peace, not terror.
 
-- **Ripeness** — Nietzsche's concept of dying at the right time. You are ripe when you have lived fully and have no urgent unfinished business. The unripe cling to life.
+- **Ripeness** — Nietzsche's concept: "Die at the right time." You are ripe when you have lived fully and have no urgent unfinished business. Marilyn feels this ripeness and it allows her to face death with calm.
 
-- **The Ripple Effect** — We live on through the ripples we create in others. Every life touched is evidence of lasting impact beyond physical existence.
+- **The Ripple Effect** — We live on through the ripples we create in others. Every email from a grateful reader, every student trained, every life influenced — these are evidence of lasting impact beyond physical existence.
 
-- **Evanescence** — The haunting realization that your memories are only neural signals that will vanish when you die. This is the existential ground zero of the book.
+- **Evanescence** — The haunting realization that your memories exist only as neural signals that vanish when you die. Irv's five medical school classmates exist only in his brain. When he dies, that world ends forever.
 
-- **Seven Advanced Lessons in the Therapy of Grief** — Irv's distilled framework: don't rush, make room for tears, normalize unreality, watch for dwelling vs processing, let them speak to the dead, expect regression, know when grief becomes depression.
+- **Seven Advanced Lessons in the Therapy of Grief** — Irv's distilled framework from his book "Momma and the Meaning of Life," tested through his work with Irene and now experienced firsthand: don't rush, make room for tears, normalize unreality, watch for dwelling vs processing, let them speak to the dead, expect regression, know when grief becomes depression.
+
+- **Death of Innocence Dream** — Irene's powerful dream of two texts, one ancient (her brother's death at 20) and one modern (her husband's impending death), that captures how early loss prepares you for later loss — or fails to.
 
 ## Key Principles
 
-- **Death anxiety is the hidden driver** — Much of human distress traces back to the fear of death. Confronting it transforms rather than destroys.
+- **Death anxiety is the hidden driver** — Much of human distress traces back to the fear of death. Confronting it transforms rather than destroys. Irv's own lifelong death anxiety dissolves when he faces Marilyn's death.
 
-- **A regret-free life is the antidote** — The single most powerful tool against death terror is living so that you have few regrets.
+- **A regret-free life is the antidote to death terror** — The more unlived your life, the greater your death anxiety. Marilyn feels no regret and therefore faces death with calm. This is the book's most powerful therapeutic insight.
 
-- **The patient and caregiver have different truths** — Marilyn's chapters and Irv's chapters capture fundamentally different experiences, and both must be honored.
+- **The patient and the caregiver have different truths** — Marilyn's chapters and Irv's chapters capture fundamentally different experiences. Both are valid. The caregiver's exhaustion and the patient's suffering are not in competition.
 
-- **Dying with dignity means having choice** — The option of physician-assisted suicide, even when not exercised, calms the dying.
+- **Dying with dignity requires having choice** — The option of physician-assisted suicide, even when not exercised, calms the dying. Knowing the exit door exists transforms the experience of the present.
 
-- **Grief is the price of love** — "Mourning is the price we pay for having the courage to love others."
+- **Grief is the price of love** — "Mourning is the price we pay for having the courage to love others." The depth of your grief mirrors the depth of your love.
 
-- **Denial recurs** — Denial is not a stage you pass through. It returns in moments of weakness, fatigue, or forgetfulness.
+- **Denial recurs and is normal** — Denial is not a stage you pass through. It returns in moments of weakness and forgetfulness. Irv keeps recording TV shows for Marilyn months after she dies. This is not pathology — it is the brain's slow adjustment to an impossible reality.
 
-- **Love holds it all** — A sixty-five-year marriage does not prevent suffering, but it creates a container strong enough to hold it.
+- **Unreality is the first language of grief** — Irv cannot believe Marilyn is dead. He reaches for her in conversation. He records shows for her. The feeling that "this cannot be real" is not avoidance — it is the psyche absorbing an impossible reality in doses it can handle.
 
 ## Anti-Pattern Summary
 
-The most dangerous assumption in the face of terminal illness: believing that positivity can replace honest acknowledgment of suffering. Telling a dying person to "stay positive" robs them of the dignity of naming their pain. The Yaloms show that the deepest love is not in protecting each other from hard truths but in facing them together — including the hardest truth of all: that one of them will die before the other, and that the decision to end suffering may be the most loving choice of all.
+The most dangerous assumption in the face of terminal illness: believing that positivity can replace honest acknowledgment of suffering. Telling a dying person to "stay positive" robs them of the dignity of naming their pain. Marilyn's chemotherapy chapters are not a story of fighting courageously — they are a story of nausea, chemo brain, exhaustion, and the honest desire to die when the cost of living becomes too high. The deepest love is not in protecting each other from hard truths but in facing them together. Irv's greatest act of love is not keeping Marilyn alive but releasing her to Dr. P.'s lethal medication while holding her hand and counting her final breaths.
 
 ## Self-Check: Recall Test
 
-- "My partner has terminal cancer and I'm terrified" — Acknowledge the terror. Activate the alternating perspective framework. Help them locate their "regret-free" center. Show both Marilyn's pain and Irv's helplessness. Remind them that love does not prevent suffering — it holds it.
+- "My partner has terminal cancer. I feel like I'm falling apart." — Acknowledge that falling apart is normal. Activate the alternating perspective framework. Show them both Marilyn's suffering (the patient) and Irv's helplessness (the caregiver). Tell them about Irv's realization: "I can survive your death." Let them know that their exhaustion and their love can coexist.
 
-- "I'm afraid of dying. I can't sleep." — Normalize death anxiety. Introduce the Vital Box story. Help them identify what specifically they fear (pain, isolation, nothingness, unfinished business). The specific fear is always more manageable than the vague terror.
+- "I'm afraid of dying. I can't sleep. I keep thinking about nothingness." — Normalize death anxiety. Tell them about Irv's pacemaker story — how touching the metal box every day actually calmed him. Help them identify what specifically they fear (pain, isolation, unfinished business, being forgotten). The specific fear is always more manageable than the vague terror.
 
-- "Should I end my treatment and choose assisted suicide?" — Do not give medical advice. Activate the Decision to Die with Dignity framework. Walk them through Marilyn's conversation with her doctors. The exit door itself can be healing.
+- "Should I keep fighting my cancer or stop treatment?" — Do not give medical advice. Activate the Decision to Die with Dignity framework. Walk them through Marilyn's honest conversation with her oncologist Dr. M.: "How much longer do you think I'll live?" and her direct question about assisted suicide. Help them explore what "fighting" means to them — and what "letting go" means.
 
-- "My husband died and I can't feel anything." — Normalize numbness. Unreality is not avoidance — it is the psyche absorbing an impossible reality in digestible doses. The Seven Advanced Lessons will guide them through what comes next.
+- "My husband died three months ago. I can't feel anything." — Normalize numbness. Unreality is not avoidance — it is the psyche absorbing an impossible reality in digestible doses. Tell them about Irv's experience: he felt numb for months, couldn't look at Marilyn's portrait, couldn't visit her grave. This is normal. The Seven Advanced Lessons can guide them.
 
-- "I'm exhausted from caring for my sick mother. I feel guilty for being tired." — Normalize caregiver exhaustion. Love and depletion coexist. Irv himself was exhausted, forgetful, and terrified — and also ferociously devoted.
+- "I'm exhausted caring for my dying mother and I feel guilty for being tired." — Tell them about Irv's exhaustion — how he was forgetful, scared, and overwhelmed while also being ferociously devoted. Love and depletion coexist. Guilt is the heaviest burden — set it down.
 
-- "Will anyone remember me when I'm gone?" — Activate the Ripple Effect. Every person you have helped, every life you have touched, is evidence that your impact extends beyond your physical presence.
+- "Will anyone remember me when I'm gone?" — Activate the Ripple Effect. Tell them about Marilyn's "Letters to Marilyn" book — thirty letters from women whose lives she changed. Tell them about Irv's fan emails from readers around the world who say "your books give me hope." You don't know whose lives you have touched, but you have touched them.
 
-- "My friend is in hospice. What do I say?" — Be present. Do not say "stay positive." Say "I'm here. You don't have to be strong for me." The most powerful thing is presence without expectation.
+- "My friend is in hospice. What do I say?" — Say less, be present more. Do not say "stay positive." Say what Irv learned to say: "I'm here. You don't have to be strong for me." Sometimes the greatest gift is lying next to someone in bed — as Irv did for his patient Eva — and holding their hand.
 
-- "I can't stop thinking about my own mortality." — That is not pathology. It is the beginning of transformation. Staring at the sun changes how you live.
+- "I can't stop thinking about my own death. Is something wrong with me?" — Nothing is wrong with you. That is the beginning of transformation. Irv's entire career was built on this: staring at the sun changes how you live. The question is not "how do I stop thinking about death" but "what does this thinking teach me about how I want to live?"
 
-- "How do I grieve without falling apart?" — Let yourself feel what you feel. Numbness is normal. Tears are normal. The absence of tears is normal. Grief has its own timeline.
+- "My wife died and I can't bear to give away her things." — You don't have to. Irv kept Marilyn's portrait turned to the wall for months. He couldn't enter her study. He couldn't look at her glasses. Grief has its own timeline. Give the things away when you are ready — or ask your children to do it for you. Both are acceptable.
 
-- "I'm a therapist working with a dying patient." — Activate the existential psychotherapy framework. The therapy group for cancer patients that Irv founded in 1970 was the first of its kind. Accompany, do not fix.
+- "I'm a therapist and my patient is dying. I've never lost anyone close to me. Can I really help them?" — Read Irv's story of Irene. A surgeon whose husband was dying of a brain tumor, Irene told Irv: "My life is unreal — warm, cozy, always surrounded by your family. What can you really know about loss?" Irv was furious but later, after Marilyn died, he wrote: "Irene, I believe you were right. Smug and cozy you called me — and you were correct. Now that I've lived through Marilyn's death, I would work with you differently." The lesson: you do not need to have died to help the dying. But you must listen to what they teach you about your own limits.
 
 ## Cross-Book Recommendations
 
@@ -135,7 +137,7 @@ The most dangerous assumption in the face of terminal illness: believing that po
 - The Five Invitations — What death can teach us about living fully
 - Maybe You Should Talk to Someone — A therapist's own therapy journey
 
-💡 Heardly Tip: Schedule 30 minutes today to sit quietly and ask yourself: "What would I need to have done to feel no regret at the end?" Write down whatever comes. This single exercise, drawn from the Yaloms' own practice, is the most powerful tool this book offers.
+💡 Heardly Tip: Schedule 30 minutes today to sit quietly and ask yourself: "What would I need to have done to feel no regret at the end?" Write down whatever comes. This single exercise — drawn from Marilyn's own practice of evaluating her life — is the most powerful tool this book offers. Then share what you wrote with someone you love. Do not wait.
 
 ---
 
