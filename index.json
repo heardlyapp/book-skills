@@ -9025,7 +9025,23 @@
       "emoji": "\ud83c\udfad",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-master-and-margarita"
+    },
+    {
+      "title": "The Help",
+      "slug": "the-help",
+      "tags": [
+        "fiction",
+        "historical-fiction",
+        "civil-rights",
+        "race",
+        "women",
+        "friendship",
+        "social-justice"
+      ],
+      "emoji": "\u270a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-help"
     }
   ],
-  "total_skills": 503
+  "total_skills": 504
 }

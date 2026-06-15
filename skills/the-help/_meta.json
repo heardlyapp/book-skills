@@ -1,0 +1,12 @@
+{
+  "name": "the-help",
+  "version": "1.0.0",
+  "description": "Kathryn Stockett's The Help — a powerful novel about Black maids, a white journalist, and the courage to tell the truth in 1960s Mississippi.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-help",
+  "useCase": "Finding courage to speak, building cross-boundary friendships, standing against injustice, storytelling as resistance, holding onto dignity.",
+  "knownRisks": ["The novel has been criticized for its portrayal of Black dialect and perspective", "Stockett is a white author writing Black characters — some readers object to this", "The 'white savior' framing has been debated — handle with nuance"],
+  "tags": ["fiction","historical-fiction","civil-rights","race","women","friendship","social-justice"],
+  "openclaw": {"emoji": "✊", "category": "literature"}
+}
