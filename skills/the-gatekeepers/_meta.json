@@ -1,0 +1,27 @@
+{
+  "name": "the-gatekeepers",
+  "version": "1.0.0",
+  "description": "Chris Whipple's The Gatekeepers — an inside account of the White House Chiefs of Staff from Nixon to Obama, revealing the art of managing up, controlling information flow, and making the most powerful person in the world successful.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-gatekeepers",
+  "useCase": "Managing up, crisis management, organizational design, gatekeeping strategy, high-stakes decision-making, navigating office politics.",
+  "knownRisks": [
+    "The White House chief of staff model is designed for extreme power dynamics — adapt to your context",
+    "Some tactics (controlling access, information filtering) can be manipulative if used unethically",
+    "The book covers partisan politics — focus on the management lessons, not the political content"
+  ],
+  "tags": [
+    "leadership",
+    "management",
+    "politics",
+    "business",
+    "strategy",
+    "organizational-design",
+    "decision-making"
+  ],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "leadership"
+  }
+}

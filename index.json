@@ -8673,7 +8673,23 @@
       "emoji": "\ud83c\uddfa\ud83c\uddf8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/reagan-the-life"
+    },
+    {
+      "title": "The Gatekeepers",
+      "slug": "the-gatekeepers",
+      "tags": [
+        "leadership",
+        "management",
+        "politics",
+        "business",
+        "strategy",
+        "organizational-design",
+        "decision-making"
+      ],
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-gatekeepers"
     }
   ],
-  "total_skills": 481
+  "total_skills": 482
 }
