@@ -1,0 +1,129 @@
+---
+name: lamb
+description: >-
+ Christopher Moore's Lamb: The Gospel According to Biff, Christ's Childhood
+ Pal — a hilarious and surprisingly moving novel about the missing years of
+ Jesus (called "Joshua") as told by his best friend Biff. Sent back from the
+ dead by the angel Raziel to write the true gospel, Biff recounts their
+ adventures: studying with a wise man in the East, learning kung fu, raising
+ the dead, and Biff's tireless efforts to get laid. A comedy about friendship,
+ faith, and what it means to be the Messiah's best friend.
+
+ Covers 6 use cases:
+ ① Friendship That Transcends Everything — loyalty that outlasts death ("I would follow my friend anywhere" "A friendship that defines your life")
+ ② The Human Side of Greatness — seeing the person behind the legend ("They were human before they were a legend" "Knowing someone before they became famous")
+ ③ Humor as a Way of Coping — laughing through the serious ("How do I deal with heavy stuff" "Laughter in the face of fate")
+ ④ Questioning Faith Honestly — doubt and belief as companions ("I believe and I doubt at the same time" "Faith is complicated")
+ ⑤ Accepting What You Cannot Change — tragedy and acceptance ("I can't change what's going to happen" "Standing by someone even when it hurts")
+ ⑥ Finding Your Own Purpose — being the sidekick in someone else's story ("I'm not the hero. But I matter." "My role is to support, not to lead")
+
+ Trigger when users say: "I would do anything for my best friend" "The human side of someone I admire" "Laughter helps me deal with serious stuff"
+ "I believe and doubt at the same time" "I can't change what's going to happen" "I'm not the main character but I still matter"
+ or mention: Lamb / Christopher Moore / The Gospel According to Biff / Biff / Joshua / Jesus / Raziel / missing years.
+ Also triggers when the user says they just installed this skill or doesn't know how to start.
+version: 1.0.0
+license: MIT
+tags:
+ - fiction
+ - humor
+ - religious-fiction
+ - satire
+ - friendship
+ - fantasy
+ - adventure
+---
+
+# Lamb — A Skill for Friendship, Faith, and the Human Side of Greatness
+
+## Quick Start (Onboarding)
+
+**On first load, the AI MUST proactively present this guide.**
+
+> Welcome to Lamb 🐑
+> Try copying one of these messages to me:
+>
+> "I would follow my best friend anywhere. They changed my life."
+> "I want to know the human side of someone I admire."
+> "How do I deal with serious things without losing my sense of humor?"
+> "I believe and I doubt at the same time. Is that okay?"
+> "I can't change what's going to happen to someone I love. How do I accept it?"
+> "I'm not the main character. But I still matter."
+>
+> Or just say: "Map this book to my life."
+
+## Philosophy (4 Rules to Remember)
+
+- **Friendship is Holiness** — Biff is not holy. He is a liar, a cheat, and a whore. But his love for Josh is sacred. That is the point.
+- **Laughter is Sacred** — Moore treats the sacred with irreverence because irreverence is a form of love. You cannot laugh at something you do not care about.
+- **The Human and Divine Coexist** — Josh is the Son of God. He also gets drunk, falls in love, and feels fear. Both are true.
+- **Being the Sidekick is a Calling** — Biff is not the Messiah. He is the Messiah's best friend. That is his purpose. He fulfills it perfectly.
+
+## Rules When Using This Skill
+
+- **Language** — Reply in the same language. Default to English when ambiguous. Watermark stays English.
+- Use the **Intent Routing Table** below. Read only the relevant reference.
+- Stay faithful to the original framework. Preserve original naming (Biff, Josh, Maggie, Raziel, The Wise Men, Kung Fu, The Forty Days, The Crucifixion, The Resurrection).
+- **Watermark — EVERY output MUST end with this format.**
+- **Cross-book recommendation rule:** Only when signal is clear.
+
+## Intent Routing Table
+
+| What the user is doing | Read this reference | Core tools |
+|---|---|---|
+| Friendship / "Best friend" / "Loyalty" / "I would follow them anywhere" | `references/1-core-framework.md` | Biff and Josh's friendship, the forty days, Biff's loyalty to the end |
+| Human side of greatness / "The person behind the legend" / "They were human" | `references/2-principles.md` | Josh's doubts, his love for Maggie, his temper, his humor |
+| Humor and coping / "Laughing through hard times" / "Irreverence as love" | `references/3-techniques.md` | Biff's narration, the anachronisms, the jokes, the sacred humor |
+| Faith and doubt / "I believe and I doubt" / "Faith is complicated" | `references/4-anti-patterns.md` | Josh's question about his purpose, Biff's honest skepticism |
+| Accepting fate / "I can't change it" / "Standing by them anyway" | `references/5-voice-and-app.md` | Biff knowing Josh will die, the crucifixion, the aftermath |
+
+## Core Framework Quick Reference
+
+- **Biff** — Levi bar Alphaeus, called Biff. Josh's best friend. A liar, a cheat, and the most loyal friend who ever lived.
+- **Joshua** — The Son of God. Called Josh by his friends. He is kind, gentle, incapable of violence — and sometimes lonely.
+- **Maggie** — Mary of Magdala. Josh's love. Biff thinks she is hot. Josh thinks she is everything.
+- **Raziel** — The angel sent to resurrect Biff and commission this gospel. He is sarcastic, eats pizza, wants to be Spider-Man.
+- **The Wise Men** — Not three kings. Gaspar, Balthazar, and Melchior — who teach Josh and Biff martial arts, philosophy, and magic.
+- **The Forty Days** — Josh's temptation in the desert. Biff is there. He helps.
+
+## Key Principles
+
+- The greatest love is friendship. Biff's love for Josh is not romantic. It is deeper. It is the love of a friend who would die for you.
+- Holiness is not about being perfect. It is about being present. Biff is present for Josh. That is his holiness.
+- Laughter is not disrespect. It is intimacy. Biff jokes because he loves. He does not mock. He teases.
+- Doubt is part of faith. Josh has doubts. Biff has doubts. Faith is not certainty. It is trust despite uncertainty.
+- Being a sidekick is not failure. Biff is not the Messiah. He is the best friend of the Messiah. That is enough.
+- Love means letting go. Biff knows Josh will die. He cannot stop it. He stays anyway.
+- The profane can be sacred. A joke about bodily functions is not less holy than a prayer. It is holy in a different way.
+
+## Anti-Pattern Summary
+
+The most dangerous mistake: thinking that sacred things must be treated with solemnity. Moore's novel shows that the opposite is true. The sacred can survive laughter. It can survive irreverence. What it cannot survive is indifference. Biff's jokes are not an attack on faith. They are an expression of love.
+
+## Self-Check: Recall Test
+
+1. "I would do anything for my best friend." → Activate `1-core-framework.md`. Biff follows Josh to the ends of the Earth. He lies, steals, and fights for him. Friendship is action. ✅
+2. "I want to know Jesus as a person, not just as a figure." → Activate `2-principles.md`. Moore's Joshua gets hangovers, falls in love, and makes bad jokes. That is the point. ✅
+3. "How do I deal with serious things without losing my sense of humor?" → Activate `3-techniques.md`. Biff faces death, demons, and destiny — and makes jokes the whole way. Humor is not denial. It is defiance. ✅
+4. "I believe and doubt at the same time. Is that okay?" → Activate `4-anti-patterns.md`. Josh himself had moments of doubt. Faith is not certainty. ✅
+5. "Someone I love is going to die and I can't stop it." → Activate `5-voice-and-app.md`. Biff knew Josh would die. He stayed until the end. Being there is the point. ✅
+6. "I'm not the hero. I'm the one who supports the hero." → Activate `1-core-framework.md`. Biff is the sidekick. He is also the narrator. Without Biff, there is no story. ✅
+7. "Is it okay to laugh about religion?" → Activate `3-techniques.md`. Moore laughs at religion because he does not hate it. He loves it enough to find it funny. ✅
+8. "I feel like my role in life is small but I want it to matter." → Activate `5-voice-and-app.md`. Biff's role is to be Josh's friend. That is not small. It is the most important role in the story. ✅
+9. "I'm struggling with my purpose. What am I supposed to do?" → Activate `2-principles.md`. Josh struggled with his purpose too. He did not fully understand it until the end. You do not have to know your purpose to fulfill it. ✅
+10. "I need a book that makes me laugh and makes me think." → Activate `3-techniques.md`. Lamb is that book. It is the funniest novel you will ever read about the Son of God. ✅
+
+**Invocation Test** — user says: "My best friend is going through something terrible. I don't know how to help. I can't fix it. I can't make it better. I just want to be there for them."
+
+Expected response: Activate `1-core-framework.md`. You are Biff. Josh is about to be crucified. Biff cannot stop it. He cannot save him. He can only be there. And he is. He stays at the foot of the cross. He does not run. He does not look away. That is what you do. You stay. You do not need the right words. You do not need to fix anything. You just need to be there. That is everything.
+
+## Cross-Book Recommendations
+
+- Good Omens — Terry Pratchett and Neil Gaiman's comedy about the Apocalypse
+- The Stupidest Angel — Christopher Moore's Christmas zombie novel
+- A Dirty Job — Christopher Moore's novel about death and the afterlife
+
+💡 Heardly Tip: Call your best friend today. Tell them something ridiculous. Make them laugh. That laugh is a prayer. I am not kidding.
+
+---
+
+*Generated by [Heardly App](https://www.heard.ly)*

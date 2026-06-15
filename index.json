@@ -9105,7 +9105,23 @@
       "emoji": "\ud83c\udf0a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-water-is-wide"
+    },
+    {
+      "title": "Lamb: The Gospel According to Biff",
+      "slug": "lamb",
+      "tags": [
+        "fiction",
+        "humor",
+        "religious-fiction",
+        "satire",
+        "friendship",
+        "fantasy",
+        "adventure"
+      ],
+      "emoji": "\ud83d\udc11",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/lamb"
     }
   ],
-  "total_skills": 508
+  "total_skills": 509
 }

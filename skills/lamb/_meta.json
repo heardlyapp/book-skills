@@ -1,0 +1,12 @@
+{
+  "name": "lamb",
+  "version": "1.0.0",
+  "description": "Christopher Moore's Lamb: The Gospel According to Biff, Christ's Childhood Pal — a hilarious and moving novel about the missing years of Jesus as told by his best friend.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/lamb",
+  "useCase": "Understanding friendship, the human side of greatness, humor as coping, faith and doubt, accepting fate, being a sidekick with purpose.",
+  "knownRisks": ["The novel treats Jesus irreverently — some readers may find it offensive", "This is fiction, not theology", "The humor is sometimes crude — not suitable for all audiences"],
+  "tags": ["fiction","humor","religious-fiction","satire","friendship","fantasy","adventure"],
+  "openclaw": {"emoji": "🐑", "category": "fiction"}
+}
