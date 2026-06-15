@@ -1,0 +1,27 @@
+{
+  "name": "reagan-the-life",
+  "version": "1.0.0",
+  "description": "H. W. Brands' Reagan: The Life — a definitive biography of Ronald Reagan revealing his leadership philosophy: optimism as strategic choice, communication as the essence of connection, conviction in principles with flexibility in tactics.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/reagan-the-life",
+  "useCase": "Leadership through communication, staying optimistic under pressure, navigating ideology and pragmatism, building a movement, managing crisis, developing an authentic public persona.",
+  "knownRisks": [
+    "This is a biography, not a leadership manual — extract the lessons yourself, apply them to your context",
+    "Reagan's style was specific to his era and personality — adapt, do not copy",
+    "The book covers controversial policies (Iran-Contra, tax policy, Cold War strategy) — use judgment in application"
+  ],
+  "tags": [
+    "biography",
+    "leadership",
+    "history",
+    "politics",
+    "communication",
+    "optimism",
+    "presidential"
+  ],
+  "openclaw": {
+    "emoji": "🇺🇸",
+    "category": "biography"
+  }
+}

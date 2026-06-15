@@ -8657,7 +8657,23 @@
       "emoji": "\ud83e\udde0",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-laws-of-human-nature"
+    },
+    {
+      "title": "Reagan: The Life",
+      "slug": "reagan-the-life",
+      "tags": [
+        "biography",
+        "leadership",
+        "history",
+        "politics",
+        "communication",
+        "optimism",
+        "presidential"
+      ],
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/reagan-the-life"
     }
   ],
-  "total_skills": 480
+  "total_skills": 481
 }
