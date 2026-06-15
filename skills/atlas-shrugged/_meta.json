@@ -1,0 +1,12 @@
+{
+  "name": "atlas-shrugged",
+  "version": "1.0.0",
+  "description": "Ayn Rand's Atlas Shrugged — a monumental philosophical novel defending reason, individualism, capitalism, and the virtue of self-interest through the story of a strike by the men of the mind.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/atlas-shrugged",
+  "useCase": "Understanding Objectivism, defending capitalism, the role of reason, individualism vs collectivism, personal responsibility, standing against the morality of sacrifice.",
+  "knownRisks": ["Rand's philosophy is controversial and rejected by many mainstream philosophers and economists", "The novel's moral absolutism can be off-putting", "Atlas Shrugged has been misinterpreted as endorsing greed — distinguish Rand's 'selfishness' from common selfishness"],
+  "tags": ["philosophy","fiction","politics","capitalism","individualism","literature","economics"],
+  "openclaw": {"emoji": "🏔️", "category": "philosophy"}
+}
