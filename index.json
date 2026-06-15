@@ -8865,7 +8865,23 @@
       "emoji": "\ud83c\udfb4",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/memoirs-of-a-geisha"
+    },
+    {
+      "title": "The Celestine Prophecy",
+      "slug": "the-celestine-prophecy",
+      "tags": [
+        "spirituality",
+        "fiction",
+        "self-help",
+        "consciousness",
+        "personal-development",
+        "energy",
+        "synchronicity"
+      ],
+      "emoji": "\ud83c\udf04",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-celestine-prophecy"
     }
   ],
-  "total_skills": 493
+  "total_skills": 494
 }

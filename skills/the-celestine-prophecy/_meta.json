@@ -1,0 +1,12 @@
+{
+  "name": "the-celestine-prophecy",
+  "version": "1.0.0",
+  "description": "James Redfield's The Celestine Prophecy — a spiritual adventure novel about the Nine Insights that reveal the nature of energy, synchronicity, and human evolution.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-celestine-prophecy",
+  "useCase": "Understanding synchronicity, managing personal energy, dealing with energy vampires, following intuition, spiritual growth, conscious evolution.",
+  "knownRisks": ["The book's claims about energy fields and auras are not scientifically validated", "The novel's premise is presented as fact — distinguish spiritual insight from literal truth", "The control dramas framework can be over-applied to complex human relationships"],
+  "tags": ["spirituality","fiction","self-help","consciousness","personal-development","energy","synchronicity"],
+  "openclaw": {"emoji": "🌄", "category": "spirituality"}
+}
