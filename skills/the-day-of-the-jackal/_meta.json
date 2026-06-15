@@ -1,0 +1,12 @@
+{
+  "name": "the-day-of-the-jackal",
+  "version": "1.0.0",
+  "description": "Frederick Forsyth's The Day of the Jackal — a classic thriller about planning, attention to detail, and the cat-and-mouse between a professional assassin and the detective hunting him.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-day-of-the-jackal",
+  "useCase": "High-stakes planning, attention to detail, moving unseen, outthinking an opponent, performing under pressure.",
+  "knownRisks": ["The novel romanticizes a professional assassin — distinguish the method from the morality", "The plot involves an attempt to kill a real historical figure", "Some planning details are presented as cool competence — use judgment in applying them"],
+  "tags": ["fiction","thriller","suspense","espionage","planning","strategy","classic"],
+  "openclaw": {"emoji": "🎯", "category": "fiction"}
+}

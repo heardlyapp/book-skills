@@ -9073,7 +9073,23 @@
       "emoji": "\ud83c\udfa8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-agony-and-the-ecstasy"
+    },
+    {
+      "title": "The Day of the Jackal",
+      "slug": "the-day-of-the-jackal",
+      "tags": [
+        "fiction",
+        "thriller",
+        "suspense",
+        "espionage",
+        "planning",
+        "strategy",
+        "classic"
+      ],
+      "emoji": "\ud83c\udfaf",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-day-of-the-jackal"
     }
   ],
-  "total_skills": 506
+  "total_skills": 507
 }
