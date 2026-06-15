@@ -1,5 +1,5 @@
 ---
-name: lamb
+name: lamb-the-gospel-according-to-biff-christs-childhood-pal
 description: >-
  Christopher Moore's Lamb: The Gospel According to Biff, Christ's Childhood
  Pal — a hilarious and surprisingly moving novel about the missing years of
