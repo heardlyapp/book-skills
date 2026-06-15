@@ -1,19 +1,27 @@
 {
   "name": "a-matter-of-death-and-life",
-  "description": "A dual memoir by Irvin D. Yalom and Marilyn Yalom about facing terminal illness, death anxiety, and the power of love. Alternating chapters from the patient (Marilyn) and caregiver (Irv) perspectives offer a masterclass in dying with dignity, the ripple effect, and the grief that follows profound loss.",
+  "version": "1.0.3",
+  "description": "Irvin D. Yalom & Marilyn Yalom's A Matter of Death and Life — an existential toolkit for facing mortality, supporting a loved one through terminal illness, and navigating grief after profound loss.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/a-matter-of-death-and-life",
+  "useCase": "Confronting death anxiety, supporting a terminally ill loved one, achieving regret-free living, making end-of-life decisions, navigating grief after bereavement, and applying existential psychotherapy to death and dying.",
+  "knownRisks": [
+    "This skill deals with terminal illness, suicide, and grief — sensitive topics that require care and empathy",
+    "Do not give medical advice for assisted suicide — refer users to their doctors and local laws",
+    "The book reflects a secular, non-religious perspective on death — respect users with different spiritual frameworks"
+  ],
   "tags": [
+    "psychology",
     "death-and-dying",
-    "existential-psychotherapy",
     "grief",
     "memoir",
-    "terminal-illness",
+    "existential-psychotherapy",
     "caregiving",
-    "assisted-suicide",
-    "philosophy",
-    "irvin-yalom"
+    "end-of-life"
   ],
-  "version": "1.0.2",
-  "author": "Irvin D. Yalom & Marilyn Yalom",
-  "source": "A Matter of Death and Life (Stanford University Press, 2021)",
-  "slug": "a-matter-of-death-and-life"
+  "openclaw": {
+    "emoji": "🕯️",
+    "category": "psychology"
+  }
 }
