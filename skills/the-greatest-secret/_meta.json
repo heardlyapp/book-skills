@@ -1,0 +1,27 @@
+{
+  "name": "the-greatest-secret",
+  "version": "1.0.0",
+  "description": "Rhonda Byrne's The Greatest Secret — a spiritual toolkit for recognizing your true nature as pure awareness and freeing yourself from suffering, negative feelings, and limiting beliefs.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-greatest-secret",
+  "useCase": "Recognizing your true nature, freedom from the mind, ending negative feelings, dissolving limiting beliefs, finding lasting happiness, understanding the world beyond appearances.",
+  "knownRisks": [
+    "This skill presents non-dual teachings that may conflict with religious beliefs — respect user's framework",
+    "Spiritual bypassing risk: do not use these teachings to dismiss legitimate mental health conditions",
+    "The book's approach is experiential, not analytical — responses should guide toward direct experience, not intellectual understanding"
+  ],
+  "tags": [
+    "spirituality",
+    "self-help",
+    "consciousness",
+    "non-duality",
+    "mindfulness",
+    "happiness",
+    "personal-development"
+  ],
+  "openclaw": {
+    "emoji": "✨",
+    "category": "spirituality"
+  }
+}

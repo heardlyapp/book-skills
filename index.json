@@ -8625,7 +8625,23 @@
       "emoji": "\ud83c\uddfa\ud83c\uddf8",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/a-promised-land"
+    },
+    {
+      "title": "The Greatest Secret",
+      "slug": "the-greatest-secret",
+      "tags": [
+        "spirituality",
+        "self-help",
+        "consciousness",
+        "non-duality",
+        "mindfulness",
+        "happiness",
+        "personal-development"
+      ],
+      "emoji": "\u2728",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-greatest-secret"
     }
   ],
-  "total_skills": 478
+  "total_skills": 479
 }
