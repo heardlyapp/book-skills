@@ -9041,7 +9041,23 @@
       "emoji": "\u270a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-help"
+    },
+    {
+      "title": "Wintergirls",
+      "slug": "wintergirls",
+      "tags": [
+        "fiction",
+        "young-adult",
+        "eating-disorders",
+        "mental-health",
+        "grief",
+        "recovery",
+        "women"
+      ],
+      "emoji": "\u2744\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/wintergirls"
     }
   ],
-  "total_skills": 504
+  "total_skills": 505
 }

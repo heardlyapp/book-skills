@@ -1,0 +1,12 @@
+{
+  "name": "wintergirls",
+  "version": "1.0.0",
+  "description": "Laurie Halse Anderson's Wintergirls — a raw, unflinching novel about anorexia, grief, and the long road to recovery, told through the voice of an eighteen-year-old girl.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/wintergirls",
+  "useCase": "Understanding eating disorders, grieving someone lost to the same illness, family dynamics and treatment, choosing recovery, supporting a loved one.",
+  "knownRisks": ["This novel depicts eating disorders in graphic detail — may be triggering for those struggling with similar issues", "Not a substitute for professional mental health treatment", "Handle with care and recommend professional resources"],
+  "tags": ["fiction","young-adult","eating-disorders","mental-health","grief","recovery","women"],
+  "openclaw": {"emoji": "❄️", "category": "literature"}
+}
