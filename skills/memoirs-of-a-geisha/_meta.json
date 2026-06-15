@@ -1,0 +1,12 @@
+{
+  "name": "memoirs-of-a-geisha",
+  "version": "1.0.0",
+  "description": "Arthur Golden's Memoirs of a Geisha — a novel about survival, reinvention, and the art of beauty, as a young girl sold into Kyoto's geisha district rises to become one of its most celebrated figures.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/memoirs-of-a-geisha",
+  "useCase": "Navigating adversity with grace, building social influence, the craft of beauty, tradition vs individual desire, female relationships, reinvention.",
+  "knownRisks": ["The novel is a fictionalized account based on real geisha practices — it is not a documentary", "The representation of geisha life has been criticized as Orientalist", "The mentor-mentee relationship involves complex power dynamics"],
+  "tags": ["fiction","historical-fiction","japan","women","culture","identity","beauty"],
+  "openclaw": {"emoji": "🎴", "category": "literature"}
+}

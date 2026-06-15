@@ -8849,7 +8849,23 @@
       "emoji": "\ud83c\udfd4\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/atlas-shrugged"
+    },
+    {
+      "title": "Memoirs of a Geisha",
+      "slug": "memoirs-of-a-geisha",
+      "tags": [
+        "fiction",
+        "historical-fiction",
+        "japan",
+        "women",
+        "culture",
+        "identity",
+        "beauty"
+      ],
+      "emoji": "\ud83c\udfb4",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/memoirs-of-a-geisha"
     }
   ],
-  "total_skills": 492
+  "total_skills": 493
 }
