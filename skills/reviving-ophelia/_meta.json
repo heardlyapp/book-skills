@@ -1,0 +1,12 @@
+{
+  "name": "reviving-ophelia",
+  "version": "1.0.0",
+  "description": "Mary Pipher's Reviving Ophelia — a groundbreaking examination of adolescent girls, the cultural pressures that silence them, and how parents and communities can help them reclaim their voices.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/reviving-ophelia",
+  "useCase": "Understanding adolescent development, building self-esteem, navigating peer pressure, body image and eating disorders, family communication, recognizing signs of trouble.",
+  "knownRisks": ["The book was published in 1994 — social media pressures have intensified since then", "Clinical case studies may not fit every situation", "Serious mental health issues require professional intervention — this skill is not a substitute"],
+  "tags": ["psychology","parenting","women","adolescence","mental-health","education","girls"],
+  "openclaw": {"emoji": "🌸", "category": "psychology"}
+}

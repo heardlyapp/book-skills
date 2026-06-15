@@ -8897,7 +8897,23 @@
       "emoji": "\ud83e\ude90",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/hyperion"
+    },
+    {
+      "title": "Reviving Ophelia",
+      "slug": "reviving-ophelia",
+      "tags": [
+        "psychology",
+        "parenting",
+        "women",
+        "adolescence",
+        "mental-health",
+        "education",
+        "girls"
+      ],
+      "emoji": "\ud83c\udf38",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/reviving-ophelia"
     }
   ],
-  "total_skills": 495
+  "total_skills": 496
 }
