@@ -8737,7 +8737,23 @@
       "emoji": "\ud83c\udf0a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/there-are-rivers-in-the-sky"
+    },
+    {
+      "title": "The Women",
+      "slug": "the-women-a-novel",
+      "tags": [
+        "fiction",
+        "historical-fiction",
+        "war",
+        "vietnam-war",
+        "women",
+        "trauma",
+        "nursing"
+      ],
+      "emoji": "\ud83e\ude7a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-women-a-novel"
     }
   ],
-  "total_skills": 485
+  "total_skills": 486
 }

@@ -1,0 +1,12 @@
+{
+  "name": "the-women-a-novel",
+  "version": "1.0.0",
+  "description": "Kristin Hannah's The Women — a novel about Frances 'Frankie' McGrath, a young woman who serves as an Army nurse in Vietnam and faces the harder battle of coming home to a country that does not want to hear her story.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-women-a-novel",
+  "useCase": "Understanding the cost of service, coming home to silence, trauma and recovery, women's stories being told, breaking free from expectations, female friendship as salvation.",
+  "knownRisks": ["This is a historical novel about war trauma — handle with sensitivity", "PTSD and suicide are central themes", "The novel may trigger readers with similar experiences"],
+  "tags": ["fiction","historical-fiction","war","vietnam-war","women","trauma","nursing"],
+  "openclaw": {"emoji": "🩺", "category": "literature"}
+}
