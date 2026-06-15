@@ -1,0 +1,12 @@
+{
+  "name": "first-class",
+  "version": "1.0.0",
+  "description": "Christopher W. Shaw's First Class — an urgent history and defense of the U.S. Postal Service against the corporate and political forces pushing privatization.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/first-class-usps",
+  "useCase": "Understanding the USPS crisis, privatization threat, postal banking, democracy and mail, rural communities, fighting back.",
+  "knownRisks": ["The book is a political argument — present both sides fairly", "Postal service is a complex policy area with genuine trade-offs", "Some information may date from 2021 — check for updates on USPS reform"],
+  "tags": ["politics","history","public-policy","democracy","economics","infrastructure","social-justice"],
+  "openclaw": {"emoji": "📬", "category": "politics"}
+}

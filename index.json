@@ -8817,7 +8817,23 @@
       "emoji": "\ud83d\udd12",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/goodbye-google"
+    },
+    {
+      "title": "First Class",
+      "slug": "first-class-usps",
+      "tags": [
+        "politics",
+        "history",
+        "public-policy",
+        "democracy",
+        "economics",
+        "infrastructure",
+        "social-justice"
+      ],
+      "emoji": "\ud83d\udcec",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/first-class-usps"
     }
   ],
-  "total_skills": 490
+  "total_skills": 491
 }
