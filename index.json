@@ -8721,7 +8721,23 @@
       "emoji": "\ud83d\udcca",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-new-economics"
+    },
+    {
+      "title": "There Are Rivers in the Sky",
+      "slug": "there-are-rivers-in-the-sky",
+      "tags": [
+        "fiction",
+        "literature",
+        "historical-fiction",
+        "storytelling",
+        "water",
+        "environment",
+        "identity"
+      ],
+      "emoji": "\ud83c\udf0a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/there-are-rivers-in-the-sky"
     }
   ],
-  "total_skills": 484
+  "total_skills": 485
 }

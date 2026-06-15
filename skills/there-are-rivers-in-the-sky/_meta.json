@@ -1,0 +1,12 @@
+{
+  "name": "there-are-rivers-in-the-sky",
+  "version": "1.0.0",
+  "description": "Elif Shafak's There Are Rivers in the Sky — a novel flowing across centuries and continents, using a single drop of water to connect ancient Nineveh to modern London through storytelling, memory, and the fragility of civilization.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/there-are-rivers-in-the-sky",
+  "useCase": "Finding meaning through storytelling, grieving and rebuilding, understanding connection across time, facing mortality, finding empathy across difference, exploring identity between worlds.",
+  "knownRisks": ["This is a literary novel — themes are interpretive", "The non-linear structure may not suit readers seeking direct frameworks", "The novel deals with trauma and loss — handle with sensitivity"],
+  "tags": ["fiction","literature","historical-fiction","storytelling","water","environment","identity"],
+  "openclaw": {"emoji": "🌊", "category": "literature"}
+}
