@@ -8961,7 +8961,23 @@
       "emoji": "\ud83e\udd8b",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/shes-come-undone"
+    },
+    {
+      "title": "I, Robot",
+      "slug": "i-robot",
+      "tags": [
+        "fiction",
+        "science-fiction",
+        "robotics",
+        "ai",
+        "ethics",
+        "classic",
+        "philosophy"
+      ],
+      "emoji": "\ud83e\udd16",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/i-robot"
     }
   ],
-  "total_skills": 499
+  "total_skills": 500
 }

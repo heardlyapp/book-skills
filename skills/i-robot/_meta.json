@@ -1,0 +1,12 @@
+{
+  "name": "i-robot",
+  "version": "1.0.0",
+  "description": "Isaac Asimov's I, Robot — the classic collection of robot stories that introduced the Three Laws of Robotics, exploring ethics, consciousness, and the evolution of intelligence.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/i-robot",
+  "useCase": "Understanding the Three Laws, logical paradoxes, AI consciousness, technology ethics, human-robot relationships, evolution of intelligence.",
+  "knownRisks": ["The book is fiction, not engineering — the Three Laws are not a real AI safety framework", "The stories reflect the 1950s context (gender roles, technology assumptions)", "Asimov's robots are human-like — modern AI is very different"],
+  "tags": ["fiction","science-fiction","robotics","ai","ethics","classic","philosophy"],
+  "openclaw": {"emoji": "🤖", "category": "fiction"}
+}
