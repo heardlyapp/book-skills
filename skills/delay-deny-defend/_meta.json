@@ -1,0 +1,12 @@
+{
+  "name": "delay-deny-defend",
+  "version": "1.0.0",
+  "description": "Jay M. Feinman's Delay, Deny, Defend — an expose of how insurance companies systematically avoid paying claims, and a practical guide for consumers to fight back.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/delay-deny-defend",
+  "useCase": "Understanding insurance tactics, fighting claim denials, bad faith claims, filing effective claims, consumer rights and advocacy.",
+  "knownRisks": ["This book was published in 2010 — some specifics may have changed", "Insurance law varies by state — consult local regulations", "This is not a substitute for legal advice"],
+  "tags": ["business","law","finance","consumer-rights","insurance","personal-finance","advocacy"],
+  "openclaw": {"emoji": "🛡️", "category": "business"}
+}

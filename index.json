@@ -8993,7 +8993,23 @@
       "emoji": "\ud83d\ude82",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-girl-from-the-train"
+    },
+    {
+      "title": "Delay, Deny, Defend",
+      "slug": "delay-deny-defend",
+      "tags": [
+        "business",
+        "law",
+        "finance",
+        "consumer-rights",
+        "insurance",
+        "personal-finance",
+        "advocacy"
+      ],
+      "emoji": "\ud83d\udee1\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/delay-deny-defend"
     }
   ],
-  "total_skills": 501
+  "total_skills": 502
 }
