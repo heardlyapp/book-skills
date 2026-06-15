@@ -1,0 +1,12 @@
+{
+  "name": "the-water-is-wide",
+  "version": "1.0.0",
+  "description": "Pat Conroy's The Water Is Wide — a memoir of teaching impoverished Black children on Yamacraw Island, challenging an unjust system, and the transformative power of education.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-water-is-wide",
+  "useCase": "Teaching with impact, fighting an unjust system, crossing cultural divides, seeing potential others miss, choosing integrity, education as liberation.",
+  "knownRisks": ["Conroy was a white teacher in a Black community — the power dynamics are complex", "The book was written in 1971 — some attitudes reflect the era", "Conroy's methods were effective but controversial — adapt to your context"],
+  "tags": ["memoir","education","teaching","social-justice","biography","race","inspiration"],
+  "openclaw": {"emoji": "🌊", "category": "education"}
+}

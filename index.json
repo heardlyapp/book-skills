@@ -9089,7 +9089,23 @@
       "emoji": "\ud83c\udfaf",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-day-of-the-jackal"
+    },
+    {
+      "title": "The Water Is Wide",
+      "slug": "the-water-is-wide",
+      "tags": [
+        "memoir",
+        "education",
+        "teaching",
+        "social-justice",
+        "biography",
+        "race",
+        "inspiration"
+      ],
+      "emoji": "\ud83c\udf0a",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-water-is-wide"
     }
   ],
-  "total_skills": 507
+  "total_skills": 508
 }
