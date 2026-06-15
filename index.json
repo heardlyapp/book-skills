@@ -8785,7 +8785,23 @@
       "emoji": "\ud83d\udee3\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/on-the-road"
+    },
+    {
+      "title": "Sahara",
+      "slug": "sahara",
+      "tags": [
+        "fiction",
+        "adventure",
+        "thriller",
+        "maritime",
+        "action",
+        "discovery",
+        "teamwork"
+      ],
+      "emoji": "\ud83c\udfdc\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/sahara"
     }
   ],
-  "total_skills": 488
+  "total_skills": 489
 }

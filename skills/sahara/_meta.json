@@ -1,0 +1,12 @@
+{
+  "name": "sahara",
+  "version": "1.0.0",
+  "description": "Clive Cussler's Sahara — a Dirk Pitt adventure about resourcefulness, perseverance, and finding answers in unexpected places.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/sahara",
+  "useCase": "High-stakes problem-solving, perseverance, historical research, courage under pressure, teamwork in crisis.",
+  "knownRisks": ["Adventure fiction — the specific situations are dramatized", "Some historical liberties taken with Civil War history and geography"],
+  "tags": ["fiction","adventure","thriller","maritime","action","discovery","teamwork"],
+  "openclaw": {"emoji": "🏜️", "category": "fiction"}
+}
