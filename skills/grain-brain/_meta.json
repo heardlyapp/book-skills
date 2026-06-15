@@ -1,0 +1,12 @@
+{
+  "name": "grain-brain",
+  "version": "1.0.0",
+  "description": "David Perlmutter's Grain Brain — a revolutionary look at how grains, carbs, and sugar destroy brain health, and a protocol for protecting your brain through diet and lifestyle.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/grain-brain",
+  "useCase": "Understanding brain-diet connection, preventing cognitive decline, managing mental health through diet, reducing inflammation, eliminating gluten sensitivity, adopting a brain-healthy lifestyle.",
+  "knownRisks": ["Always consult a doctor before making significant dietary changes", "The book's strong claims about gluten and grains are controversial — read critically", "The Grain Brain protocol may not be suitable for everyone"],
+  "tags": ["health","nutrition","brain-health","neuroscience","gluten-free","low-carb","dementia-prevention"],
+  "openclaw": {"emoji": "🧠", "category": "health"}
+}

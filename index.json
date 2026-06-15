@@ -8753,7 +8753,23 @@
       "emoji": "\ud83e\ude7a",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-women-a-novel"
+    },
+    {
+      "title": "Grain Brain",
+      "slug": "grain-brain",
+      "tags": [
+        "health",
+        "nutrition",
+        "brain-health",
+        "neuroscience",
+        "gluten-free",
+        "low-carb",
+        "dementia-prevention"
+      ],
+      "emoji": "\ud83e\udde0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/grain-brain"
     }
   ],
-  "total_skills": 486
+  "total_skills": 487
 }
