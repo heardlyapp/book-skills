@@ -8641,7 +8641,23 @@
       "emoji": "\u2728",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-greatest-secret"
+    },
+    {
+      "title": "The Laws of Human Nature",
+      "slug": "the-laws-of-human-nature",
+      "tags": [
+        "psychology",
+        "human-nature",
+        "self-improvement",
+        "emotional-intelligence",
+        "persuasion",
+        "leadership",
+        "relationships"
+      ],
+      "emoji": "\ud83e\udde0",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/the-laws-of-human-nature"
     }
   ],
-  "total_skills": 479
+  "total_skills": 480
 }

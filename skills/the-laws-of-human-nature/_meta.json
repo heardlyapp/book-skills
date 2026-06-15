@@ -1,0 +1,27 @@
+{
+  "name": "the-laws-of-human-nature",
+  "version": "1.0.0",
+  "description": "Robert Greene's The Laws of Human Nature — a comprehensive toolkit for decoding the hidden emotional forces that drive human behavior, from irrationality and narcissism to envy and self-sabotage.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-laws-of-human-nature",
+  "useCase": "Understanding irrational behavior, reading people's true character, managing difficult people, improving self-awareness, becoming a better leader, mastering persuasion.",
+  "knownRisks": [
+    "Greene's framework can feel cynical — balance with empathy and genuine care for others",
+    "These laws describe patterns, not individuals — avoid stereotyping or pathologizing people",
+    "Use persuasion techniques ethically — manipulation damages trust in the long run"
+  ],
+  "tags": [
+    "psychology",
+    "human-nature",
+    "self-improvement",
+    "emotional-intelligence",
+    "persuasion",
+    "leadership",
+    "relationships"
+  ],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "psychology"
+  }
+}
