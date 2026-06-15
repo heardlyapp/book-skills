@@ -1,0 +1,12 @@
+{
+  "name": "hyperion",
+  "version": "1.0.0",
+  "description": "Dan Simmons' Hyperion — a landmark science fiction novel of seven pilgrims, each telling their story on a journey to the Time Tombs and the mysterious Shrike.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/hyperion",
+  "useCase": "Understanding through storytelling, facing the unknown, love and loss, faith and doubt, the weight of choices, transformation through pilgrimage.",
+  "knownRisks": ["Hyperion is the first book of an unfinished series — some threads resolve in The Fall of Hyperion", "The novel's non-linear structure can be challenging", "The Shrike and the Time Tombs are not fully explained in this volume"],
+  "tags": ["fiction","science-fiction","space-opera","classic","storytelling","philosophical","adventure"],
+  "openclaw": {"emoji": "🪐", "category": "fiction"}
+}

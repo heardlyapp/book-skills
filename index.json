@@ -8881,7 +8881,23 @@
       "emoji": "\ud83c\udf04",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-celestine-prophecy"
+    },
+    {
+      "title": "Hyperion",
+      "slug": "hyperion",
+      "tags": [
+        "fiction",
+        "science-fiction",
+        "space-opera",
+        "classic",
+        "storytelling",
+        "philosophical",
+        "adventure"
+      ],
+      "emoji": "\ud83e\ude90",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/hyperion"
     }
   ],
-  "total_skills": 494
+  "total_skills": 495
 }
