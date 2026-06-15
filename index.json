@@ -9137,7 +9137,23 @@
       "emoji": "\ud83c\udfd5\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-red-tent"
+    },
+    {
+      "title": "Eats, Shoots & Leaves",
+      "slug": "eats-shoots-and-leaves",
+      "tags": [
+        "writing",
+        "grammar",
+        "punctuation",
+        "communication",
+        "language",
+        "english",
+        "reference"
+      ],
+      "emoji": "\u270f\ufe0f",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/eats-shoots-and-leaves"
     }
   ],
-  "total_skills": 510
+  "total_skills": 511
 }

@@ -1,0 +1,12 @@
+{
+  "name": "eats-shoots-and-leaves",
+  "version": "1.0.0",
+  "description": "Lynne Truss's Eats, Shoots & Leaves — a hilarious and passionate guide to punctuation, apostrophes, commas, and the art of writing clearly.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/eats-shoots-and-leaves",
+  "useCase": "Understanding apostrophes, mastering commas, using dashes and hyphens, quotation marks and colons, avoiding common mistakes, writing clearly.",
+  "knownRisks": ["Some punctuation conventions have evolved since the book was published in 2003", "The book reflects British English conventions — American English differs in some details", "Truss's strong opinions may not reflect universal punctuation standards"],
+  "tags": ["writing","grammar","punctuation","communication","language","english","reference"],
+  "openclaw": {"emoji": "✏️", "category": "writing"}
+}
