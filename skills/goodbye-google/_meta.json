@@ -1,0 +1,12 @@
+{
+  "name": "goodbye-google",
+  "version": "1.0.0",
+  "description": "John Thomas's Goodbye Google — a practical step-by-step guide to reclaiming your privacy and data by leaving Google services, particularly Gmail.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/goodbye-google",
+  "useCase": "Understanding privacy risks, migrating from Gmail, replacing Google services, reducing tracking, deleting your Google account.",
+  "knownRisks": ["Some services will not work without a Google account (Android, YouTube, etc.)", "The book was published in 2017 — some services and procedures may have changed", "Migration is time-consuming — budget 2-4 weeks minimum"],
+  "tags": ["privacy","technology","google","gmail","digital-detox","productivity","security"],
+  "openclaw": {"emoji": "🔒", "category": "technology"}
+}

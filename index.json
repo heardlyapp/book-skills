@@ -8801,7 +8801,23 @@
       "emoji": "\ud83c\udfdc\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/sahara"
+    },
+    {
+      "title": "Goodbye Google",
+      "slug": "goodbye-google",
+      "tags": [
+        "privacy",
+        "technology",
+        "google",
+        "gmail",
+        "digital-detox",
+        "productivity",
+        "security"
+      ],
+      "emoji": "\ud83d\udd12",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/goodbye-google"
     }
   ],
-  "total_skills": 489
+  "total_skills": 490
 }
