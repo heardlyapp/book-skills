@@ -1,0 +1,12 @@
+{
+  "name": "super-mario",
+  "version": "1.0.0",
+  "description": "Jeff Ryan's Super Mario: How Nintendo Conquered America — the story of innovation, persistence, and great design behind Nintendo's rise from playing cards to global entertainment dominance.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/super-mario",
+  "useCase": "Innovation under pressure, power of great design, surviving crisis, building a brand, Japanese business culture, entering a broken market.",
+  "knownRisks": ["The book is a popular history, not a business strategy manual", "Some details about Nintendo's internal decisions may be simplified", "The story reflects a specific era and market — not all lessons may apply today"],
+  "tags": ["business","innovation","history","technology","gaming","design","entrepreneurship"],
+  "openclaw": {"emoji": "🎮", "category": "business"}
+}

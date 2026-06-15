@@ -9153,7 +9153,23 @@
       "emoji": "\u270f\ufe0f",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/eats-shoots-and-leaves"
+    },
+    {
+      "title": "Super Mario",
+      "slug": "super-mario",
+      "tags": [
+        "business",
+        "innovation",
+        "history",
+        "technology",
+        "gaming",
+        "design",
+        "entrepreneurship"
+      ],
+      "emoji": "\ud83c\udfae",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/super-mario"
     }
   ],
-  "total_skills": 511
+  "total_skills": 512
 }
