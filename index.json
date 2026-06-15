@@ -8929,7 +8929,23 @@
       "emoji": "\ud83e\uddd2",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/the-boy-in-the-striped-pajamas"
+    },
+    {
+      "title": "Sophie's World",
+      "slug": "sophies-world",
+      "tags": [
+        "philosophy",
+        "fiction",
+        "education",
+        "history",
+        "self-discovery",
+        "wonder",
+        "critical-thinking"
+      ],
+      "emoji": "\ud83c\udf93",
+      "publisher": "heardlyapp",
+      "clawhub_url": "https://clawhub.ai/heardlyapp/sophies-world"
     }
   ],
-  "total_skills": 497
+  "total_skills": 498
 }

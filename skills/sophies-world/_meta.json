@@ -1,0 +1,12 @@
+{
+  "name": "sophies-world",
+  "version": "1.0.0",
+  "description": "Jostein Gaarder's Sophie's World — a novel that is also a complete history of Western philosophy, inviting readers to wonder, question, and think for themselves.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/sophies-world",
+  "useCase": "Starting philosophy, confronting life's big questions, thinking for yourself, history of ideas, recovering wonder, questioning reality.",
+  "knownRisks": ["The novel covers Western philosophy only — other philosophical traditions are not included", "Some simplifications are made for accessibility", "The frame narrative can be confusing for some readers"],
+  "tags": ["philosophy","fiction","education","history","self-discovery","wonder","critical-thinking"],
+  "openclaw": {"emoji": "🎓", "category": "philosophy"}
+}
