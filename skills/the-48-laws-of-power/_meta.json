@@ -1,7 +1,19 @@
 {
   "name": "the-48-laws-of-power",
-  "title": "The 48 Laws of Power",
-  "author": "Robert Greene",
-  "version": "1.0.0",
-  "tags": ["power", "strategy", "manipulation", "psychology", "history", "influence", "politics", "self-improvement", "leadership"]
+  "version": "1.0.1",
+  "description": "Robert Greene's masterwork on power dynamics — strategy distilled from 3,000 years of history. Covers: workplace power plays, social dynamics, negotiation tactics, self-defense against manipulation, and leadership strategy.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-48-laws-of-power",
+  "useCase": "Navigate power dynamics in any social or professional setting — understand how power is gained, protected, and lost.",
+  "knownRisks": [
+    "These laws are descriptive of how power works, not prescriptive for every situation. Using them without ethical consideration can damage relationships.",
+    "Some laws contradict each other — context determines which law applies.",
+    "Over-application can make you appear manipulative and erode trust."
+  ],
+  "tags": ["power", "strategy", "psychology", "influence", "politics", "leadership", "negotiation", "manipulation", "history"],
+  "openclaw": {
+    "emoji": "👑",
+    "category": "psychology"
+  }
 }
