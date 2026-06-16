@@ -1,0 +1,7 @@
+{
+  "name": "algorithms-to-live-by",
+  "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+  "author": "Brian Christian / Tom Griffiths",
+  "version": "1.0.0",
+  "tags": ["decision-making", "computer-science", "cognitive-science", "optimal-stopping", "explore-exploit", "sorting", "scheduling", "game-theory", "probability", "behavioral-economics"]
+}
