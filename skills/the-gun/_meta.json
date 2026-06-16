@@ -1,0 +1,19 @@
+{
+  "name": "the-gun",
+  "version": "1.0.0",
+  "description": "C. J. Chivers' definitive history of the AK-47 and automatic weapons. From Hiram Maxim's first machine gun to Mikhail Kalashnikov's iconic rifle, tracing how the technology of rapid fire changed warfare and shaped the modern world.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-gun",
+  "useCase": "Understand the history of automatic weapons, the AK-47's invention and global spread, and how one rifle changed the nature of war.",
+  "knownRisks": [
+    "Contains graphic descriptions of combat injuries and death from firearms.",
+    "The book includes detailed technical descriptions of weapons that some readers may find disturbing.",
+    "Chivers writes from an American perspective; the coverage of the M-16 is more extensive than some international readers may expect."
+  ],
+  "tags": ["history", "military", "weapons", "ak-47", "kalashnikov", "warfare", "technology", "gun-control"],
+  "openclaw": {
+    "emoji": "🔫",
+    "category": "history"
+  }
+}

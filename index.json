@@ -9435,7 +9435,21 @@
         "whistleblower"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-gun",
+      "title": "C. J. Chivers The Gun \u2014 the definitive history of the AK-47 and automatic weapons, from Hiram Maxim to Kalashnikov, tracing their invention, global spread, and impact on modern warfare.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "history",
+        "military",
+        "weapons",
+        "ak-47",
+        "kalashnikov"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 531
+  "total_skills": 532
 }
