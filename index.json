@@ -9197,7 +9197,21 @@
         "leadership"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "grinding-it-out",
+      "title": "Ray Krocs Grinding It Out: The Making of McDonalds \u2014 the autobiography of how a 52-year-old paper cup salesman built the worlds largest restaurant chain through persistence, systemization, and obsessive quality.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "entrepreneurship",
+        "franchising",
+        "fast-food",
+        "persistence",
+        "business-biography"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 514
+  "total_skills": 515
 }

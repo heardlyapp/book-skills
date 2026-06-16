@@ -1,0 +1,19 @@
+{
+  "name": "grinding-it-out",
+  "version": "1.0.0",
+  "description": "Ray Kroc's autobiography of building McDonald's — a story of relentless persistence, quality obsession, and entrepreneurial grit. Covers: discovering opportunity, building systems, managing franchise relationships, real estate strategy, and scaling a business.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/grinding-it-out",
+  "useCase": "Learn how a 52-year-old paper cup salesman built the world's largest restaurant chain through obsessive attention to quality, systemization, and grinding it out.",
+  "knownRisks": [
+    "Kroc's methods were aggressive and not always ethical by today's standards — the book describes them frankly.",
+    "The autobiography reflects Kroc's personal perspective; other accounts of McDonald's history differ on key events.",
+    "The franchise model Kroc pioneered has been criticized for its impact on local communities and labor practices."
+  ],
+  "tags": ["entrepreneurship", "business", "franchising", "fast-food", "leadership", "persistence", "sales", "american-dream"],
+  "openclaw": {
+    "emoji": "🍔",
+    "category": "business"
+  }
+}
