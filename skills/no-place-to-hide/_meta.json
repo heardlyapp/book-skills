@@ -1,0 +1,19 @@
+{
+  "name": "no-place-to-hide",
+  "version": "1.0.0",
+  "description": "Glenn Greenwald's insider account of the Edward Snowden revelations — the story of how Snowden exposed the NSA's massive surveillance programs, the legal and political battles that followed, and what it means for privacy in the digital age.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/no-place-to-hide",
+  "useCase": "The definitive story of the Snowden revelations — the surveillance state, the whistleblower, and the fight for privacy in the 21st century.",
+  "knownRisks": [
+    "Greenwald is a controversial figure; some critics argue he was too sympathetic to Snowden.",
+    "The book reflects 2014-era knowledge; some specific NSA programs have since changed.",
+    "The debate about surveillance vs. security remains politically polarized."
+  ],
+  "tags": ["snowden", "nsa", "surveillance", "privacy", "whistleblower", "journalism", "civil-liberties", "government"],
+  "openclaw": {
+    "emoji": "🕵️",
+    "category": "current-events"
+  }
+}

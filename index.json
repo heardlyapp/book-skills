@@ -9421,7 +9421,21 @@
         "mental-health"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "no-place-to-hide",
+      "title": "Glenn Greenwald No Place to Hide \u2014 the inside story of Edward Snowdens NSA revelations, mass surveillance, and the fight for privacy in the digital age.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "snowden",
+        "nsa",
+        "surveillance",
+        "privacy",
+        "whistleblower"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 530
+  "total_skills": 531
 }
