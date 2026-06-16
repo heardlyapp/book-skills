@@ -9463,7 +9463,21 @@
         "epigenetics"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-five-wishes-of-mr-murray-mcbride",
+      "title": "Joe Siple The Five Wishes of Mr. Murray McBride \u2014 a heartwarming novel about a 100-year-old man who makes five final wishes and the unexpected friendship that changes everything.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "fiction",
+        "heartwarming",
+        "family",
+        "aging",
+        "friendship"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 533
+  "total_skills": 534
 }

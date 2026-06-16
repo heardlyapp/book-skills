@@ -1,0 +1,19 @@
+{
+  "name": "the-five-wishes-of-mr-murray-mcbride",
+  "version": "1.0.0",
+  "description": "Joe Siple's heartwarming novel about 100-year-old Murray McBride who makes five final wishes, and the unexpected friendship that changes everything. A story about the length of life and the depth of connection.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-five-wishes-of-mr-murray-mcbride",
+  "useCase": "A touching novel about living life to its fullest at any age, the power of human connection, and the wishes that matter most.",
+  "knownRisks": [
+    "The novel deals with death and end-of-life themes that may be emotionally difficult for some readers.",
+    "Some may find the storytelling sentimental or predictable.",
+    "The dual-timeline narrative structure may require attention to follow."
+  ],
+  "tags": ["fiction", "heartwarming", "family", "aging", "second-chances", "inspirational", "friendship", "wishes"],
+  "openclaw": {
+    "emoji": "🌟",
+    "category": "literature"
+  }
+}
