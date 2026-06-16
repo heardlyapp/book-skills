@@ -1,0 +1,19 @@
+{
+  "name": "siddhartha",
+  "version": "1.0.0",
+  "description": "Hermann Hesse's classic spiritual novel about a man's journey toward enlightenment in ancient India. Through experiences as an ascetic, a lover, a merchant, and a ferryman, Siddhartha discovers that wisdom cannot be taught — it must be lived.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/siddhartha",
+  "useCase": "Explore one of the most beloved spiritual novels of the 20th century — a story about the search for meaning, the limits of teaching, and the wisdom that comes from living fully.",
+  "knownRisks": [
+    "The novel presents a Western romanticized view of Eastern spirituality that may not reflect authentic Indian or Buddhist traditions.",
+    "The portrayal of women, particularly Kamala, reflects early 20th-century gender attitudes.",
+    "The novel's spiritual message may feel oversimplified to readers familiar with actual Buddhist or Hindu philosophy."
+  ],
+  "tags": ["spirituality", "classic", "hermann-hesse", "eastern-philosophy", "enlightenment", "coming-of-age", "german-literature", "fiction"],
+  "openclaw": {
+    "emoji": "🕉️",
+    "category": "literature"
+  }
+}

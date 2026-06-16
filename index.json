@@ -9365,7 +9365,21 @@
         "ken-kesey"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "siddhartha",
+      "title": "Hermann Hesse Siddhartha \u2014 the classic spiritual novel about a mans journey toward enlightenment in ancient India, discovering that wisdom cannot be taught but must be lived.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "spirituality",
+        "classic",
+        "hermann-hesse",
+        "enlightenment",
+        "fiction"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 526
+  "total_skills": 527
 }
