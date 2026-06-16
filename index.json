@@ -9449,7 +9449,21 @@
         "kalashnikov"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "lifespan",
+      "title": "David Sinclair Lifespan \u2014 a groundbreaking book about aging science, epigenetics, and the interventions that may extend human lifespan and healthspan.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "aging",
+        "longevity",
+        "science",
+        "health",
+        "epigenetics"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 532
+  "total_skills": 533
 }

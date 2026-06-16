@@ -1,0 +1,19 @@
+{
+  "name": "lifespan",
+  "version": "1.0.0",
+  "description": "David Sinclair's groundbreaking book about the science of aging — why we age, how we might slow or reverse the process, and what it means for the future of human health. Drawing on decades of research, Sinclair presents a hopeful vision of longer, healthier lives.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/lifespan",
+  "useCase": "Understand the cutting-edge science of aging, what causes us to age, and what interventions may extend both lifespan and healthspan.",
+  "knownRisks": [
+    "Some of Sinclair's claims about reversing aging in humans remain unproven; the science is still developing.",
+    "The book promotes specific supplements (NMN, resveratrol) that may not be effective for everyone.",
+    "Sinclair has financial interests in some of the companies developing longevity treatments."
+  ],
+  "tags": ["aging", "longevity", "science", "health", "biology", "epigenetics", "david-sinclair", "medicine"],
+  "openclaw": {
+    "emoji": "🧬",
+    "category": "science"
+  }
+}
