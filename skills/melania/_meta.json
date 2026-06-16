@@ -1,0 +1,19 @@
+{
+  "name": "melania",
+  "version": "1.0.0",
+  "description": "Melania Trump's memoir — a personal account of her journey from Slovenia to the White House. Covers her childhood, modeling career, marriage, life as First Lady, her Be Best initiative, and her perspective on the most turbulent years in modern American politics.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/melania",
+  "useCase": "Understand the personal story behind the public persona of one of the most private First Ladies in American history — her values, her perspective, and the experiences that shaped her.",
+  "knownRisks": [
+    "The memoir presents Melania Trump's personal perspective, which may not align with other accounts of the same events.",
+    "Some topics covered (January 6, 2020 election) remain politically divisive.",
+    "The book was published in 2024, covering events through early 2021."
+  ],
+  "tags": ["memoir", "first-lady", "white-house", "trump", "slovenia", "modeling", "politics", "american-dream"],
+  "openclaw": {
+    "emoji": "🇺🇸",
+    "category": "biography"
+  }
+}

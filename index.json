@@ -9281,7 +9281,21 @@
         "doula"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "melania",
+      "title": "Melania Trump Melania \u2014 a memoir of her journey from Slovenia to the White House, revealing the woman behind the public persona and her perspective on life as First Lady.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "first-lady",
+        "white-house",
+        "trump",
+        "american-dream"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 520
+  "total_skills": 521
 }
