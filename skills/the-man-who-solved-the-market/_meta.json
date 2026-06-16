@@ -1,0 +1,19 @@
+{
+  "name": "the-man-who-solved-the-market",
+  "version": "1.0.0",
+  "description": "Gregory Zuckerman's riveting account of Jim Simons, the mathematician who founded Renaissance Technologies and built the most successful hedge fund in history using quantitative models. The story of how a code-breaker, mathematician, and his team of PhDs revolutionized Wall Street.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-man-who-solved-the-market",
+  "useCase": "Understand the life of Jim Simons, the rise of quantitative trading, and how one man's mathematical obsession created the greatest fortune in Wall Street history.",
+  "knownRisks": [
+    "Renaissance Technologies is notoriously secretive; some details may be incomplete or based on interviews with former employees.",
+    "Simons' strategy (statistical arbitrage, short-term signals) is not replicable by individual investors.",
+    "The book focuses on the people and culture of Renaissance, with limited detail on the actual trading algorithms."
+  ],
+  "tags": ["biography", "jim-simons", "renaissance-technologies", "quantitative-trading", "wall-street", "hedge-fund", "mathematics", "finance"],
+  "openclaw": {
+    "emoji": "📈",
+    "category": "biography"
+  }
+}

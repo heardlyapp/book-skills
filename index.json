@@ -9505,7 +9505,21 @@
         "ynab"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-man-who-solved-the-market",
+      "title": "Gregory Zuckerman The Man Who Solved the Market \u2014 the story of Jim Simons and Renaissance Technologies, the most successful hedge fund in history, built by mathematicians using quantitative models.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "biography",
+        "jim-simons",
+        "renaissance-technologies",
+        "quantitative-trading",
+        "finance"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 536
+  "total_skills": 537
 }
