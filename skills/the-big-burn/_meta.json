@@ -1,0 +1,19 @@
+{
+  "name": "the-big-burn",
+  "version": "1.0.0",
+  "description": "Timothy Egan's vivid account of the 1910 Big Burn — the largest wildfire in American history — and how it transformed the U.S. Forest Service, shaped conservation policy, and tested Teddy Roosevelt's progressive vision against the robber barons of the Gilded Age.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-big-burn",
+  "useCase": "Understand the origins of American conservation policy, the heroic early days of the Forest Service, and the fire that forged a movement — through the lens of one of history's most dramatic wildfires.",
+  "knownRisks": [
+    "The book contains graphic descriptions of death by fire that may be distressing.",
+    "Egan's narrative is sympathetic to Roosevelt and Pinchot; those seeking a more critical view of early conservation policy should consult additional sources.",
+    "The fire science described reflects 1910 understanding, not modern wildfire science."
+  ],
+  "tags": ["wildfire", "conservation", "american-history", "teddy-roosevelt", "forest-service", "pacific-northwest", "progressive-era", "environmental-history"],
+  "openclaw": {
+    "emoji": "🔥",
+    "category": "history"
+  }
+}

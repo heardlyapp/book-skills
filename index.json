@@ -9239,7 +9239,21 @@
         "american-literature"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-big-burn",
+      "title": "Timothy Egans The Big Burn \u2014 the story of the 1910 Big Burn, the largest wildfire in American history, and how it forged the U.S. Forest Service and the conservation movement.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "wildfire",
+        "conservation",
+        "american-history",
+        "teddy-roosevelt",
+        "forest-service"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 517
+  "total_skills": 518
 }
