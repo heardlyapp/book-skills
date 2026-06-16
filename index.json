@@ -9267,7 +9267,21 @@
         "digital-minimalism"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "birthing-from-within",
+      "title": "Pam England and Rob Horowitz Birthing from Within \u2014 an extra-ordinary guide to childbirth preparation integrating psychology, birth art, pain coping techniques, and partner involvement.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "childbirth",
+        "pregnancy",
+        "birth-preparation",
+        "women-health",
+        "doula"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 519
+  "total_skills": 520
 }

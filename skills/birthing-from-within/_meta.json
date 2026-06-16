@@ -1,0 +1,19 @@
+{
+  "name": "birthing-from-within",
+  "version": "1.0.0",
+  "description": "Pam England's holistic guide to childbirth preparation. Combines psychological readiness, creative expression through birth art, pain coping techniques, partner involvement, and practical decision-making for modern mothers.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/birthing-from-within",
+  "useCase": "A complete childbirth preparation resource for expectant mothers, fathers, doulas, and birth professionals — covering the emotional, creative, physical, and practical dimensions of giving birth.",
+  "knownRisks": [
+    "The book reflects a holistic, non-intervention approach to birth that may not align with all medical recommendations or high-risk pregnancies.",
+    "Published in 1998; some medical protocols and hospital practices have changed since then.",
+    "The birth art approach may not appeal to all mothers; it is one tool among many."
+  ],
+  "tags": ["childbirth", "pregnancy", "birth-preparation", "parenting", "women-health", "doula", "midwifery", "natural-birth"],
+  "openclaw": {
+    "emoji": "👶",
+    "category": "health"
+  }
+}
