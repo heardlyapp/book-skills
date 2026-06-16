@@ -1,0 +1,19 @@
+{
+  "name": "identical",
+  "version": "1.0.0",
+  "description": "Ellen Hopkins' verse novel about identical twin sisters Kaeleigh and Raeanne — a story of shared trauma, fractured identity, abuse, codependency, and the painful road to healing. Written in free verse from alternating perspectives.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/identical",
+  "useCase": "Explore a powerful verse novel about twin identity, family trauma, and the long shadow of child abuse — told through the alternating voices of identical sisters.",
+  "knownRisks": [
+    "The novel contains graphic depictions of child sexual abuse, self-harm, and substance abuse that may be triggering.",
+    "The verse format may not appeal to readers expecting traditional prose narrative.",
+    "Hopkins writes from the perspective of both abuser and abused, which some readers may find uncomfortable."
+  ],
+  "tags": ["young-adult", "verse-novel", "family-trauma", "abuse", "twin-identity", "fiction", "poetry", "mental-health"],
+  "openclaw": {
+    "emoji": "🔀",
+    "category": "literature"
+  }
+}

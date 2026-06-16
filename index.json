@@ -9323,7 +9323,21 @@
         "evolution"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "identical",
+      "title": "Ellen Hopkins Identical \u2014 a verse novel about identical twin sisters Kaeleigh and Raeanne, their shared trauma, and the painful road to healing.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "young-adult",
+        "verse-novel",
+        "family-trauma",
+        "fiction",
+        "mental-health"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 523
+  "total_skills": 524
 }
