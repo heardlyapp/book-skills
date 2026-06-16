@@ -1,0 +1,19 @@
+{
+  "name": "you-need-a-budget",
+  "version": "1.0.0",
+  "description": "Jesse Mecham's practical guide to getting control of your finances using the YNAB (You Need A Budget) method. The 4 Rules: Give Every Dollar a Job, Embrace Your True Expenses, Roll with the Punches, and Age Your Money.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/you-need-a-budget",
+  "useCase": "Break the paycheck-to-paycheck cycle, get out of debt, and take control of your money with the proven YNAB system.",
+  "knownRisks": [
+    "The YNAB method requires active budgeting (entering every transaction), which some may find tedious.",
+    "The method works best with the YNAB software, which requires a subscription.",
+    "Results vary depending on income level, debt load, and spending habits."
+  ],
+  "tags": ["personal-finance", "budgeting", "debt", "money-management", "financial-freedom", "ynab", "self-help"],
+  "openclaw": {
+    "emoji": "💰",
+    "category": "personal-finance"
+  }
+}

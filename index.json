@@ -9491,7 +9491,21 @@
         "memory"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "you-need-a-budget",
+      "title": "Jesse Mecham You Need a Budget \u2014 the proven system for breaking the paycheck-to-paycheck cycle, getting out of debt, and living the life you want using the 4 Rules.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "personal-finance",
+        "budgeting",
+        "debt",
+        "money-management",
+        "ynab"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 535
+  "total_skills": 536
 }
