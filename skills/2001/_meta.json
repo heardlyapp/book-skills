@@ -1,0 +1,19 @@
+{
+  "name": "2001",
+  "version": "1.0.0",
+  "description": "Arthur C. Clarke's classic science fiction novel about human evolution, artificial intelligence, and first contact with a vastly superior intelligence. From the dawn of man to the star-child, the novel traces humanity's transformation through encounters with the mysterious monolith.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/2001",
+  "useCase": "Explore one of the most influential science fiction works ever written — the novel that asked: what happens when humanity meets its makers, and what will we become?",
+  "knownRisks": [
+    "The novel was written alongside the film adaptation; differences exist between the book and Kubrick's film.",
+    "Some scientific and technological concepts (HAL 9000, space travel) reflect 1968-era understanding.",
+    "The novel deals with themes of evolution and cosmic intelligence that may be considered speculative."
+  ],
+  "tags": ["science-fiction", "arthur-c-clarke", "space-odyssey", "artificial-intelligence", "evolution", "first-contact", "classic-literature", "philosophy"],
+  "openclaw": {
+    "emoji": "🚀",
+    "category": "literature"
+  }
+}

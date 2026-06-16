@@ -9309,7 +9309,21 @@
         "social-networks"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "2001",
+      "title": "Arthur C. Clarke 2001: A Space Odyssey \u2014 the seminal science fiction novel about human evolution, artificial intelligence, and first contact, from the dawn of man to the star-child.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "science-fiction",
+        "arthur-c-clarke",
+        "space-odyssey",
+        "artificial-intelligence",
+        "evolution"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 522
+  "total_skills": 523
 }
