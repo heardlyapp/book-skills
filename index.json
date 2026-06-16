@@ -9379,7 +9379,21 @@
         "fiction"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-guernsey-literary-and-potato-peel-pie-society",
+      "title": "Mary Ann Shaffer and Annie Barrows The Guernsey Literary and Potato Peel Pie Society \u2014 an epistolary novel about a writers discovery of a unique book society formed as a wartime alibi.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "epistolary-novel",
+        "historical-fiction",
+        "world-war-ii",
+        "book-club",
+        "community"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 527
+  "total_skills": 528
 }

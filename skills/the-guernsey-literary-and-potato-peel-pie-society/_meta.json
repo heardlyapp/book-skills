@@ -1,0 +1,19 @@
+{
+  "name": "the-guernsey-literary-and-potato-peel-pie-society",
+  "version": "1.0.0",
+  "description": "Mary Ann Shaffer and Annie Barrows' beloved epistolary novel about Juliet Ashton, a writer who discovers a unique book society on the island of Guerncy in the aftermath of World War II — a story of community, resilience, and the love of literature.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-guernsey-literary-and-potato-peel-pie-society",
+  "useCase": "A heartwarming novel about post-war recovery, found community, and the transformative power of books — told through letters.",
+  "knownRisks": [
+    "The epistolary format (letters only) may not appeal to readers who prefer traditional narrative.",
+    "The novel's tone is light and charming, which some readers may find mismatched with the serious subject of Nazi occupation.",
+    "The book was published posthumously for Mary Ann Shaffer, who died before completion; Annie Barrows finished it."
+  ],
+  "tags": ["epistolary-novel", "historical-fiction", "world-war-ii", "book-club", "community", "romance", "guernsey", "british-literature"],
+  "openclaw": {
+    "emoji": "📬",
+    "category": "literature"
+  }
+}
