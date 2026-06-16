@@ -1,0 +1,19 @@
+{
+  "name": "the-rise-and-fall-of-imperial-china",
+  "version": "1.0.0",
+  "description": "Yuhua Wang's groundbreaking study of Chinese state development over two millennia. A social network approach to understanding why some Chinese dynasties produced strong states with short-lived rulers while others produced weak states with long-lived emperors.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-rise-and-fall-of-imperial-china",
+  "useCase": "Understand the deep structural forces that shaped Chinese imperial history and their implications for state development in the modern world.",
+  "knownRisks": [
+    "This is an academic work (Princeton University Press) requiring familiarity with social science concepts.",
+    "The elite social terrain framework is a simplification of complex historical processes.",
+    "The book focuses on structural factors (elite networks) and may underemphasize contingency and individual agency."
+  ],
+  "tags": ["china", "political-science", "history", "state-development", "imperial-china", "social-networks", "comparative-politics", "sociology"],
+  "openclaw": {
+    "emoji": "🏛️",
+    "category": "academic"
+  }
+}

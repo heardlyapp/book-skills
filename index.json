@@ -9295,7 +9295,21 @@
         "american-dream"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-rise-and-fall-of-imperial-china",
+      "title": "Yuhua Wang The Rise and Fall of Imperial China \u2014 a social network analysis of Chinese state development over two millennia, arguing that elite social terrain determines state capacity.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "china",
+        "political-science",
+        "history",
+        "state-development",
+        "social-networks"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 521
+  "total_skills": 522
 }
