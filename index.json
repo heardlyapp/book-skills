@@ -9351,7 +9351,21 @@
         "friendship"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "one-flew-over-the-cuckoos-nest",
+      "title": "Ken Kesey One Flew Over the Cuckoos Nest \u2014 the classic American novel about Randle McMurphys rebellion against Nurse Ratched in a mental institution, narrated by Chief Bromden.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "american-literature",
+        "classic",
+        "psychiatry",
+        "institutional-power",
+        "ken-kesey"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 525
+  "total_skills": 526
 }

@@ -1,0 +1,19 @@
+{
+  "name": "one-flew-over-the-cuckoos-nest",
+  "version": "1.0.0",
+  "description": "Ken Kesey's classic American novel about a mental institution, the tyrannical Nurse Ratched, and the free-spirited Randle McMurphy who challenges her authority — a powerful allegory for conformity, individuality, and institutional power.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/one-flew-over-the-cuckoos-nest",
+  "useCase": "Explore one of the most influential American novels of the 20th century — a story about power, rebellion, and the cost of being free.",
+  "knownRisks": [
+    "The novel contains racial slurs, sexual content, and graphic depictions of institutional violence that reflect its 1962 publication context.",
+    "The portrayal of mental illness and psychiatric treatment reflects 1960s understanding, not modern standards.",
+    "Chief Bromden's narrative as a Native American character has been critiqued as inauthentic (written by a white author)."
+  ],
+  "tags": ["american-literature", "classic", "psychiatry", "institutional-power", "ken-kesey", "individuality", "1960s", "allegory"],
+  "openclaw": {
+    "emoji": "🧠",
+    "category": "literature"
+  }
+}
