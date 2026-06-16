@@ -9253,7 +9253,21 @@
         "forest-service"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "goodbye-google-gmailinbox-edition",
+      "title": "John Thomas Goodbye Google Gmail/Inbox Edition \u2014 a step-by-step guide to leaving Gmail, reclaiming your privacy, and taking control of your personal data.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "privacy",
+        "google",
+        "gmail",
+        "data-protection",
+        "digital-minimalism"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 518
+  "total_skills": 519
 }

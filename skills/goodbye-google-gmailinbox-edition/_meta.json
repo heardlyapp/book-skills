@@ -1,0 +1,19 @@
+{
+  "name": "goodbye-google-gmailinbox-edition",
+  "version": "1.0.0",
+  "description": "John Thomas's practical guide to leaving Gmail and reclaiming your privacy. A step-by-step playbook covering why to leave Google, how to migrate your email, and how to delete your account permanently.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/goodbye-google-gmailinbox-edition",
+  "useCase": "A complete guide for anyone who wants to stop using Gmail, reclaim their digital privacy, and take control of their personal data.",
+  "knownRisks": [
+    "The book was published in 2017; some specific services, pricing, and Google's policies may have changed since then.",
+    "Migrating email is technically complex and may take weeks to fully complete.",
+    "Some services (banking, government) may be difficult to migrate from Gmail with certain providers."
+  ],
+  "tags": ["privacy", "google", "gmail", "data-protection", "digital-minimalism", "email", "security", "self-help"],
+  "openclaw": {
+    "emoji": "📧",
+    "category": "technology"
+  }
+}
