@@ -1,0 +1,19 @@
+{
+  "name": "paradise",
+  "version": "1.0.0",
+  "description": "Lizzie Johnson's definitive account of the 2018 Camp Fire, the deadliest wildfire in California history. Covers: wildfire science, emergency response, climate adaptation, community resilience, systemic failure analysis, and disaster preparedness.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/paradise",
+  "useCase": "Understand how the Camp Fire happened, why it was so deadly, and what it reveals about wildfire risk, climate change, and community resilience in the 21st century.",
+  "knownRisks": [
+    "The book contains graphic descriptions of death and disaster that may be distressing to readers with trauma related to wildfires or natural disasters.",
+    "Johnson's reporting focuses on individual stories; systemic analysis (PG&E, government policy) is woven through the narrative rather than presented as standalone analysis.",
+    "The book covers ongoing issues (climate change, California wildfires) that continue to evolve since publication in 2021."
+  ],
+  "tags": ["wildfire", "climate-change", "disaster", "california", "emergency-response", "journalism", "community-resilience", "true-crime"],
+  "openclaw": {
+    "emoji": "🔥",
+    "category": "current-events"
+  }
+}

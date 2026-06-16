@@ -9211,7 +9211,21 @@
         "business-biography"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "paradise",
+      "title": "Lizzie Johnsons Paradise \u2014 the minute-by-minute account of the 2018 Camp Fire, Californias deadliest wildfire, tracing how drought, deferred infrastructure, and vulnerable community planning converged into catastrophe.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "wildfire",
+        "climate-change",
+        "disaster",
+        "california",
+        "emergency-response"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 515
+  "total_skills": 516
 }
