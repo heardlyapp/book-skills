@@ -1,7 +1,19 @@
 {
   "name": "algorithms-to-live-by",
-  "title": "Algorithms to Live By: The Computer Science of Human Decisions",
-  "author": "Brian Christian / Tom Griffiths",
-  "version": "1.0.0",
-  "tags": ["decision-making", "computer-science", "cognitive-science", "optimal-stopping", "explore-exploit", "sorting", "scheduling", "game-theory", "probability", "behavioral-economics"]
+  "version": "1.0.1",
+  "description": "Brian Christian and Tom Griffiths' guide to using computer science algorithms for everyday decisions. Covers: stopping when to commit, exploring vs. exploiting, organizing space, managing time, handling uncertainty, and strategic thinking.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/algorithms-to-live-by",
+  "useCase": "Apply computer science solutions to everyday human problems — from finding a partner to organizing your closet to making better decisions under uncertainty.",
+  "knownRisks": [
+    "Algorithms are approximations of reality, not prescriptions. Real human decisions involve emotions and values that no algorithm captures.",
+    "Some algorithms require precise inputs (time horizon, discount rate) that users may not know. Use estimates, not guesses.",
+    "The optimal stopping rule (37%) assumes random ordering. Real life has patterns — adjust accordingly."
+  ],
+  "tags": ["decision-making", "computer-science", "cognitive-science", "optimal-stopping", "explore-exploit", "sorting", "scheduling", "game-theory", "probability", "behavioral-economics"],
+  "openclaw": {
+    "emoji": "🤖",
+    "category": "self-improvement"
+  }
 }
