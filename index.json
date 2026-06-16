@@ -9393,7 +9393,21 @@
         "community"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "unbearable-lightness",
+      "title": "Portia de Rossi Unbearable Lightness \u2014 a memoir of her decade-long struggle with anorexia and bulimia, from teenage modeling to Hollywood fame, and her journey toward recovery.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "eating-disorder",
+        "anorexia",
+        "hollywood",
+        "recovery"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 528
+  "total_skills": 529
 }

@@ -1,0 +1,19 @@
+{
+  "name": "unbearable-lightness",
+  "version": "1.0.0",
+  "description": "Portia de Rossi's searing memoir about her decade-long struggle with anorexia and bulimia. A raw, unflinching account of the eating disorder that nearly killed her, her journey through Hollywood's impossible beauty standards, and her slow, painful recovery. With a foreword by her wife, Ellen DeGeneres.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/unbearable-lightness",
+  "useCase": "A candid and courageous memoir about eating disorders, body image, the pressure of Hollywood beauty standards, and the journey toward self-acceptance.",
+  "knownRisks": [
+    "Contains graphic descriptions of anorexia, bulimia, and self-harm that may be triggering for readers with eating disorders.",
+    "The book details specific caloric restriction and purging methods that could be used as instruction by someone with an eating disorder.",
+    "De Rossi's recovery narrative may not reflect all recovery experiences."
+  ],
+  "tags": ["memoir", "eating-disorder", "anorexia", "bulimia", "body-image", "hollywood", "recovery", "mental-health", "lgbtq"],
+  "openclaw": {
+    "emoji": "🪶",
+    "category": "memoir"
+  }
+}
