@@ -1,0 +1,19 @@
+{
+  "name": "keeping-the-moon",
+  "version": "1.0.0",
+  "description": "Sarah Dessen's young adult novel about fifteen-year-old Colie Sparks, a former fat girl sent to spend the summer with her eccentric aunt in a beach town, where she learns about friendship, self-acceptance, and finding her own light.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/keeping-the-moon",
+  "useCase": "A coming-of-age story about body image, self-esteem, and the transformative power of friendship — for teens and anyone who has ever felt invisible.",
+  "knownRisks": [
+    "The novel deals with body image issues and weight that may be triggering for readers with eating disorders.",
+    "Published in 1999; some cultural references (aerobic workout videos, landlines) are dated.",
+    "The weight loss narrative has been critiqued by modern readers as problematic."
+  ],
+  "tags": ["young-adult", "coming-of-age", "body-image", "self-esteem", "friendship", "summer", "fiction", "sarah-dessen"],
+  "openclaw": {
+    "emoji": "🌙",
+    "category": "literature"
+  }
+}

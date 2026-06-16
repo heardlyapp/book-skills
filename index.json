@@ -9337,7 +9337,21 @@
         "mental-health"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "keeping-the-moon",
+      "title": "Sarah Dessen Keeping the Moon \u2014 a young adult novel about fifteen-year-old Colie Sparks, a former fat girl spending the summer with her eccentric aunt, learning about friendship, self-acceptance, and finding her own light.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "young-adult",
+        "coming-of-age",
+        "body-image",
+        "self-esteem",
+        "friendship"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 524
+  "total_skills": 525
 }
