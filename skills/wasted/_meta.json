@@ -1,0 +1,19 @@
+{
+  "name": "wasted",
+  "version": "1.0.0",
+  "description": "Marya Hornbacher's landmark memoir of anorexia and bulimia. A raw, literary account of her decade-long eating disorder that began at age nine, her multiple hospitalizations, and her struggle to survive. Widely considered one of the most powerful memoirs of mental illness ever written.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/wasted",
+  "useCase": "A harrowing and brilliant memoir about eating disorders, mental illness, and the fight for survival — for readers who want to understand the experience from the inside.",
+  "knownRisks": [
+    "EXTREMELY TRIGGERING — contains graphic descriptions of anorexia, bulimia, purging, self-harm, and suicidal ideation at a level of detail that may be harmful to readers with active eating disorders.",
+    "Hornbacher's literary style and detailed descriptions have been criticized by some as potentially romanticizing or instructional.",
+    "The memoir depicts severe mental illness and multiple suicide attempts."
+  ],
+  "tags": ["memoir", "eating-disorder", "anorexia", "bulimia", "mental-health", "female-author", "literary-memoir", "survival"],
+  "openclaw": {
+    "emoji": "💀",
+    "category": "memoir"
+  }
+}

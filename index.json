@@ -9407,7 +9407,21 @@
         "recovery"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "wasted",
+      "title": "Marya Hornbacher Wasted \u2014 a harrowing memoir of anorexia and bulimia that began at age nine, including multiple hospitalizations and a 52-pound body weight. A literary masterpiece about survival.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "memoir",
+        "eating-disorder",
+        "anorexia",
+        "bulimia",
+        "mental-health"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 529
+  "total_skills": 530
 }
