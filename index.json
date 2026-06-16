@@ -9169,7 +9169,35 @@
       "emoji": "\ud83c\udfae",
       "publisher": "heardlyapp",
       "clawhub_url": "https://clawhub.ai/heardlyapp/super-mario"
+    },
+    {
+      "slug": "algorithms-to-live-by",
+      "title": "Brian Christian and Tom Griffiths' Algorithms to Live By \u2014 applying computer science algorithms to everyday human decisions. Covers optimal stopping, explore/exploit, sorting, caching, scheduling, Bayes's rule, overfitting, relaxation, randomness, networking, and game theory.",
+      "author": "heardlyapp",
+      "version": "1.0.1",
+      "tags": [
+        "decision-making",
+        "computer-science",
+        "optimal-stopping",
+        "explore-exploit",
+        "game-theory"
+      ],
+      "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-48-laws-of-power",
+      "title": "Robert Greene's The 48 Laws of Power \u2014 the definitive modern guide to power dynamics distilled from 3,000 years of history. Law 1 through 48 cover strategy, manipulation, defense, timing, courtiership, and formlessness.",
+      "author": "heardlyapp",
+      "version": "1.0.1",
+      "tags": [
+        "power",
+        "strategy",
+        "psychology",
+        "influence",
+        "leadership"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 512
+  "total_skills": 514
 }
