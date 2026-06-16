@@ -1,0 +1,19 @@
+{
+  "name": "the-memory-of-an-elephant",
+  "version": "1.0.0",
+  "description": "Alex Lasker's novel about an aging elephant making his final journey back to the place of his birth, interwoven with the human story of a man who shares a deep connection with him. A tale of memory, conservation, and the bond between species.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/the-memory-of-an-elephant",
+  "useCase": "Explore a moving novel about animal consciousness, memory, conservation, and the deep connections between humans and elephants in Africa.",
+  "knownRisks": [
+    "The novel contains scenes of animal death and poaching that may be distressing.",
+    "The narrative alternates between human and elephant perspectives, which some readers may find unconventional.",
+    "The author is a screenwriter; the novel's cinematic style may not appeal to all literary readers."
+  ],
+  "tags": ["fiction", "elephants", "africa", "conservation", "memory", "nature", "animals", "environment"],
+  "openclaw": {
+    "emoji": "🐘",
+    "category": "literature"
+  }
+}

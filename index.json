@@ -9477,7 +9477,21 @@
         "friendship"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "the-memory-of-an-elephant",
+      "title": "Alex Lasker The Memory of an Elephant \u2014 a novel about an aging elephant making his final journey back to his birthplace, interwoven with the human story of the man who shares a deep bond with him.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "fiction",
+        "elephants",
+        "africa",
+        "conservation",
+        "memory"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 534
+  "total_skills": 535
 }
