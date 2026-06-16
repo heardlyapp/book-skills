@@ -9225,7 +9225,21 @@
         "emergency-response"
       ],
       "updated": "2026-06-16"
+    },
+    {
+      "slug": "desert-solitaire",
+      "title": "Edward Abbeys Desert Solitaire \u2014 a literary masterpiece about living alone in the Utah desert as a park ranger at Arches National Monument, blending nature observation, environmental philosophy, and polemical critique of industrial tourism.",
+      "author": "heardlyapp",
+      "version": "1.0.0",
+      "tags": [
+        "nature-writing",
+        "environmentalism",
+        "wilderness",
+        "conservation",
+        "american-literature"
+      ],
+      "updated": "2026-06-16"
     }
   ],
-  "total_skills": 516
+  "total_skills": 517
 }

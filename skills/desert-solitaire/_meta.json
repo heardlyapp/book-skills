@@ -1,0 +1,19 @@
+{
+  "name": "desert-solitaire",
+  "version": "1.0.0",
+  "description": "Edward Abbey's classic meditation on wilderness, solitude, and the American desert. A seasonal journal of life as a park ranger in Arches National Monument, blending nature observation, environmental philosophy, and polemical critique of industrial tourism.",
+  "publisher": "heardlyapp",
+  "license": "MIT",
+  "homepage": "https://clawhub.ai/heardlyapp/desert-solitaire",
+  "useCase": "Understand the values of wilderness, solitude, and conservation through one of America's most powerful nature writers — and learn why the debate between preservation and development remains as urgent today as it was in 1968.",
+  "knownRisks": [
+    "Abbey's writing is deliberately provocative and politically incorrect by contemporary standards. His views on immigration, Native Americans, and other topics are controversial.",
+    "The book is a literary work, not a guidebook. Many of the places Abbey describes have been transformed by development since 1968.",
+    "Abbey's call to 'get out of the goddamned contraption and walk' is not practical advice for all visitors, especially those with mobility limitations."
+  ],
+  "tags": ["nature-writing", "environmentalism", "wilderness", "utah", "national-parks", "philosophy", "conservation", "american-literature"],
+  "openclaw": {
+    "emoji": "🏜️",
+    "category": "literature"
+  }
+}
